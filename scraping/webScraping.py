@@ -16,7 +16,7 @@ def scrape_headlines():
     for story in stories:
         span = story.find('span', class_='symbol')
         if span:
-            span_text = span.text 
+            span_text = span.text.strip()
             headline = story.find('h3')
             headline_text = headline.text
             list.append(Stock(headline_text, span_text, None))
