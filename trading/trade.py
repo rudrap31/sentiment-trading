@@ -13,4 +13,10 @@ def get_price(symbol):
         print(f"Error fetching price for {symbol}")
         return None
 
-print(get_price("M "))
+def is_valid_ticker(symbol):
+    price = get_price(symbol)
+    if price is not None:
+        return True
+    else:
+        return False
+
