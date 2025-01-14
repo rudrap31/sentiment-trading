@@ -1,5 +1,5 @@
 import json
-from trading.trade import get_price
+from trade import get_price
 
 class Portfolio:
     def __init__(self, initial_cash = 100000):

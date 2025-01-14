@@ -1,8 +1,8 @@
-from scraping.webScraping import scrape_headlines
-from models.stock import Stock
-from models.sentimentModel import sentiment_analysis
-from trading.trade import *
-from trading.portfolio import Portfolio
+from webScraping import scrape_headlines
+from stock import Stock
+from sentimentModel import sentiment_analysis
+from trade import *
+from portfolio import Portfolio
 
 def main():
     port = Portfolio()

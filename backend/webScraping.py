@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-from models.stock import Stock
+from stock import Stock
 
 
 def scrape_headlines():

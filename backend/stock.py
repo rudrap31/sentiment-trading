@@ -1,4 +1,3 @@
-
 class Stock:
     def __init__(self, headline, ticker, sentiment_score=None):
         self.headline = headline
