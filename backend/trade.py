@@ -1,5 +1,5 @@
 import requests
-from backend.apikeys import API_KEY
+from apikeys import API_KEY
 
 def get_price(symbol):
     try:
