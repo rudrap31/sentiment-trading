@@ -3,9 +3,14 @@ from stock import Stock
 from sentimentModel import sentiment_analysis
 from trade import *
 from portfolio import Portfolio
+from flask import Flask, jsonify
 
-def main():
-    port = Portfolio()
+
+app = Flask(__name__)
+
+port = Portfolio()
+
+def update_portfolio():
     port.load_from_file()
     port.update_prices()
     headlines = scrape_headlines()
@@ -18,10 +23,20 @@ def main():
     print(port.portfolio_value())
     port.save_to_file()
     
-           
+@app.route('/api/portfolio', methods=['GET'])
+def get_portfolio():
+    port.load_from_file()
+    return jsonify({
+        "cash": port.cash,
+        "stocks": port.stocks,
+        "trade_history": port.trades,
+        "value": port.portfolio_value()
+    })
 
+@app.route('/update_portfolio', methods=['GET'])
+def trigger_update():
+    update_portfolio()
+    return jsonify({"message": "Portfolio updated successfully"})
 
-
-
-if __name__ == '__main__':
-    main()
+if __name__ == "__main__":
+    app.run(debug=True)
