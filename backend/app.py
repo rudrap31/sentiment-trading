@@ -20,7 +20,7 @@ def update_portfolio():
             port.buy_stock(stock.ticker, stock.headline, 10)
         elif stock.sentiment_score == "negative" and is_valid_ticker(stock.ticker):
             port.short_stock(stock.ticker, stock.headline, 10)
-    print(port.portfolio_value())
+    port.update_value_log()
     port.save_to_file()
     
 @app.route('/api/portfolio', methods=['GET'])
@@ -30,7 +30,7 @@ def get_portfolio():
         "cash": port.cash,
         "stocks": port.stocks,
         "trade_history": port.trades,
-        "value": port.portfolio_value()
+        "value": port.value_log
     })
 
 @app.route('/update_portfolio', methods=['GET'])

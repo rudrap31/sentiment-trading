@@ -7,6 +7,7 @@ class Portfolio:
         self.cash = initial_cash
         self.stocks = {} # Format: {"TSLA": {"quantity": 10, "type": "BUY", "buy_price": 650.0, "current_price": 700.0}}
         self.trades = []
+        self.value_log = [] # List of {"time": timestamp, "value": portfolio_value}
 
     def buy_stock(self, ticker, headline, amount):
         price = get_price(ticker)
@@ -43,6 +44,10 @@ class Portfolio:
     def update_prices(self):
         for ticker in self.stocks:
             self.stocks[ticker]["current_price"] = get_price(ticker)
+
+    def update_value_log(self):
+        current_time = datetime.now().isoformat()
+        self.value_log.append({"time": current_time, "value": self.portfolio_value()})
 
     def portfolio_value(self):
         sum = self.cash
