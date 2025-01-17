@@ -4,9 +4,11 @@ from sentimentModel import sentiment_analysis
 from trade import *
 from portfolio import Portfolio
 from flask import Flask, jsonify
+from flask_cors import CORS
 
 
 app = Flask(__name__)
+CORS(app)
 
 port = Portfolio()
 
@@ -28,9 +30,10 @@ def get_portfolio():
     port.load_from_file()
     return jsonify({
         "cash": port.cash,
+        "value": port.value,
         "stocks": port.stocks,
         "trade_history": port.trades,
-        "value": port.value_log
+        "value_log": port.value_log
     })
 
 @app.route('/update_portfolio', methods=['GET'])

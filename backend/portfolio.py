@@ -5,6 +5,7 @@ from trade import get_price
 class Portfolio:
     def __init__(self, initial_cash = 100000):
         self.cash = initial_cash
+        self.value = initial_cash
         self.stocks = {} # Format: {"TSLA": {"quantity": 10, "type": "BUY", "buy_price": 650.0, "current_price": 700.0}}
         self.trades = []
         self.value_log = [] # List of {"time": timestamp, "value": portfolio_value}
@@ -46,6 +47,7 @@ class Portfolio:
             self.stocks[ticker]["current_price"] = get_price(ticker)
 
     def update_value_log(self):
+        self.value = self.portfolio_value()
         current_time = datetime.now().isoformat()
         self.value_log.append({"time": current_time, "value": self.portfolio_value()})
 
@@ -61,8 +63,10 @@ class Portfolio:
     def save_to_file(self, file_path="portfolio.json"):
         data = {
             "cash": self.cash,
+            "value": self.value,
             "stocks": self.stocks,
             "trade_history": self.trades,
+            "value_log": self.value_log
         }
         with open(file_path, 'w') as file:
             json.dump(data, file, indent=4)
@@ -72,8 +76,10 @@ class Portfolio:
             with open(file_path, 'r') as file:
                 data = json.load(file)
                 self.cash = data["cash"]
+                self.value = data["value"]
                 self.stocks = data["stocks"]
                 self.trades = data["trade_history"]
+                self.value_log = data["value_log"]
         except FileNotFoundError:
             print("No saved portfolio found. Starting fresh.")
 
