@@ -15,8 +15,8 @@ def get_price(symbol):
 
 def is_valid_ticker(symbol):
     price = get_price(symbol)
-    if price is not None:
-        return True
-    else:
+    if price is None or price == 0:
         return False
+    else:
+        return True
 
