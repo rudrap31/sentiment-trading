@@ -1,0 +1,35 @@
+.chart{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.value{
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+}
+
+.value h2{
+    font-size: 60px;
+    margin-right: 20px;
+}
+
+.value h3{
+    font-size: 35px;
+}
+
+.body{
+    background-color: rgb(14, 15, 20);
+    color: rgb(236, 236, 236);
+}
+
+/* styles.css */
+.table{
+    width: 100%;
+    text-align: center; 
+  }
+  
+.label{
+    display: flex;
+    justify-content: center;
+}

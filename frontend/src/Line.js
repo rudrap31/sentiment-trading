@@ -24,7 +24,7 @@ ChartJS.register(
 function PortfolioChart({ portfolio }) {
     const value = Math.round(portfolio.value * 100) / 100;
     const percentage = (value - 100000) / 1000;
-    const colors = value > 100000 ? 'rgba(46, 204, 113, 1)' : 'rgba(207, 0, 25, 1)';
+    const colors = value >= 100000 ? 'rgba(46, 204, 113, 1)' : 'rgba(207, 0, 25, 1)';
     const chartData = {
         labels: portfolio.value ? portfolio.value_log.map(item => item.time.split("T")[0]) : [],
         datasets: [
