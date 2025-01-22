@@ -57,7 +57,7 @@ class Portfolio:
         elif position["type"] == "SHORT":
             profit = (position["buy_price"] - current_price) * position["quantity"]
 
-        self.cash += profit
+        self.cash +=  position["buy_price"] * position["quantity"] + profit
         self.trades.append({
             "action": position["type"],
             "ticker": ticker,
@@ -112,16 +112,29 @@ class Portfolio:
             json.dump(data, file, indent=4)
 
     def load_from_file(self, file_path="portfolio.json"):
+        defaults = {
+        "cash": 100000,
+        "value": 100000,
+        "stocks": {},
+        "trade_history": [],
+        "value_log": []
+        }
         try:
             with open(file_path, 'r') as file:
                 data = json.load(file)
-                self.cash = data["cash"]
-                self.value = data["value"]
-                self.stocks = data["stocks"]
-                self.trades = data["trade_history"]
-                self.value_log = data["value_log"]
-        except FileNotFoundError:
-            print("No saved portfolio found. Starting fresh.")
+                # If the file is empty or invalid, start fresh
+                if not data:
+                    raise ValueError("File is empty. Starting fresh.")
+        except (FileNotFoundError, ValueError):
+            print("No valid portfolio data found. Starting fresh.")
+            data = defaults  # Use default values
+
+        self.cash = data.get("cash", 100000) 
+        self.value = data.get("value", 100000)
+        self.stocks = data.get("stocks", {})
+        self.trades = data.get("trade_history", [])
+        self.value_log = data.get("value_log", [])
+        
 
 
         
