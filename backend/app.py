@@ -5,6 +5,9 @@ from trade import *
 from portfolio import Portfolio
 from flask import Flask, jsonify
 from flask_cors import CORS
+import schedule
+import time
+import threading
 
 
 app = Flask(__name__)
@@ -24,6 +27,13 @@ def update_portfolio():
             port.short_stock(stock.ticker, stock.headline, 10)
     port.update_value_log()
     port.save_to_file()
+
+def safe_update_portfolio():
+    try:
+        update_portfolio()
+        print("Portfolio updated successfully.")
+    except Exception as e:
+        print(f"An error occurred during portfolio update: {e}")
     
 @app.route('/api/portfolio', methods=['GET'])
 def get_portfolio():
@@ -41,5 +51,19 @@ def trigger_update():
     update_portfolio()
     return jsonify({"message": "Portfolio updated successfully"})
 
+schedule.every(30).minutes.do(safe_update_portfolio)
+
+def run_scheduler():
+    while True:
+        try:
+            schedule.run_pending()
+            time.sleep(1)
+        except Exception as e:
+            print(f"An error occurred in the scheduler: {e}")
+            time.sleep(5) 
+
 if __name__ == "__main__":
+    scheduler_thread = threading.Thread(target=run_scheduler, daemon=True)
+    scheduler_thread.start()
+
     app.run(debug=True)
