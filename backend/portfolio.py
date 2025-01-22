@@ -1,6 +1,7 @@
 import json
 from datetime import datetime 
 from trade import get_price
+import math
 
 class Portfolio:
     def __init__(self, initial_cash = 100000):
@@ -10,8 +11,9 @@ class Portfolio:
         self.trades = []
         self.value_log = [] # List of {"time": timestamp, "value": portfolio_value}
 
-    def buy_stock(self, ticker, headline, amount):
+    def buy_stock(self, ticker, headline):
         price = get_price(ticker)
+        amount = math.ceil(1000/price) 
         total_cost = amount * price
         if total_cost > self.cash:
             raise ValueError("Not enough cash to execute this trade.")
@@ -22,8 +24,9 @@ class Portfolio:
             self.cash -= total_cost
 
 
-    def short_stock(self, ticker, headline, amount):
+    def short_stock(self, ticker, headline):
         price = get_price(ticker)
+        amount = math.ceil(1000/price) 
         total_cost = amount * price
         if total_cost > self.cash:
             raise ValueError("Not enough cash to execute this trade.")
@@ -31,6 +34,8 @@ class Portfolio:
         if ticker not in self.stocks:
             self.stocks[ticker] = {"quantity": amount, "type": "SHORT", "buy_price": price, 
                                    "current_price": price, "headline": headline, "time": datetime.now().isoformat()}
+            self.cash -= total_cost
+
             
 
     def check_take_profit_stop_loss(self, ticker):
