@@ -23,13 +23,25 @@
     color: rgb(236, 236, 236);
 }
 
-/* styles.css */
+
 .table{
     width: 100%;
-    text-align: center; 
+    text-align: center;
   }
+
+th{
+    font-size: 24px;
+    color: rgb(153, 167, 181);
+}
+
+td{
+    height: 36px;
+    font-size: 18px;
+}
   
 .label{
     display: flex;
     justify-content: center;
+    font-size: 24px;
+    color: rgb(153, 167, 181);
 }

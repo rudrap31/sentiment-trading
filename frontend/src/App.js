@@ -55,7 +55,9 @@ function App() {
                                         <td>{stock.type}</td>
                                         <td>${stock.buy_price}</td>
                                         <td>${stock.current_price}</td>
-                                        <td>%{plPercentage}</td>
+                                        <td style={{
+                                            color: plPercentage >= 0 ? 'rgba(46, 204, 113, 1)' : 'rgba(207, 0, 25, 1)',
+                                            }}>%{plPercentage}</td>
                                         <td>{stock.quantity}</td>
                                     </tr>
                                 );
@@ -89,7 +91,9 @@ function App() {
                                         <td>{trade.action}</td>
                                         <td>${trade.buy_price.toFixed(2)}</td>
                                         <td>${trade.sold_price.toFixed(2)}</td>
-                                        <td>{trade.profit}</td>
+                                        <td style={{
+                                            color: trade.profit >= 0 ? 'rgba(46, 204, 113, 1)' : 'rgba(207, 0, 25, 1)',
+                                            }}> {trade.profit >= 0 ? `+${trade.profit.toFixed(2)}` : `${trade.profit.toFixed(2)}`}</td>
                                         <td>{trade.amount}</td>
                                         
                                     </tr>
