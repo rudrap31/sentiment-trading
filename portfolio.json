@@ -1,5 +1,612 @@
 {
-    "cash": 100000,
-    "stocks": {},
-    "trade_history": []
+    "cash": 63495.05979999999,
+    "value": 100298.48979999992,
+    "stocks": {
+        "BAC": {
+            "quantity": 22,
+            "type": "BUY",
+            "buy_price": 45.985,
+            "current_price": 46.52,
+            "headline": "Baltimore Orioles owner wants a salary cap in the MLB, says the business community is hopeful under Trump",
+            "time": "2025-01-22T10:19:33.355468"
+        },
+        "UNCRY": {
+            "quantity": 45,
+            "type": "SHORT",
+            "buy_price": 22.35,
+            "current_price": 22.78,
+            "headline": "Commerzbank says UniCredit's approach is hostile and unilateral",
+            "time": "2025-01-22T11:57:40.965092"
+        },
+        "NFLX": {
+            "quantity": 2,
+            "type": "BUY",
+            "buy_price": 953.99,
+            "current_price": 977.59,
+            "headline": "Netflix stock secures all-time closing high as Wall Street cheers 'near flawless' earnings",
+            "time": "2025-01-22T13:41:44.056861"
+        },
+        "KMI": {
+            "quantity": 33,
+            "type": "SHORT",
+            "buy_price": 30.78,
+            "current_price": 30.27,
+            "headline": "Pipeline operator Kinder Morgan misses estimates for fourth-quarter profit",
+            "time": "2025-01-22T13:41:44.583835"
+        },
+        "AMZN": {
+            "quantity": 5,
+            "type": "SHORT",
+            "buy_price": 235.01,
+            "current_price": 234.85,
+            "headline": "Amazon to close 7 warehouses in the Canadian province of Quebec and eliminate 1,700 jobs",
+            "time": "2025-01-22T14:10:28.266141"
+        },
+        "COF": {
+            "quantity": 5,
+            "type": "BUY",
+            "buy_price": 200.93,
+            "current_price": 203.53,
+            "headline": "Discover Financial fourth-quarter profit jumps on lower loan loss provisions",
+            "time": "2025-01-22T14:48:01.711466"
+        },
+        "STX": {
+            "quantity": 10,
+            "type": "BUY",
+            "buy_price": 108.18,
+            "current_price": 108.19,
+            "headline": "Seagate Stock Soars as Analysts Raise Targets on AI-Driven Data Storage Demand",
+            "time": "2025-01-22T14:48:02.593622"
+        },
+        "SPGI": {
+            "quantity": 2,
+            "type": "BUY",
+            "buy_price": 510.96,
+            "current_price": 513.75,
+            "headline": "Asian Stocks to Trend Higher After S&P 500 Surges: Markets Wrap",
+            "time": "2025-01-22T15:19:03.116702"
+        },
+        "MSFT": {
+            "quantity": 3,
+            "type": "BUY",
+            "buy_price": 446.2,
+            "current_price": 444.06,
+            "headline": "Microsoft Poised to Benefit From Stargate JV With Zero Money",
+            "time": "2025-01-22T15:19:03.535343"
+        },
+        "VWAPY": {
+            "quantity": 103,
+            "type": "BUY",
+            "buy_price": 9.79,
+            "current_price": 9.92,
+            "headline": "Volkswagen says 6% margin target for brand realistic in medium term, analyst says",
+            "time": "2025-01-22T15:51:40.409259"
+        },
+        "FSUGY": {
+            "quantity": 42,
+            "type": "BUY",
+            "buy_price": 24.12,
+            "current_price": 23.67,
+            "headline": "Fortescue\u2019s Iron Ore Exports Edge Up With Guidance Unchanged",
+            "time": "2025-01-22T16:25:37.053439"
+        },
+        "APD": {
+            "quantity": 4,
+            "type": "BUY",
+            "buy_price": 316.99,
+            "current_price": 329.26,
+            "headline": "Mantle Ridge secures enough votes for board seats at Air Products, sources say",
+            "time": "2025-01-22T17:57:20.937113"
+        },
+        "HYMTF": {
+            "quantity": 19,
+            "type": "SHORT",
+            "buy_price": 55,
+            "current_price": 54.9,
+            "headline": "Hyundai Motor Q4 profit falls 17% as discounts weigh",
+            "time": "2025-01-22T21:30:46.243577"
+        },
+        "ICAGY": {
+            "quantity": 124,
+            "type": "BUY",
+            "buy_price": 8.09,
+            "current_price": 8.19,
+            "headline": "Analysis-BA-owner IAG tipped as frontrunner in TAP sale as Europe airline consolidation warms up",
+            "time": "2025-01-22T22:31:09.535271"
+        },
+        "QABSY": {
+            "quantity": 34,
+            "type": "BUY",
+            "buy_price": 29.45,
+            "current_price": 30.4,
+            "headline": "Australia's Qantas soars to record highs after frequent flyer programme revamp",
+            "time": "2025-01-22T23:11:56.067293"
+        },
+        "ETTYF": {
+            "quantity": 41,
+            "type": "SHORT",
+            "buy_price": 24.98,
+            "current_price": 24.98,
+            "headline": "Essity lags Q4 forecasts as higher costs offset volume and price growth",
+            "time": "2025-01-22T23:11:57.139770"
+        },
+        "BR": {
+            "quantity": 5,
+            "type": "BUY",
+            "buy_price": 234.95,
+            "current_price": 237.35,
+            "headline": "US fintech firm Broadridge to boost India headcount by 26% in 3 years, top exec says",
+            "time": "2025-01-23T03:08:01.758157"
+        },
+        "UNP": {
+            "quantity": 5,
+            "type": "BUY",
+            "buy_price": 244.87,
+            "current_price": 248.78,
+            "headline": "Union Pacific delivers 7% more profit as investors get good view of industry with CSX also reporting",
+            "time": "2025-01-23T06:32:32.352257"
+        },
+        "CMCSA": {
+            "quantity": 27,
+            "type": "BUY",
+            "buy_price": 37.105,
+            "current_price": 37.62,
+            "headline": "Comcast launches Sports & News TV package to attract streaming customers",
+            "time": "2025-01-23T09:01:07.838558"
+        },
+        "FMCC": {
+            "quantity": 169,
+            "type": "SHORT",
+            "buy_price": 5.93,
+            "current_price": 5.68,
+            "headline": "Average rate on 30-year mortgage slips below 7% after climbing five weeks in a row",
+            "time": "2025-01-23T09:31:14.812366"
+        },
+        "LDOS": {
+            "quantity": 7,
+            "type": "SHORT",
+            "buy_price": 151.43,
+            "current_price": 145.59,
+            "headline": "Why Leidos (LDOS) Stock Is Down Today",
+            "time": "2025-01-23T11:02:47.650088"
+        },
+        "BA": {
+            "quantity": 6,
+            "type": "SHORT",
+            "buy_price": 178.5,
+            "current_price": 176.06,
+            "headline": "Boeing forecasts bigger-than-expected quarterly loss on defense troubles, strike hit",
+            "time": "2025-01-23T13:51:00.624684"
+        },
+        "GOOG": {
+            "quantity": 6,
+            "type": "SHORT",
+            "buy_price": 199.58,
+            "current_price": 201.9,
+            "headline": "Trump opens a divide between US and EU over Big Tech",
+            "time": "2025-01-23T13:51:00.981552"
+        },
+        "RIO": {
+            "quantity": 17,
+            "type": "SHORT",
+            "buy_price": 61.56,
+            "current_price": 62.09,
+            "headline": "Rio Tinto Sees Lower First-Quarter Iron Ore Exports After Storm",
+            "time": "2025-01-23T14:58:51.442785"
+        },
+        "BX": {
+            "quantity": 6,
+            "type": "SHORT",
+            "buy_price": 185.52,
+            "current_price": 186.74,
+            "headline": "Regional Banks Face Headache From Rising Treasury Yields",
+            "time": "2025-01-23T14:58:51.762093"
+        },
+        "MDIBY": {
+            "quantity": 63,
+            "type": "BUY",
+            "buy_price": 15.9,
+            "current_price": 15.9,
+            "headline": "Paschi\u2019s \u20ac13 Billion Mediobanca Bid Adds Twist to Italian Saga",
+            "time": "2025-01-24T03:05:25.176328"
+        },
+        "AXP": {
+            "quantity": 4,
+            "type": "BUY",
+            "buy_price": 325.87,
+            "current_price": 321.34,
+            "headline": "AmEx profit jumps on strong holiday season spending",
+            "time": "2025-01-24T04:38:46.712495"
+        },
+        "AFRM": {
+            "quantity": 18,
+            "type": "BUY",
+            "buy_price": 55.8789,
+            "current_price": 55.73,
+            "headline": "Affirm expands partnership with Liberty Mutual Investments",
+            "time": "2025-01-24T08:40:59.318336"
+        },
+        "VZ": {
+            "quantity": 26,
+            "type": "BUY",
+            "buy_price": 39.84,
+            "current_price": 39.54,
+            "headline": "Verizon Beats Investor Outlook With Mobile, Broadband Gains",
+            "time": "2025-01-24T08:40:59.700359"
+        },
+        "UNH": {
+            "quantity": 2,
+            "type": "SHORT",
+            "buy_price": 532.665,
+            "current_price": 532.51,
+            "headline": "US drops appeal in case over UnitedHealth Medicare plans' rating",
+            "time": "2025-01-24T12:28:15.428484"
+        },
+        "META": {
+            "quantity": 2,
+            "type": "BUY",
+            "buy_price": 647.49,
+            "current_price": 647.49,
+            "headline": "Analysts hike Meta stock price target as Mark Zuckerberg touts AI spending",
+            "time": "2025-01-24T13:35:14.273141"
+        },
+        "PFE": {
+            "quantity": 39,
+            "type": "SHORT",
+            "buy_price": 26.09,
+            "current_price": 26.09,
+            "headline": "Pfizer to pay $59.7 million over kickbacks for migraine drug",
+            "time": "2025-01-24T15:42:02.392394"
+        },
+        "UL": {
+            "quantity": 18,
+            "type": "SHORT",
+            "buy_price": 56.5,
+            "current_price": 56.5,
+            "headline": "Ben & Jerry's accuses Unilever of muzzling it because of Trump",
+            "time": "2025-01-24T15:42:02.689906"
+        }
+    },
+    "trade_history": [
+        {
+            "action": "SHORT",
+            "ticker": "AAL",
+            "headline": "American Airlines forecasts downbeat 2025 profit on strategy misstep",
+            "buy_price": 18.66,
+            "sold_price": 17.055,
+            "amount": 54,
+            "time": "2025-01-23T06:32:31.529994",
+            "profit": 86.67000000000002
+        },
+        {
+            "action": "BUY",
+            "ticker": "FCX",
+            "headline": "Freeport-McMoRan beats fourth-quarter profit estimates",
+            "buy_price": 39.09,
+            "sold_price": 37.86,
+            "amount": 26,
+            "time": "2025-01-23T06:32:31.530035",
+            "profit": -31.980000000000103
+        },
+        {
+            "action": "BUY",
+            "ticker": "ALK",
+            "headline": "Alaska Air beats Q4 profit estimates, sees smaller Q1 loss on robust travel demand",
+            "buy_price": 67.4,
+            "sold_price": 71.56,
+            "amount": 15,
+            "time": "2025-01-23T07:21:23.875173",
+            "profit": 62.39999999999995
+        },
+        {
+            "action": "SHORT",
+            "ticker": "HZO",
+            "headline": "MarineMax (NYSE:HZO) Misses Q4 Sales Targets, But Stock Soars 6.1%",
+            "buy_price": 27.94,
+            "sold_price": 31.75,
+            "amount": 36,
+            "time": "2025-01-23T07:21:23.875206",
+            "profit": -137.15999999999997
+        },
+        {
+            "action": "BUY",
+            "ticker": "UAL",
+            "headline": "United Airlines CEO calls pullback in domestic seats a durable trend",
+            "buy_price": 107.97,
+            "sold_price": 103,
+            "amount": 10,
+            "time": "2025-01-23T13:50:58.448491",
+            "profit": -49.69999999999999
+        },
+        {
+            "action": "SHORT",
+            "ticker": "PUMSY",
+            "headline": "Puma Plunges After Profit Warning Highlights Adidas\u2019s Lead",
+            "buy_price": 3.9,
+            "sold_price": 3.33,
+            "amount": 257,
+            "time": "2025-01-24T00:04:37.276062",
+            "profit": 146.48999999999995
+        },
+        {
+            "action": "SHORT",
+            "ticker": "SKX",
+            "headline": "A 25% Trump tariff on China would be a 'pressure point', warns Ralph Lauren CEO",
+            "buy_price": 73.46,
+            "sold_price": 76.5,
+            "amount": 14,
+            "time": "2025-01-24T08:40:57.216028",
+            "profit": -42.56000000000009
+        },
+        {
+            "action": "SHORT",
+            "ticker": "META",
+            "headline": "Meta's revised paid ad-free service may breach EU privacy laws, consumer group says",
+            "buy_price": 623.5,
+            "sold_price": 645.43,
+            "amount": 2,
+            "time": "2025-01-24T08:40:57.216528",
+            "profit": -43.8599999999999
+        },
+        {
+            "action": "SHORT",
+            "ticker": "TXN",
+            "headline": "Texas Instruments Stock Slides as Earnings Forecast Underwhelms",
+            "buy_price": 200.61,
+            "sold_price": 187.845,
+            "amount": 5,
+            "time": "2025-01-24T08:40:57.216540",
+            "profit": 63.825000000000074
+        }
+    ],
+    "value_log": [
+        {
+            "time": "2025-01-22T10:19:33.619787",
+            "value": 100000.0
+        },
+        {
+            "time": "2025-01-22T11:21:49.748325",
+            "value": 99999.34
+        },
+        {
+            "time": "2025-01-22T14:10:28.359795",
+            "value": 99995.71
+        },
+        {
+            "time": "2025-01-22T14:18:47.352178",
+            "value": 99995.71
+        },
+        {
+            "time": "2025-01-22T14:48:02.593650",
+            "value": 99995.71
+        },
+        {
+            "time": "2025-01-22T15:19:03.535377",
+            "value": 99995.71
+        },
+        {
+            "time": "2025-01-22T15:51:40.719896",
+            "value": 99995.71
+        },
+        {
+            "time": "2025-01-22T16:25:37.282282",
+            "value": 99995.71
+        },
+        {
+            "time": "2025-01-22T16:56:46.460061",
+            "value": 99995.71
+        },
+        {
+            "time": "2025-01-22T17:27:15.993507",
+            "value": 99995.71
+        },
+        {
+            "time": "2025-01-22T17:57:21.342873",
+            "value": 100008.31000000001
+        },
+        {
+            "time": "2025-01-22T18:28:11.412744",
+            "value": 100008.31000000001
+        },
+        {
+            "time": "2025-01-22T18:58:17.175806",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-22T19:28:30.701552",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-22T19:58:35.756860",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-22T20:30:33.809841",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-22T21:00:40.903700",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-22T21:30:46.624700",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-22T22:00:51.598193",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-22T22:31:09.990220",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-22T23:11:57.139892",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-22T23:42:07.093104",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-23T00:22:27.148848",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-23T00:57:06.009706",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-23T01:29:55.290629",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-23T02:02:14.580110",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-23T02:35:00.954189",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-23T03:08:02.287211",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-23T03:41:54.541329",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-23T04:23:49.008430",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-23T04:55:23.066378",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-23T05:28:48.987073",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-23T05:59:11.102441",
+            "value": 99985.75000000003
+        },
+        {
+            "time": "2025-01-23T06:48:22.448926",
+            "value": 100095.13200000003
+        },
+        {
+            "time": "2025-01-23T07:28:12.403939",
+            "value": 99997.65479999999
+        },
+        {
+            "time": "2025-01-23T08:00:13.372415",
+            "value": 100016.52299999999
+        },
+        {
+            "time": "2025-01-23T08:31:00.193809",
+            "value": 100037.9564
+        },
+        {
+            "time": "2025-01-23T09:01:08.208412",
+            "value": 100048.12999999999
+        },
+        {
+            "time": "2025-01-23T09:31:14.812443",
+            "value": 100053.31439999999
+        },
+        {
+            "time": "2025-01-23T11:02:47.650185",
+            "value": 100043.48550000001
+        },
+        {
+            "time": "2025-01-23T11:32:54.038184",
+            "value": 100040.78920000003
+        },
+        {
+            "time": "2025-01-23T13:53:19.362691",
+            "value": 100047.845
+        },
+        {
+            "time": "2025-01-23T14:58:51.762703",
+            "value": 100047.845
+        },
+        {
+            "time": "2025-01-24T00:04:39.995472",
+            "value": 100268.28499999996
+        },
+        {
+            "time": "2025-01-24T00:55:03.935128",
+            "value": 100268.28499999996
+        },
+        {
+            "time": "2025-01-24T01:44:19.754810",
+            "value": 100268.28499999996
+        },
+        {
+            "time": "2025-01-24T02:17:28.197666",
+            "value": 100268.28499999996
+        },
+        {
+            "time": "2025-01-24T03:05:25.176513",
+            "value": 100268.28499999996
+        },
+        {
+            "time": "2025-01-24T03:51:21.675457",
+            "value": 100268.28499999996
+        },
+        {
+            "time": "2025-01-24T04:38:47.290751",
+            "value": 100268.28499999996
+        },
+        {
+            "time": "2025-01-24T08:41:00.279215",
+            "value": 100282.42349999995
+        },
+        {
+            "time": "2025-01-24T08:43:51.820210",
+            "value": 100288.1205
+        },
+        {
+            "time": "2025-01-24T09:14:03.948099",
+            "value": 100306.87179999996
+        },
+        {
+            "time": "2025-01-24T11:27:12.616451",
+            "value": 100284.68479999999
+        },
+        {
+            "time": "2025-01-24T11:30:40.189098",
+            "value": 100279.12869999994
+        },
+        {
+            "time": "2025-01-24T12:28:15.429182",
+            "value": 100279.12869999994
+        },
+        {
+            "time": "2025-01-24T12:30:45.385439",
+            "value": 100274.40819999998
+        },
+        {
+            "time": "2025-01-24T13:05:26.817851",
+            "value": 100298.40979999995
+        },
+        {
+            "time": "2025-01-24T13:35:14.344014",
+            "value": 100298.48979999992
+        },
+        {
+            "time": "2025-01-24T14:05:21.786338",
+            "value": 100298.48979999992
+        },
+        {
+            "time": "2025-01-24T14:35:27.825456",
+            "value": 100298.48979999992
+        },
+        {
+            "time": "2025-01-24T15:05:33.961746",
+            "value": 100298.48979999992
+        }
+    ]
 }
