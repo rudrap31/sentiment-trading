@@ -102,7 +102,9 @@ class Portfolio:
             if self.stocks[ticker]["type"] == "BUY":
                 sum += self.stocks[ticker]["quantity"] * self.stocks[ticker]["current_price"]
             else:
-                sum += self.stocks[ticker]["quantity"] * (self.stocks[ticker]["buy_price"] - self.stocks[ticker]["current_price"])
+                reserved_margin = self.stocks[ticker]["quantity"] * self.stocks[ticker]["buy_price"]
+                profit_or_loss = self.stocks[ticker]["quantity"] * (self.stocks[ticker]["buy_price"] - self.stocks[ticker]["current_price"])
+                sum += reserved_margin + profit_or_loss
         return sum
 
     def save_to_file(self, file_path="portfolio.json"):
