@@ -8,6 +8,7 @@ from flask_cors import CORS
 import schedule
 import time
 import threading
+from datetime import datetime
 
 
 app = Flask(__name__)
@@ -25,7 +26,9 @@ def update_portfolio():
             port.buy_stock(stock.ticker, stock.headline)
         elif stock.sentiment_score == "negative" and is_valid_ticker(stock.ticker):
             port.short_stock(stock.ticker, stock.headline)
-    port.update_value_log()
+    current_time = datetime.now().time()
+    if datetime.strptime("09:30", "%H:%M").time() <= current_time <= datetime.strptime("13:00", "%H:%M").time():
+        port.update_value_log()
     port.save_to_file()
 
 def safe_update_portfolio():
