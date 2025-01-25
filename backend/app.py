@@ -27,7 +27,9 @@ def update_portfolio():
         elif stock.sentiment_score == "negative" and is_valid_ticker(stock.ticker):
             port.short_stock(stock.ticker, stock.headline)
     current_time = datetime.now().time()
-    if datetime.strptime("09:30", "%H:%M").time() <= current_time <= datetime.strptime("13:00", "%H:%M").time():
+    current_day = datetime.now().weekday()
+    if (datetime.strptime("06:00", "%H:%M").time() <= current_time <= datetime.strptime("13:30", "%H:%M").time()
+        and current_day < 5):
         port.update_value_log()
     port.save_to_file()
 
