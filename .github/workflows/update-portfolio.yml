@@ -1,0 +1,37 @@
+name: Update Portfolio
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # Runs every 30 minutes
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-portfolio:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Portfolio Update
+        run: python run_update.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "rudrap31"
+          git config --global user.email "3rudrap1@gmail.com"
+          git add portfolio.json
+          git commit -m "Update portfolio.json"
+          git push
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
