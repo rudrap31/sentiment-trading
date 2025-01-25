@@ -85,9 +85,9 @@ class Portfolio:
         
         for ticker in tickers_to_close:
             self.close_trade(ticker, self.stocks[ticker]["current_price"])
+        self.value = self.portfolio_value()
 
     def update_value_log(self):
-        self.value = self.portfolio_value()
         current_time = datetime.now().isoformat()
         self.value_log.append({"time": current_time, "value": self.portfolio_value()})
 
