@@ -24,7 +24,7 @@ jobs:
           pip install -r backend/requirements.txt
 
       - name: Run Portfolio Update
-        run: python run_update.py
+        run: python backend/run_update.py
 
       - name: Commit and Push Changes
         run: |
