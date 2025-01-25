@@ -1,5 +1,10 @@
 import requests
-from apikeys import API_KEY
+import os
+
+API_KEY = os.getenv("API_KEY")
+if not API_KEY:
+    raise ValueError("API_KEY environment variable is not set.")
+
 
 def get_price(symbol):
     try:
