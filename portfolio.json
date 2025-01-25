@@ -1,5 +1,5 @@
 {
-    "cash": 63495.05979999999,
+    "cash": 66673.51479999999,
     "value": 100298.48979999992,
     "stocks": {
         "BAC": {
@@ -9,14 +9,6 @@
             "current_price": 46.52,
             "headline": "Baltimore Orioles owner wants a salary cap in the MLB, says the business community is hopeful under Trump",
             "time": "2025-01-22T10:19:33.355468"
-        },
-        "UNCRY": {
-            "quantity": 45,
-            "type": "SHORT",
-            "buy_price": 22.35,
-            "current_price": 22.78,
-            "headline": "Commerzbank says UniCredit's approach is hostile and unilateral",
-            "time": "2025-01-22T11:57:40.965092"
         },
         "NFLX": {
             "quantity": 2,
@@ -78,7 +70,7 @@
             "quantity": 103,
             "type": "BUY",
             "buy_price": 9.79,
-            "current_price": 9.92,
+            "current_price": 10.07,
             "headline": "Volkswagen says 6% margin target for brand realistic in medium term, analyst says",
             "time": "2025-01-22T15:51:40.409259"
         },
@@ -86,7 +78,7 @@
             "quantity": 42,
             "type": "BUY",
             "buy_price": 24.12,
-            "current_price": 23.67,
+            "current_price": 23.97,
             "headline": "Fortescue\u2019s Iron Ore Exports Edge Up With Guidance Unchanged",
             "time": "2025-01-22T16:25:37.053439"
         },
@@ -102,7 +94,7 @@
             "quantity": 19,
             "type": "SHORT",
             "buy_price": 55,
-            "current_price": 54.9,
+            "current_price": 55.2,
             "headline": "Hyundai Motor Q4 profit falls 17% as discounts weigh",
             "time": "2025-01-22T21:30:46.243577"
         },
@@ -110,7 +102,7 @@
             "quantity": 124,
             "type": "BUY",
             "buy_price": 8.09,
-            "current_price": 8.19,
+            "current_price": 8.13,
             "headline": "Analysis-BA-owner IAG tipped as frontrunner in TAP sale as Europe airline consolidation warms up",
             "time": "2025-01-22T22:31:09.535271"
         },
@@ -118,7 +110,7 @@
             "quantity": 34,
             "type": "BUY",
             "buy_price": 29.45,
-            "current_price": 30.4,
+            "current_price": 30.55,
             "headline": "Australia's Qantas soars to record highs after frequent flyer programme revamp",
             "time": "2025-01-22T23:11:56.067293"
         },
@@ -153,14 +145,6 @@
             "current_price": 37.62,
             "headline": "Comcast launches Sports & News TV package to attract streaming customers",
             "time": "2025-01-23T09:01:07.838558"
-        },
-        "FMCC": {
-            "quantity": 169,
-            "type": "SHORT",
-            "buy_price": 5.93,
-            "current_price": 5.68,
-            "headline": "Average rate on 30-year mortgage slips below 7% after climbing five weeks in a row",
-            "time": "2025-01-23T09:31:14.812366"
         },
         "LDOS": {
             "quantity": 7,
@@ -201,14 +185,6 @@
             "current_price": 186.74,
             "headline": "Regional Banks Face Headache From Rising Treasury Yields",
             "time": "2025-01-23T14:58:51.762093"
-        },
-        "MDIBY": {
-            "quantity": 63,
-            "type": "BUY",
-            "buy_price": 15.9,
-            "current_price": 15.9,
-            "headline": "Paschi\u2019s \u20ac13 Billion Mediobanca Bid Adds Twist to Italian Saga",
-            "time": "2025-01-24T03:05:25.176328"
         },
         "AXP": {
             "quantity": 4,
@@ -357,6 +333,36 @@
             "amount": 5,
             "time": "2025-01-24T08:40:57.216540",
             "profit": 63.825000000000074
+        },
+        {
+            "action": "SHORT",
+            "ticker": "UNCRY",
+            "headline": "Commerzbank says UniCredit's approach is hostile and unilateral",
+            "buy_price": 22.35,
+            "sold_price": 23.04,
+            "amount": 45,
+            "time": "2025-01-25T21:09:59.570591",
+            "profit": -31.049999999999898
+        },
+        {
+            "action": "SHORT",
+            "ticker": "FMCC",
+            "headline": "Average rate on 30-year mortgage slips below 7% after climbing five weeks in a row",
+            "buy_price": 5.93,
+            "sold_price": 5.23,
+            "amount": 169,
+            "time": "2025-01-25T21:09:59.570604",
+            "profit": 118.29999999999988
+        },
+        {
+            "action": "BUY",
+            "ticker": "MDIBY",
+            "headline": "Paschi\u2019s \u20ac13 Billion Mediobanca Bid Adds Twist to Italian Saga",
+            "buy_price": 15.9,
+            "sold_price": 17.195,
+            "amount": 63,
+            "time": "2025-01-25T21:09:59.570609",
+            "profit": 81.585
         }
     ],
     "value_log": [
