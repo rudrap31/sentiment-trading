@@ -2,7 +2,9 @@ name: Update Portfolio
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # Runs every 30 minutes
+    - cron: "0,30 6-13 * * 1-5"
+    - cron: "0 0-5,14-23 * * 1-5"
+    - cron: "0 0,2,4,6,8,10,12,14,16,18,20,22 * * 6,0"
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
