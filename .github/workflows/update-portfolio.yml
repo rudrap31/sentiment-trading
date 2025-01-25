@@ -24,6 +24,8 @@ jobs:
           pip install -r backend/requirements.txt
 
       - name: Run Portfolio Update
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
         run: python backend/run_update.py
 
       - name: Commit and Push Changes
