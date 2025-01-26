@@ -1,5 +1,5 @@
 {
-    "cash": 66673.51479999999,
+    "cash": 65481.51479999999,
     "value": 100464.43479999994,
     "stocks": {
         "BAC": {
@@ -241,6 +241,14 @@
             "current_price": 56.5,
             "headline": "Ben & Jerry's accuses Unilever of muzzling it because of Trump",
             "time": "2025-01-24T15:42:02.689906"
+        },
+        "COIN": {
+            "quantity": 4,
+            "type": "SHORT",
+            "buy_price": 298,
+            "current_price": 298,
+            "headline": "Coinbase CEO Says Surge in New Tokens Making Evaluations Harder",
+            "time": "2025-01-26T08:16:03.530936"
         }
     },
     "trade_history": [
