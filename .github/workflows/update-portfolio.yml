@@ -35,7 +35,11 @@ jobs:
           git config --global user.name "rudrap31"
           git config --global user.email "3rudrap1@gmail.com"
           git add portfolio.json
-          git commit -m "Update portfolio.json"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update portfolio.json"
+            git push
+          fi
         env:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
