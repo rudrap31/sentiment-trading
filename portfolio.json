@@ -1,5 +1,5 @@
 {
-    "cash": 62195.41479999999,
+    "cash": 61174.55479999999,
     "value": 100464.43479999996,
     "stocks": {
         "BAC": {
@@ -273,6 +273,14 @@
             "current_price": 51.47,
             "headline": "Olive Garden, Texas Roadhouse chasing Chili's success as casual dining chains compete for date nights in 2025",
             "time": "2025-01-26T18:17:50.991820"
+        },
+        "SPOT": {
+            "quantity": 2,
+            "type": "BUY",
+            "buy_price": 510.43,
+            "current_price": 510.43,
+            "headline": "Universal Music Group and Spotify strike new agreement",
+            "time": "2025-01-26T20:14:14.989576"
         }
     },
     "trade_history": [
