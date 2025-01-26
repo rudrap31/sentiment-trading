@@ -1,5 +1,5 @@
 {
-    "cash": 65481.51479999999,
+    "cash": 63224.81479999999,
     "value": 100464.43479999994,
     "stocks": {
         "BAC": {
@@ -249,6 +249,22 @@
             "current_price": 298,
             "headline": "Coinbase CEO Says Surge in New Tokens Making Evaluations Harder",
             "time": "2025-01-26T08:16:03.530936"
+        },
+        "EBAY": {
+            "quantity": 16,
+            "type": "BUY",
+            "buy_price": 64.81,
+            "current_price": 64.81,
+            "headline": "Top trading card grader: Expect 'another strong year' for collectibles",
+            "time": "2025-01-26T16:15:18.491756"
+        },
+        "TSLA": {
+            "quantity": 3,
+            "type": "SHORT",
+            "buy_price": 406.58,
+            "current_price": 406.58,
+            "headline": "Tesla's future under President Trump: Weight AI potential against slowing EV demand",
+            "time": "2025-01-26T16:15:18.783619"
         }
     },
     "trade_history": [
