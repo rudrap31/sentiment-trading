@@ -1,5 +1,5 @@
 {
-    "cash": 54560.48479999999,
+    "cash": 53538.08479999999,
     "value": 100464.43479999996,
     "stocks": {
         "BAC": {
@@ -329,6 +329,14 @@
             "current_price": 732.25,
             "headline": "Nvidia, ASML Plunge as DeepSeek Triggers Tech Stock Selloff",
             "time": "2025-01-27T10:17:00.138502"
+        },
+        "T": {
+            "quantity": 45,
+            "type": "BUY",
+            "buy_price": 22.72,
+            "current_price": 22.72,
+            "headline": "AT&T's bundled 5G, fiber plans boost holiday-quarter subscriptions",
+            "time": "2025-01-27T11:37:38.966055"
         }
     },
     "trade_history": [
@@ -744,6 +752,10 @@
         },
         {
             "time": "2025-01-27T11:13:37.821478",
+            "value": 100464.43479999996
+        },
+        {
+            "time": "2025-01-27T11:37:39.229059",
             "value": 100464.43479999996
         }
     ]
