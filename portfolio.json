@@ -1,5 +1,5 @@
 {
-    "cash": 56024.98479999999,
+    "cash": 54560.48479999999,
     "value": 100464.43479999997,
     "stocks": {
         "BAC": {
@@ -321,6 +321,14 @@
             "current_price": 0.35,
             "headline": "China Vanke's CEO, chairman resign amid growing liquidity worries",
             "time": "2025-01-27T09:17:14.704060"
+        },
+        "ASML": {
+            "quantity": 2,
+            "type": "SHORT",
+            "buy_price": 732.25,
+            "current_price": 732.25,
+            "headline": "Nvidia, ASML Plunge as DeepSeek Triggers Tech Stock Selloff",
+            "time": "2025-01-27T10:17:00.138502"
         }
     },
     "trade_history": [
@@ -725,6 +733,10 @@
         {
             "time": "2025-01-27T09:38:09.973376",
             "value": 100464.43479999997
+        },
+        {
+            "time": "2025-01-27T10:17:00.221270",
+            "value": 100464.43479999996
         }
     ]
 }
