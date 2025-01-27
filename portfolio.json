@@ -1,5 +1,5 @@
 {
-    "cash": 58166.24479999999,
+    "cash": 57025.284799999994,
     "value": 100464.43479999996,
     "stocks": {
         "BAC": {
@@ -305,6 +305,14 @@
             "current_price": 12.2,
             "headline": "BASF shares indicated 3% lower as impairments drag earnings lower",
             "time": "2025-01-27T08:21:13.248254"
+        },
+        "NVDA": {
+            "quantity": 8,
+            "type": "SHORT",
+            "buy_price": 142.62,
+            "current_price": 142.62,
+            "headline": "China\u2019s DeepSeek Tops iPhone Downloads and Spurs AI Selloff",
+            "time": "2025-01-27T08:42:38.083261"
         }
     },
     "trade_history": [
@@ -697,6 +705,10 @@
         {
             "time": "2025-01-27T08:21:13.320897",
             "value": 100464.43479999996
+        },
+        {
+            "time": "2025-01-27T08:42:38.574857",
+            "value": 100464.43479999997
         }
     ]
 }
