@@ -1,6 +1,6 @@
 {
-    "cash": 57025.284799999994,
-    "value": 100464.43479999996,
+    "cash": 56024.98479999999,
+    "value": 100464.43479999997,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -313,6 +313,14 @@
             "current_price": 142.62,
             "headline": "China\u2019s DeepSeek Tops iPhone Downloads and Spurs AI Selloff",
             "time": "2025-01-27T08:42:38.083261"
+        },
+        "CHVKY": {
+            "quantity": 2858,
+            "type": "SHORT",
+            "buy_price": 0.35,
+            "current_price": 0.35,
+            "headline": "China Vanke's CEO, chairman resign amid growing liquidity worries",
+            "time": "2025-01-27T09:17:14.704060"
         }
     },
     "trade_history": [
@@ -708,6 +716,10 @@
         },
         {
             "time": "2025-01-27T08:42:38.574857",
+            "value": 100464.43479999997
+        },
+        {
+            "time": "2025-01-27T09:17:14.965814",
             "value": 100464.43479999997
         }
     ]
