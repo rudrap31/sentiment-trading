@@ -1,5 +1,5 @@
 {
-    "cash": 56487.75679999998,
+    "cash": 55392.67679999998,
     "value": 101002.39679999999,
     "stocks": {
         "BAC": {
@@ -321,6 +321,14 @@
             "current_price": 690.15,
             "headline": "Nvidia\u2019s $589 Billion DeepSeek Rout Is Largest in Market History",
             "time": "2025-01-27T21:37:31.512118"
+        },
+        "CR": {
+            "quantity": 7,
+            "type": "BUY",
+            "buy_price": 156.44,
+            "current_price": 156.44,
+            "headline": "Crane\u2019s (NYSE:CR) Q4 Sales Top Estimates",
+            "time": "2025-01-27T22:10:28.825139"
         }
     },
     "trade_history": [
@@ -887,6 +895,10 @@
         {
             "time": "2025-01-27T21:37:31.848037",
             "value": 101002.39679999999
+        },
+        {
+            "time": "2025-01-27T22:10:28.825150",
+            "value": 101002.3968
         }
     ]
 }
