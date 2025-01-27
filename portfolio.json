@@ -1,5 +1,5 @@
 {
-    "cash": 59166.644799999995,
+    "cash": 58166.24479999999,
     "value": 100464.43479999996,
     "stocks": {
         "BAC": {
@@ -297,6 +297,14 @@
             "current_price": 6.99,
             "headline": "Stock market today: Asian markets are mixed after Wall Street edges back from its record",
             "time": "2025-01-27T05:15:13.966790"
+        },
+        "BASFY": {
+            "quantity": 82,
+            "type": "SHORT",
+            "buy_price": 12.2,
+            "current_price": 12.2,
+            "headline": "BASF shares indicated 3% lower as impairments drag earnings lower",
+            "time": "2025-01-27T08:21:13.248254"
         }
     },
     "trade_history": [
@@ -684,6 +692,10 @@
         },
         {
             "time": "2025-01-27T07:37:12.202756",
+            "value": 100464.43479999996
+        },
+        {
+            "time": "2025-01-27T08:21:13.320897",
             "value": 100464.43479999996
         }
     ]
