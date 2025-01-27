@@ -6,7 +6,7 @@ from portfolio import Portfolio
 from flask import Flask, jsonify
 from flask_cors import CORS
 from datetime import datetime
-
+from pytz import timezone
 
 app = Flask(__name__)
 CORS(app)
@@ -23,8 +23,11 @@ def update_portfolio():
             port.buy_stock(stock.ticker, stock.headline)
         elif stock.sentiment_score == "negative" and is_valid_ticker(stock.ticker):
             port.short_stock(stock.ticker, stock.headline)
-    current_time = datetime.now().time()
-    current_day = datetime.now().weekday()
+
+    local_tz = timezone("US/Eastern")
+    current_time = datetime.now(local_tz).time()
+    current_day = datetime.now(local_tz).weekday()
+    
     if (datetime.strptime("06:00", "%H:%M").time() <= current_time <= datetime.strptime("13:30", "%H:%M").time()
         and current_day < 5):
         port.update_value_log()
