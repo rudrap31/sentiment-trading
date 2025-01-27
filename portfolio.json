@@ -1,5 +1,5 @@
 {
-    "cash": 51441.10479999999,
+    "cash": 50409.204799999985,
     "value": 100464.43479999997,
     "stocks": {
         "BAC": {
@@ -353,6 +353,14 @@
             "current_price": 98.81,
             "headline": "Starbucks sales set to drop again as investors wait for turnaround",
             "time": "2025-01-27T13:00:17.076513"
+        },
+        "MU": {
+            "quantity": 10,
+            "type": "SHORT",
+            "buy_price": 103.19,
+            "current_price": 103.19,
+            "headline": "Nvidia, chip stocks plummet amid market sell-off as DeepSeek prompts questions over AI spending",
+            "time": "2025-01-27T14:14:27.669258"
         }
     },
     "trade_history": [
