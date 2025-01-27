@@ -1,6 +1,6 @@
 {
-    "cash": 57868.056799999984,
-    "value": 101002.2318,
+    "cash": 56487.75679999998,
+    "value": 101002.39679999999,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -22,7 +22,7 @@
             "quantity": 5,
             "type": "SHORT",
             "buy_price": 235.01,
-            "current_price": 235.545,
+            "current_price": 235.42,
             "headline": "Amazon to close 7 warehouses in the Canadian province of Quebec and eliminate 1,700 jobs",
             "time": "2025-01-22T14:10:28.266141"
         },
@@ -62,7 +62,7 @@
             "quantity": 4,
             "type": "BUY",
             "buy_price": 316.99,
-            "current_price": 326.68,
+            "current_price": 326.62,
             "headline": "Mantle Ridge secures enough votes for board seats at Air Products, sources say",
             "time": "2025-01-22T17:57:20.937113"
         },
@@ -134,7 +134,7 @@
             "quantity": 6,
             "type": "SHORT",
             "buy_price": 178.5,
-            "current_price": 175.185,
+            "current_price": 175.16,
             "headline": "Boeing forecasts bigger-than-expected quarterly loss on defense troubles, strike hit",
             "time": "2025-01-23T13:51:00.624684"
         },
@@ -142,7 +142,7 @@
             "quantity": 6,
             "type": "SHORT",
             "buy_price": 199.58,
-            "current_price": 193.8325,
+            "current_price": 193.77,
             "headline": "Trump opens a divide between US and EU over Big Tech",
             "time": "2025-01-23T13:51:00.981552"
         },
@@ -150,7 +150,7 @@
             "quantity": 17,
             "type": "SHORT",
             "buy_price": 61.56,
-            "current_price": 61.955,
+            "current_price": 61.97,
             "headline": "Rio Tinto Sees Lower First-Quarter Iron Ore Exports After Storm",
             "time": "2025-01-23T14:58:51.442785"
         },
@@ -222,7 +222,7 @@
             "quantity": 2,
             "type": "BUY",
             "buy_price": 510.43,
-            "current_price": 514.31,
+            "current_price": 513.98,
             "headline": "Universal Music Group and Spotify strike new agreement",
             "time": "2025-01-26T20:14:14.989576"
         },
@@ -254,7 +254,7 @@
             "quantity": 27,
             "type": "SHORT",
             "buy_price": 37.41,
-            "current_price": 36.84,
+            "current_price": 36.82,
             "headline": "Asset manager seeks to quash US Steel-Nippon deal after taking stake in US steelmaker",
             "time": "2025-01-27T13:00:16.948199"
         },
@@ -262,7 +262,7 @@
             "quantity": 11,
             "type": "SHORT",
             "buy_price": 98.81,
-            "current_price": 100.045,
+            "current_price": 100.02,
             "headline": "Starbucks sales set to drop again as investors wait for turnaround",
             "time": "2025-01-27T13:00:17.076513"
         },
@@ -294,7 +294,7 @@
             "quantity": 9,
             "type": "BUY",
             "buy_price": 118.4664,
-            "current_price": 118.575,
+            "current_price": 118.42,
             "headline": "Nvidia says DeepSeek advances prove need for more of its chips",
             "time": "2025-01-27T20:12:57.084458"
         },
@@ -310,9 +310,17 @@
             "quantity": 5,
             "type": "SHORT",
             "buy_price": 230.01,
-            "current_price": 230.01,
+            "current_price": 229.86,
             "headline": "Why Apple Stock Dodged the DeepSeek AI Rout",
             "time": "2025-01-27T21:10:03.943445"
+        },
+        "ASML": {
+            "quantity": 2,
+            "type": "SHORT",
+            "buy_price": 690.15,
+            "current_price": 690.15,
+            "headline": "Nvidia\u2019s $589 Billion DeepSeek Rout Is Largest in Market History",
+            "time": "2025-01-27T21:37:31.512118"
         }
     },
     "trade_history": [
@@ -875,6 +883,10 @@
         {
             "time": "2025-01-27T13:27:08.110705",
             "value": 100464.43479999997
+        },
+        {
+            "time": "2025-01-27T21:37:31.848037",
+            "value": 101002.39679999999
         }
     ]
 }
