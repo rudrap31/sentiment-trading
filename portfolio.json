@@ -1,5 +1,5 @@
 {
-    "cash": 53538.08479999999,
+    "cash": 51441.10479999999,
     "value": 100464.43479999996,
     "stocks": {
         "BAC": {
@@ -337,6 +337,22 @@
             "current_price": 22.72,
             "headline": "AT&T's bundled 5G, fiber plans boost holiday-quarter subscriptions",
             "time": "2025-01-27T11:37:38.966055"
+        },
+        "X": {
+            "quantity": 27,
+            "type": "SHORT",
+            "buy_price": 37.41,
+            "current_price": 37.41,
+            "headline": "Asset manager seeks to quash US Steel-Nippon deal after taking stake in US steelmaker",
+            "time": "2025-01-27T13:00:16.948199"
+        },
+        "SBUX": {
+            "quantity": 11,
+            "type": "SHORT",
+            "buy_price": 98.81,
+            "current_price": 98.81,
+            "headline": "Starbucks sales set to drop again as investors wait for turnaround",
+            "time": "2025-01-27T13:00:17.076513"
         }
     },
     "trade_history": [
@@ -761,6 +777,10 @@
         {
             "time": "2025-01-27T12:29:37.622348",
             "value": 100464.43479999996
+        },
+        {
+            "time": "2025-01-27T13:00:17.083338",
+            "value": 100464.43479999997
         }
     ]
 }
