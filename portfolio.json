@@ -1,5 +1,5 @@
 {
-    "cash": 61174.55479999999,
+    "cash": 59166.644799999995,
     "value": 100464.43479999994,
     "stocks": {
         "BAC": {
@@ -281,6 +281,22 @@
             "current_price": 510.43,
             "headline": "Universal Music Group and Spotify strike new agreement",
             "time": "2025-01-26T20:14:14.989576"
+        },
+        "GRAL": {
+            "quantity": 35,
+            "type": "BUY",
+            "buy_price": 28.61,
+            "current_price": 28.61,
+            "headline": "Watch These Grail Price Levels After Med Tech Company's Stock Soared 64% Last Week",
+            "time": "2025-01-27T05:15:13.732889"
+        },
+        "COMP": {
+            "quantity": 144,
+            "type": "SHORT",
+            "buy_price": 6.99,
+            "current_price": 6.99,
+            "headline": "Stock market today: Asian markets are mixed after Wall Street edges back from its record",
+            "time": "2025-01-27T05:15:13.966790"
         }
     },
     "trade_history": [
