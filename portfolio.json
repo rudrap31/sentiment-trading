@@ -1,5 +1,5 @@
 {
-    "cash": 50146.84109999998,
+    "cash": 49018.36109999998,
     "value": 101059.70109999998,
     "stocks": {
         "BAC": {
@@ -369,6 +369,14 @@
             "current_price": 238.41,
             "headline": "Packaging Corporation of America\u2019s (NYSE:PKG) Q4: Beats On Revenue",
             "time": "2025-01-28T22:09:55.801466"
+        },
+        "TGT": {
+            "quantity": 8,
+            "type": "SHORT",
+            "buy_price": 141.06,
+            "current_price": 141.06,
+            "headline": "Target's DEI rollback raises questions about the retail giant's philanthropic commitments",
+            "time": "2025-01-28T23:10:06.663161"
         }
     },
     "trade_history": [
@@ -1156,6 +1164,10 @@
         },
         {
             "time": "2025-01-28T22:09:55.801481",
+            "value": 101059.70109999998
+        },
+        {
+            "time": "2025-01-28T23:10:06.663173",
             "value": 101059.70109999998
         }
     ]
