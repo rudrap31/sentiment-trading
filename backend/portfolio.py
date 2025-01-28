@@ -11,35 +11,16 @@ class Portfolio:
         self.trades = [] # Completed Closed Trades
         self.value_log = [] # List of {"time": timestamp, "value": portfolio_value}
 
-    def buy_stock(self, ticker, headline):
-        price = get_price(ticker)
-        if price == -1: # If ticker was invalid or price not found
-            raise ValueError("Stock price/ticker is invalid")
+    def trade_stock(self, ticker, headline, price, type):
         amount = math.ceil(1000/price) # Buy around $1000 worth of the stock
         total_cost = amount * price
         if total_cost > self.cash:
             raise ValueError("Not enough cash to execute this trade.")
         
         if ticker not in self.stocks:
-            self.stocks[ticker] = {"quantity": amount, "type": "BUY", "buy_price": price, 
+            self.stocks[ticker] = {"quantity": amount, "type": type, "buy_price": price, 
                                    "current_price": price, "headline": headline, "time": datetime.now().isoformat()}
             self.cash -= total_cost
-
-
-    def short_stock(self, ticker, headline):
-        price = get_price(ticker)
-        if price == -1: # If ticker was invalid or price not found
-            raise ValueError("Stock price/ticker is invalid")
-        amount = math.ceil(1000/price) # Buy around $1000 worth of the stock
-        total_cost = amount * price
-        if total_cost > self.cash:
-            raise ValueError("Not enough cash to execute this trade.")
-        
-        if ticker not in self.stocks:
-            self.stocks[ticker] = {"quantity": amount, "type": "SHORT", "buy_price": price, 
-                                   "current_price": price, "headline": headline, "time": datetime.now().isoformat()}
-            self.cash -= total_cost
-
             
 
     def check_take_profit_stop_loss(self, ticker):

@@ -3,6 +3,7 @@ from sentimentModel import sentiment_analysis
 from portfolio import Portfolio
 from flask import Flask, jsonify
 from flask_cors import CORS
+from trade import get_price
 
 
 app = Flask(__name__)
@@ -17,10 +18,13 @@ def update_portfolio():
 
     for stock in headlines:
         stock.sentiment_score = sentiment_analysis(stock.headline)
+        price = get_price(stock.ticker)
+        if price == -1:
+            continue
         if stock.sentiment_score == "positive":
-            port.buy_stock(stock.ticker, stock.headline)
+            port.trade_stock(stock.ticker, stock.headline, price, "BUY")
         elif stock.sentiment_score == "negative":
-            port.short_stock(stock.ticker, stock.headline)
+            port.trade_stock(stock.ticker, stock.headline, price, "SHORT")
 
     port.update_value_log()
     port.save_to_file()
