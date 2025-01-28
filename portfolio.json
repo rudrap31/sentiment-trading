@@ -1,5 +1,5 @@
 {
-    "cash": 56478.43099999998,
+    "cash": 55469.980999999985,
     "value": 101052.571,
     "stocks": {
         "BAC": {
@@ -321,6 +321,14 @@
             "current_price": 156.44,
             "headline": "Crane\u2019s (NYSE:CR) Q4 Sales Top Estimates",
             "time": "2025-01-27T22:10:28.825139"
+        },
+        "MUFG": {
+            "quantity": 81,
+            "type": "BUY",
+            "buy_price": 12.45,
+            "current_price": 12.45,
+            "headline": "MUFG Shares Close at Record High as Banks Gain on BOJ Rate Hike",
+            "time": "2025-01-28T07:13:05.821619"
         }
     },
     "trade_history": [
@@ -920,6 +928,10 @@
         },
         {
             "time": "2025-01-28T04:12:43.649399",
+            "value": 101052.571
+        },
+        {
+            "time": "2025-01-28T07:13:05.821634",
             "value": 101052.571
         }
     ]
