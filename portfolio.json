@@ -1,6 +1,6 @@
 {
-    "cash": 55392.67679999998,
-    "value": 101002.3968,
+    "cash": 56478.43099999998,
+    "value": 101052.571,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -46,7 +46,7 @@
             "quantity": 103,
             "type": "BUY",
             "buy_price": 9.79,
-            "current_price": 10.07,
+            "current_price": 10.25,
             "headline": "Volkswagen says 6% margin target for brand realistic in medium term, analyst says",
             "time": "2025-01-22T15:51:40.409259"
         },
@@ -54,7 +54,7 @@
             "quantity": 42,
             "type": "BUY",
             "buy_price": 24.12,
-            "current_price": 23.97,
+            "current_price": 23.44,
             "headline": "Fortescue\u2019s Iron Ore Exports Edge Up With Guidance Unchanged",
             "time": "2025-01-22T16:25:37.053439"
         },
@@ -70,7 +70,7 @@
             "quantity": 19,
             "type": "SHORT",
             "buy_price": 55,
-            "current_price": 55.2,
+            "current_price": 55,
             "headline": "Hyundai Motor Q4 profit falls 17% as discounts weigh",
             "time": "2025-01-22T21:30:46.243577"
         },
@@ -78,7 +78,7 @@
             "quantity": 124,
             "type": "BUY",
             "buy_price": 8.09,
-            "current_price": 8.13,
+            "current_price": 8.07,
             "headline": "Analysis-BA-owner IAG tipped as frontrunner in TAP sale as Europe airline consolidation warms up",
             "time": "2025-01-22T22:31:09.535271"
         },
@@ -86,7 +86,7 @@
             "quantity": 34,
             "type": "BUY",
             "buy_price": 29.45,
-            "current_price": 30.55,
+            "current_price": 29.97,
             "headline": "Australia's Qantas soars to record highs after frequent flyer programme revamp",
             "time": "2025-01-22T23:11:56.067293"
         },
@@ -238,17 +238,9 @@
             "quantity": 82,
             "type": "SHORT",
             "buy_price": 12.2,
-            "current_price": 12.2,
+            "current_price": 12.3,
             "headline": "BASF shares indicated 3% lower as impairments drag earnings lower",
             "time": "2025-01-27T08:21:13.248254"
-        },
-        "CHVKY": {
-            "quantity": 2858,
-            "type": "SHORT",
-            "buy_price": 0.35,
-            "current_price": 0.35,
-            "headline": "China Vanke's CEO, chairman resign amid growing liquidity worries",
-            "time": "2025-01-27T09:17:14.704060"
         },
         "X": {
             "quantity": 27,
@@ -581,6 +573,16 @@
             "amount": 39,
             "time": "2025-01-27T20:12:56.560543",
             "profit": -31.855200000000025
+        },
+        {
+            "action": "SHORT",
+            "ticker": "CHVKY",
+            "headline": "China Vanke's CEO, chairman resign amid growing liquidity worries",
+            "buy_price": 0.35,
+            "sold_price": 0.3201,
+            "amount": 2858,
+            "time": "2025-01-28T03:12:06.219906",
+            "profit": 85.45419999999994
         }
     ],
     "value_log": [
@@ -911,6 +913,10 @@
         {
             "time": "2025-01-28T02:09:00.907527",
             "value": 101002.3968
+        },
+        {
+            "time": "2025-01-28T03:12:07.216321",
+            "value": 101052.571
         }
     ]
 }
