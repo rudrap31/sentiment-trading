@@ -1,5 +1,5 @@
 {
-    "cash": 51338.891099999986,
+    "cash": 50146.84109999998,
     "value": 101059.70109999998,
     "stocks": {
         "BAC": {
@@ -361,6 +361,14 @@
             "current_price": 92.96,
             "headline": "Computer parts maker Logitech raises 2025 forecast",
             "time": "2025-01-28T21:34:31.303980"
+        },
+        "PKG": {
+            "quantity": 5,
+            "type": "BUY",
+            "buy_price": 238.41,
+            "current_price": 238.41,
+            "headline": "Packaging Corporation of America\u2019s (NYSE:PKG) Q4: Beats On Revenue",
+            "time": "2025-01-28T22:09:55.801466"
         }
     },
     "trade_history": [
@@ -1144,6 +1152,10 @@
         },
         {
             "time": "2025-01-28T21:34:31.556733",
+            "value": 101059.70109999998
+        },
+        {
+            "time": "2025-01-28T22:09:55.801481",
             "value": 101059.70109999998
         }
     ]
