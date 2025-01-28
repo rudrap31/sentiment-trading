@@ -1,6 +1,6 @@
 {
-    "cash": 53426.811099999984,
-    "value": 101058.87109999996,
+    "cash": 51338.891099999986,
+    "value": 101059.70109999998,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -182,7 +182,7 @@
             "quantity": 3,
             "type": "SHORT",
             "buy_price": 406.58,
-            "current_price": 398.1,
+            "current_price": 398.09,
             "headline": "Tesla's future under President Trump: Weight AI potential against slowing EV demand",
             "time": "2025-01-26T16:15:18.783619"
         },
@@ -222,7 +222,7 @@
             "quantity": 11,
             "type": "SHORT",
             "buy_price": 98.81,
-            "current_price": 100.39,
+            "current_price": 100.41,
             "headline": "Starbucks sales set to drop again as investors wait for turnaround",
             "time": "2025-01-27T13:00:17.076513"
         },
@@ -302,7 +302,7 @@
             "quantity": 8,
             "type": "BUY",
             "buy_price": 125.9101,
-            "current_price": 128.8625,
+            "current_price": 128.99,
             "headline": "Nvidia short bets rake in over $6 billion in profits after DeepSeek panic",
             "time": "2025-01-28T17:35:10.339368"
         },
@@ -345,6 +345,22 @@
             "current_price": 120.21,
             "headline": "Southern California softness cited for 2024 drop in logistics real estate rents",
             "time": "2025-01-28T20:35:24.009643"
+        },
+        "GEV": {
+            "quantity": 3,
+            "type": "BUY",
+            "buy_price": 355.12,
+            "current_price": 355.12,
+            "headline": "AI-exposed power stocks rebound after DeepSeek release casts 'uncertainty' over industry",
+            "time": "2025-01-28T21:34:31.169695"
+        },
+        "LOGI": {
+            "quantity": 11,
+            "type": "BUY",
+            "buy_price": 92.96,
+            "current_price": 92.96,
+            "headline": "Computer parts maker Logitech raises 2025 forecast",
+            "time": "2025-01-28T21:34:31.303980"
         }
     },
     "trade_history": [
@@ -1125,6 +1141,10 @@
         {
             "time": "2025-01-28T21:09:23.145419",
             "value": 101058.87109999996
+        },
+        {
+            "time": "2025-01-28T21:34:31.556733",
+            "value": 101059.70109999998
         }
     ]
 }
