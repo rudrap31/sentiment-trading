@@ -10,14 +10,11 @@ function App() {
         axios.get("http://127.0.0.1:5000/api/portfolio")
             .then((response) => {
                 setPortfolio(response.data);  // Set portfolio to the data from the response
-                console.log(response.data.stocks);  // Log the cash value
             })
             .catch((error) => {
                 console.error('Error fetching portfolio:', error);  // Handle error if any
             });
     }, []);
-
-    const stockData = portfolio.stock
 
 
     return (

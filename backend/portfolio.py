@@ -7,13 +7,15 @@ class Portfolio:
     def __init__(self, initial_cash = 100000):
         self.cash = initial_cash
         self.value = initial_cash
-        self.stocks = {} # Format: {"TSLA": {"quantity": 10, "type": "BUY", "buy_price": 650.0, "current_price": 700.0}}
-        self.trades = []
+        self.stocks = {} # Current Active Trades
+        self.trades = [] # Completed Closed Trades
         self.value_log = [] # List of {"time": timestamp, "value": portfolio_value}
 
     def buy_stock(self, ticker, headline):
         price = get_price(ticker)
-        amount = math.ceil(1000/price) 
+        if price == -1: # If ticker was invalid or price not found
+            raise ValueError("Stock price/ticker is invalid")
+        amount = math.ceil(1000/price) # Buy around $1000 worth of the stock
         total_cost = amount * price
         if total_cost > self.cash:
             raise ValueError("Not enough cash to execute this trade.")
@@ -26,7 +28,9 @@ class Portfolio:
 
     def short_stock(self, ticker, headline):
         price = get_price(ticker)
-        amount = math.ceil(1000/price) 
+        if price == -1: # If ticker was invalid or price not found
+            raise ValueError("Stock price/ticker is invalid")
+        amount = math.ceil(1000/price) # Buy around $1000 worth of the stock
         total_cost = amount * price
         if total_cost > self.cash:
             raise ValueError("Not enough cash to execute this trade.")
@@ -78,23 +82,19 @@ class Portfolio:
     def update_prices(self):
         tickers_to_close = []
     
-        for ticker in self.stocks:
+        for ticker in self.stocks: # Update prices and check for stop loss/ take profits
             self.stocks[ticker]["current_price"] = get_price(ticker)
             if self.check_take_profit_stop_loss(ticker):
                 tickers_to_close.append(ticker)
         
-        for ticker in tickers_to_close:
+        for ticker in tickers_to_close: # Close trades
             self.close_trade(ticker, self.stocks[ticker]["current_price"])
         self.value = self.portfolio_value()
 
     def update_value_log(self):
         current_time = datetime.now().isoformat()
-        self.value_log.append({"time": current_time, "value": self.portfolio_value()})
+        self.value_log.append({"time": current_time, "value": self.value})
 
-    def update_trade_history(self):
-        for dict in self.trades:
-            tick = dict["ticker"]
-            dict["current_price"] = get_price(tick)
 
     def portfolio_value(self):
         sum = self.cash

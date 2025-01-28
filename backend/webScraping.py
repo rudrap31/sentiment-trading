@@ -5,7 +5,7 @@ from stock import Stock
 
 
 def scrape_headlines():
-    URL = "https://finance.yahoo.com/news/"
+    URL = "https://finance.yahoo.com/news/" # Use yahoo to scrape news
     r = requests.get(URL)
     soup = BeautifulSoup(r.content, 'html.parser')
 
@@ -13,7 +13,7 @@ def scrape_headlines():
     stories = headlines.find_all('li', class_='story-item')
 
     list = []
-    for story in stories:
+    for story in stories: # Only uses headlines which have the stock ticker included (span)
         span = story.find('span', class_='symbol')
         if span:
             span_text = span.text.strip()
