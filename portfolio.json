@@ -1,5 +1,5 @@
 {
-    "cash": 52354.800999999985,
+    "cash": 51246.70099999999,
     "value": 101052.57100000001,
     "stocks": {
         "BAC": {
@@ -353,6 +353,14 @@
             "current_price": 52.1,
             "headline": "Exclusive-HSBC to wind down M&A and ECM capabilities in Europe, UK & Americas, memo shows",
             "time": "2025-01-28T09:11:28.030988"
+        },
+        "CVLT": {
+            "quantity": 7,
+            "type": "BUY",
+            "buy_price": 158.3,
+            "current_price": 158.3,
+            "headline": "Commvault Systems (NASDAQ:CVLT) Delivers Strong Q4 Numbers, Full-Year Outlook Exceeds Expectations",
+            "time": "2025-01-28T13:16:46.034881"
         }
     },
     "trade_history": [
@@ -972,6 +980,10 @@
         },
         {
             "time": "2025-01-28T12:17:46.341378",
+            "value": 101052.57100000001
+        },
+        {
+            "time": "2025-01-28T13:16:46.064222",
             "value": 101052.57100000001
         }
     ]
