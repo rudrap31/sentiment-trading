@@ -17,7 +17,8 @@ This bot automates trading decisions by analyzing financial news headlines. Usin
 - **Sentiment Analysis**: Headlines are analyzed with the NLP model **`mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis`** from Hugging Face to classify them as positive, neutral, or negative.  
 - **Trade Execution**:  
   - Based of the sentiment it buys/shorts around $1000 of the stock
-  - Real-time stock prices are fetched via **Finnhub's API**, ensuring accurate trade execution.  
+  - Real-time stock prices are fetched via **Finnhub's API**, ensuring accurate trade execution.
+  - Implemented 5% take profits and 3% stop losses  
 - **Portfolio Management**: Tracks cash, active trades, trade history, and portfolio value over time.  
 
 ### **2. Frontend**  
