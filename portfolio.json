@@ -1,5 +1,5 @@
 {
-    "cash": 55469.980999999985,
+    "cash": 52354.800999999985,
     "value": 101052.571,
     "stocks": {
         "BAC": {
@@ -329,6 +329,30 @@
             "current_price": 12.45,
             "headline": "MUFG Shares Close at Record High as Banks Gain on BOJ Rate Hike",
             "time": "2025-01-28T07:13:05.821619"
+        },
+        "JPM": {
+            "quantity": 4,
+            "type": "BUY",
+            "buy_price": 265.85,
+            "current_price": 265.85,
+            "headline": "Wall Street hopes to get rid of a bad Elon Musk bet",
+            "time": "2025-01-28T09:11:27.826811"
+        },
+        "MDIBY": {
+            "quantity": 58,
+            "type": "SHORT",
+            "buy_price": 17.41,
+            "current_price": 17.41,
+            "headline": "MPS shares slide further as Mediobanca board meets to discuss bid",
+            "time": "2025-01-28T09:11:27.915132"
+        },
+        "HSBC": {
+            "quantity": 20,
+            "type": "SHORT",
+            "buy_price": 52.1,
+            "current_price": 52.1,
+            "headline": "Exclusive-HSBC to wind down M&A and ECM capabilities in Europe, UK & Americas, memo shows",
+            "time": "2025-01-28T09:11:28.030988"
         }
     },
     "trade_history": [
@@ -932,6 +956,10 @@
         },
         {
             "time": "2025-01-28T07:13:05.821634",
+            "value": 101052.571
+        },
+        {
+            "time": "2025-01-28T09:11:28.064719",
             "value": 101052.571
         }
     ]
