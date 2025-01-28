@@ -16,12 +16,5 @@ def get_price(symbol):
         return data['c']
     except Exception as e:
         print(f"Error fetching price for {symbol}")
-        return None
-
-def is_valid_ticker(symbol):
-    price = get_price(symbol)
-    if price is None or price == 0:
-        return False
-    else:
-        return True
+        return -1 # Return -1 for invalid ticker symbols
 
