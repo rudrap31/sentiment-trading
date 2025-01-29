@@ -1,5 +1,5 @@
 {
-    "cash": 42269.10789999998,
+    "cash": 40223.06789999998,
     "value": 100962.20050000004,
     "stocks": {
         "BAC": {
@@ -425,6 +425,22 @@
             "current_price": 62.8,
             "headline": "Western Digital expects third-quarter revenue below estimates\u00a0on weak demand",
             "time": "2025-01-29T22:09:58.204262"
+        },
+        "LVS": {
+            "quantity": 24,
+            "type": "SHORT",
+            "buy_price": 43.43,
+            "current_price": 43.43,
+            "headline": "Las Vegas Sands misses profit estimates on weakness in Macao business",
+            "time": "2025-01-29T23:09:59.877242"
+        },
+        "BHE": {
+            "quantity": 23,
+            "type": "BUY",
+            "buy_price": 43.64,
+            "current_price": 43.64,
+            "headline": "Benchmark Electronics (NYSE:BHE) Posts Q4 Sales In Line With Estimates",
+            "time": "2025-01-29T23:10:00.042149"
         }
     },
     "trade_history": [
@@ -1464,6 +1480,10 @@
         },
         {
             "time": "2025-01-29T22:09:58.366369",
+            "value": 100962.20050000004
+        },
+        {
+            "time": "2025-01-29T23:10:00.042163",
             "value": 100962.20050000004
         }
     ]
