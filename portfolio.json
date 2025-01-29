@@ -1,6 +1,6 @@
 {
-    "cash": 49018.36109999998,
-    "value": 101059.70109999998,
+    "cash": 50093.68109999998,
+    "value": 101125.24109999997,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -265,14 +265,6 @@
             "current_price": 267.14,
             "headline": "Wall Street hopes to get rid of a bad Elon Musk bet",
             "time": "2025-01-28T09:11:27.826811"
-        },
-        "MDIBY": {
-            "quantity": 58,
-            "type": "SHORT",
-            "buy_price": 17.41,
-            "current_price": 17.41,
-            "headline": "MPS shares slide further as Mediobanca board meets to discuss bid",
-            "time": "2025-01-28T09:11:27.915132"
         },
         "HSBC": {
             "quantity": 20,
@@ -759,6 +751,16 @@
             "amount": 50,
             "time": "2025-01-28T20:35:22.817064",
             "profit": 51.99999999999996
+        },
+        {
+            "action": "SHORT",
+            "ticker": "MDIBY",
+            "headline": "MPS shares slide further as Mediobanca board meets to discuss bid",
+            "buy_price": 17.41,
+            "sold_price": 16.28,
+            "amount": 58,
+            "time": "2025-01-29T02:08:46.556521",
+            "profit": 65.53999999999994
         }
     ],
     "value_log": [
@@ -1173,6 +1175,10 @@
         {
             "time": "2025-01-29T00:43:53.989495",
             "value": 101059.70109999998
+        },
+        {
+            "time": "2025-01-29T02:08:47.379193",
+            "value": 101125.24109999997
         }
     ]
 }
