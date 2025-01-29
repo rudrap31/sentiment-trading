@@ -1,5 +1,5 @@
 {
-    "cash": 48902.38109999998,
+    "cash": 47676.341099999976,
     "value": 101145.89109999998,
     "stocks": {
         "BAC": {
@@ -377,6 +377,14 @@
             "current_price": 238.26,
             "headline": "Apple Stock Avoided the DeepSeek Selloff\u2014Watch These Key Price Levels",
             "time": "2025-01-29T03:12:31.058192"
+        },
+        "CRWD": {
+            "quantity": 3,
+            "type": "BUY",
+            "buy_price": 408.68,
+            "current_price": 408.68,
+            "headline": "Watch These CrowdStrike Price Levels After Stock Surges to Record High",
+            "time": "2025-01-29T05:10:40.590840"
         }
     },
     "trade_history": [
@@ -1194,6 +1202,10 @@
         },
         {
             "time": "2025-01-29T04:12:39.171195",
+            "value": 101145.89109999998
+        },
+        {
+            "time": "2025-01-29T05:10:40.590854",
             "value": 101145.89109999998
         }
     ]
