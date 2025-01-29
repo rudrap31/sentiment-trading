@@ -1,6 +1,6 @@
 {
     "cash": 48902.38109999998,
-    "value": 101144.93109999997,
+    "value": 101145.89109999998,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -302,7 +302,7 @@
             "quantity": 24,
             "type": "BUY",
             "buy_price": 43.46,
-            "current_price": 43.47,
+            "current_price": 43.51,
             "headline": "Airbus opens door to new space charge in 2024 results",
             "time": "2025-01-28T19:34:30.280741"
         },
@@ -1191,6 +1191,10 @@
         {
             "time": "2025-01-29T03:12:31.058202",
             "value": 101144.93109999997
+        },
+        {
+            "time": "2025-01-29T04:12:39.171195",
+            "value": 101145.89109999998
         }
     ]
 }
