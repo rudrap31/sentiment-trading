@@ -1,6 +1,6 @@
 {
-    "cash": 46763.56789999998,
-    "value": 100963.48550000004,
+    "cash": 44293.42789999998,
+    "value": 100962.20050000004,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -14,7 +14,7 @@
             "quantity": 2,
             "type": "BUY",
             "buy_price": 953.99,
-            "current_price": 978.04,
+            "current_price": 978.15,
             "headline": "Netflix stock secures all-time closing high as Wall Street cheers 'near flawless' earnings",
             "time": "2025-01-22T13:41:44.056861"
         },
@@ -182,7 +182,7 @@
             "quantity": 3,
             "type": "SHORT",
             "buy_price": 406.58,
-            "current_price": 388.145,
+            "current_price": 389.1,
             "headline": "Tesla's future under President Trump: Weight AI potential against slowing EV demand",
             "time": "2025-01-26T16:15:18.783619"
         },
@@ -366,7 +366,7 @@
             "quantity": 5,
             "type": "SHORT",
             "buy_price": 204.36,
-            "current_price": 206.46,
+            "current_price": 206.35,
             "headline": "Nvidia stock crash saw retail investors dump more than $900 million into the name",
             "time": "2025-01-29T18:15:29.206853"
         },
@@ -390,9 +390,25 @@
             "quantity": 9,
             "type": "SHORT",
             "buy_price": 121.4435,
-            "current_price": 123.79,
+            "current_price": 123.7,
             "headline": "Why Nvidia (NVDA) Shares Are Sliding Today",
             "time": "2025-01-29T19:34:36.490605"
+        },
+        "MSFT": {
+            "quantity": 3,
+            "type": "BUY",
+            "buy_price": 442.33,
+            "current_price": 442.33,
+            "headline": "Microsoft reports 10% quarterly profit growth as it works to show AI investments paying off",
+            "time": "2025-01-29T21:34:28.222441"
+        },
+        "IBM": {
+            "quantity": 5,
+            "type": "BUY",
+            "buy_price": 228.63,
+            "current_price": 228.63,
+            "headline": "IBM beats profit estimates as software business surges, shares rise",
+            "time": "2025-01-29T21:34:28.380686"
         }
     },
     "trade_history": [
@@ -1425,6 +1441,10 @@
         {
             "time": "2025-01-29T21:09:38.422904",
             "value": 100963.48550000004
+        },
+        {
+            "time": "2025-01-29T21:34:28.380704",
+            "value": 100962.20050000004
         }
     ]
 }
