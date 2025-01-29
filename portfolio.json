@@ -1,6 +1,6 @@
 {
-    "cash": 50093.68109999998,
-    "value": 101125.24109999997,
+    "cash": 48902.38109999998,
+    "value": 101144.93109999997,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -46,7 +46,7 @@
             "quantity": 103,
             "type": "BUY",
             "buy_price": 9.79,
-            "current_price": 10.25,
+            "current_price": 10.2,
             "headline": "Volkswagen says 6% margin target for brand realistic in medium term, analyst says",
             "time": "2025-01-22T15:51:40.409259"
         },
@@ -54,7 +54,7 @@
             "quantity": 42,
             "type": "BUY",
             "buy_price": 24.12,
-            "current_price": 23.44,
+            "current_price": 23.48,
             "headline": "Fortescue\u2019s Iron Ore Exports Edge Up With Guidance Unchanged",
             "time": "2025-01-22T16:25:37.053439"
         },
@@ -70,7 +70,7 @@
             "quantity": 19,
             "type": "SHORT",
             "buy_price": 55,
-            "current_price": 55,
+            "current_price": 54.74,
             "headline": "Hyundai Motor Q4 profit falls 17% as discounts weigh",
             "time": "2025-01-22T21:30:46.243577"
         },
@@ -78,7 +78,7 @@
             "quantity": 124,
             "type": "BUY",
             "buy_price": 8.09,
-            "current_price": 8.07,
+            "current_price": 8.02,
             "headline": "Analysis-BA-owner IAG tipped as frontrunner in TAP sale as Europe airline consolidation warms up",
             "time": "2025-01-22T22:31:09.535271"
         },
@@ -86,7 +86,7 @@
             "quantity": 34,
             "type": "BUY",
             "buy_price": 29.45,
-            "current_price": 29.97,
+            "current_price": 30.64,
             "headline": "Australia's Qantas soars to record highs after frequent flyer programme revamp",
             "time": "2025-01-22T23:11:56.067293"
         },
@@ -206,7 +206,7 @@
             "quantity": 82,
             "type": "SHORT",
             "buy_price": 12.2,
-            "current_price": 12.3,
+            "current_price": 12.28,
             "headline": "BASF shares indicated 3% lower as impairments drag earnings lower",
             "time": "2025-01-27T08:21:13.248254"
         },
@@ -369,6 +369,14 @@
             "current_price": 141.06,
             "headline": "Target's DEI rollback raises questions about the retail giant's philanthropic commitments",
             "time": "2025-01-28T23:10:06.663161"
+        },
+        "AAPL": {
+            "quantity": 5,
+            "type": "SHORT",
+            "buy_price": 238.26,
+            "current_price": 238.26,
+            "headline": "Apple Stock Avoided the DeepSeek Selloff\u2014Watch These Key Price Levels",
+            "time": "2025-01-29T03:12:31.058192"
         }
     },
     "trade_history": [
@@ -1179,6 +1187,10 @@
         {
             "time": "2025-01-29T02:08:47.379193",
             "value": 101125.24109999997
+        },
+        {
+            "time": "2025-01-29T03:12:31.058202",
+            "value": 101144.93109999997
         }
     ]
 }
