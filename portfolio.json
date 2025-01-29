@@ -1,5 +1,5 @@
 {
-    "cash": 44293.42789999998,
+    "cash": 42269.10789999998,
     "value": 100962.20050000004,
     "stocks": {
         "BAC": {
@@ -409,6 +409,22 @@
             "current_price": 228.63,
             "headline": "IBM beats profit estimates as software business surges, shares rise",
             "time": "2025-01-29T21:34:28.380686"
+        },
+        "HMC": {
+            "quantity": 36,
+            "type": "BUY",
+            "buy_price": 28.32,
+            "current_price": 28.32,
+            "headline": "Honda boosting investment in three Ohio auto plants by $300 million",
+            "time": "2025-01-29T22:09:58.012246"
+        },
+        "WDC": {
+            "quantity": 16,
+            "type": "SHORT",
+            "buy_price": 62.8,
+            "current_price": 62.8,
+            "headline": "Western Digital expects third-quarter revenue below estimates\u00a0on weak demand",
+            "time": "2025-01-29T22:09:58.204262"
         }
     },
     "trade_history": [
@@ -1444,6 +1460,10 @@
         },
         {
             "time": "2025-01-29T21:34:28.380704",
+            "value": 100962.20050000004
+        },
+        {
+            "time": "2025-01-29T22:09:58.366369",
             "value": 100962.20050000004
         }
     ]
