@@ -1,5 +1,5 @@
 {
-    "cash": 47676.341099999976,
+    "cash": 46674.64109999998,
     "value": 101145.89109999998,
     "stocks": {
         "BAC": {
@@ -385,6 +385,14 @@
             "current_price": 408.68,
             "headline": "Watch These CrowdStrike Price Levels After Stock Surges to Record High",
             "time": "2025-01-29T05:10:40.590840"
+        },
+        "COMP": {
+            "quantity": 135,
+            "type": "BUY",
+            "buy_price": 7.42,
+            "current_price": 7.42,
+            "headline": "Stock market today: Asian stocks advance ahead of the Fed's rate decision as panic over AI fades",
+            "time": "2025-01-29T06:14:13.442983"
         }
     },
     "trade_history": [
@@ -1206,6 +1214,10 @@
         },
         {
             "time": "2025-01-29T05:10:40.590854",
+            "value": 101145.89109999998
+        },
+        {
+            "time": "2025-01-29T06:14:13.442993",
             "value": 101145.89109999998
         }
     ]
