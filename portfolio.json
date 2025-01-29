@@ -1,5 +1,5 @@
 {
-    "cash": 46674.64109999998,
+    "cash": 45657.13109999998,
     "value": 101145.89109999998,
     "stocks": {
         "BAC": {
@@ -393,6 +393,14 @@
             "current_price": 7.42,
             "headline": "Stock market today: Asian stocks advance ahead of the Fed's rate decision as panic over AI fades",
             "time": "2025-01-29T06:14:13.442983"
+        },
+        "VLVLY": {
+            "quantity": 39,
+            "type": "SHORT",
+            "buy_price": 26.09,
+            "current_price": 26.09,
+            "headline": "Truckmaker Volvo's Q4 profit falls more than expected, raises dividend",
+            "time": "2025-01-29T07:10:05.889680"
         }
     },
     "trade_history": [
@@ -1218,6 +1226,10 @@
         },
         {
             "time": "2025-01-29T06:14:13.442993",
+            "value": 101145.89109999998
+        },
+        {
+            "time": "2025-01-29T07:10:06.066803",
             "value": 101145.89109999998
         }
     ]
