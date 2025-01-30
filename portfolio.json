@@ -1,6 +1,6 @@
 {
-    "cash": 39185.54789999998,
-    "value": 100962.20050000004,
+    "cash": 38773.24789999998,
+    "value": 100885.88850000006,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -46,7 +46,7 @@
             "quantity": 103,
             "type": "BUY",
             "buy_price": 9.79,
-            "current_price": 10.2,
+            "current_price": 10.1,
             "headline": "Volkswagen says 6% margin target for brand realistic in medium term, analyst says",
             "time": "2025-01-22T15:51:40.409259"
         },
@@ -54,7 +54,7 @@
             "quantity": 42,
             "type": "BUY",
             "buy_price": 24.12,
-            "current_price": 23.48,
+            "current_price": 23.78,
             "headline": "Fortescue\u2019s Iron Ore Exports Edge Up With Guidance Unchanged",
             "time": "2025-01-22T16:25:37.053439"
         },
@@ -70,7 +70,7 @@
             "quantity": 19,
             "type": "SHORT",
             "buy_price": 55,
-            "current_price": 54.74,
+            "current_price": 54.75,
             "headline": "Hyundai Motor Q4 profit falls 17% as discounts weigh",
             "time": "2025-01-22T21:30:46.243577"
         },
@@ -78,7 +78,7 @@
             "quantity": 124,
             "type": "BUY",
             "buy_price": 8.09,
-            "current_price": 8.02,
+            "current_price": 8.16,
             "headline": "Analysis-BA-owner IAG tipped as frontrunner in TAP sale as Europe airline consolidation warms up",
             "time": "2025-01-22T22:31:09.535271"
         },
@@ -86,7 +86,7 @@
             "quantity": 34,
             "type": "BUY",
             "buy_price": 29.45,
-            "current_price": 30.64,
+            "current_price": 29.8,
             "headline": "Australia's Qantas soars to record highs after frequent flyer programme revamp",
             "time": "2025-01-22T23:11:56.067293"
         },
@@ -190,7 +190,7 @@
             "quantity": 82,
             "type": "SHORT",
             "buy_price": 12.2,
-            "current_price": 12.28,
+            "current_price": 12.14,
             "headline": "BASF shares indicated 3% lower as impairments drag earnings lower",
             "time": "2025-01-27T08:21:13.248254"
         },
@@ -262,7 +262,7 @@
             "quantity": 24,
             "type": "BUY",
             "buy_price": 43.46,
-            "current_price": 43.51,
+            "current_price": 43.18,
             "headline": "Airbus opens door to new space charge in 2024 results",
             "time": "2025-01-28T19:34:30.280741"
         },
@@ -313,14 +313,6 @@
             "current_price": 239.36,
             "headline": "Apple Stock Avoided the DeepSeek Selloff\u2014Watch These Key Price Levels",
             "time": "2025-01-29T03:12:31.058192"
-        },
-        "VLVLY": {
-            "quantity": 39,
-            "type": "SHORT",
-            "buy_price": 26.09,
-            "current_price": 26.09,
-            "headline": "Truckmaker Volvo's Q4 profit falls more than expected, raises dividend",
-            "time": "2025-01-29T07:10:05.889680"
         },
         "PGR": {
             "quantity": 5,
@@ -382,7 +374,7 @@
             "quantity": 189,
             "type": "BUY",
             "buy_price": 5.3,
-            "current_price": 5.3,
+            "current_price": 5.332,
             "headline": "Renault seeking to maximize value of Nissan shares in Honda merger, says source",
             "time": "2025-01-29T19:09:26.980705"
         },
@@ -449,6 +441,14 @@
             "current_price": 172.92,
             "headline": "Landstar stuck between cycles; Q1 guidance disappoints",
             "time": "2025-01-30T00:43:41.468753"
+        },
+        "META": {
+            "quantity": 2,
+            "type": "BUY",
+            "buy_price": 676.49,
+            "current_price": 676.49,
+            "headline": "Zuckerberg Says DeepSeek \u2018Strengthened Our Conviction' as Meta Spends Big on AI",
+            "time": "2025-01-30T03:13:06.159114"
         }
     },
     "trade_history": [
@@ -971,6 +971,16 @@
             "amount": 135,
             "time": "2025-01-29T19:09:26.158938",
             "profit": -33.07500000000002
+        },
+        {
+            "action": "SHORT",
+            "ticker": "VLVLY",
+            "headline": "Truckmaker Volvo's Q4 profit falls more than expected, raises dividend",
+            "buy_price": 26.09,
+            "sold_price": 28.06,
+            "amount": 39,
+            "time": "2025-01-30T03:13:05.486098",
+            "profit": -76.82999999999996
         }
     ],
     "value_log": [
@@ -1497,6 +1507,10 @@
         {
             "time": "2025-01-30T00:43:41.468765",
             "value": 100962.20050000004
+        },
+        {
+            "time": "2025-01-30T03:13:06.311437",
+            "value": 100885.88850000006
         }
     ]
 }
