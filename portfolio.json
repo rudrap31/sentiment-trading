@@ -1,5 +1,5 @@
 {
-    "cash": 37772.80789999998,
+    "cash": 36736.327899999975,
     "value": 100885.88850000006,
     "stocks": {
         "BAC": {
@@ -457,6 +457,14 @@
             "current_price": 1.26,
             "headline": "Philippines Growth Momentum Falters in 2024 as Risks Flare",
             "time": "2025-01-30T04:12:38.674915"
+        },
+        "SHEL": {
+            "quantity": 16,
+            "type": "BUY",
+            "buy_price": 64.78,
+            "current_price": 64.78,
+            "headline": "Shell Maintains Buyback With Extra Borrowing as Profit Drops",
+            "time": "2025-01-30T08:13:06.980227"
         }
     },
     "trade_history": [
@@ -1530,6 +1538,10 @@
         },
         {
             "time": "2025-01-30T07:10:05.102876",
+            "value": 100885.88850000006
+        },
+        {
+            "time": "2025-01-30T08:13:07.226900",
             "value": 100885.88850000006
         }
     ]
