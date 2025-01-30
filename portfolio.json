@@ -1,6 +1,6 @@
 {
-    "cash": 36736.327899999975,
-    "value": 100885.88850000006,
+    "cash": 35730.46389999997,
+    "value": 100885.88850000004,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -465,6 +465,14 @@
             "current_price": 64.78,
             "headline": "Shell Maintains Buyback With Extra Borrowing as Profit Drops",
             "time": "2025-01-30T08:13:06.980227"
+        },
+        "FQVTY": {
+            "quantity": 120,
+            "type": "BUY",
+            "buy_price": 8.3822,
+            "current_price": 8.3822,
+            "headline": "Fevertree Soars After UK Tonic Maker Signs Molson Coors Deal",
+            "time": "2025-01-30T09:10:39.473423"
         }
     },
     "trade_history": [
@@ -1543,6 +1551,10 @@
         {
             "time": "2025-01-30T08:13:07.226900",
             "value": 100885.88850000006
+        },
+        {
+            "time": "2025-01-30T09:10:39.672208",
+            "value": 100885.88850000004
         }
     ]
 }
