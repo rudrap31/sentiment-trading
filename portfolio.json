@@ -1,5 +1,5 @@
 {
-    "cash": 40223.06789999998,
+    "cash": 39185.54789999998,
     "value": 100962.20050000004,
     "stocks": {
         "BAC": {
@@ -441,6 +441,14 @@
             "current_price": 43.64,
             "headline": "Benchmark Electronics (NYSE:BHE) Posts Q4 Sales In Line With Estimates",
             "time": "2025-01-29T23:10:00.042149"
+        },
+        "LSTR": {
+            "quantity": 6,
+            "type": "SHORT",
+            "buy_price": 172.92,
+            "current_price": 172.92,
+            "headline": "Landstar stuck between cycles; Q1 guidance disappoints",
+            "time": "2025-01-30T00:43:41.468753"
         }
     },
     "trade_history": [
@@ -1484,6 +1492,10 @@
         },
         {
             "time": "2025-01-29T23:10:00.042163",
+            "value": 100962.20050000004
+        },
+        {
+            "time": "2025-01-30T00:43:41.468765",
             "value": 100962.20050000004
         }
     ]
