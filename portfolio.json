@@ -1,6 +1,6 @@
 {
     "cash": 35176.82429999997,
-    "value": 100850.94889999999,
+    "value": 100852.76889999997,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -158,7 +158,7 @@
             "quantity": 3,
             "type": "SHORT",
             "buy_price": 406.58,
-            "current_price": 400.15,
+            "current_price": 400.28,
             "headline": "Tesla's future under President Trump: Weight AI potential against slowing EV demand",
             "time": "2025-01-26T16:15:18.783619"
         },
@@ -278,7 +278,7 @@
             "quantity": 5,
             "type": "SHORT",
             "buy_price": 238.26,
-            "current_price": 237.56,
+            "current_price": 237.59,
             "headline": "Apple Stock Avoided the DeepSeek Selloff\u2014Watch These Key Price Levels",
             "time": "2025-01-29T03:12:31.058192"
         },
@@ -342,7 +342,7 @@
             "quantity": 9,
             "type": "SHORT",
             "buy_price": 121.4435,
-            "current_price": 124.91,
+            "current_price": 124.65,
             "headline": "Why Nvidia (NVDA) Shares Are Sliding Today",
             "time": "2025-01-29T19:34:36.490605"
         },
@@ -366,7 +366,7 @@
             "quantity": 2,
             "type": "BUY",
             "buy_price": 676.49,
-            "current_price": 686.99,
+            "current_price": 687,
             "headline": "Zuckerberg Says DeepSeek \u2018Strengthened Our Conviction' as Meta Spends Big on AI",
             "time": "2025-01-30T03:13:06.159114"
         },
@@ -1759,6 +1759,10 @@
         {
             "time": "2025-01-30T21:09:35.704735",
             "value": 100850.94889999999
+        },
+        {
+            "time": "2025-01-30T21:35:02.589527",
+            "value": 100852.76889999997
         }
     ]
 }
