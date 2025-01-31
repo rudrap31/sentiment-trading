@@ -1,6 +1,6 @@
 {
-    "cash": 35176.82429999997,
-    "value": 100852.76889999997,
+    "cash": 36382.82429999997,
+    "value": 101103.22889999997,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -46,7 +46,7 @@
             "quantity": 103,
             "type": "BUY",
             "buy_price": 9.79,
-            "current_price": 10.1,
+            "current_price": 10.14,
             "headline": "Volkswagen says 6% margin target for brand realistic in medium term, analyst says",
             "time": "2025-01-22T15:51:40.409259"
         },
@@ -54,7 +54,7 @@
             "quantity": 42,
             "type": "BUY",
             "buy_price": 24.12,
-            "current_price": 23.78,
+            "current_price": 24.13,
             "headline": "Fortescue\u2019s Iron Ore Exports Edge Up With Guidance Unchanged",
             "time": "2025-01-22T16:25:37.053439"
         },
@@ -62,7 +62,7 @@
             "quantity": 19,
             "type": "SHORT",
             "buy_price": 55,
-            "current_price": 54.75,
+            "current_price": 54.3,
             "headline": "Hyundai Motor Q4 profit falls 17% as discounts weigh",
             "time": "2025-01-22T21:30:46.243577"
         },
@@ -70,7 +70,7 @@
             "quantity": 124,
             "type": "BUY",
             "buy_price": 8.09,
-            "current_price": 8.16,
+            "current_price": 8.31,
             "headline": "Analysis-BA-owner IAG tipped as frontrunner in TAP sale as Europe airline consolidation warms up",
             "time": "2025-01-22T22:31:09.535271"
         },
@@ -78,7 +78,7 @@
             "quantity": 34,
             "type": "BUY",
             "buy_price": 29.45,
-            "current_price": 29.8,
+            "current_price": 29.37,
             "headline": "Australia's Qantas soars to record highs after frequent flyer programme revamp",
             "time": "2025-01-22T23:11:56.067293"
         },
@@ -166,7 +166,7 @@
             "quantity": 82,
             "type": "SHORT",
             "buy_price": 12.2,
-            "current_price": 12.14,
+            "current_price": 12.23,
             "headline": "BASF shares indicated 3% lower as impairments drag earnings lower",
             "time": "2025-01-27T08:21:13.248254"
         },
@@ -334,7 +334,7 @@
             "quantity": 189,
             "type": "BUY",
             "buy_price": 5.3,
-            "current_price": 5.332,
+            "current_price": 5.45,
             "headline": "Renault seeking to maximize value of Nissan shares in Honda merger, says source",
             "time": "2025-01-29T19:09:26.980705"
         },
@@ -374,7 +374,7 @@
             "quantity": 794,
             "type": "SHORT",
             "buy_price": 1.26,
-            "current_price": 1.26,
+            "current_price": 1.262,
             "headline": "Philippines Growth Momentum Falters in 2024 as Risks Flare",
             "time": "2025-01-30T04:12:38.674915"
         },
@@ -385,14 +385,6 @@
             "current_price": 66.65,
             "headline": "Shell Maintains Buyback With Extra Borrowing as Profit Drops",
             "time": "2025-01-30T08:13:06.980227"
-        },
-        "FQVTY": {
-            "quantity": 120,
-            "type": "BUY",
-            "buy_price": 8.3822,
-            "current_price": 8.3822,
-            "headline": "Fevertree Soars After UK Tonic Maker Signs Molson Coors Deal",
-            "time": "2025-01-30T09:10:39.473423"
         },
         "CAT": {
             "quantity": 3,
@@ -430,7 +422,7 @@
             "quantity": 188,
             "type": "BUY",
             "buy_price": 5.32,
-            "current_price": 5.32,
+            "current_price": 5.35,
             "headline": "Average rate on 30-year mortgage eases for second week in as row, but remains just below 7%",
             "time": "2025-01-30T17:10:34.588857"
         },
@@ -1133,6 +1125,16 @@
             "amount": 10,
             "time": "2025-01-30T18:42:09.910015",
             "profit": -38.29999999999998
+        },
+        {
+            "action": "BUY",
+            "ticker": "FQVTY",
+            "headline": "Fevertree Soars After UK Tonic Maker Signs Molson Coors Deal",
+            "buy_price": 8.3822,
+            "sold_price": 10.05,
+            "amount": 120,
+            "time": "2025-01-31T03:11:48.315651",
+            "profit": 200.1360000000002
         }
     ],
     "value_log": [
@@ -1779,6 +1781,10 @@
         {
             "time": "2025-01-31T02:09:24.648612",
             "value": 100852.76889999997
+        },
+        {
+            "time": "2025-01-31T03:11:49.802496",
+            "value": 101103.22889999997
         }
     ]
 }
