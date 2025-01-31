@@ -1,5 +1,5 @@
 {
-    "cash": 36382.82429999997,
+    "cash": 35335.32429999997,
     "value": 101102.26889999997,
     "stocks": {
         "BAC": {
@@ -473,6 +473,14 @@
             "current_price": 68.57,
             "headline": "The Big Airlines Lost Money Flying Passengers Last Year. So How Did They All Turn Profits?",
             "time": "2025-01-30T20:12:21.120006"
+        },
+        "NVS": {
+            "quantity": 10,
+            "type": "BUY",
+            "buy_price": 104.75,
+            "current_price": 104.75,
+            "headline": "Novartis handily beats Q4 earnings consensus",
+            "time": "2025-01-31T07:09:59.149501"
         }
     },
     "trade_history": [
@@ -1796,6 +1804,10 @@
         },
         {
             "time": "2025-01-31T06:14:21.035664",
+            "value": 101102.26889999997
+        },
+        {
+            "time": "2025-01-31T07:09:59.236206",
             "value": 101102.26889999997
         }
     ]
