@@ -1,6 +1,6 @@
 {
     "cash": 35148.85569999995,
-    "value": 100828.42429999997,
+    "value": 100780.49669999995,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -54,7 +54,7 @@
             "quantity": 42,
             "type": "BUY",
             "buy_price": 24.12,
-            "current_price": 24.13,
+            "current_price": 23.53,
             "headline": "Fortescue\u2019s Iron Ore Exports Edge Up With Guidance Unchanged",
             "time": "2025-01-22T16:25:37.053439"
         },
@@ -62,7 +62,7 @@
             "quantity": 19,
             "type": "SHORT",
             "buy_price": 55,
-            "current_price": 54.3,
+            "current_price": 54.2,
             "headline": "Hyundai Motor Q4 profit falls 17% as discounts weigh",
             "time": "2025-01-22T21:30:46.243577"
         },
@@ -70,7 +70,7 @@
             "quantity": 124,
             "type": "BUY",
             "buy_price": 8.09,
-            "current_price": 8.31,
+            "current_price": 8.3,
             "headline": "Analysis-BA-owner IAG tipped as frontrunner in TAP sale as Europe airline consolidation warms up",
             "time": "2025-01-22T22:31:09.535271"
         },
@@ -150,7 +150,7 @@
             "quantity": 82,
             "type": "SHORT",
             "buy_price": 12.2,
-            "current_price": 12.23,
+            "current_price": 12.0116,
             "headline": "BASF shares indicated 3% lower as impairments drag earnings lower",
             "time": "2025-01-27T08:21:13.248254"
         },
@@ -334,7 +334,7 @@
             "quantity": 794,
             "type": "SHORT",
             "buy_price": 1.26,
-            "current_price": 1.262,
+            "current_price": 1.28,
             "headline": "Philippines Growth Momentum Falters in 2024 as Risks Flare",
             "time": "2025-01-30T04:12:38.674915"
         },
@@ -374,7 +374,7 @@
             "quantity": 188,
             "type": "BUY",
             "buy_price": 5.32,
-            "current_price": 5.35,
+            "current_price": 5.2,
             "headline": "Average rate on 30-year mortgage eases for second week in as row, but remains just below 7%",
             "time": "2025-01-30T17:10:34.588857"
         },
@@ -454,7 +454,7 @@
             "quantity": 61,
             "type": "SHORT",
             "buy_price": 16.56,
-            "current_price": 16.56,
+            "current_price": 16.5404,
             "headline": "Fitch says MPS bid for Mediobanca carries risks, but too early to assess",
             "time": "2025-01-31T17:35:03.079051"
         },
@@ -1975,6 +1975,10 @@
         {
             "time": "2025-02-01T01:06:30.530973",
             "value": 100828.42429999997
+        },
+        {
+            "time": "2025-02-01T02:44:52.043010",
+            "value": 100780.49669999995
         }
     ]
 }
