@@ -1,6 +1,6 @@
 {
-    "cash": 36301.640699999945,
-    "value": 100988.99459999995,
+    "cash": 35199.740699999944,
+    "value": 100988.90059999996,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -462,7 +462,7 @@
             "quantity": 5,
             "type": "SHORT",
             "buy_price": 203.53,
-            "current_price": 202.642,
+            "current_price": 202.64,
             "headline": "Alphabet faces scrutiny on AI spending as Google cloud growth slows",
             "time": "2025-02-03T20:12:44.900050"
         },
@@ -470,9 +470,17 @@
             "quantity": 13,
             "type": "SHORT",
             "buy_price": 80.82,
-            "current_price": 80.182,
+            "current_price": 80.19,
             "headline": "Trump\u2019s tariffs add risk to chips and consumer stocks, investors may look to defensive plays",
             "time": "2025-02-03T20:12:44.983735"
+        },
+        "TM": {
+            "quantity": 6,
+            "type": "SHORT",
+            "buy_price": 183.65,
+            "current_price": 183.65,
+            "headline": "Auto stocks slip on fears Trump tariffs will harm industry",
+            "time": "2025-02-03T21:34:57.195514"
         }
     },
     "trade_history": [
@@ -2283,6 +2291,10 @@
         {
             "time": "2025-02-03T21:10:17.310277",
             "value": 100988.99459999995
+        },
+        {
+            "time": "2025-02-03T21:34:57.712002",
+            "value": 100988.90059999996
         }
     ]
 }
