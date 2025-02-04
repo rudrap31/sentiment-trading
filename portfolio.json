@@ -1,6 +1,6 @@
 {
     "cash": 35199.740699999944,
-    "value": 100988.90059999995,
+    "value": 101012.10499999995,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -366,7 +366,7 @@
             "quantity": 61,
             "type": "SHORT",
             "buy_price": 16.56,
-            "current_price": 16.5404,
+            "current_price": 16.16,
             "headline": "Fitch says MPS bid for Mediobanca carries risks, but too early to assess",
             "time": "2025-01-31T17:35:03.079051"
         },
@@ -2307,6 +2307,10 @@
         {
             "time": "2025-02-04T00:44:16.949267",
             "value": 100988.90059999995
+        },
+        {
+            "time": "2025-02-04T02:09:38.680191",
+            "value": 101012.10499999995
         }
     ]
 }
