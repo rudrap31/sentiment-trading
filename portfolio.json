@@ -1,6 +1,6 @@
 {
-    "cash": 37086.600699999944,
-    "value": 100882.07569999996,
+    "cash": 35055.180699999946,
+    "value": 100882.07569999994,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -465,6 +465,22 @@
             "current_price": 116.66,
             "headline": "Analysis-Europe's AI bulls pin hopes on 'Jevons Paradox' after DeepSeek rout",
             "time": "2025-02-04T06:14:41.453853"
+        },
+        "NTDOY": {
+            "quantity": 61,
+            "type": "SHORT",
+            "buy_price": 16.5,
+            "current_price": 16.5,
+            "headline": "Nintendo cuts full year Switch sales forecast to 11 million units",
+            "time": "2025-02-04T07:11:00.752560"
+        },
+        "PUBGY": {
+            "quantity": 39,
+            "type": "BUY",
+            "buy_price": 26.28,
+            "current_price": 26.28,
+            "headline": "Publicis forecasts slower 2025, remains confident on outperformance",
+            "time": "2025-02-04T07:11:00.899448"
         }
     },
     "trade_history": [
@@ -2341,6 +2357,10 @@
         {
             "time": "2025-02-04T06:14:41.576928",
             "value": 100882.07569999996
+        },
+        {
+            "time": "2025-02-04T07:11:01.174151",
+            "value": 100882.07569999994
         }
     ]
 }
