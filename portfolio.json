@@ -1,6 +1,6 @@
 {
-    "cash": 35199.740699999944,
-    "value": 101012.10499999995,
+    "cash": 38136.54069999995,
+    "value": 100882.07569999996,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -46,23 +46,15 @@
             "quantity": 103,
             "type": "BUY",
             "buy_price": 9.79,
-            "current_price": 10.1,
+            "current_price": 9.65,
             "headline": "Volkswagen says 6% margin target for brand realistic in medium term, analyst says",
             "time": "2025-01-22T15:51:40.409259"
-        },
-        "FSUGY": {
-            "quantity": 42,
-            "type": "BUY",
-            "buy_price": 24.12,
-            "current_price": 23.53,
-            "headline": "Fortescue\u2019s Iron Ore Exports Edge Up With Guidance Unchanged",
-            "time": "2025-01-22T16:25:37.053439"
         },
         "HYMTF": {
             "quantity": 19,
             "type": "SHORT",
             "buy_price": 55,
-            "current_price": 54.2,
+            "current_price": 54,
             "headline": "Hyundai Motor Q4 profit falls 17% as discounts weigh",
             "time": "2025-01-22T21:30:46.243577"
         },
@@ -70,7 +62,7 @@
             "quantity": 124,
             "type": "BUY",
             "buy_price": 8.09,
-            "current_price": 8.3,
+            "current_price": 8.43,
             "headline": "Analysis-BA-owner IAG tipped as frontrunner in TAP sale as Europe airline consolidation warms up",
             "time": "2025-01-22T22:31:09.535271"
         },
@@ -78,7 +70,7 @@
             "quantity": 34,
             "type": "BUY",
             "buy_price": 29.45,
-            "current_price": 29.2,
+            "current_price": 28.705,
             "headline": "Australia's Qantas soars to record highs after frequent flyer programme revamp",
             "time": "2025-01-22T23:11:56.067293"
         },
@@ -129,14 +121,6 @@
             "current_price": 67.18,
             "headline": "Top trading card grader: Expect 'another strong year' for collectibles",
             "time": "2025-01-26T16:15:18.491756"
-        },
-        "BASFY": {
-            "quantity": 82,
-            "type": "SHORT",
-            "buy_price": 12.2,
-            "current_price": 12.0116,
-            "headline": "BASF shares indicated 3% lower as impairments drag earnings lower",
-            "time": "2025-01-27T08:21:13.248254"
         },
         "X": {
             "quantity": 27,
@@ -190,7 +174,7 @@
             "quantity": 24,
             "type": "BUY",
             "buy_price": 43.46,
-            "current_price": 43.15,
+            "current_price": 42.78,
             "headline": "Airbus opens door to new space charge in 2024 results",
             "time": "2025-01-28T19:34:30.280741"
         },
@@ -246,7 +230,7 @@
             "quantity": 189,
             "type": "BUY",
             "buy_price": 5.3,
-            "current_price": 5.4245,
+            "current_price": 5.25,
             "headline": "Renault seeking to maximize value of Nissan shares in Honda merger, says source",
             "time": "2025-01-29T19:09:26.980705"
         },
@@ -297,14 +281,6 @@
             "current_price": 17.99,
             "headline": "Oil Rises as Weaker Dollar Provides Lift Amid Tariff Uncertainty",
             "time": "2025-01-30T16:42:46.838013"
-        },
-        "FMCC": {
-            "quantity": 188,
-            "type": "BUY",
-            "buy_price": 5.32,
-            "current_price": 5.2,
-            "headline": "Average rate on 30-year mortgage eases for second week in as row, but remains just below 7%",
-            "time": "2025-01-30T17:10:34.588857"
         },
         "HPE": {
             "quantity": 48,
@@ -1333,6 +1309,36 @@
             "amount": 4,
             "time": "2025-02-03T18:41:19.066010",
             "profit": 82.36000000000013
+        },
+        {
+            "action": "BUY",
+            "ticker": "FSUGY",
+            "headline": "Fortescue\u2019s Iron Ore Exports Edge Up With Guidance Unchanged",
+            "buy_price": 24.12,
+            "sold_price": 22.9,
+            "amount": 42,
+            "time": "2025-02-04T03:13:05.926796",
+            "profit": -51.2400000000001
+        },
+        {
+            "action": "SHORT",
+            "ticker": "BASFY",
+            "headline": "BASF shares indicated 3% lower as impairments drag earnings lower",
+            "buy_price": 12.2,
+            "sold_price": 11.48,
+            "amount": 82,
+            "time": "2025-02-04T03:13:05.926814",
+            "profit": 59.03999999999991
+        },
+        {
+            "action": "BUY",
+            "ticker": "FMCC",
+            "headline": "Average rate on 30-year mortgage eases for second week in as row, but remains just below 7%",
+            "buy_price": 5.32,
+            "sold_price": 4.87,
+            "amount": 188,
+            "time": "2025-02-04T03:13:05.926820",
+            "profit": -84.60000000000004
         }
     ],
     "value_log": [
@@ -2311,6 +2317,10 @@
         {
             "time": "2025-02-04T02:09:38.680191",
             "value": 101012.10499999995
+        },
+        {
+            "time": "2025-02-04T03:13:06.548763",
+            "value": 100882.07569999996
         }
     ]
 }
