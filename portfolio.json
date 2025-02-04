@@ -1,6 +1,6 @@
 {
-    "cash": 36482.852499999935,
-    "value": 100779.93229999991,
+    "cash": 35472.69249999993,
+    "value": 100780.1722999999,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -358,7 +358,7 @@
             "quantity": 2,
             "type": "BUY",
             "buy_price": 597.49,
-            "current_price": 601.66,
+            "current_price": 601.78,
             "headline": "Manufacturing rebound flashes bullish signal for stocks",
             "time": "2025-02-03T17:10:36.419275"
         },
@@ -473,6 +473,14 @@
             "current_price": 51.55,
             "headline": "Disney earnings preview: Parks likely to struggle amid hurricanes as investors eye streaming momentum",
             "time": "2025-02-04T21:09:43.211008"
+        },
+        "MDLZ": {
+            "quantity": 18,
+            "type": "SHORT",
+            "buy_price": 56.12,
+            "current_price": 56.12,
+            "headline": "Mondelez misses fourth-quarter revenue estimates",
+            "time": "2025-02-04T21:34:31.369623"
         }
     },
     "trade_history": [
@@ -2495,6 +2503,10 @@
         {
             "time": "2025-02-04T21:09:43.486261",
             "value": 100779.93229999991
+        },
+        {
+            "time": "2025-02-04T21:34:31.875587",
+            "value": 100780.1722999999
         }
     ]
 }
