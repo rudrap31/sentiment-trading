@@ -1,5 +1,5 @@
 {
-    "cash": 38136.54069999995,
+    "cash": 37086.600699999944,
     "value": 100882.07569999996,
     "stocks": {
         "BAC": {
@@ -457,6 +457,14 @@
             "current_price": 183.65,
             "headline": "Auto stocks slip on fears Trump tariffs will harm industry",
             "time": "2025-02-03T21:34:57.195514"
+        },
+        "NVDA": {
+            "quantity": 9,
+            "type": "BUY",
+            "buy_price": 116.66,
+            "current_price": 116.66,
+            "headline": "Analysis-Europe's AI bulls pin hopes on 'Jevons Paradox' after DeepSeek rout",
+            "time": "2025-02-04T06:14:41.453853"
         }
     },
     "trade_history": [
@@ -2328,6 +2336,10 @@
         },
         {
             "time": "2025-02-04T05:10:41.653041",
+            "value": 100882.07569999996
+        },
+        {
+            "time": "2025-02-04T06:14:41.576928",
             "value": 100882.07569999996
         }
     ]
