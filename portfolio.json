@@ -1,5 +1,5 @@
 {
-    "cash": 37509.782499999936,
+    "cash": 36493.80249999993,
     "value": 100879.72029999991,
     "stocks": {
         "BAC": {
@@ -465,6 +465,14 @@
             "current_price": 56.12,
             "headline": "Mondelez misses fourth-quarter revenue estimates",
             "time": "2025-02-04T21:34:31.369623"
+        },
+        "EQNR": {
+            "quantity": 41,
+            "type": "BUY",
+            "buy_price": 24.78,
+            "current_price": 24.78,
+            "headline": "Equinor Q4 profit beats forecast, raises 2030 oil output target",
+            "time": "2025-02-05T06:14:18.883638"
         }
     },
     "trade_history": [
@@ -2538,6 +2546,10 @@
         },
         {
             "time": "2025-02-05T05:11:10.247809",
+            "value": 100879.72029999991
+        },
+        {
+            "time": "2025-02-05T06:14:18.965169",
             "value": 100879.72029999991
         }
     ]
