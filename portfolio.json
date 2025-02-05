@@ -1,6 +1,6 @@
 {
-    "cash": 35472.69249999993,
-    "value": 100765.41029999992,
+    "cash": 37509.782499999936,
+    "value": 100841.83029999993,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -38,7 +38,7 @@
             "quantity": 103,
             "type": "BUY",
             "buy_price": 9.79,
-            "current_price": 9.65,
+            "current_price": 9.75,
             "headline": "Volkswagen says 6% margin target for brand realistic in medium term, analyst says",
             "time": "2025-01-22T15:51:40.409259"
         },
@@ -46,23 +46,15 @@
             "quantity": 19,
             "type": "SHORT",
             "buy_price": 55,
-            "current_price": 54,
+            "current_price": 53.8,
             "headline": "Hyundai Motor Q4 profit falls 17% as discounts weigh",
             "time": "2025-01-22T21:30:46.243577"
-        },
-        "ICAGY": {
-            "quantity": 124,
-            "type": "BUY",
-            "buy_price": 8.09,
-            "current_price": 8.43,
-            "headline": "Analysis-BA-owner IAG tipped as frontrunner in TAP sale as Europe airline consolidation warms up",
-            "time": "2025-01-22T22:31:09.535271"
         },
         "QABSY": {
             "quantity": 34,
             "type": "BUY",
             "buy_price": 29.45,
-            "current_price": 28.705,
+            "current_price": 29.16,
             "headline": "Australia's Qantas soars to record highs after frequent flyer programme revamp",
             "time": "2025-01-22T23:11:56.067293"
         },
@@ -218,14 +210,6 @@
             "headline": "Nvidia stock extends losses after report of potential additional curbs on China sales",
             "time": "2025-01-29T19:09:26.829830"
         },
-        "NSANY": {
-            "quantity": 189,
-            "type": "BUY",
-            "buy_price": 5.3,
-            "current_price": 5.25,
-            "headline": "Renault seeking to maximize value of Nissan shares in Honda merger, says source",
-            "time": "2025-01-29T19:09:26.980705"
-        },
         "META": {
             "quantity": 2,
             "type": "BUY",
@@ -238,7 +222,7 @@
             "quantity": 794,
             "type": "SHORT",
             "buy_price": 1.26,
-            "current_price": 1.28,
+            "current_price": 1.225,
             "headline": "Philippines Growth Momentum Falters in 2024 as Risks Flare",
             "time": "2025-01-30T04:12:38.674915"
         },
@@ -422,7 +406,7 @@
             "quantity": 61,
             "type": "SHORT",
             "buy_price": 16.5,
-            "current_price": 16.5,
+            "current_price": 16.44,
             "headline": "Nintendo cuts full year Switch sales forecast to 11 million units",
             "time": "2025-02-04T07:11:00.752560"
         },
@@ -1433,6 +1417,26 @@
             "amount": 29,
             "time": "2025-02-04T21:09:42.693674",
             "profit": -31.609999999999893
+        },
+        {
+            "action": "BUY",
+            "ticker": "ICAGY",
+            "headline": "Analysis-BA-owner IAG tipped as frontrunner in TAP sale as Europe airline consolidation warms up",
+            "buy_price": 8.09,
+            "sold_price": 8.67,
+            "amount": 124,
+            "time": "2025-02-05T03:15:05.130041",
+            "profit": 71.92000000000002
+        },
+        {
+            "action": "BUY",
+            "ticker": "NSANY",
+            "headline": "Renault seeking to maximize value of Nissan shares in Honda merger, says source",
+            "buy_price": 5.3,
+            "sold_price": 5.09,
+            "amount": 189,
+            "time": "2025-02-05T03:15:05.130067",
+            "profit": -39.68999999999999
         }
     ],
     "value_log": [
@@ -2523,6 +2527,10 @@
         {
             "time": "2025-02-05T02:10:41.594049",
             "value": 100765.41029999992
+        },
+        {
+            "time": "2025-02-05T03:15:06.103654",
+            "value": 100841.83029999993
         }
     ]
 }
