@@ -1,6 +1,6 @@
 {
     "cash": 37509.782499999936,
-    "value": 100841.83029999993,
+    "value": 100879.72029999991,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -158,7 +158,7 @@
             "quantity": 24,
             "type": "BUY",
             "buy_price": 43.46,
-            "current_price": 42.78,
+            "current_price": 43.01,
             "headline": "Airbus opens door to new space charge in 2024 results",
             "time": "2025-01-28T19:34:30.280741"
         },
@@ -414,7 +414,7 @@
             "quantity": 39,
             "type": "BUY",
             "buy_price": 26.28,
-            "current_price": 26.28,
+            "current_price": 27.11,
             "headline": "Publicis forecasts slower 2025, remains confident on outperformance",
             "time": "2025-02-04T07:11:00.899448"
         },
@@ -2531,6 +2531,10 @@
         {
             "time": "2025-02-05T03:15:06.103654",
             "value": 100841.83029999993
+        },
+        {
+            "time": "2025-02-05T04:12:52.406511",
+            "value": 100879.72029999991
         }
     ]
 }
