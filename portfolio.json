@@ -1,5 +1,5 @@
 {
-    "cash": 36493.80249999993,
+    "cash": 35419.742499999935,
     "value": 100879.72029999991,
     "stocks": {
         "BAC": {
@@ -473,6 +473,14 @@
             "current_price": 24.78,
             "headline": "Equinor Q4 profit beats forecast, raises 2030 oil output target",
             "time": "2025-02-05T06:14:18.883638"
+        },
+        "NVO": {
+            "quantity": 13,
+            "type": "BUY",
+            "buy_price": 82.62,
+            "current_price": 82.62,
+            "headline": "Novo Nordisk Q4 profit beats expectations, sees slower growth in 2025",
+            "time": "2025-02-05T07:10:41.299475"
         }
     },
     "trade_history": [
@@ -2550,6 +2558,10 @@
         },
         {
             "time": "2025-02-05T06:14:18.965169",
+            "value": 100879.72029999991
+        },
+        {
+            "time": "2025-02-05T07:10:41.674086",
             "value": 100879.72029999991
         }
     ]
