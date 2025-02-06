@@ -1,6 +1,6 @@
 {
-    "cash": 37699.867699999915,
-    "value": 101297.66609999994,
+    "cash": 37792.81769999991,
+    "value": 101334.32609999993,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -330,14 +330,6 @@
             "headline": "Trump\u2019s tariffs add risk to chips and consumer stocks, investors may look to defensive plays",
             "time": "2025-02-03T20:12:44.983735"
         },
-        "PUBGY": {
-            "quantity": 39,
-            "type": "BUY",
-            "buy_price": 26.28,
-            "current_price": 27.11,
-            "headline": "Publicis forecasts slower 2025, remains confident on outperformance",
-            "time": "2025-02-04T07:11:00.899448"
-        },
         "PFE": {
             "quantity": 39,
             "type": "SHORT",
@@ -473,6 +465,14 @@
             "current_price": 175.86,
             "headline": "Qualcomm results, forecast top expectations as AI drives smartphone sales",
             "time": "2025-02-05T21:10:32.790989"
+        },
+        "F": {
+            "quantity": 100,
+            "type": "SHORT",
+            "buy_price": 10.01,
+            "current_price": 10.01,
+            "headline": "Ford beats on Q4 results but issues muted 2025 guidance",
+            "time": "2025-02-06T04:13:22.376272"
         }
     },
     "trade_history": [
@@ -1575,6 +1575,16 @@
             "amount": 61,
             "time": "2025-02-06T03:14:14.773749",
             "profit": -45.75
+        },
+        {
+            "action": "BUY",
+            "ticker": "PUBGY",
+            "headline": "Publicis forecasts slower 2025, remains confident on outperformance",
+            "buy_price": 26.28,
+            "sold_price": 28.05,
+            "amount": 39,
+            "time": "2025-02-06T04:13:21.570681",
+            "profit": 69.02999999999999
         }
     ],
     "value_log": [
@@ -2793,6 +2803,10 @@
         {
             "time": "2025-02-06T03:14:15.463334",
             "value": 101297.66609999994
+        },
+        {
+            "time": "2025-02-06T04:13:22.887451",
+            "value": 101334.32609999993
         }
     ]
 }
