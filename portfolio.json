@@ -1,6 +1,6 @@
 {
-    "cash": 36739.117699999915,
-    "value": 101334.53609999995,
+    "cash": 37699.867699999915,
+    "value": 101297.66609999994,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -30,7 +30,7 @@
             "quantity": 103,
             "type": "BUY",
             "buy_price": 9.79,
-            "current_price": 9.75,
+            "current_price": 9.68,
             "headline": "Volkswagen says 6% margin target for brand realistic in medium term, analyst says",
             "time": "2025-01-22T15:51:40.409259"
         },
@@ -38,7 +38,7 @@
             "quantity": 19,
             "type": "SHORT",
             "buy_price": 55,
-            "current_price": 53.8,
+            "current_price": 54,
             "headline": "Hyundai Motor Q4 profit falls 17% as discounts weigh",
             "time": "2025-01-22T21:30:46.243577"
         },
@@ -46,7 +46,7 @@
             "quantity": 34,
             "type": "BUY",
             "buy_price": 29.45,
-            "current_price": 29.16,
+            "current_price": 29.68,
             "headline": "Australia's Qantas soars to record highs after frequent flyer programme revamp",
             "time": "2025-01-22T23:11:56.067293"
         },
@@ -142,7 +142,7 @@
             "quantity": 24,
             "type": "BUY",
             "buy_price": 43.46,
-            "current_price": 43.01,
+            "current_price": 43.49,
             "headline": "Airbus opens door to new space charge in 2024 results",
             "time": "2025-01-28T19:34:30.280741"
         },
@@ -190,7 +190,7 @@
             "quantity": 794,
             "type": "SHORT",
             "buy_price": 1.26,
-            "current_price": 1.225,
+            "current_price": 1.26,
             "headline": "Philippines Growth Momentum Falters in 2024 as Risks Flare",
             "time": "2025-01-30T04:12:38.674915"
         },
@@ -330,14 +330,6 @@
             "headline": "Trump\u2019s tariffs add risk to chips and consumer stocks, investors may look to defensive plays",
             "time": "2025-02-03T20:12:44.983735"
         },
-        "NTDOY": {
-            "quantity": 61,
-            "type": "SHORT",
-            "buy_price": 16.5,
-            "current_price": 16.44,
-            "headline": "Nintendo cuts full year Switch sales forecast to 11 million units",
-            "time": "2025-02-04T07:11:00.752560"
-        },
         "PUBGY": {
             "quantity": 39,
             "type": "BUY",
@@ -462,7 +454,7 @@
             "quantity": 12,
             "type": "BUY",
             "buy_price": 83.605,
-            "current_price": 83.605,
+            "current_price": 85.45,
             "headline": "Novo Nordisk 'comfortable' with impact of Medicare price negotiations for GLP-1s: CEO",
             "time": "2025-02-05T19:34:49.092919"
         },
@@ -1573,6 +1565,16 @@
             "amount": 10,
             "time": "2025-02-05T19:34:48.510072",
             "profit": 52.5
+        },
+        {
+            "action": "SHORT",
+            "ticker": "NTDOY",
+            "headline": "Nintendo cuts full year Switch sales forecast to 11 million units",
+            "buy_price": 16.5,
+            "sold_price": 17.25,
+            "amount": 61,
+            "time": "2025-02-06T03:14:14.773749",
+            "profit": -45.75
         }
     ],
     "value_log": [
@@ -2787,6 +2789,10 @@
         {
             "time": "2025-02-06T02:11:16.790246",
             "value": 101334.53609999995
+        },
+        {
+            "time": "2025-02-06T03:14:15.463334",
+            "value": 101297.66609999994
         }
     ]
 }
