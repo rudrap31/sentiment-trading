@@ -1,5 +1,5 @@
 {
-    "cash": 37860.21309999993,
+    "cash": 36666.06309999993,
     "value": 101314.4376999999,
     "stocks": {
         "BAC": {
@@ -473,6 +473,14 @@
             "current_price": 67.12,
             "headline": "Why Roblox Stock Is Tumbling After Earnings",
             "time": "2025-02-06T19:10:56.877785"
+        },
+        "AMZN": {
+            "quantity": 5,
+            "type": "SHORT",
+            "buy_price": 238.83,
+            "current_price": 238.83,
+            "headline": "Amazon reports strong earnings for Q4, but stocks dip due to guidance for the 1st quarter",
+            "time": "2025-02-06T21:34:09.321386"
         }
     },
     "trade_history": [
@@ -3012,6 +3020,10 @@
         },
         {
             "time": "2025-02-06T21:10:09.418987",
+            "value": 101314.4376999999
+        },
+        {
+            "time": "2025-02-06T21:34:09.550760",
             "value": 101314.4376999999
         }
     ]
