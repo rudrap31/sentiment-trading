@@ -1,5 +1,5 @@
 {
-    "cash": 37792.81769999991,
+    "cash": 36790.852699999916,
     "value": 101334.32609999996,
     "stocks": {
         "BAC": {
@@ -473,6 +473,14 @@
             "current_price": 10.01,
             "headline": "Ford beats on Q4 results but issues muted 2025 guidance",
             "time": "2025-02-06T04:13:22.376272"
+        },
+        "NSANY": {
+            "quantity": 199,
+            "type": "SHORT",
+            "buy_price": 5.035,
+            "current_price": 5.035,
+            "headline": "Nissan Looking for New Partner as Honda Deal Set to Collapse",
+            "time": "2025-02-06T06:14:53.011816"
         }
     },
     "trade_history": [
@@ -2810,6 +2818,10 @@
         },
         {
             "time": "2025-02-06T05:11:28.418101",
+            "value": 101334.32609999996
+        },
+        {
+            "time": "2025-02-06T06:14:53.095502",
             "value": 101334.32609999996
         }
     ]
