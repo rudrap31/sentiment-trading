@@ -1,12 +1,12 @@
 {
     "cash": 37604.94109999994,
-    "value": 101324.79609999993,
+    "value": 101356.89359999994,
     "stocks": {
         "BAC": {
             "quantity": 22,
             "type": "BUY",
             "buy_price": 45.985,
-            "current_price": 47.555,
+            "current_price": 47.6,
             "headline": "Baltimore Orioles owner wants a salary cap in the MLB, says the business community is hopeful under Trump",
             "time": "2025-01-22T10:19:33.355468"
         },
@@ -14,7 +14,7 @@
             "quantity": 5,
             "type": "BUY",
             "buy_price": 200.93,
-            "current_price": 203.27,
+            "current_price": 203.21,
             "headline": "Discover Financial fourth-quarter profit jumps on lower loan loss provisions",
             "time": "2025-01-22T14:48:01.711466"
         },
@@ -22,7 +22,7 @@
             "quantity": 2,
             "type": "BUY",
             "buy_price": 510.96,
-            "current_price": 519.4,
+            "current_price": 519,
             "headline": "Asian Stocks to Trend Higher After S&P 500 Surges: Markets Wrap",
             "time": "2025-01-22T15:19:03.116702"
         },
@@ -62,7 +62,7 @@
             "quantity": 5,
             "type": "BUY",
             "buy_price": 234.95,
-            "current_price": 239.975,
+            "current_price": 240.48,
             "headline": "US fintech firm Broadridge to boost India headcount by 26% in 3 years, top exec says",
             "time": "2025-01-23T03:08:01.758157"
         },
@@ -70,7 +70,7 @@
             "quantity": 5,
             "type": "BUY",
             "buy_price": 244.87,
-            "current_price": 241.62,
+            "current_price": 241.31,
             "headline": "Union Pacific delivers 7% more profit as investors get good view of industry with CSX also reporting",
             "time": "2025-01-23T06:32:32.352257"
         },
@@ -78,7 +78,7 @@
             "quantity": 17,
             "type": "SHORT",
             "buy_price": 61.56,
-            "current_price": 62.105,
+            "current_price": 62.015,
             "headline": "Rio Tinto Sees Lower First-Quarter Iron Ore Exports After Storm",
             "time": "2025-01-23T14:58:51.442785"
         },
@@ -86,7 +86,7 @@
             "quantity": 26,
             "type": "BUY",
             "buy_price": 39.84,
-            "current_price": 39.875,
+            "current_price": 39.885,
             "headline": "Verizon Beats Investor Outlook With Mobile, Broadband Gains",
             "time": "2025-01-24T08:40:59.700359"
         },
@@ -94,7 +94,7 @@
             "quantity": 3,
             "type": "SHORT",
             "buy_price": 367.48,
-            "current_price": 356.6817,
+            "current_price": 355.495,
             "headline": "Trane Technologies (TT) Stock Trades Down, Here Is Why",
             "time": "2025-01-27T19:13:01.165204"
         },
@@ -102,7 +102,7 @@
             "quantity": 81,
             "type": "BUY",
             "buy_price": 12.45,
-            "current_price": 12.505,
+            "current_price": 12.535,
             "headline": "MUFG Shares Close at Record High as Banks Gain on BOJ Rate Hike",
             "time": "2025-01-28T07:13:05.821619"
         },
@@ -110,7 +110,7 @@
             "quantity": 4,
             "type": "BUY",
             "buy_price": 265.85,
-            "current_price": 276.59,
+            "current_price": 276.13,
             "headline": "Wall Street hopes to get rid of a bad Elon Musk bet",
             "time": "2025-01-28T09:11:27.826811"
         },
@@ -118,7 +118,7 @@
             "quantity": 20,
             "type": "SHORT",
             "buy_price": 52.1,
-            "current_price": 53.12,
+            "current_price": 53.18,
             "headline": "Exclusive-HSBC to wind down M&A and ECM capabilities in Europe, UK & Americas, memo shows",
             "time": "2025-01-28T09:11:28.030988"
         },
@@ -126,7 +126,7 @@
             "quantity": 14,
             "type": "SHORT",
             "buy_price": 73.64,
-            "current_price": 71.13,
+            "current_price": 71.09,
             "headline": "Food supplier Sysco keeps full-year forecasts unchanged despite quarterly beat",
             "time": "2025-01-28T15:12:18.062865"
         },
@@ -142,7 +142,7 @@
             "quantity": 3,
             "type": "SHORT",
             "buy_price": 460.8,
-            "current_price": 448.52,
+            "current_price": 448.3323,
             "headline": "Why Lockheed Martin (LMT) Stock Is Down Today",
             "time": "2025-01-28T20:12:45.592194"
         },
@@ -150,7 +150,7 @@
             "quantity": 9,
             "type": "SHORT",
             "buy_price": 120.45,
-            "current_price": 117.58,
+            "current_price": 117.28,
             "headline": "Southern California softness cited for 2024 drop in logistics real estate rents",
             "time": "2025-01-28T20:35:24.009643"
         },
@@ -158,7 +158,7 @@
             "quantity": 5,
             "type": "BUY",
             "buy_price": 247.65,
-            "current_price": 251.61,
+            "current_price": 251.365,
             "headline": "Progressive's quarterly profit rises on strong insurance demand",
             "time": "2025-01-29T15:11:54.089725"
         },
@@ -166,7 +166,7 @@
             "quantity": 5,
             "type": "BUY",
             "buy_price": 237.925,
-            "current_price": 248.64,
+            "current_price": 247.1,
             "headline": "T-Mobile Shares Jump 9% on Subscriber Gains, Upbeat Outlook",
             "time": "2025-01-29T17:36:03.770766"
         },
@@ -174,7 +174,7 @@
             "quantity": 2,
             "type": "SHORT",
             "buy_price": 518.5599,
-            "current_price": 523.75,
+            "current_price": 522.89,
             "headline": "Nvidia stock extends losses after report of potential additional curbs on China sales",
             "time": "2025-01-29T19:09:26.829830"
         },
@@ -182,7 +182,7 @@
             "quantity": 16,
             "type": "BUY",
             "buy_price": 64.78,
-            "current_price": 66.25,
+            "current_price": 66.23,
             "headline": "Shell Maintains Buyback With Extra Borrowing as Profit Drops",
             "time": "2025-01-30T08:13:06.980227"
         },
@@ -190,7 +190,7 @@
             "quantity": 3,
             "type": "SHORT",
             "buy_price": 375.94,
-            "current_price": 363.12,
+            "current_price": 362.69,
             "headline": "Caterpillar Shares Fall Most in 3 Months on Lower Sales Outlook",
             "time": "2025-01-30T15:11:59.081430"
         },
@@ -214,7 +214,7 @@
             "quantity": 48,
             "type": "SHORT",
             "buy_price": 20.95,
-            "current_price": 21.195,
+            "current_price": 21.165,
             "headline": "US DOJ sues to block Hewlett Packard Enterprise's $14 billion Juniper deal",
             "time": "2025-01-30T17:36:49.805897"
         },
@@ -222,7 +222,7 @@
             "quantity": 4,
             "type": "BUY",
             "buy_price": 256.51,
-            "current_price": 252.94,
+            "current_price": 252.38,
             "headline": "Watch These IBM Price Levels as Stock Soars After AI Drives Strong Earnings",
             "time": "2025-01-30T19:09:08.297624"
         },
@@ -230,7 +230,7 @@
             "quantity": 1,
             "type": "SHORT",
             "buy_price": 1058.315,
-            "current_price": 1035.06,
+            "current_price": 1033.5,
             "headline": "Why W.W. Grainger (GWW) Shares Are Getting Obliterated Today",
             "time": "2025-01-31T18:16:36.962619"
         },
@@ -238,7 +238,7 @@
             "quantity": 12,
             "type": "BUY",
             "buy_price": 86.39,
-            "current_price": 86.37,
+            "current_price": 86.4994,
             "headline": "Colgate looking to reduce the impact of possible tariffs on toothpaste made in Mexico",
             "time": "2025-01-31T18:41:15.368775"
         },
@@ -246,7 +246,7 @@
             "quantity": 3,
             "type": "BUY",
             "buy_price": 391.035,
-            "current_price": 392.1513,
+            "current_price": 391.465,
             "headline": "Stryker (NYSE:SYK) Posts Better-Than-Expected Sales In Q4",
             "time": "2025-01-31T20:34:42.946181"
         },
@@ -254,7 +254,7 @@
             "quantity": 11,
             "type": "BUY",
             "buy_price": 96.06,
-            "current_price": 99.13,
+            "current_price": 99.19,
             "headline": "Gold Rises to Fresh Record as Trump Tariffs Trigger Haven Demand",
             "time": "2025-02-03T15:36:39.516401"
         },
@@ -262,7 +262,7 @@
             "quantity": 2,
             "type": "BUY",
             "buy_price": 597.49,
-            "current_price": 601.28,
+            "current_price": 600.71,
             "headline": "Manufacturing rebound flashes bullish signal for stocks",
             "time": "2025-02-03T17:10:36.419275"
         },
@@ -270,7 +270,7 @@
             "quantity": 13,
             "type": "SHORT",
             "buy_price": 80.82,
-            "current_price": 82.48,
+            "current_price": 82.09,
             "headline": "Trump\u2019s tariffs add risk to chips and consumer stocks, investors may look to defensive plays",
             "time": "2025-02-03T20:12:44.983735"
         },
@@ -278,7 +278,7 @@
             "quantity": 39,
             "type": "SHORT",
             "buy_price": 26.195,
-            "current_price": 25.66,
+            "current_price": 25.675,
             "headline": "Pfizer beats Q4, FY '24 earnings estimates, stock flat in early trading",
             "time": "2025-02-04T15:12:01.703999"
         },
@@ -286,7 +286,7 @@
             "quantity": 7,
             "type": "BUY",
             "buy_price": 152.79,
-            "current_price": 153.425,
+            "current_price": 153.42,
             "headline": "Venezuela oil exports rise on Chevron's cargoes, more supply to China",
             "time": "2025-02-04T18:15:36.468992"
         },
@@ -294,7 +294,7 @@
             "quantity": 7,
             "type": "SHORT",
             "buy_price": 148.88,
-            "current_price": 148.16,
+            "current_price": 147.9,
             "headline": "Why Clorox (CLX) Shares Are Getting Obliterated Today",
             "time": "2025-02-04T20:36:14.492826"
         },
@@ -302,7 +302,7 @@
             "quantity": 20,
             "type": "SHORT",
             "buy_price": 51.55,
-            "current_price": 49.99,
+            "current_price": 50.1,
             "headline": "Disney earnings preview: Parks likely to struggle amid hurricanes as investors eye streaming momentum",
             "time": "2025-02-04T21:09:43.211008"
         },
@@ -310,7 +310,7 @@
             "quantity": 3,
             "type": "SHORT",
             "buy_price": 383.01,
-            "current_price": 365.79,
+            "current_price": 364.09,
             "headline": "Tesla sees German car sales plunge in January",
             "time": "2025-02-05T15:12:08.992857"
         },
@@ -318,7 +318,7 @@
             "quantity": 101,
             "type": "BUY",
             "buy_price": 9.96,
-            "current_price": 10.225,
+            "current_price": 10.19,
             "headline": "Disney price hikes help fuel earnings growth as streaming business posts profit",
             "time": "2025-02-05T15:12:09.112980"
         },
@@ -326,7 +326,7 @@
             "quantity": 15,
             "type": "SHORT",
             "buy_price": 70.7799,
-            "current_price": 69.535,
+            "current_price": 69.56,
             "headline": "Bunge Sees Profits Shrinking as Trade War Adds Uncertainty",
             "time": "2025-02-05T15:12:09.208072"
         },
@@ -334,7 +334,7 @@
             "quantity": 909,
             "type": "SHORT",
             "buy_price": 1.1011,
-            "current_price": 1.08,
+            "current_price": 1.075,
             "headline": "Polestar's CEO: 'Serious' tariff obstacles will limit product choice",
             "time": "2025-02-05T15:37:48.713881"
         },
@@ -342,7 +342,7 @@
             "quantity": 6,
             "type": "BUY",
             "buy_price": 192.3894,
-            "current_price": 187.35,
+            "current_price": 187.58,
             "headline": "Nvidia stock pops as Big Tech spending boom cools DeepSeek fears",
             "time": "2025-02-05T18:15:35.149784"
         },
@@ -350,7 +350,7 @@
             "quantity": 93,
             "type": "SHORT",
             "buy_price": 10.77,
-            "current_price": 10.955,
+            "current_price": 10.915,
             "headline": "Why Snap (SNAP) Stock Is Falling Today",
             "time": "2025-02-05T18:42:53.130222"
         },
@@ -366,7 +366,7 @@
             "quantity": 2,
             "type": "SHORT",
             "buy_price": 540.28,
-            "current_price": 529.8454,
+            "current_price": 529.31,
             "headline": "UnitedHealth raises concerns over Bill Ackman's post on X with SEC",
             "time": "2025-02-05T20:37:37.436329"
         },
@@ -374,7 +374,7 @@
             "quantity": 108,
             "type": "SHORT",
             "buy_price": 9.3267,
-            "current_price": 9.275,
+            "current_price": 9.27,
             "headline": "Ford Stock Drops as Automaker Projects Lower Earnings, Offsetting Upbeat Q4 Results",
             "time": "2025-02-06T15:12:10.882089"
         },
@@ -382,7 +382,7 @@
             "quantity": 13,
             "type": "BUY",
             "buy_price": 81.19,
-            "current_price": 81.75,
+            "current_price": 81.72,
             "headline": "Oil Reverses Gains as Trump Pledges to Drive Crude Prices Down",
             "time": "2025-02-06T15:38:12.688441"
         },
@@ -390,7 +390,7 @@
             "quantity": 21,
             "type": "SHORT",
             "buy_price": 48.09,
-            "current_price": 47.325,
+            "current_price": 47.375,
             "headline": "Ford CEO urges Trump not to 'cherry-pick' tariffs as auto industry faces multibillion dollar threat",
             "time": "2025-02-06T16:12:44.777933"
         },
@@ -406,7 +406,7 @@
             "quantity": 4,
             "type": "SHORT",
             "buy_price": 250.225,
-            "current_price": 247.77,
+            "current_price": 246.765,
             "headline": "Equifax reports Q4 revenue below estimates on slower hiring, shares fall",
             "time": "2025-02-06T16:42:07.442000"
         },
@@ -414,7 +414,7 @@
             "quantity": 4,
             "type": "SHORT",
             "buy_price": 286.255,
-            "current_price": 287.8012,
+            "current_price": 285.17,
             "headline": "Why Molina Healthcare (MOH) Stock Is Falling Today",
             "time": "2025-02-06T18:42:32.995966"
         },
@@ -422,7 +422,7 @@
             "quantity": 5,
             "type": "SHORT",
             "buy_price": 238.83,
-            "current_price": 229.31,
+            "current_price": 228.6694,
             "headline": "Amazon reports strong earnings for Q4, but stocks dip due to guidance for the 1st quarter",
             "time": "2025-02-06T21:34:09.321386"
         },
@@ -454,7 +454,7 @@
             "quantity": 7,
             "type": "BUY",
             "buy_price": 166.04,
-            "current_price": 169.2176,
+            "current_price": 168.78,
             "headline": "Cloudflare Shares Jump Most in Almost a Year on Sales Growth",
             "time": "2025-02-07T16:13:49.828971"
         },
@@ -462,7 +462,7 @@
             "quantity": 14,
             "type": "BUY",
             "buy_price": 74.86,
-            "current_price": 74.685,
+            "current_price": 74.44,
             "headline": "Affirm's 0% loans, cards, chart a path to profitability",
             "time": "2025-02-07T16:13:49.917695"
         },
@@ -470,7 +470,7 @@
             "quantity": 28,
             "type": "SHORT",
             "buy_price": 36.53,
-            "current_price": 36.24,
+            "current_price": 36.14,
             "headline": "Universal Logistics Holdings forecasts lower 2025 earnings",
             "time": "2025-02-07T18:42:46.846870"
         }
@@ -3179,6 +3179,10 @@
         {
             "time": "2025-02-07T19:09:18.244320",
             "value": 101324.79609999993
+        },
+        {
+            "time": "2025-02-07T19:34:32.043430",
+            "value": 101356.89359999994
         }
     ]
 }
