@@ -1,5 +1,5 @@
 {
-    "cash": 37555.485099999925,
+    "cash": 36554.64509999993,
     "value": 101339.23469999991,
     "stocks": {
         "BAC": {
@@ -473,6 +473,14 @@
             "current_price": 79.56,
             "headline": "BYD Shares Soar 20% This Week as Traders Await Autopilot Update",
             "time": "2025-02-07T05:10:48.084967"
+        },
+        "POAHY": {
+            "quantity": 262,
+            "type": "SHORT",
+            "buy_price": 3.82,
+            "current_price": 3.82,
+            "headline": "Porsche shares tumble as carmaker warns cost of new models to dent 2025 margins",
+            "time": "2025-02-07T09:10:41.138446"
         }
     },
     "trade_history": [
@@ -3082,6 +3090,10 @@
         },
         {
             "time": "2025-02-07T08:14:12.631508",
+            "value": 101339.23469999991
+        },
+        {
+            "time": "2025-02-07T09:10:41.138455",
             "value": 101339.23469999991
         }
     ]
