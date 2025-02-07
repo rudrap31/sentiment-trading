@@ -1,6 +1,6 @@
 {
-    "cash": 36666.06309999993,
-    "value": 101314.4376999999,
+    "cash": 38714.20509999993,
+    "value": 101347.70969999989,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -178,14 +178,6 @@
             "headline": "Nvidia stock extends losses after report of potential additional curbs on China sales",
             "time": "2025-01-29T19:09:26.829830"
         },
-        "MTPOF": {
-            "quantity": 794,
-            "type": "SHORT",
-            "buy_price": 1.26,
-            "current_price": 1.26,
-            "headline": "Philippines Growth Momentum Falters in 2024 as Risks Flare",
-            "time": "2025-01-30T04:12:38.674915"
-        },
         "SHEL": {
             "quantity": 16,
             "type": "BUY",
@@ -233,14 +225,6 @@
             "current_price": 253.44,
             "headline": "Watch These IBM Price Levels as Stock Soars After AI Drives Strong Earnings",
             "time": "2025-01-30T19:09:08.297624"
-        },
-        "MDIBY": {
-            "quantity": 61,
-            "type": "SHORT",
-            "buy_price": 16.56,
-            "current_price": 16.49,
-            "headline": "Fitch says MPS bid for Mediobanca carries risks, but too early to assess",
-            "time": "2025-01-31T17:35:03.079051"
         },
         "GWW": {
             "quantity": 1,
@@ -1703,6 +1687,26 @@
             "amount": 6,
             "time": "2025-02-06T19:34:50.972304",
             "profit": -33.11999999999989
+        },
+        {
+            "action": "SHORT",
+            "ticker": "MTPOF",
+            "headline": "Philippines Growth Momentum Falters in 2024 as Risks Flare",
+            "buy_price": 1.26,
+            "sold_price": 1.172,
+            "amount": 794,
+            "time": "2025-02-07T02:11:49.677956",
+            "profit": 69.87200000000006
+        },
+        {
+            "action": "SHORT",
+            "ticker": "MDIBY",
+            "headline": "Fitch says MPS bid for Mediobanca carries risks, but too early to assess",
+            "buy_price": 16.56,
+            "sold_price": 17.09,
+            "amount": 61,
+            "time": "2025-02-07T02:11:49.677970",
+            "profit": -32.33000000000007
         }
     ],
     "value_log": [
@@ -3037,6 +3041,10 @@
         {
             "time": "2025-02-07T00:44:30.067030",
             "value": 101314.4376999999
+        },
+        {
+            "time": "2025-02-07T02:11:50.129132",
+            "value": 101347.70969999989
         }
     ]
 }
