@@ -1,5 +1,5 @@
 {
-    "cash": 38589.765099999924,
+    "cash": 37555.485099999925,
     "value": 101339.23469999991,
     "stocks": {
         "BAC": {
@@ -465,6 +465,14 @@
             "current_price": 87.98,
             "headline": "Tokyo Electron Shares Drop After Chip Market Outlook Disappoints",
             "time": "2025-02-07T04:12:58.629226"
+        },
+        "BYDDY": {
+            "quantity": 13,
+            "type": "BUY",
+            "buy_price": 79.56,
+            "current_price": 79.56,
+            "headline": "BYD Shares Soar 20% This Week as Traders Await Autopilot Update",
+            "time": "2025-02-07T05:10:48.084967"
         }
     },
     "trade_history": [
@@ -3058,6 +3066,10 @@
         },
         {
             "time": "2025-02-07T04:12:58.869448",
+            "value": 101339.23469999991
+        },
+        {
+            "time": "2025-02-07T05:10:48.239860",
             "value": 101339.23469999991
         }
     ]
