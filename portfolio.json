@@ -1,6 +1,6 @@
 {
-    "cash": 37764.48889999993,
-    "value": 101345.33179999996,
+    "cash": 36762.48889999993,
+    "value": 101345.11179999993,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -174,7 +174,7 @@
             "quantity": 2,
             "type": "SHORT",
             "buy_price": 518.5599,
-            "current_price": 522.91,
+            "current_price": 522.92,
             "headline": "Nvidia stock extends losses after report of potential additional curbs on China sales",
             "time": "2025-01-29T19:09:26.829830"
         },
@@ -262,7 +262,7 @@
             "quantity": 2,
             "type": "BUY",
             "buy_price": 597.49,
-            "current_price": 600.87,
+            "current_price": 600.77,
             "headline": "Manufacturing rebound flashes bullish signal for stocks",
             "time": "2025-02-03T17:10:36.419275"
         },
@@ -473,6 +473,14 @@
             "current_price": 74.6,
             "headline": "Uber (UBER) Shares Skyrocket, What You Need To Know",
             "time": "2025-02-07T21:09:21.083649"
+        },
+        "TTAM": {
+            "quantity": 60,
+            "type": "BUY",
+            "buy_price": 16.7,
+            "current_price": 16.7,
+            "headline": "Cement Maker Titan\u2019s US Unit Shares Climb After $384 Million\u00a0IPO",
+            "time": "2025-02-07T21:34:19.868914"
         }
     },
     "trade_history": [
@@ -3215,6 +3223,10 @@
         {
             "time": "2025-02-07T21:09:21.309783",
             "value": 101345.33179999996
+        },
+        {
+            "time": "2025-02-07T21:34:20.218090",
+            "value": 101345.11179999993
         }
     ]
 }
