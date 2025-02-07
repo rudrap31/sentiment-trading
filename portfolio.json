@@ -1,6 +1,6 @@
 {
-    "cash": 38714.20509999993,
-    "value": 101347.70969999989,
+    "cash": 38589.765099999924,
+    "value": 101339.23469999991,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -30,7 +30,7 @@
             "quantity": 103,
             "type": "BUY",
             "buy_price": 9.79,
-            "current_price": 9.68,
+            "current_price": 9.87,
             "headline": "Volkswagen says 6% margin target for brand realistic in medium term, analyst says",
             "time": "2025-01-22T15:51:40.409259"
         },
@@ -38,7 +38,7 @@
             "quantity": 19,
             "type": "SHORT",
             "buy_price": 55,
-            "current_price": 54,
+            "current_price": 54.3,
             "headline": "Hyundai Motor Q4 profit falls 17% as discounts weigh",
             "time": "2025-01-22T21:30:46.243577"
         },
@@ -46,7 +46,7 @@
             "quantity": 34,
             "type": "BUY",
             "buy_price": 29.45,
-            "current_price": 29.68,
+            "current_price": 29.97,
             "headline": "Australia's Qantas soars to record highs after frequent flyer programme revamp",
             "time": "2025-01-22T23:11:56.067293"
         },
@@ -366,7 +366,7 @@
             "quantity": 12,
             "type": "BUY",
             "buy_price": 83.605,
-            "current_price": 85.45,
+            "current_price": 87,
             "headline": "Novo Nordisk 'comfortable' with impact of Medicare price negotiations for GLP-1s: CEO",
             "time": "2025-02-05T19:34:49.092919"
         },
@@ -377,14 +377,6 @@
             "current_price": 530.04,
             "headline": "UnitedHealth raises concerns over Bill Ackman's post on X with SEC",
             "time": "2025-02-05T20:37:37.436329"
-        },
-        "NSANY": {
-            "quantity": 199,
-            "type": "SHORT",
-            "buy_price": 5.035,
-            "current_price": 5.035,
-            "headline": "Nissan Looking for New Partner as Honda Deal Set to Collapse",
-            "time": "2025-02-06T06:14:53.011816"
         },
         "F": {
             "quantity": 108,
@@ -422,7 +414,7 @@
             "quantity": 31,
             "type": "SHORT",
             "buy_price": 32.46,
-            "current_price": 32.46,
+            "current_price": 31.82,
             "headline": "Arm Gives Muted Forecast, Spurring Concerns of AI Slowdown",
             "time": "2025-02-06T16:12:45.086338"
         },
@@ -465,6 +457,14 @@
             "current_price": 238.83,
             "headline": "Amazon reports strong earnings for Q4, but stocks dip due to guidance for the 1st quarter",
             "time": "2025-02-06T21:34:09.321386"
+        },
+        "TOELY": {
+            "quantity": 12,
+            "type": "SHORT",
+            "buy_price": 87.98,
+            "current_price": 87.98,
+            "headline": "Tokyo Electron Shares Drop After Chip Market Outlook Disappoints",
+            "time": "2025-02-07T04:12:58.629226"
         }
     },
     "trade_history": [
@@ -1707,6 +1707,16 @@
             "amount": 61,
             "time": "2025-02-07T02:11:49.677970",
             "profit": -32.33000000000007
+        },
+        {
+            "action": "SHORT",
+            "ticker": "NSANY",
+            "headline": "Nissan Looking for New Partner as Honda Deal Set to Collapse",
+            "buy_price": 5.035,
+            "sold_price": 5.39,
+            "amount": 199,
+            "time": "2025-02-07T04:12:57.865101",
+            "profit": -70.64499999999991
         }
     ],
     "value_log": [
@@ -3045,6 +3055,10 @@
         {
             "time": "2025-02-07T02:11:50.129132",
             "value": 101347.70969999989
+        },
+        {
+            "time": "2025-02-07T04:12:58.869448",
+            "value": 101339.23469999991
         }
     ]
 }
