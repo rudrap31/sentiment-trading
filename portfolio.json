@@ -1,5 +1,5 @@
 {
-    "cash": 37966.538899999934,
+    "cash": 36966.16889999993,
     "value": 101446.33579999991,
     "stocks": {
         "BAC": {
@@ -473,6 +473,14 @@
             "current_price": 13.88,
             "headline": "Struggling audio company Sonos says it\u2019s turning things around. Are customers listening?",
             "time": "2025-02-08T18:17:11.782600"
+        },
+        "BP": {
+            "quantity": 31,
+            "type": "BUY",
+            "buy_price": 32.27,
+            "current_price": 32.27,
+            "headline": "Activist Elliott said to build stake in struggling oil major BP",
+            "time": "2025-02-08T20:14:03.454974"
         }
     },
     "trade_history": [
@@ -3286,6 +3294,10 @@
         },
         {
             "time": "2025-02-08T18:17:11.782610",
+            "value": 101446.33579999991
+        },
+        {
+            "time": "2025-02-08T20:14:03.586132",
             "value": 101446.33579999991
         }
     ]
