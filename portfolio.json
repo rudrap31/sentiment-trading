@@ -1,6 +1,6 @@
 {
-    "cash": 37861.37889999993,
-    "value": 101439.13179999992,
+    "cash": 38979.77889999993,
+    "value": 101446.33579999991,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -30,7 +30,7 @@
             "quantity": 103,
             "type": "BUY",
             "buy_price": 9.79,
-            "current_price": 9.87,
+            "current_price": 9.61,
             "headline": "Volkswagen says 6% margin target for brand realistic in medium term, analyst says",
             "time": "2025-01-22T15:51:40.409259"
         },
@@ -46,7 +46,7 @@
             "quantity": 34,
             "type": "BUY",
             "buy_price": 29.45,
-            "current_price": 29.97,
+            "current_price": 29.426,
             "headline": "Australia's Qantas soars to record highs after frequent flyer programme revamp",
             "time": "2025-01-22T23:11:56.067293"
         },
@@ -134,7 +134,7 @@
             "quantity": 24,
             "type": "BUY",
             "buy_price": 43.46,
-            "current_price": 43.5,
+            "current_price": 42.82,
             "headline": "Airbus opens door to new space charge in 2024 results",
             "time": "2025-01-28T19:34:30.280741"
         },
@@ -350,7 +350,7 @@
             "quantity": 12,
             "type": "BUY",
             "buy_price": 83.605,
-            "current_price": 87,
+            "current_price": 85.5,
             "headline": "Novo Nordisk 'comfortable' with impact of Medicare price negotiations for GLP-1s: CEO",
             "time": "2025-02-05T19:34:49.092919"
         },
@@ -390,7 +390,7 @@
             "quantity": 31,
             "type": "SHORT",
             "buy_price": 32.46,
-            "current_price": 31.82,
+            "current_price": 31.18,
             "headline": "Arm Gives Muted Forecast, Spurring Concerns of AI Slowdown",
             "time": "2025-02-06T16:12:45.086338"
         },
@@ -417,14 +417,6 @@
             "current_price": 229.15,
             "headline": "Amazon reports strong earnings for Q4, but stocks dip due to guidance for the 1st quarter",
             "time": "2025-02-06T21:34:09.321386"
-        },
-        "TOELY": {
-            "quantity": 12,
-            "type": "SHORT",
-            "buy_price": 87.98,
-            "current_price": 88.34,
-            "headline": "Tokyo Electron Shares Drop After Chip Market Outlook Disappoints",
-            "time": "2025-02-07T04:12:58.629226"
         },
         "POAHY": {
             "quantity": 262,
@@ -1795,6 +1787,16 @@
             "amount": 13,
             "time": "2025-02-08T02:40:09.233313",
             "profit": 64.60999999999999
+        },
+        {
+            "action": "SHORT",
+            "ticker": "TOELY",
+            "headline": "Tokyo Electron Shares Drop After Chip Market Outlook Disappoints",
+            "buy_price": 87.98,
+            "sold_price": 82.76,
+            "amount": 12,
+            "time": "2025-02-08T04:16:24.757682",
+            "profit": 62.639999999999986
         }
     ],
     "value_log": [
@@ -3245,6 +3247,10 @@
         {
             "time": "2025-02-08T02:40:09.644227",
             "value": 101439.13179999992
+        },
+        {
+            "time": "2025-02-08T04:16:25.661402",
+            "value": 101446.33579999991
         }
     ]
 }
