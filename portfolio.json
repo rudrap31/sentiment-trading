@@ -1,5 +1,5 @@
 {
-    "cash": 38979.77889999993,
+    "cash": 37966.538899999934,
     "value": 101446.33579999991,
     "stocks": {
         "BAC": {
@@ -465,6 +465,14 @@
             "current_price": 16.7,
             "headline": "Cement Maker Titan\u2019s US Unit Shares Climb After $384 Million\u00a0IPO",
             "time": "2025-02-07T21:34:19.868914"
+        },
+        "SONO": {
+            "quantity": 73,
+            "type": "BUY",
+            "buy_price": 13.88,
+            "current_price": 13.88,
+            "headline": "Struggling audio company Sonos says it\u2019s turning things around. Are customers listening?",
+            "time": "2025-02-08T18:17:11.782600"
         }
     },
     "trade_history": [
@@ -3274,6 +3282,10 @@
         },
         {
             "time": "2025-02-08T16:15:12.733650",
+            "value": 101446.33579999991
+        },
+        {
+            "time": "2025-02-08T18:17:11.782610",
             "value": 101446.33579999991
         }
     ]
