@@ -1,6 +1,6 @@
 {
-    "cash": 36762.48889999993,
-    "value": 101345.11179999993,
+    "cash": 37861.37889999993,
+    "value": 101439.13179999992,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -38,7 +38,7 @@
             "quantity": 19,
             "type": "SHORT",
             "buy_price": 55,
-            "current_price": 54.3,
+            "current_price": 54,
             "headline": "Hyundai Motor Q4 profit falls 17% as discounts weigh",
             "time": "2025-01-22T21:30:46.243577"
         },
@@ -426,19 +426,11 @@
             "headline": "Tokyo Electron Shares Drop After Chip Market Outlook Disappoints",
             "time": "2025-02-07T04:12:58.629226"
         },
-        "BYDDY": {
-            "quantity": 13,
-            "type": "BUY",
-            "buy_price": 79.56,
-            "current_price": 79.55,
-            "headline": "BYD Shares Soar 20% This Week as Traders Await Autopilot Update",
-            "time": "2025-02-07T05:10:48.084967"
-        },
         "POAHY": {
             "quantity": 262,
             "type": "SHORT",
             "buy_price": 3.82,
-            "current_price": 3.81,
+            "current_price": 3.72,
             "headline": "Porsche shares tumble as carmaker warns cost of new models to dent 2025 margins",
             "time": "2025-02-07T09:10:41.138446"
         },
@@ -1793,6 +1785,16 @@
             "amount": 28,
             "time": "2025-02-07T21:09:20.648847",
             "profit": 56.0
+        },
+        {
+            "action": "BUY",
+            "ticker": "BYDDY",
+            "headline": "BYD Shares Soar 20% This Week as Traders Await Autopilot Update",
+            "buy_price": 79.56,
+            "sold_price": 84.53,
+            "amount": 13,
+            "time": "2025-02-08T02:40:09.233313",
+            "profit": 64.60999999999999
         }
     ],
     "value_log": [
@@ -3239,6 +3241,10 @@
         {
             "time": "2025-02-08T01:01:42.779203",
             "value": 101345.11179999993
+        },
+        {
+            "time": "2025-02-08T02:40:09.644227",
+            "value": 101439.13179999992
         }
     ]
 }
