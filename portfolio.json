@@ -1,6 +1,6 @@
 {
     "cash": 36966.16889999993,
-    "value": 101446.33579999991,
+    "value": 101448.8157999999,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -390,7 +390,7 @@
             "quantity": 31,
             "type": "SHORT",
             "buy_price": 32.46,
-            "current_price": 31.18,
+            "current_price": 31.1,
             "headline": "Arm Gives Muted Forecast, Spurring Concerns of AI Slowdown",
             "time": "2025-02-06T16:12:45.086338"
         },
@@ -3299,6 +3299,10 @@
         {
             "time": "2025-02-08T20:14:03.586132",
             "value": 101446.33579999991
+        },
+        {
+            "time": "2025-02-08T22:12:30.664032",
+            "value": 101448.8157999999
         }
     ]
 }
