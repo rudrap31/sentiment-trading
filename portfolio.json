@@ -1,6 +1,6 @@
 {
     "cash": 37352.21169999993,
-    "value": 101519.96859999995,
+    "value": 101520.08859999994,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -462,7 +462,7 @@
             "quantity": 8,
             "type": "SHORT",
             "buy_price": 133.775,
-            "current_price": 132.885,
+            "current_price": 132.87,
             "headline": "Trump's latest tariff plans on steel, aluminum and other imports are spreading uncertainty",
             "time": "2025-02-10T18:15:39.703068"
         },
@@ -3531,6 +3531,10 @@
         {
             "time": "2025-02-10T21:10:06.499255",
             "value": 101519.96859999995
+        },
+        {
+            "time": "2025-02-10T21:34:16.978942",
+            "value": 101520.08859999994
         }
     ]
 }
