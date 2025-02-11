@@ -1,5 +1,5 @@
 {
-    "cash": 37818.056099999914,
+    "cash": 36817.89609999991,
     "value": 101618.4745999999,
     "stocks": {
         "BAC": {
@@ -473,6 +473,14 @@
             "current_price": 91.15,
             "headline": "Top Australian bank CBA's first-half profit beats estimates",
             "time": "2025-02-11T21:09:59.282186"
+        },
+        "FRSH": {
+            "quantity": 56,
+            "type": "BUY",
+            "buy_price": 17.86,
+            "current_price": 17.86,
+            "headline": "Freshworks (NASDAQ:FRSH) Surprises With Q4 Sales, Stock Jumps 11.8%",
+            "time": "2025-02-11T22:10:00.975568"
         }
     },
     "trade_history": [
@@ -3706,6 +3714,10 @@
         },
         {
             "time": "2025-02-11T21:34:28.742266",
+            "value": 101618.4745999999
+        },
+        {
+            "time": "2025-02-11T22:10:01.258159",
             "value": 101618.4745999999
         }
     ]
