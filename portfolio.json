@@ -1,6 +1,6 @@
 {
     "cash": 37818.056099999914,
-    "value": 101618.28459999991,
+    "value": 101618.4745999999,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -366,7 +366,7 @@
             "quantity": 5,
             "type": "SHORT",
             "buy_price": 238.83,
-            "current_price": 232.798,
+            "current_price": 232.76,
             "headline": "Amazon reports strong earnings for Q4, but stocks dip due to guidance for the 1st quarter",
             "time": "2025-02-06T21:34:09.321386"
         },
@@ -3703,6 +3703,10 @@
         {
             "time": "2025-02-11T21:09:59.282201",
             "value": 101618.28459999991
+        },
+        {
+            "time": "2025-02-11T21:34:28.742266",
+            "value": 101618.4745999999
         }
     ]
 }
