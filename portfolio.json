@@ -1,6 +1,6 @@
 {
     "cash": 36817.89609999991,
-    "value": 101618.4745999999,
+    "value": 101650.59459999991,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -470,7 +470,7 @@
             "quantity": 11,
             "type": "BUY",
             "buy_price": 91.15,
-            "current_price": 91.15,
+            "current_price": 94.07,
             "headline": "Top Australian bank CBA's first-half profit beats estimates",
             "time": "2025-02-11T21:09:59.282186"
         },
@@ -3723,6 +3723,10 @@
         {
             "time": "2025-02-11T23:10:34.036600",
             "value": 101618.4745999999
+        },
+        {
+            "time": "2025-02-12T02:11:52.672188",
+            "value": 101650.59459999991
         }
     ]
 }
