@@ -1,6 +1,6 @@
 {
-    "cash": 37958.856399999924,
-    "value": 101465.0426999999,
+    "cash": 36947.33639999993,
+    "value": 101465.04269999992,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -473,6 +473,14 @@
             "current_price": 55.91,
             "headline": "Robinhood (NASDAQ:HOOD) Reports Strong Q4, Stock Soars",
             "time": "2025-02-12T21:34:38.810775"
+        },
+        "CVS": {
+            "quantity": 16,
+            "type": "BUY",
+            "buy_price": 63.22,
+            "current_price": 63.22,
+            "headline": "CVS CEO Joyner: 'No one has demonstrated more success than the PBMs'",
+            "time": "2025-02-12T22:10:21.402350"
         }
     },
     "trade_history": [
@@ -3927,6 +3935,10 @@
         {
             "time": "2025-02-12T21:34:38.971198",
             "value": 101465.0426999999
+        },
+        {
+            "time": "2025-02-12T22:10:21.796265",
+            "value": 101465.04269999992
         }
     ]
 }
