@@ -1,6 +1,6 @@
 {
     "cash": 36817.89609999991,
-    "value": 101657.11239999991,
+    "value": 101644.6923999999,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -118,7 +118,7 @@
             "quantity": 24,
             "type": "BUY",
             "buy_price": 43.46,
-            "current_price": 43.09,
+            "current_price": 43.42,
             "headline": "Airbus opens door to new space charge in 2024 results",
             "time": "2025-01-28T19:34:30.280741"
         },
@@ -342,7 +342,7 @@
             "quantity": 31,
             "type": "SHORT",
             "buy_price": 32.46,
-            "current_price": 31.38,
+            "current_price": 31,
             "headline": "Arm Gives Muted Forecast, Spurring Concerns of AI Slowdown",
             "time": "2025-02-06T16:12:45.086338"
         },
@@ -470,7 +470,7 @@
             "quantity": 11,
             "type": "BUY",
             "buy_price": 91.15,
-            "current_price": 94.07,
+            "current_price": 91.15,
             "headline": "Top Australian bank CBA's first-half profit beats estimates",
             "time": "2025-02-11T21:09:59.282186"
         },
@@ -3731,6 +3731,10 @@
         {
             "time": "2025-02-12T03:14:36.500309",
             "value": 101657.11239999991
+        },
+        {
+            "time": "2025-02-12T04:13:10.574933",
+            "value": 101644.6923999999
         }
     ]
 }
