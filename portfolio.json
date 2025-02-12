@@ -1,6 +1,6 @@
 {
     "cash": 36817.89609999991,
-    "value": 101650.59459999991,
+    "value": 101657.11239999991,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -22,7 +22,7 @@
             "quantity": 103,
             "type": "BUY",
             "buy_price": 9.79,
-            "current_price": 9.69,
+            "current_price": 9.63,
             "headline": "Volkswagen says 6% margin target for brand realistic in medium term, analyst says",
             "time": "2025-01-22T15:51:40.409259"
         },
@@ -30,7 +30,7 @@
             "quantity": 19,
             "type": "SHORT",
             "buy_price": 55,
-            "current_price": 54,
+            "current_price": 53,
             "headline": "Hyundai Motor Q4 profit falls 17% as discounts weigh",
             "time": "2025-01-22T21:30:46.243577"
         },
@@ -38,7 +38,7 @@
             "quantity": 34,
             "type": "BUY",
             "buy_price": 29.45,
-            "current_price": 29.76,
+            "current_price": 30.0667,
             "headline": "Australia's Qantas soars to record highs after frequent flyer programme revamp",
             "time": "2025-01-22T23:11:56.067293"
         },
@@ -302,7 +302,7 @@
             "quantity": 12,
             "type": "BUY",
             "buy_price": 83.605,
-            "current_price": 85.82,
+            "current_price": 83.88,
             "headline": "Novo Nordisk 'comfortable' with impact of Medicare price negotiations for GLP-1s: CEO",
             "time": "2025-02-05T19:34:49.092919"
         },
@@ -374,7 +374,7 @@
             "quantity": 262,
             "type": "SHORT",
             "buy_price": 3.82,
-            "current_price": 3.745,
+            "current_price": 3.72,
             "headline": "Porsche shares tumble as carmaker warns cost of new models to dent 2025 margins",
             "time": "2025-02-07T09:10:41.138446"
         },
@@ -3727,6 +3727,10 @@
         {
             "time": "2025-02-12T02:11:52.672188",
             "value": 101650.59459999991
+        },
+        {
+            "time": "2025-02-12T03:14:36.500309",
+            "value": 101657.11239999991
         }
     ]
 }
