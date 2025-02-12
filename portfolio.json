@@ -1,5 +1,5 @@
 {
-    "cash": 42543.76639999992,
+    "cash": 37958.856399999924,
     "value": 101465.0426999999,
     "stocks": {
         "BAC": {
@@ -441,6 +441,38 @@
             "current_price": 175.88,
             "headline": "Thomson Reuters scores early win in AI copyright battles in the US",
             "time": "2025-02-12T19:10:29.762027"
+        },
+        "AEIS": {
+            "quantity": 9,
+            "type": "SHORT",
+            "buy_price": 111.17,
+            "current_price": 111.17,
+            "headline": "Advanced Energy (NASDAQ:AEIS) Reports Bullish Q4, Provides Encouraging Quarterly Revenue Guidance",
+            "time": "2025-02-12T21:34:38.588294"
+        },
+        "FSLY": {
+            "quantity": 100,
+            "type": "SHORT",
+            "buy_price": 10.07,
+            "current_price": 10.07,
+            "headline": "Fastly (NYSE:FSLY) Surprises With Q4 Sales But Stock Drops 17.2%",
+            "time": "2025-02-12T21:34:38.656350"
+        },
+        "HUBS": {
+            "quantity": 2,
+            "type": "SHORT",
+            "buy_price": 785.5,
+            "current_price": 785.5,
+            "headline": "HubSpot\u2019s (NYSE:HUBS) Q4: Beats On Revenue But Quarterly Revenue Guidance Slightly Misses Expectations",
+            "time": "2025-02-12T21:34:38.733543"
+        },
+        "HOOD": {
+            "quantity": 18,
+            "type": "BUY",
+            "buy_price": 55.91,
+            "current_price": 55.91,
+            "headline": "Robinhood (NASDAQ:HOOD) Reports Strong Q4, Stock Soars",
+            "time": "2025-02-12T21:34:38.810775"
         }
     },
     "trade_history": [
@@ -3890,6 +3922,10 @@
         },
         {
             "time": "2025-02-12T21:09:47.608486",
+            "value": 101465.0426999999
+        },
+        {
+            "time": "2025-02-12T21:34:38.971198",
             "value": 101465.0426999999
         }
     ]
