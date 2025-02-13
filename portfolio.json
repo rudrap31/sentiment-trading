@@ -1,5 +1,5 @@
 {
-    "cash": 43056.484899999916,
+    "cash": 38871.304899999916,
     "value": 101963.67459999995,
     "stocks": {
         "BAC": {
@@ -441,6 +441,38 @@
             "current_price": 105.05,
             "headline": "Walmart in Mexico posts 1.4% bump in fourth-quarter profit",
             "time": "2025-02-13T20:36:13.850355"
+        },
+        "AMAT": {
+            "quantity": 6,
+            "type": "SHORT",
+            "buy_price": 184.27,
+            "current_price": 184.27,
+            "headline": "Applied Materials gives dour quarterly revenue forecast as export curbs tighten; shares fall",
+            "time": "2025-02-13T22:10:14.622099"
+        },
+        "YELP": {
+            "quantity": 25,
+            "type": "BUY",
+            "buy_price": 40.55,
+            "current_price": 40.55,
+            "headline": "Yelp\u2019s (NYSE:YELP) Q4: Beats On Revenue",
+            "time": "2025-02-13T22:10:14.975403"
+        },
+        "WYNN": {
+            "quantity": 13,
+            "type": "BUY",
+            "buy_price": 80.47,
+            "current_price": 80.47,
+            "headline": "Casino operator Wynn beats fourth-quarter estimates on strength in Las Vegas business",
+            "time": "2025-02-13T22:10:15.283891"
+        },
+        "AL": {
+            "quantity": 22,
+            "type": "BUY",
+            "buy_price": 46.35,
+            "current_price": 46.35,
+            "headline": "Air Lease (NYSE:AL) Exceeds Q4 Expectations",
+            "time": "2025-02-13T22:10:15.492817"
         }
     },
     "trade_history": [
@@ -4176,6 +4208,10 @@
         },
         {
             "time": "2025-02-13T21:10:58.462254",
+            "value": 101963.67459999995
+        },
+        {
+            "time": "2025-02-13T22:10:15.678845",
             "value": 101963.67459999995
         }
     ]
