@@ -1,6 +1,6 @@
 {
-    "cash": 36947.33639999993,
-    "value": 101457.18269999993,
+    "cash": 38036.37399999993,
+    "value": 101562.64829999994,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -14,7 +14,7 @@
             "quantity": 103,
             "type": "BUY",
             "buy_price": 9.79,
-            "current_price": 9.63,
+            "current_price": 9.7401,
             "headline": "Volkswagen says 6% margin target for brand realistic in medium term, analyst says",
             "time": "2025-01-22T15:51:40.409259"
         },
@@ -30,7 +30,7 @@
             "quantity": 34,
             "type": "BUY",
             "buy_price": 29.45,
-            "current_price": 30.0667,
+            "current_price": 29.91,
             "headline": "Australia's Qantas soars to record highs after frequent flyer programme revamp",
             "time": "2025-01-22T23:11:56.067293"
         },
@@ -38,7 +38,7 @@
             "quantity": 41,
             "type": "SHORT",
             "buy_price": 24.98,
-            "current_price": 25.3911,
+            "current_price": 24.85,
             "headline": "Essity lags Q4 forecasts as higher costs offset volume and price growth",
             "time": "2025-01-22T23:11:57.139770"
         },
@@ -110,7 +110,7 @@
             "quantity": 24,
             "type": "BUY",
             "buy_price": 43.46,
-            "current_price": 43.42,
+            "current_price": 44.36,
             "headline": "Airbus opens door to new space charge in 2024 results",
             "time": "2025-01-28T19:34:30.280741"
         },
@@ -161,14 +161,6 @@
             "current_price": 38.26,
             "headline": "Material sciences company Dow posts Q4 loss, says it's cutting 1,500 jobs, 4% of workforce",
             "time": "2025-01-30T16:42:46.752832"
-        },
-        "ANZGF": {
-            "quantity": 56,
-            "type": "BUY",
-            "buy_price": 17.99,
-            "current_price": 17.99,
-            "headline": "Oil Rises as Weaker Dollar Provides Lift Amid Tariff Uncertainty",
-            "time": "2025-01-30T16:42:46.838013"
         },
         "HPE": {
             "quantity": 48,
@@ -286,7 +278,7 @@
             "quantity": 12,
             "type": "BUY",
             "buy_price": 83.605,
-            "current_price": 83.88,
+            "current_price": 81.6392,
             "headline": "Novo Nordisk 'comfortable' with impact of Medicare price negotiations for GLP-1s: CEO",
             "time": "2025-02-05T19:34:49.092919"
         },
@@ -2053,6 +2045,16 @@
             "amount": 6,
             "time": "2025-02-12T21:09:46.698332",
             "profit": -37.31999999999999
+        },
+        {
+            "action": "BUY",
+            "ticker": "ANZGF",
+            "headline": "Oil Rises as Weaker Dollar Provides Lift Amid Tariff Uncertainty",
+            "buy_price": 17.99,
+            "sold_price": 19.4471,
+            "amount": 56,
+            "time": "2025-02-13T03:15:02.373045",
+            "profit": 81.59760000000003
         }
     ],
     "value_log": [
@@ -3951,6 +3953,10 @@
         {
             "time": "2025-02-13T02:11:45.065742",
             "value": 101457.18269999993
+        },
+        {
+            "time": "2025-02-13T03:15:03.495246",
+            "value": 101562.64829999994
         }
     ]
 }
