@@ -1,6 +1,6 @@
 {
     "cash": 36947.33639999993,
-    "value": 101465.04269999993,
+    "value": 101457.18269999993,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -350,7 +350,7 @@
             "quantity": 262,
             "type": "SHORT",
             "buy_price": 3.82,
-            "current_price": 3.72,
+            "current_price": 3.75,
             "headline": "Porsche shares tumble as carmaker warns cost of new models to dent 2025 margins",
             "time": "2025-02-07T09:10:41.138446"
         },
@@ -3947,6 +3947,10 @@
         {
             "time": "2025-02-13T00:44:48.086062",
             "value": 101465.04269999993
+        },
+        {
+            "time": "2025-02-13T02:11:45.065742",
+            "value": 101457.18269999993
         }
     ]
 }
