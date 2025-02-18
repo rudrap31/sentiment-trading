@@ -1,5 +1,5 @@
 {
-    "cash": 50792.70889999993,
+    "cash": 49781.459699999934,
     "value": 102137.2128999999,
     "stocks": {
         "BAC": {
@@ -385,6 +385,14 @@
             "current_price": 51.55,
             "headline": "BHP\u2019s Profit Slump Prompts Dividend Cut as China Falters",
             "time": "2025-02-18T05:21:10.645982"
+        },
+        "ANZGF": {
+            "quantity": 52,
+            "type": "SHORT",
+            "buy_price": 19.4471,
+            "current_price": 19.4471,
+            "headline": "RBA Chief Cautions Against Aggressive Easing Bets After Rate Cut",
+            "time": "2025-02-18T06:28:35.756441"
         }
     },
     "trade_history": [
@@ -4266,6 +4274,10 @@
         },
         {
             "time": "2025-02-18T05:21:10.842836",
+            "value": 102137.2128999999
+        },
+        {
+            "time": "2025-02-18T06:28:35.756457",
             "value": 102137.2128999999
         }
     ]
