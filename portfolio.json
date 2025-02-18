@@ -1,5 +1,5 @@
 {
-    "cash": 46082.78529999993,
+    "cash": 44050.40529999993,
     "value": 102208.27009999995,
     "stocks": {
         "BAC": {
@@ -425,6 +425,22 @@
             "current_price": 300.43,
             "headline": "Cadence\u2019s (NASDAQ:CDNS) Q4 Earnings Results: Revenue In Line With Expectations But Stock Drops",
             "time": "2025-02-18T21:19:45.596354"
+        },
+        "BKDT": {
+            "quantity": 14,
+            "type": "BUY",
+            "buy_price": 71.91,
+            "current_price": 71.91,
+            "headline": "Brookdale\u2019s (NYSE:BKD) Q4 Earnings Results: Revenue In Line With Expectations",
+            "time": "2025-02-18T21:39:13.942196"
+        },
+        "OXY": {
+            "quantity": 21,
+            "type": "SHORT",
+            "buy_price": 48.84,
+            "current_price": 48.84,
+            "headline": "Occidental Petroleum reports fourth-quarter loss",
+            "time": "2025-02-18T21:39:14.032182"
         }
     },
     "trade_history": [
@@ -4558,6 +4574,10 @@
         },
         {
             "time": "2025-02-18T21:19:45.720596",
+            "value": 102208.27009999995
+        },
+        {
+            "time": "2025-02-18T21:39:14.032197",
             "value": 102208.27009999995
         }
     ]
