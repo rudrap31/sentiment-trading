@@ -1,5 +1,5 @@
 {
-    "cash": 51823.70889999993,
+    "cash": 50792.70889999993,
     "value": 102137.2128999999,
     "stocks": {
         "BAC": {
@@ -377,6 +377,14 @@
             "current_price": 5.74,
             "headline": "Mizuho Theft Fuels Concerns Over Safe Deposit Boxes in Japan",
             "time": "2025-02-18T03:41:19.827516"
+        },
+        "BHP": {
+            "quantity": 20,
+            "type": "SHORT",
+            "buy_price": 51.55,
+            "current_price": 51.55,
+            "headline": "BHP\u2019s Profit Slump Prompts Dividend Cut as China Falters",
+            "time": "2025-02-18T05:21:10.645982"
         }
     },
     "trade_history": [
@@ -4254,6 +4262,10 @@
         },
         {
             "time": "2025-02-18T04:24:32.043104",
+            "value": 102137.2128999999
+        },
+        {
+            "time": "2025-02-18T05:21:10.842836",
             "value": 102137.2128999999
         }
     ]
