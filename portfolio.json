@@ -1,5 +1,5 @@
 {
-    "cash": 47641.65969999994,
+    "cash": 46620.749699999935,
     "value": 102137.21289999991,
     "stocks": {
         "BAC": {
@@ -409,6 +409,14 @@
             "current_price": 355.84,
             "headline": "Tesla steps up India hiring after Musk-Modi meet, fast-tracking market entry plan",
             "time": "2025-02-18T07:19:28.939743"
+        },
+        "MDT": {
+            "quantity": 11,
+            "type": "BUY",
+            "buy_price": 92.81,
+            "current_price": 92.81,
+            "headline": "Medtronic beats quarterly profit estimates on strong heart, diabetes device sales",
+            "time": "2025-02-18T12:38:07.300797"
         }
     },
     "trade_history": [
@@ -4314,6 +4322,10 @@
         },
         {
             "time": "2025-02-18T11:17:31.436753",
+            "value": 102137.21289999991
+        },
+        {
+            "time": "2025-02-18T12:38:07.421043",
             "value": 102137.21289999991
         }
     ]
