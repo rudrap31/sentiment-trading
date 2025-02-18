@@ -1,18 +1,17 @@
 import requests
 import os
+import finnhub
 
 API_KEY = os.getenv("API_KEY")
 if not API_KEY:
     raise ValueError("API_KEY environment variable is not set.")
-
+finnhub_client = finnhub.Client(api_key=API_KEY)
 
 def get_price(symbol):
     try:
-        url = f"https://finnhub.io/api/v1/quote?symbol={symbol}&token={API_KEY}"
-        response = requests.get(url)
-        response.raise_for_status()  # Raise an error for bad responses
-        data = response.json()
-
+        data = finnhub_client.quote(symbol)
+        if data['d'] is None:
+            return -1
         return data['c']
     except Exception as e:
         print(f"Error fetching price for {symbol}")
