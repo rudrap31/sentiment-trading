@@ -1,5 +1,5 @@
 {
-    "cash": 43046.00529999993,
+    "cash": 42005.945299999934,
     "value": 102208.27009999995,
     "stocks": {
         "BAC": {
@@ -449,6 +449,14 @@
             "current_price": 8.1,
             "headline": "Bumble (NASDAQ:BMBL) Posts Q4 Sales In Line With Estimates But Stock Drops 13.4%",
             "time": "2025-02-18T22:19:29.099104"
+        },
+        "MDLZ": {
+            "quantity": 17,
+            "type": "SHORT",
+            "buy_price": 61.18,
+            "current_price": 61.18,
+            "headline": "Mondelez CEO says Kennedy agenda product re-formulations will mean price hikes",
+            "time": "2025-02-18T23:19:22.223268"
         }
     },
     "trade_history": [
@@ -4590,6 +4598,10 @@
         },
         {
             "time": "2025-02-18T22:19:29.099119",
+            "value": 102208.27009999995
+        },
+        {
+            "time": "2025-02-18T23:19:22.307841",
             "value": 102208.27009999995
         }
     ]
