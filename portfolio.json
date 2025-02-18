@@ -1,5 +1,5 @@
 {
-    "cash": 49781.459699999934,
+    "cash": 47641.65969999994,
     "value": 102137.2128999999,
     "stocks": {
         "BAC": {
@@ -393,6 +393,22 @@
             "current_price": 19.4471,
             "headline": "RBA Chief Cautions Against Aggressive Easing Bets After Rate Cut",
             "time": "2025-02-18T06:28:35.756441"
+        },
+        "BIDU": {
+            "quantity": 11,
+            "type": "SHORT",
+            "buy_price": 97.48,
+            "current_price": 97.48,
+            "headline": "Baidu Shares\u2019 Gaping Underperformance in Focus as Results Loom",
+            "time": "2025-02-18T07:19:28.829177"
+        },
+        "TSLA": {
+            "quantity": 3,
+            "type": "BUY",
+            "buy_price": 355.84,
+            "current_price": 355.84,
+            "headline": "Tesla steps up India hiring after Musk-Modi meet, fast-tracking market entry plan",
+            "time": "2025-02-18T07:19:28.939743"
         }
     },
     "trade_history": [
@@ -4278,6 +4294,10 @@
         },
         {
             "time": "2025-02-18T06:28:35.756457",
+            "value": 102137.2128999999
+        },
+        {
+            "time": "2025-02-18T07:19:28.939757",
             "value": 102137.2128999999
         }
     ]
