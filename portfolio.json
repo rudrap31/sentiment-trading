@@ -1,6 +1,6 @@
 {
-    "cash": 46620.749699999935,
-    "value": 102137.21289999991,
+    "cash": 42504.55969999993,
+    "value": 102137.21289999993,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -417,6 +417,38 @@
             "current_price": 92.81,
             "headline": "Medtronic beats quarterly profit estimates on strong heart, diabetes device sales",
             "time": "2025-02-18T12:38:07.300797"
+        },
+        "INTC": {
+            "quantity": 43,
+            "type": "SHORT",
+            "buy_price": 23.6,
+            "current_price": 23.6,
+            "headline": "Intel Stock Jumps Following Fresh Reports of Possible Broadcom, TSMC Deals",
+            "time": "2025-02-18T13:26:25.987858"
+        },
+        "PLTR": {
+            "quantity": 9,
+            "type": "SHORT",
+            "buy_price": 119.16,
+            "current_price": 119.16,
+            "headline": "Trump tariffs are already causing this one unfortunate consequence",
+            "time": "2025-02-18T13:26:26.033487"
+        },
+        "PPRUY": {
+            "quantity": 35,
+            "type": "SHORT",
+            "buy_price": 29.37,
+            "current_price": 29.37,
+            "headline": "Trump tariffs would test pricing power of Europe's luxury goods makers",
+            "time": "2025-02-18T13:26:28.471226"
+        },
+        "GLDD": {
+            "quantity": 91,
+            "type": "SHORT",
+            "buy_price": 11,
+            "current_price": 11,
+            "headline": "Great Lakes Dredge & Dock (NASDAQ:GLDD) Misses Q4 Revenue Estimates",
+            "time": "2025-02-18T13:26:28.515622"
         }
     },
     "trade_history": [
@@ -4327,6 +4359,10 @@
         {
             "time": "2025-02-18T12:38:07.421043",
             "value": 102137.21289999991
+        },
+        {
+            "time": "2025-02-18T13:26:28.515639",
+            "value": 102137.21289999993
         }
     ]
 }
