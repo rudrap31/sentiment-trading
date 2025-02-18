@@ -1,5 +1,5 @@
 {
-    "cash": 44050.40529999993,
+    "cash": 43046.00529999993,
     "value": 102208.27009999995,
     "stocks": {
         "BAC": {
@@ -441,6 +441,14 @@
             "current_price": 48.84,
             "headline": "Occidental Petroleum reports fourth-quarter loss",
             "time": "2025-02-18T21:39:14.032182"
+        },
+        "BMBL": {
+            "quantity": 124,
+            "type": "SHORT",
+            "buy_price": 8.1,
+            "current_price": 8.1,
+            "headline": "Bumble (NASDAQ:BMBL) Posts Q4 Sales In Line With Estimates But Stock Drops 13.4%",
+            "time": "2025-02-18T22:19:29.099104"
         }
     },
     "trade_history": [
@@ -4578,6 +4586,10 @@
         },
         {
             "time": "2025-02-18T21:39:14.032197",
+            "value": 102208.27009999995
+        },
+        {
+            "time": "2025-02-18T22:19:29.099119",
             "value": 102208.27009999995
         }
     ]
