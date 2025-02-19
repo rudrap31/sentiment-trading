@@ -1,6 +1,6 @@
 {
-    "cash": 40112.50809999994,
-    "value": 102495.11829999996,
+    "cash": 38985.22809999994,
+    "value": 102495.11829999997,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -473,6 +473,14 @@
             "current_price": 12.3,
             "headline": "Telecom firm Telstra posts higher first-half profit, announces $476 million buyback",
             "time": "2025-02-19T21:19:52.998932"
+        },
+        "CVNA": {
+            "quantity": 4,
+            "type": "SHORT",
+            "buy_price": 281.82,
+            "current_price": 281.82,
+            "headline": "Carvana reports Q4 sales and profit beat, but stock drops",
+            "time": "2025-02-19T21:39:11.001679"
         }
     },
     "trade_history": [
@@ -4811,6 +4819,10 @@
         {
             "time": "2025-02-19T21:19:52.998947",
             "value": 102495.11829999996
+        },
+        {
+            "time": "2025-02-19T21:39:11.245602",
+            "value": 102495.11829999997
         }
     ]
 }
