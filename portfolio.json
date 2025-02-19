@@ -1,6 +1,6 @@
 {
     "cash": 38851.65529999994,
-    "value": 102200.22009999993,
+    "value": 102215.18009999994,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -14,7 +14,7 @@
             "quantity": 19,
             "type": "SHORT",
             "buy_price": 55,
-            "current_price": 53.85,
+            "current_price": 54,
             "headline": "Hyundai Motor Q4 profit falls 17% as discounts weigh",
             "time": "2025-01-22T21:30:46.243577"
         },
@@ -22,7 +22,7 @@
             "quantity": 34,
             "type": "BUY",
             "buy_price": 29.45,
-            "current_price": 29.65,
+            "current_price": 29.29,
             "headline": "Australia's Qantas soars to record highs after frequent flyer programme revamp",
             "time": "2025-01-22T23:11:56.067293"
         },
@@ -70,7 +70,7 @@
             "quantity": 24,
             "type": "BUY",
             "buy_price": 43.46,
-            "current_price": 44.09,
+            "current_price": 45.17,
             "headline": "Airbus opens door to new space charge in 2024 results",
             "time": "2025-01-28T19:34:30.280741"
         },
@@ -190,7 +190,7 @@
             "quantity": 31,
             "type": "SHORT",
             "buy_price": 32.46,
-            "current_price": 31.25,
+            "current_price": 31.94,
             "headline": "Arm Gives Muted Forecast, Spurring Concerns of AI Slowdown",
             "time": "2025-02-06T16:12:45.086338"
         },
@@ -270,7 +270,7 @@
             "quantity": 158,
             "type": "SHORT",
             "buy_price": 6.35,
-            "current_price": 6.45,
+            "current_price": 6.51,
             "headline": "Average US rate on a 30-year mortgage eases to 6.87%, fourth straight weekly decline",
             "time": "2025-02-13T17:34:53.818143"
         },
@@ -318,7 +318,7 @@
             "quantity": 35,
             "type": "SHORT",
             "buy_price": 29.37,
-            "current_price": 29.37,
+            "current_price": 28.6,
             "headline": "Trump tariffs would test pricing power of Europe's luxury goods makers",
             "time": "2025-02-18T13:26:28.471226"
         },
@@ -478,7 +478,7 @@
             "quantity": 115,
             "type": "SHORT",
             "buy_price": 8.75,
-            "current_price": 8.82,
+            "current_price": 8.75,
             "headline": "Glencore Reports Profit Slide as Key Earner Coal Slumps",
             "time": "2025-02-19T10:22:16.113739"
         }
@@ -4679,6 +4679,10 @@
         {
             "time": "2025-02-19T13:26:34.987569",
             "value": 102200.22009999993
+        },
+        {
+            "time": "2025-02-19T14:20:06.074046",
+            "value": 102215.18009999994
         }
     ]
 }
