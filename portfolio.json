@@ -1,5 +1,5 @@
 {
-    "cash": 39857.90529999994,
+    "cash": 38851.65529999994,
     "value": 102215.18009999994,
     "stocks": {
         "BAC": {
@@ -473,6 +473,14 @@
             "current_price": 56.88,
             "headline": "HSBC bonus pool flat in 2024 amid cost-cut drive; headcount falls 3%",
             "time": "2025-02-19T07:19:57.532847"
+        },
+        "GLNCY": {
+            "quantity": 115,
+            "type": "SHORT",
+            "buy_price": 8.75,
+            "current_price": 8.75,
+            "headline": "Glencore Reports Profit Slide as Key Earner Coal Slumps",
+            "time": "2025-02-19T10:22:16.113739"
         }
     },
     "trade_history": [
@@ -4654,6 +4662,10 @@
         },
         {
             "time": "2025-02-19T09:21:51.403111",
+            "value": 102215.18009999994
+        },
+        {
+            "time": "2025-02-19T10:22:16.321430",
             "value": 102215.18009999994
         }
     ]
