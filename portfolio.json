@@ -1,6 +1,6 @@
 {
-    "cash": 42005.945299999934,
-    "value": 102208.27009999995,
+    "cash": 40881.74529999994,
+    "value": 102208.27009999994,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -457,6 +457,14 @@
             "current_price": 61.18,
             "headline": "Mondelez CEO says Kennedy agenda product re-formulations will mean price hikes",
             "time": "2025-02-18T23:19:22.223268"
+        },
+        "ABNB": {
+            "quantity": 7,
+            "type": "SHORT",
+            "buy_price": 160.6,
+            "current_price": 160.6,
+            "headline": "Airbnb sues New Orleans for trying to make it responsible for regulating short term rentals",
+            "time": "2025-02-19T01:28:21.248932"
         }
     },
     "trade_history": [
@@ -4603,6 +4611,10 @@
         {
             "time": "2025-02-18T23:19:22.307841",
             "value": 102208.27009999995
+        },
+        {
+            "time": "2025-02-19T01:28:21.248947",
+            "value": 102208.27009999994
         }
     ]
 }
