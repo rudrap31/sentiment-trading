@@ -1,5 +1,5 @@
 {
-    "cash": 40881.74529999994,
+    "cash": 39857.90529999994,
     "value": 102215.18009999994,
     "stocks": {
         "BAC": {
@@ -465,6 +465,14 @@
             "current_price": 160.6,
             "headline": "Airbnb sues New Orleans for trying to make it responsible for regulating short term rentals",
             "time": "2025-02-19T01:28:21.248932"
+        },
+        "HSBC": {
+            "quantity": 18,
+            "type": "SHORT",
+            "buy_price": 56.88,
+            "current_price": 56.88,
+            "headline": "HSBC bonus pool flat in 2024 amid cost-cut drive; headcount falls 3%",
+            "time": "2025-02-19T07:19:57.532847"
         }
     },
     "trade_history": [
@@ -4634,6 +4642,10 @@
         },
         {
             "time": "2025-02-19T06:28:55.846948",
+            "value": 102215.18009999994
+        },
+        {
+            "time": "2025-02-19T07:19:57.637274",
             "value": 102215.18009999994
         }
     ]
