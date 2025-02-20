@@ -1,6 +1,6 @@
 {
-    "cash": 38985.22809999994,
-    "value": 102495.11829999996,
+    "cash": 40999.56809999994,
+    "value": 102523.78829999997,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -14,7 +14,7 @@
             "quantity": 19,
             "type": "SHORT",
             "buy_price": 55,
-            "current_price": 54,
+            "current_price": 53,
             "headline": "Hyundai Motor Q4 profit falls 17% as discounts weigh",
             "time": "2025-01-22T21:30:46.243577"
         },
@@ -22,7 +22,7 @@
             "quantity": 34,
             "type": "BUY",
             "buy_price": 29.45,
-            "current_price": 29.29,
+            "current_price": 28.95,
             "headline": "Australia's Qantas soars to record highs after frequent flyer programme revamp",
             "time": "2025-01-22T23:11:56.067293"
         },
@@ -62,7 +62,7 @@
             "quantity": 24,
             "type": "BUY",
             "buy_price": 43.46,
-            "current_price": 45.17,
+            "current_price": 43.975,
             "headline": "Airbus opens door to new space charge in 2024 results",
             "time": "2025-01-28T19:34:30.280741"
         },
@@ -250,14 +250,6 @@
             "headline": "US Wholesale Inflation Tops Estimates on Food, Energy Prices",
             "time": "2025-02-13T16:44:12.797624"
         },
-        "FMCC": {
-            "quantity": 158,
-            "type": "SHORT",
-            "buy_price": 6.35,
-            "current_price": 6.51,
-            "headline": "Average US rate on a 30-year mortgage eases to 6.87%, fourth straight weekly decline",
-            "time": "2025-02-13T17:34:53.818143"
-        },
         "WMT": {
             "quantity": 10,
             "type": "BUY",
@@ -302,7 +294,7 @@
             "quantity": 35,
             "type": "SHORT",
             "buy_price": 29.37,
-            "current_price": 28.6,
+            "current_price": 28.08,
             "headline": "Trump tariffs would test pricing power of Europe's luxury goods makers",
             "time": "2025-02-18T13:26:28.471226"
         },
@@ -410,14 +402,6 @@
             "headline": "HSBC bonus pool flat in 2024 amid cost-cut drive; headcount falls 3%",
             "time": "2025-02-19T07:19:57.532847"
         },
-        "GLNCY": {
-            "quantity": 115,
-            "type": "SHORT",
-            "buy_price": 8.75,
-            "current_price": 8.75,
-            "headline": "Glencore Reports Profit Slide as Key Earner Coal Slumps",
-            "time": "2025-02-19T10:22:16.113739"
-        },
         "AAPL": {
             "quantity": 5,
             "type": "BUY",
@@ -470,7 +454,7 @@
             "quantity": 82,
             "type": "BUY",
             "buy_price": 12.3,
-            "current_price": 12.3,
+            "current_price": 12.32,
             "headline": "Telecom firm Telstra posts higher first-half profit, announces $476 million buyback",
             "time": "2025-02-19T21:19:52.998932"
         },
@@ -2593,6 +2577,26 @@
             "amount": 26,
             "time": "2025-02-19T19:17:14.736353",
             "profit": 52.90999999999991
+        },
+        {
+            "action": "SHORT",
+            "ticker": "FMCC",
+            "headline": "Average US rate on a 30-year mortgage eases to 6.87%, fourth straight weekly decline",
+            "buy_price": 6.35,
+            "sold_price": 6.72,
+            "amount": 158,
+            "time": "2025-02-20T02:51:36.020195",
+            "profit": -58.460000000000015
+        },
+        {
+            "action": "SHORT",
+            "ticker": "GLNCY",
+            "headline": "Glencore Reports Profit Slide as Key Earner Coal Slumps",
+            "buy_price": 8.75,
+            "sold_price": 8.2,
+            "amount": 115,
+            "time": "2025-02-20T02:51:36.020211",
+            "profit": 63.250000000000085
         }
     ],
     "value_log": [
@@ -4835,6 +4839,10 @@
         {
             "time": "2025-02-20T01:28:42.311553",
             "value": 102495.11829999996
+        },
+        {
+            "time": "2025-02-20T02:51:36.935274",
+            "value": 102523.78829999997
         }
     ]
 }
