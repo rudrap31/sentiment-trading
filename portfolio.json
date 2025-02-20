@@ -1,6 +1,6 @@
 {
-    "cash": 39986.04809999994,
-    "value": 102523.78829999997,
+    "cash": 38980.40809999994,
+    "value": 102513.34829999997,
     "stocks": {
         "BAC": {
             "quantity": 22,
@@ -174,7 +174,7 @@
             "quantity": 31,
             "type": "SHORT",
             "buy_price": 32.46,
-            "current_price": 31.94,
+            "current_price": 31.47,
             "headline": "Arm Gives Muted Forecast, Spurring Concerns of AI Slowdown",
             "time": "2025-02-06T16:12:45.086338"
         },
@@ -470,9 +470,17 @@
             "quantity": 41,
             "type": "BUY",
             "buy_price": 24.72,
-            "current_price": 24.72,
+            "current_price": 24.11,
             "headline": "Australia's Wesfarmers sees tariff inflation risk as profit beats forecast",
             "time": "2025-02-20T03:25:07.795462"
+        },
+        "CRARF": {
+            "quantity": 62,
+            "type": "BUY",
+            "buy_price": 16.22,
+            "current_price": 16.22,
+            "headline": "Trump Says New China Trade Deal \u2018Possible\u2019 Despite Tensions",
+            "time": "2025-02-20T04:24:29.232499"
         }
     },
     "trade_history": [
@@ -4855,6 +4863,10 @@
         {
             "time": "2025-02-20T03:25:07.795476",
             "value": 102523.78829999997
+        },
+        {
+            "time": "2025-02-20T04:24:29.448599",
+            "value": 102513.34829999997
         }
     ]
 }
