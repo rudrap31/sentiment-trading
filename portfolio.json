@@ -1,5 +1,5 @@
 {
-    "cash": 40999.56809999994,
+    "cash": 39986.04809999994,
     "value": 102523.78829999997,
     "stocks": {
         "BAC": {
@@ -465,6 +465,14 @@
             "current_price": 281.82,
             "headline": "Carvana reports Q4 sales and profit beat, but stock drops",
             "time": "2025-02-19T21:39:11.001679"
+        },
+        "WFAFY": {
+            "quantity": 41,
+            "type": "BUY",
+            "buy_price": 24.72,
+            "current_price": 24.72,
+            "headline": "Australia's Wesfarmers sees tariff inflation risk as profit beats forecast",
+            "time": "2025-02-20T03:25:07.795462"
         }
     },
     "trade_history": [
@@ -4842,6 +4850,10 @@
         },
         {
             "time": "2025-02-20T02:51:36.935274",
+            "value": 102523.78829999997
+        },
+        {
+            "time": "2025-02-20T03:25:07.795476",
             "value": 102523.78829999997
         }
     ]
