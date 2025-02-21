@@ -6,7 +6,7 @@ This bot automates trading decisions by analyzing financial news headlines. Usin
 ---
 
 ## Image  
-*(Need to add image)*
+![Portfolio Screenshot](./portfolio-screenshot.png)
 
 ---
 
