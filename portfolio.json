@@ -1,5 +1,5 @@
 {
-    "cash": 43870.90969999994,
+    "cash": 41784.749699999935,
     "value": 102974.94849999993,
     "stocks": {
         "HYMTF": {
@@ -441,6 +441,22 @@
             "current_price": 12,
             "headline": "Arbor Realty Shares Drop as Apartment Complex Lender\u00a0Warns of Shrinking Earnings",
             "time": "2025-02-21T21:38:58.915786"
+        },
+        "RIVN": {
+            "quantity": 78,
+            "type": "BUY",
+            "buy_price": 12.97,
+            "current_price": 12.97,
+            "headline": "Rivian expands commercial van sales, ending Amazon exclusivity",
+            "time": "2025-02-21T22:19:38.286343"
+        },
+        "PEP": {
+            "quantity": 7,
+            "type": "SHORT",
+            "buy_price": 153.5,
+            "current_price": 153.5,
+            "headline": "Differences bubble up between PepsiCo and Coca-Cola on diversity programs",
+            "time": "2025-02-21T22:19:38.504877"
         }
     },
     "trade_history": [
@@ -5350,6 +5366,10 @@
         },
         {
             "time": "2025-02-21T21:38:59.035884",
+            "value": 102974.94849999993
+        },
+        {
+            "time": "2025-02-21T22:19:38.627102",
             "value": 102974.94849999993
         }
     ]
