@@ -1,6 +1,6 @@
 {
-    "cash": 41784.749699999935,
-    "value": 102974.94849999993,
+    "cash": 40607.84969999993,
+    "value": 102974.94849999994,
     "stocks": {
         "HYMTF": {
             "quantity": 19,
@@ -457,6 +457,14 @@
             "current_price": 153.5,
             "headline": "Differences bubble up between PepsiCo and Coca-Cola on diversity programs",
             "time": "2025-02-21T22:19:38.504877"
+        },
+        "COIN": {
+            "quantity": 5,
+            "type": "SHORT",
+            "buy_price": 235.38,
+            "current_price": 235.38,
+            "headline": "Coinbase says SEC will drop case that \u2018could have killed the crypto industry in America\u2019",
+            "time": "2025-02-21T23:20:47.611019"
         }
     },
     "trade_history": [
@@ -5371,6 +5379,10 @@
         {
             "time": "2025-02-21T22:19:38.627102",
             "value": 102974.94849999993
+        },
+        {
+            "time": "2025-02-21T23:20:47.715755",
+            "value": 102974.94849999994
         }
     ]
 }
