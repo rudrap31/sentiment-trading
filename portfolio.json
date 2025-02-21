@@ -1,6 +1,6 @@
 {
-    "cash": 44878.90969999994,
-    "value": 102974.94849999991,
+    "cash": 43870.90969999994,
+    "value": 102974.94849999993,
     "stocks": {
         "HYMTF": {
             "quantity": 19,
@@ -433,6 +433,14 @@
             "current_price": 6.46,
             "headline": "Why The RealReal (REAL) Stock Is Trading Lower Today",
             "time": "2025-02-21T21:17:13.457348"
+        },
+        "ABR": {
+            "quantity": 84,
+            "type": "SHORT",
+            "buy_price": 12,
+            "current_price": 12,
+            "headline": "Arbor Realty Shares Drop as Apartment Complex Lender\u00a0Warns of Shrinking Earnings",
+            "time": "2025-02-21T21:38:58.915786"
         }
     },
     "trade_history": [
@@ -5339,6 +5347,10 @@
         {
             "time": "2025-02-21T21:17:13.457362",
             "value": 102974.94849999991
+        },
+        {
+            "time": "2025-02-21T21:38:59.035884",
+            "value": 102974.94849999993
         }
     ]
 }
