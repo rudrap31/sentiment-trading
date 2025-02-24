@@ -507,6 +507,10 @@
         "BP": {
             "headline": "BP\u2019s Greater Tortue Project Poised to Export First LNG Cargo",
             "type": "BUY"
+        },
+        "MSFT": {
+            "headline": "Microsoft Cancels Leases for AI Data Centers, Analyst Says",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -5570,6 +5574,10 @@
         },
         {
             "time": "2025-02-24T09:15:59.027331",
+            "value": 102890.81149999992
+        },
+        {
+            "time": "2025-02-24T10:16:14.653434",
             "value": 102890.81149999992
         }
     ]
