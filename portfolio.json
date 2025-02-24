@@ -1,6 +1,6 @@
 {
     "cash": 42940.33389999995,
-    "value": 102943.41459999996,
+    "value": 102943.05209999996,
     "stocks": {
         "HYMTF": {
             "quantity": 19,
@@ -214,7 +214,7 @@
             "quantity": 5,
             "type": "BUY",
             "buy_price": 244.285,
-            "current_price": 247.1725,
+            "current_price": 247.1,
             "headline": "Instagram upgrades DMs with music-sharing, message scheduling, translation and more",
             "time": "2025-02-19T16:25:52.511604"
         },
@@ -474,6 +474,22 @@
         },
         "BASE": {
             "headline": "Why Couchbase (BASE) Stock Is Falling Today",
+            "type": "SHORT"
+        },
+        "FARO": {
+            "headline": "FARO (NASDAQ:FARO) Exceeds Q4 Expectations, Stock Soars",
+            "type": "BUY"
+        },
+        "ZM": {
+            "headline": "Zoom (NASDAQ:ZM) Posts Q4 Sales In Line With Estimates, Guides For 2.7% Growth Next Year",
+            "type": "BUY"
+        },
+        "ADUS": {
+            "headline": "Addus HomeCare (NASDAQ:ADUS) Surprises With Q4 Sales",
+            "type": "BUY"
+        },
+        "PLTR": {
+            "headline": "Palantir stock plunges, extending 4-day drop on reported Pentagon budget cuts",
             "type": "SHORT"
         }
     },
@@ -5785,6 +5801,10 @@
         {
             "time": "2025-02-24T21:12:55.365736",
             "value": 102943.41459999996
+        },
+        {
+            "time": "2025-02-24T21:33:52.666259",
+            "value": 102943.05209999996
         }
     ]
 }
