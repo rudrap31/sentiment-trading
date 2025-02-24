@@ -519,6 +519,10 @@
         "AB": {
             "headline": "Equitable to use funds from reinsurance deal to boost AllianceBernstein stake",
             "type": "BUY"
+        },
+        "PLTR": {
+            "headline": "Palantir\u2019s Pricey Multiple in Focus as Pentagon Budget Cuts Loom",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -5590,6 +5594,10 @@
         },
         {
             "time": "2025-02-24T11:12:05.301104",
+            "value": 102890.81149999992
+        },
+        {
+            "time": "2025-02-24T12:25:49.681657",
             "value": 102890.81149999992
         }
     ]
