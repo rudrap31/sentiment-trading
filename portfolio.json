@@ -523,6 +523,10 @@
         "PLTR": {
             "headline": "Palantir\u2019s Pricey Multiple in Focus as Pentagon Budget Cuts Loom",
             "type": "SHORT"
+        },
+        "SBUX": {
+            "headline": "Starbucks to lay off 1,100 employees this week as CEO aims to deliver on turnaround",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -5606,6 +5610,10 @@
         },
         {
             "time": "2025-02-24T14:09:54.211555",
+            "value": 102890.81149999992
+        },
+        {
+            "time": "2025-02-24T14:13:47.302149",
             "value": 102890.81149999992
         }
     ]
