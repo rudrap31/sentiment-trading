@@ -487,6 +487,14 @@
         "BABA": {
             "headline": "Alibaba Plans to Spend $53 Billion on AI in a Major Pivot",
             "type": "BUY"
+        },
+        "^GDAXI": {
+            "headline": "DAX Futures Gain With Euro in Asia After German Vote Outcome",
+            "type": "BUY"
+        },
+        "5238.KL": {
+            "headline": "AirAsia owner Capital A to publish internal targets to improve transparency",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -5534,6 +5542,10 @@
         },
         {
             "time": "2025-02-23T21:33:03.820783",
+            "value": 102890.81149999992
+        },
+        {
+            "time": "2025-02-24T06:20:02.420276",
             "value": 102890.81149999992
         }
     ]
