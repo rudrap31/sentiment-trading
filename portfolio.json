@@ -1,6 +1,6 @@
 {
     "cash": 42940.33389999995,
-    "value": 102943.37459999997,
+    "value": 102943.41459999996,
     "stocks": {
         "HYMTF": {
             "quantity": 19,
@@ -54,7 +54,7 @@
             "quantity": 2,
             "type": "BUY",
             "buy_price": 597.49,
-            "current_price": 597.19,
+            "current_price": 597.21,
             "headline": "Manufacturing rebound flashes bullish signal for stocks",
             "time": "2025-02-03T17:10:36.419275"
         },
@@ -470,6 +470,10 @@
         },
         "MRVL": {
             "headline": "Why Marvell Technology (MRVL) Shares Are Getting Obliterated Today",
+            "type": "SHORT"
+        },
+        "BASE": {
+            "headline": "Why Couchbase (BASE) Stock Is Falling Today",
             "type": "SHORT"
         }
     },
@@ -5777,6 +5781,10 @@
         {
             "time": "2025-02-24T21:08:54.686586",
             "value": 102943.37459999997
+        },
+        {
+            "time": "2025-02-24T21:12:55.365736",
+            "value": 102943.41459999996
         }
     ]
 }
