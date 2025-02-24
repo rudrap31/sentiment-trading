@@ -1,5 +1,5 @@
 {
-    "cash": 39902.58969999993,
+    "cash": 38890.461699999934,
     "value": 102890.81149999992,
     "stocks": {
         "HYMTF": {
@@ -465,6 +465,14 @@
             "current_price": 125.98,
             "headline": "Why the spring selling season is going to be 'challenging' for homebuilders",
             "time": "2025-02-22T14:10:53.117022"
+        },
+        "WEBNF": {
+            "quantity": 52,
+            "type": "SHORT",
+            "buy_price": 19.464,
+            "current_price": 19.464,
+            "headline": "Shares of Australia's major banks take a breather after $40 billion wipe off",
+            "time": "2025-02-24T01:38:57.382382"
         }
     },
     "trade_history": [
@@ -5504,6 +5512,10 @@
         },
         {
             "time": "2025-02-23T22:11:46.716844",
+            "value": 102890.81149999992
+        },
+        {
+            "time": "2025-02-24T01:38:57.476453",
             "value": 102890.81149999992
         }
     ]
