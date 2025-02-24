@@ -511,6 +511,14 @@
         "MSFT": {
             "headline": "Microsoft Cancels Leases for AI Data Centers, Analyst Says",
             "type": "SHORT"
+        },
+        "INTC": {
+            "headline": "Apple announces $500 billion US investment in bet 'on the future of American innovation'",
+            "type": "BUY"
+        },
+        "AB": {
+            "headline": "Equitable to use funds from reinsurance deal to boost AllianceBernstein stake",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -5578,6 +5586,10 @@
         },
         {
             "time": "2025-02-24T10:16:14.653434",
+            "value": 102890.81149999992
+        },
+        {
+            "time": "2025-02-24T11:12:05.301104",
             "value": 102890.81149999992
         }
     ]
