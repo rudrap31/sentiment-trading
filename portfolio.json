@@ -499,6 +499,14 @@
         "STLAM.MI": {
             "headline": "Stellantis faces brands dilemma as it searches for new CEO",
             "type": "SHORT"
+        },
+        "META": {
+            "headline": "Nvidia to report Q4 earnings Wednesday as tariff, export control threats loom",
+            "type": "SHORT"
+        },
+        "BP": {
+            "headline": "BP\u2019s Greater Tortue Project Poised to Export First LNG Cargo",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -5558,6 +5566,10 @@
         },
         {
             "time": "2025-02-24T08:18:51.377289",
+            "value": 102890.81149999992
+        },
+        {
+            "time": "2025-02-24T09:15:59.027331",
             "value": 102890.81149999992
         }
     ]
