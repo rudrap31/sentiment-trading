@@ -475,6 +475,20 @@
             "time": "2025-02-24T01:38:57.382382"
         }
     },
+    "queued_trades": {
+        "^HSI": {
+            "headline": "Asian shares are mixed after US stocks tumble on worries over tariffs",
+            "type": "SHORT"
+        },
+        "^GSPC": {
+            "headline": "Asian Stocks Fluctuate, Dollar Dips After US Data: Markets Wrap",
+            "type": "SHORT"
+        },
+        "BABA": {
+            "headline": "Alibaba Plans to Spend $53 Billion on AI in a Major Pivot",
+            "type": "BUY"
+        }
+    },
     "trade_history": [
         {
             "action": "SHORT",
@@ -5516,6 +5530,10 @@
         },
         {
             "time": "2025-02-24T01:38:57.476453",
+            "value": 102890.81149999992
+        },
+        {
+            "time": "2025-02-23T21:33:03.820783",
             "value": 102890.81149999992
         }
     ]

@@ -3,7 +3,7 @@ from sentimentModel import sentiment_analysis
 from portfolio import Portfolio
 from flask import Flask, jsonify
 from flask_cors import CORS
-from trade import get_price
+from trade import get_market_status
 
 
 app = Flask(__name__)
@@ -13,18 +13,25 @@ port = Portfolio()
 
 def update_portfolio():
     port.load_from_file()
+    status = get_market_status()
+    print(status)
+    if status: # if market is open buy/short the queued stocks
+        port.trade_queued()
     port.update_prices()
     headlines = scrape_headlines() # Scrape headlines and get all of the sentiment scores
 
-    for stock in headlines:
+    for stock in headlines: # if market is closed queue stocks, instead of buyin
         stock.sentiment_score = sentiment_analysis(stock.headline)
-        price = get_price(stock.ticker)
-        if price == -1:
-            continue
         if stock.sentiment_score == "positive":
-            port.trade_stock(stock.ticker, stock.headline, price, "BUY")
+            if status:
+                port.trade_stock(stock.ticker, stock.headline, "BUY")
+            else:
+                port.queue_trade(stock.ticker, stock.headline, "BUY")
         elif stock.sentiment_score == "negative":
-            port.trade_stock(stock.ticker, stock.headline, price, "SHORT")
+            if status:
+                port.trade_stock(stock.ticker, stock.headline, "SHORT")
+            else:
+                port.queue_trade(stock.ticker, stock.headline, "SHORT")
 
     port.update_value_log()
     port.save_to_file()

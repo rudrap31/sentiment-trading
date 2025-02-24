@@ -1,6 +1,6 @@
 import json
 from datetime import datetime 
-from trade import get_price
+from trade import get_price, get_open_price
 import math
 
 class Portfolio:
@@ -8,10 +8,33 @@ class Portfolio:
         self.cash = initial_cash
         self.value = initial_cash
         self.stocks = {} # Current Active Trades
+        self.queued_trades = {} # Current Queued Trades
         self.trades = [] # Completed Closed Trades
         self.value_log = [] # List of {"time": timestamp, "value": portfolio_value}
 
-    def trade_stock(self, ticker, headline, price, type):
+    def queue_trade(self, ticker, headline, type):
+        if ticker not in self.queued_trades:
+            self.queued_trades[ticker] = {"headline": headline, "type": type}
+
+    def trade_queued(self):
+        tickers_to_close = []
+        for ticker, trade in self.queued_trades.items():
+            open_price = get_open_price(ticker)
+            if open_price == -1:
+                continue
+            
+            self.trade_stock(ticker, trade["headline"], trade["type"], open_price)
+            tickers_to_close.append(ticker)
+
+        for ticker in tickers_to_close:
+            del self.queued_trades[ticker]
+
+    
+    def trade_stock(self, ticker, headline, type, price=None):
+        price = price if price else get_price(ticker)
+        if price == -1:
+            return
+        
         amount = math.ceil(1000/price) # Buy around $1000 worth of the stock
         total_cost = amount * price
         if total_cost > self.cash:
@@ -64,7 +87,9 @@ class Portfolio:
         tickers_to_close = []
     
         for ticker in self.stocks: # Update prices and check for stop loss/ take profits
-            self.stocks[ticker]["current_price"] = get_price(ticker)
+            price = get_price(ticker)
+            if price != -1: # If api call limit reached, keeps the price the same
+                self.stocks[ticker]["current_price"] = price 
             if self.check_take_profit_stop_loss(ticker):
                 tickers_to_close.append(ticker)
         
@@ -93,6 +118,7 @@ class Portfolio:
             "cash": self.cash,
             "value": self.value,
             "stocks": self.stocks,
+            "queued_trades": self.queued_trades,
             "trade_history": self.trades,
             "value_log": self.value_log
         }
@@ -104,6 +130,7 @@ class Portfolio:
         "cash": 100000,
         "value": 100000,
         "stocks": {},
+        "queued_trades": {},
         "trade_history": [],
         "value_log": []
         }
@@ -120,9 +147,6 @@ class Portfolio:
         self.cash = data.get("cash", 100000) 
         self.value = data.get("value", 100000)
         self.stocks = data.get("stocks", {})
+        self.queued_trades = data.get("queued_trades", {})
         self.trades = data.get("trade_history", [])
         self.value_log = data.get("value_log", [])
-        
-
-
-        
