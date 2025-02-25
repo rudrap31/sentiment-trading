@@ -531,6 +531,18 @@
         "DIS": {
             "headline": "India's Reliance touts 'brain mapping' to lure IPL advertisers after Disney merger",
             "type": "BUY"
+        },
+        "ETH-USD": {
+            "headline": "Bitcoin slides below $90,000 as crypto selloff gathers steam",
+            "type": "SHORT"
+        },
+        "RYAAY": {
+            "headline": "Ryanair expects summer fares to rise 4-6%, CEO says",
+            "type": "BUY"
+        },
+        "GLNCY": {
+            "headline": "Congo Suspends Cobalt Exports for Four Months Amid Glut",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -5894,6 +5906,10 @@
         },
         {
             "time": "2025-02-25T08:18:27.943435",
+            "value": 102924.49509999997
+        },
+        {
+            "time": "2025-02-25T09:14:51.087402",
             "value": 102924.49509999997
         }
     ]
