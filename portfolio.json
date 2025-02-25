@@ -479,6 +479,14 @@
         "^GSPC": {
             "headline": "Stocks Get Hit as Economic Jitters Spur Bond Rally: Markets Wrap",
             "type": "SHORT"
+        },
+        "MASI": {
+            "headline": "Masimo (NASDAQ:MASI) Posts Better-Than-Expected Sales In Q4",
+            "type": "BUY"
+        },
+        "TSLA": {
+            "headline": "Do traders think the stock market looks frothy and overvalued?",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -6132,6 +6140,10 @@
         },
         {
             "time": "2025-02-25T21:22:02.903910",
+            "value": 102802.93776999999
+        },
+        {
+            "time": "2025-02-25T22:22:47.417111",
             "value": 102802.93776999999
         }
     ]
