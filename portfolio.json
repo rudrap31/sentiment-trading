@@ -507,6 +507,10 @@
         "ANZGF": {
             "headline": "Oil Edges Higher as Investors Assess Iran Sanctions and Trade",
             "type": "BUY"
+        },
+        "NMR": {
+            "headline": "Nomura AM Merging \u2018\u00a51 Trillion\u2019 Underperforming Fund",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -5850,6 +5854,10 @@
         },
         {
             "time": "2025-02-25T03:21:46.433336",
+            "value": 102924.49509999997
+        },
+        {
+            "time": "2025-02-25T04:17:00.068971",
             "value": 102924.49509999997
         }
     ]
