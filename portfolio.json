@@ -523,6 +523,14 @@
         "AAPL": {
             "headline": "Indonesia and Apple Said to Agree on Terms to Lift iPhone 16 Ban",
             "type": "BUY"
+        },
+        "SBUX": {
+            "headline": "Starbucks Cuts 1,100 Corporate Jobs to Speed Up Turnaround",
+            "type": "BUY"
+        },
+        "DIS": {
+            "headline": "India's Reliance touts 'brain mapping' to lure IPL advertisers after Disney merger",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -5882,6 +5890,10 @@
         },
         {
             "time": "2025-02-25T07:13:53.989124",
+            "value": 102924.49509999997
+        },
+        {
+            "time": "2025-02-25T08:18:27.943435",
             "value": 102924.49509999997
         }
     ]
