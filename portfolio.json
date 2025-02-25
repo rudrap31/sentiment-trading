@@ -487,6 +487,18 @@
         "TSLA": {
             "headline": "Do traders think the stock market looks frothy and overvalued?",
             "type": "SHORT"
+        },
+        "SMCI": {
+            "headline": "Super Micro Jumps After Filing Delayed Financial Reports",
+            "type": "SHORT"
+        },
+        "CZR": {
+            "headline": "Caesars Entertainment swings to fourth-quarter profit on strong Las Vegas business",
+            "type": "BUY"
+        },
+        "LCID": {
+            "headline": "Lucid sees stock pop on Q4 results, announces CEO Peter Rawlinson will step down",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -6144,6 +6156,10 @@
         },
         {
             "time": "2025-02-25T22:22:47.417111",
+            "value": 102802.93776999999
+        },
+        {
+            "time": "2025-02-25T23:22:05.029961",
             "value": 102802.93776999999
         }
     ]
