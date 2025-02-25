@@ -1,12 +1,12 @@
 {
-    "cash": 42940.33389999995,
-    "value": 102943.05209999996,
+    "cash": 43862.18989999995,
+    "value": 102924.49509999997,
     "stocks": {
         "HYMTF": {
             "quantity": 19,
             "type": "SHORT",
             "buy_price": 55,
-            "current_price": 54.85,
+            "current_price": 54.4,
             "headline": "Hyundai Motor Q4 profit falls 17% as discounts weigh",
             "time": "2025-01-22T21:30:46.243577"
         },
@@ -14,7 +14,7 @@
             "quantity": 34,
             "type": "BUY",
             "buy_price": 29.45,
-            "current_price": 28.73,
+            "current_price": 28.83,
             "headline": "Australia's Qantas soars to record highs after frequent flyer programme revamp",
             "time": "2025-01-22T23:11:56.067293"
         },
@@ -158,7 +158,7 @@
             "quantity": 35,
             "type": "SHORT",
             "buy_price": 29.37,
-            "current_price": 28.59,
+            "current_price": 28.39,
             "headline": "Trump tariffs would test pricing power of Europe's luxury goods makers",
             "time": "2025-02-18T13:26:28.471226"
         },
@@ -230,7 +230,7 @@
             "quantity": 41,
             "type": "BUY",
             "buy_price": 24.72,
-            "current_price": 24.24,
+            "current_price": 24.39,
             "headline": "Australia's Wesfarmers sees tariff inflation risk as profit beats forecast",
             "time": "2025-02-20T03:25:07.795462"
         },
@@ -238,7 +238,7 @@
             "quantity": 62,
             "type": "BUY",
             "buy_price": 16.22,
-            "current_price": 16.5,
+            "current_price": 16.48,
             "headline": "Trump Says New China Trade Deal \u2018Possible\u2019 Despite Tensions",
             "time": "2025-02-20T04:24:29.232499"
         },
@@ -254,7 +254,7 @@
             "quantity": 10,
             "type": "BUY",
             "buy_price": 105.545,
-            "current_price": 104.8,
+            "current_price": 109.5855,
             "headline": "Rivian posts $170 million 'gross profit' in Q4, sees losses decreasing as variable costs improve",
             "time": "2025-02-20T21:19:06.426556"
         },
@@ -353,14 +353,6 @@
             "current_price": 126.42,
             "headline": "Why the spring selling season is going to be 'challenging' for homebuilders",
             "time": "2025-02-22T14:10:53.117022"
-        },
-        "WEBNF": {
-            "quantity": 52,
-            "type": "SHORT",
-            "buy_price": 19.464,
-            "current_price": 19.464,
-            "headline": "Shares of Australia's major banks take a breather after $40 billion wipe off",
-            "time": "2025-02-24T01:38:57.382382"
         },
         "META": {
             "quantity": 2,
@@ -3147,6 +3139,16 @@
             "amount": 3,
             "time": "2025-02-24T19:32:54.190837",
             "profit": 72.75
+        },
+        {
+            "action": "SHORT",
+            "ticker": "WEBNF",
+            "headline": "Shares of Australia's major banks take a breather after $40 billion wipe off",
+            "buy_price": 19.464,
+            "sold_price": 21.2,
+            "amount": 52,
+            "time": "2025-02-25T03:21:45.455857",
+            "profit": -90.27200000000003
         }
     ],
     "value_log": [
@@ -5845,6 +5847,10 @@
         {
             "time": "2025-02-25T02:21:45.099386",
             "value": 102943.05209999996
+        },
+        {
+            "time": "2025-02-25T03:21:46.433336",
+            "value": 102924.49509999997
         }
     ]
 }
