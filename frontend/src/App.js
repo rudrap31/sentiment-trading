@@ -7,7 +7,7 @@ function App() {
     const [portfolio, setPortfolio] = useState([{}]);
 
     useEffect(() => {
-        axios.get("http://127.0.0.1:5000/api/portfolio")
+        axios.get("https://sentiment-trading.onrender.com")
             .then((response) => {
                 setPortfolio(response.data);  // Set portfolio to the data from the response
             })
