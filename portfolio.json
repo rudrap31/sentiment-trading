@@ -511,6 +511,10 @@
         "BABA": {
             "headline": "Chinese ADRs Tumble on Trump Order, Led by 10% Plunge in Alibaba",
             "type": "SHORT"
+        },
+        "ANZGF": {
+            "headline": "Oil Edges Higher as Investors Assess Iran Sanctions and Trade",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -5836,6 +5840,10 @@
         },
         {
             "time": "2025-02-25T01:01:00.824849",
+            "value": 102943.05209999996
+        },
+        {
+            "time": "2025-02-25T02:21:45.099386",
             "value": 102943.05209999996
         }
     ]
