@@ -511,6 +511,18 @@
         "NMR": {
             "headline": "Nomura AM Merging \u2018\u00a51 Trillion\u2019 Underperforming Fund",
             "type": "SHORT"
+        },
+        "UL": {
+            "headline": "Analysis-Unilever faces battle to reduce plant-based meat exposure",
+            "type": "BUY"
+        },
+        "MARUY": {
+            "headline": "Buffett\u2019s Bet Sparks Surge in Japan Trading House Shares",
+            "type": "BUY"
+        },
+        "AAPL": {
+            "headline": "Indonesia and Apple Said to Agree on Terms to Lift iPhone 16 Ban",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -5862,6 +5874,10 @@
         },
         {
             "time": "2025-02-25T05:14:07.712268",
+            "value": 102924.49509999997
+        },
+        {
+            "time": "2025-02-25T06:19:14.463650",
             "value": 102924.49509999997
         }
     ]
