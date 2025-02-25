@@ -503,6 +503,14 @@
         "CHGG": {
             "headline": "Chegg Sues Alphabet, Saying Google AI Prompted Business Review",
             "type": "SHORT"
+        },
+        "ES=F": {
+            "headline": "Stock market today: Dow, S&P 500, Nasdaq futures waver as Trump tariffs loom",
+            "type": "SHORT"
+        },
+        "BABA": {
+            "headline": "Chinese ADRs Tumble on Trump Order, Led by 10% Plunge in Alibaba",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -5824,6 +5832,10 @@
         },
         {
             "time": "2025-02-24T23:13:27.580414",
+            "value": 102943.05209999996
+        },
+        {
+            "time": "2025-02-25T01:01:00.824849",
             "value": 102943.05209999996
         }
     ]
