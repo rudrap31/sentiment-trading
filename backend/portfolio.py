@@ -21,6 +21,7 @@ class Portfolio:
         for ticker, trade in self.queued_trades.items():
             open_price = get_open_price(ticker)
             if open_price == -1:
+                tickers_to_close.append(ticker)
                 continue
             
             self.trade_stock(ticker, trade["headline"], trade["type"], open_price)
