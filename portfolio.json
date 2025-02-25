@@ -471,6 +471,14 @@
         "ES=F": {
             "headline": "Stock market today: Nvidia, Tesla lead Nasdaq lower as bitcoin sinks, consumer confidence plummets",
             "type": "SHORT"
+        },
+        "RNLSY": {
+            "headline": "Tesla stock sinks as Europe sales tank on rival offerings, Musk blowback",
+            "type": "SHORT"
+        },
+        "^GSPC": {
+            "headline": "Stocks Get Hit as Economic Jitters Spur Bond Rally: Markets Wrap",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -6120,6 +6128,10 @@
         },
         {
             "time": "2025-02-25T21:19:45.737586",
+            "value": 102802.93776999999
+        },
+        {
+            "time": "2025-02-25T21:22:02.903910",
             "value": 102802.93776999999
         }
     ]
