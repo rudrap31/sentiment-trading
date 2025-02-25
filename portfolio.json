@@ -547,6 +547,10 @@
         "HD": {
             "headline": "Home Depot forecasts annual same-store sales growth below estimates",
             "type": "BUY"
+        },
+        "BNS": {
+            "headline": "Canada's Scotiabank, BMO beat profit on capital markets, wealth management strength",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -5922,6 +5926,10 @@
         },
         {
             "time": "2025-02-25T11:12:33.634382",
+            "value": 102924.49509999997
+        },
+        {
+            "time": "2025-02-25T12:28:01.112268",
             "value": 102924.49509999997
         }
     ]
