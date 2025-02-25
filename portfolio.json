@@ -551,6 +551,10 @@
         "BNS": {
             "headline": "Canada's Scotiabank, BMO beat profit on capital markets, wealth management strength",
             "type": "BUY"
+        },
+        "BNKU": {
+            "headline": "BMO, Scotiabank Top Estimates on Strong Capital-Markets Results",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -5934,6 +5938,10 @@
         },
         {
             "time": "2025-02-25T13:22:07.685003",
+            "value": 102924.49509999997
+        },
+        {
+            "time": "2025-02-25T14:09:46.576865",
             "value": 102924.49509999997
         }
     ]
