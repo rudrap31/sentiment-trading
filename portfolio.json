@@ -543,6 +543,10 @@
         "GLNCY": {
             "headline": "Congo Suspends Cobalt Exports for Four Months Amid Glut",
             "type": "SHORT"
+        },
+        "HD": {
+            "headline": "Home Depot forecasts annual same-store sales growth below estimates",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -5914,6 +5918,10 @@
         },
         {
             "time": "2025-02-25T10:15:02.665322",
+            "value": 102924.49509999997
+        },
+        {
+            "time": "2025-02-25T11:12:33.634382",
             "value": 102924.49509999997
         }
     ]
