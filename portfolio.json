@@ -1,6 +1,6 @@
 {
-    "cash": 44417.856169999955,
-    "value": 102885.36276999999,
+    "cash": 45398.57616999996,
+    "value": 102866.09276999999,
     "stocks": {
         "HYMTF": {
             "quantity": 19,
@@ -201,14 +201,6 @@
             "current_price": 114.6,
             "headline": "Why Toll Brothers (TOL) Stock Is Down Today",
             "time": "2025-02-19T19:17:15.796832"
-        },
-        "WFAFY": {
-            "quantity": 41,
-            "type": "BUY",
-            "buy_price": 24.72,
-            "current_price": 24.39,
-            "headline": "Australia's Wesfarmers sees tariff inflation risk as profit beats forecast",
-            "time": "2025-02-20T03:25:07.795462"
         },
         "CRARF": {
             "quantity": 62,
@@ -3363,6 +3355,16 @@
             "amount": 10,
             "time": "2025-02-26T03:31:06.504882",
             "profit": 84.54999999999998
+        },
+        {
+            "action": "BUY",
+            "ticker": "WFAFY",
+            "headline": "Australia's Wesfarmers sees tariff inflation risk as profit beats forecast",
+            "buy_price": 24.72,
+            "sold_price": 23.92,
+            "amount": 41,
+            "time": "2025-02-26T04:29:19.239150",
+            "profit": -32.79999999999988
         }
     ],
     "value_log": [
@@ -6181,6 +6183,10 @@
         {
             "time": "2025-02-26T03:31:07.301368",
             "value": 102885.36276999999
+        },
+        {
+            "time": "2025-02-26T04:29:20.001732",
+            "value": 102866.09276999999
         }
     ]
 }
