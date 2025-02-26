@@ -511,6 +511,26 @@
         "VWAPY": {
             "headline": "India singles out VW in $1.4 billion tax dispute, says Kia corrected course",
             "type": "SHORT"
+        },
+        "DHLGY": {
+            "headline": "Italy seizes $49 million from DHL unit in labour supply probe",
+            "type": "SHORT"
+        },
+        "DY": {
+            "headline": "Dycom (NYSE:DY) Reports Upbeat Q4, Stock Soars",
+            "type": "BUY"
+        },
+        "AAP": {
+            "headline": "Advance Auto Parts (NYSE:AAP) Exceeds Q4 Expectations But Quarterly Revenue Guidance Misses Expectations",
+            "type": "SHORT"
+        },
+        "PLAB": {
+            "headline": "Photronics (NASDAQ:PLAB) Surprises With Q4 Sales But Quarterly Revenue Guidance Significantly Misses Expectations",
+            "type": "SHORT"
+        },
+        "NWG": {
+            "headline": "NatWest Plans SRT Tied to Almost \u00a31 Billion of Leverage Loans",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -6242,6 +6262,10 @@
         },
         {
             "time": "2025-02-26T11:20:11.806835",
+            "value": 102866.09276999999
+        },
+        {
+            "time": "2025-02-26T12:46:26.681388",
             "value": 102866.09276999999
         }
     ]
