@@ -543,6 +543,10 @@
         "LNTH": {
             "headline": "Lantheus\u2019s (NASDAQ:LNTH) Q4 Sales Top Estimates, Stock Soars",
             "type": "BUY"
+        },
+        "UNCRY": {
+            "headline": "UniCredit CEO Orcel's annual pay jumps by 30% to 13 million euros",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -6282,6 +6286,10 @@
         },
         {
             "time": "2025-02-26T13:29:58.620803",
+            "value": 102866.09276999999
+        },
+        {
+            "time": "2025-02-26T14:20:28.266235",
             "value": 102866.09276999999
         }
     ]
