@@ -495,6 +495,14 @@
         "GSK": {
             "headline": "The \u2018dreadful\u2019 decline of a British drug giant \u2013 and why RFK could make it worse",
             "type": "SHORT"
+        },
+        "STLAM.MI": {
+            "headline": "Stellantis sees revenue growth, positive cash in 2025 after critical 2024",
+            "type": "BUY"
+        },
+        "DANOY": {
+            "headline": "Food group Danone confident after strong 2024 sales and cash performance",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -6206,6 +6214,10 @@
         },
         {
             "time": "2025-02-26T06:33:02.958308",
+            "value": 102866.09276999999
+        },
+        {
+            "time": "2025-02-26T07:22:19.433893",
             "value": 102866.09276999999
         }
     ]
