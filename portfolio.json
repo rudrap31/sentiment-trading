@@ -507,6 +507,10 @@
         "AAPL": {
             "headline": "Indonesia Reaches Pact With Apple, Signaling End for iPhone Ban",
             "type": "BUY"
+        },
+        "VWAPY": {
+            "headline": "India singles out VW in $1.4 billion tax dispute, says Kia corrected course",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -6226,6 +6230,10 @@
         },
         {
             "time": "2025-02-26T08:30:51.716229",
+            "value": 102866.09276999999
+        },
+        {
+            "time": "2025-02-26T09:25:45.483200",
             "value": 102866.09276999999
         }
     ]
