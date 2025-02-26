@@ -491,6 +491,14 @@
         "NVDA": {
             "headline": "Nvidia forecasts first-quarter revenue above estimates",
             "type": "BUY"
+        },
+        "TWI": {
+            "headline": "Titan International (NYSE:TWI) Misses Q4 Sales Targets, But Stock Soars 6.8%",
+            "type": "SHORT"
+        },
+        "ARIS": {
+            "headline": "Aris Water (NYSE:ARIS) Surprises With Q4 Sales",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -6458,6 +6466,10 @@
         },
         {
             "time": "2025-02-26T21:38:55.031080",
+            "value": 103246.73916999997
+        },
+        {
+            "time": "2025-02-26T22:23:00.146782",
             "value": 103246.73916999997
         }
     ]
