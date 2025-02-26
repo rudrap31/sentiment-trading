@@ -1,104 +1,47 @@
 import React, { useEffect, useState } from "react";
 import axios from 'axios';
-import PortfolioChart from "./Line";
+import PortfolioChart from "./components/Line";
+import Table from "./components/Table";
 import "./App.css";
+import { tailChase } from 'ldrs'
+
+tailChase.register()
 
 function App() {
     const [portfolio, setPortfolio] = useState([{}]);
+    const [loading, setLoading] = useState(false)
 
     useEffect(() => {
+        setLoading(true);
         axios.get("https://sentiment-trading.onrender.com")
             .then((response) => {
                 setPortfolio(response.data);  // Set portfolio to the data from the response
+                setLoading(false)
             })
             .catch((error) => {
                 console.error('Error fetching portfolio:', error);  // Handle error if any
+                setLoading(false)
             });
     }, []);
 
 
     return (
-        <div className="body">
-
-            <PortfolioChart portfolio={portfolio} />
-            <div>
-                <div>
-                    <h3 className="label">Active Trades:</h3>
-                    <table className="table">
-                        <thead>
-                            <tr>
-                                <th>Time</th>
-                                <th>Ticker</th>
-                                <th>Headline</th>
-                                <th>Action</th>
-                                <th>Buy Price</th>
-                                <th>Current Price</th>
-                                <th>P/L</th>
-                                <th>Amount</th>
-
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {portfolio.stocks && Object.keys(portfolio.stocks).map(ticker => {
-                                const stock = portfolio.stocks[ticker];
-                                const plPercentage = stock.type === "BUY"
-                                    ? (((stock.current_price - stock.buy_price) / stock.buy_price) * 100).toFixed(2)
-                                    : (((stock.buy_price - stock.current_price) / stock.buy_price) * 100).toFixed(2);
-                                return (
-                                    <tr key={ticker}>
-                                        <td>{new Date(stock.time).toLocaleString()}</td>
-                                        <td>{ticker}</td>
-                                        <td>{stock.headline}</td>
-                                        <td>{stock.type}</td>
-                                        <td>${stock.buy_price}</td>
-                                        <td>${stock.current_price}</td>
-                                        <td style={{
-                                            color: plPercentage >= 0 ? 'rgba(46, 204, 113, 1)' : 'rgba(207, 0, 25, 1)',
-                                            }}>%{plPercentage}</td>
-                                        <td>{stock.quantity}</td>
-                                    </tr>
-                                );
-                            })}
-                        </tbody>
-                    </table>
+        <div  className="body">
+            {loading ? (
+                <div class="loading">
+                    <p>Loading data...</p>
+                    <l-tail-chase
+                        size="40"
+                        speed="1.75"
+                        color="white">
+                    </l-tail-chase>
                 </div>
-
+            ) : (
                 <div>
-                    <h3 className="label">Closed Trades</h3>
-                    <table className="table">
-                        <thead>
-                            <tr>
-                                <th>Time</th>
-                                <th>Ticker</th>
-                                <th>Headline</th>
-                                <th>Action</th>
-                                <th>Buy Price</th>
-                                <th>Sold Price</th>
-                                <th>Profit</th>
-                                <th>Amount</th>
-
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {portfolio.trade_history && portfolio.trade_history.map((trade, index) => (
-                                    <tr key={index}>
-                                        <td>{new Date(trade.time).toLocaleString()}</td>
-                                        <td>{trade.ticker}</td>
-                                        <td>{trade.headline}</td>
-                                        <td>{trade.action}</td>
-                                        <td>${trade.buy_price.toFixed(2)}</td>
-                                        <td>${trade.sold_price.toFixed(2)}</td>
-                                        <td style={{
-                                            color: trade.profit >= 0 ? 'rgba(46, 204, 113, 1)' : 'rgba(207, 0, 25, 1)',
-                                            }}> {trade.profit >= 0 ? `+${trade.profit.toFixed(2)}` : `${trade.profit.toFixed(2)}`}</td>
-                                        <td>{trade.amount}</td>
-                                        
-                                    </tr>
-                                ))}
-                        </tbody>
-                    </table>
+                    <PortfolioChart portfolio={portfolio} />
+                    <Table portfolio={portfolio} />
                 </div>
-            </div>
+            )}
         </div>
     );
 }

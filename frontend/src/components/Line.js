@@ -44,40 +44,22 @@ function PortfolioChart({ portfolio }) {
                 pointRadius: 0
             }
         },
-        
         plugins: {
-          legend: {
-            display: false,
-          },
-        scales: {
-            x: {
-                
-                grid: {
-                    display: false,
-                    drawTicks: false,
-                    drawOnChartArea: false,
-                },
+            legend: {
+                display: false,
             },
-            y: {
-                grid: {
-                    display: false,
-                    drawTicks: false,
-                    drawOnChartArea: false,
-                }
-            }
-        }
         },
-        
-      };
+
+    };
 
     return (
         <div className="chart">
             <div className="value">
                 <h2>${value}</h2>
-                <h3 style={{ color: colors}}>%{Math.round(percentage * 100) /100}</h3>
+                <h3 style={{ color: colors }}>%{Math.round(percentage * 100) / 100}</h3>
             </div>
             <Line data={chartData} options={chartOptions} />
-            
+
         </div>
     );
 }
