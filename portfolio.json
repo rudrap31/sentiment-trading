@@ -1,6 +1,6 @@
 {
-    "cash": 42141.75616999996,
-    "value": 102802.93776999999,
+    "cash": 43277.856169999955,
+    "value": 102863.48776999999,
     "stocks": {
         "HYMTF": {
             "quantity": 19,
@@ -361,14 +361,6 @@
             "current_price": 55.9,
             "headline": "Analysis-Unilever faces battle to reduce plant-based meat exposure",
             "time": "2025-02-25T14:40:17.281062"
-        },
-        "MARUY": {
-            "quantity": 7,
-            "type": "BUY",
-            "buy_price": 154,
-            "current_price": 153.65,
-            "headline": "Buffett\u2019s Bet Sparks Surge in Japan Trading House Shares",
-            "time": "2025-02-25T14:40:17.303789"
         },
         "RYAAY": {
             "quantity": 22,
@@ -3351,6 +3343,16 @@
             "amount": 11,
             "time": "2025-02-25T11:24:20.054599",
             "profit": 54.45000000000003
+        },
+        {
+            "action": "BUY",
+            "ticker": "MARUY",
+            "headline": "Buffett\u2019s Bet Sparks Surge in Japan Trading House Shares",
+            "buy_price": 154,
+            "sold_price": 162.3,
+            "amount": 7,
+            "time": "2025-02-26T01:48:16.770107",
+            "profit": 58.10000000000008
         }
     ],
     "value_log": [
@@ -6161,6 +6163,10 @@
         {
             "time": "2025-02-25T23:22:05.029961",
             "value": 102802.93776999999
+        },
+        {
+            "time": "2025-02-26T01:48:17.540551",
+            "value": 102863.48776999999
         }
     ]
 }
