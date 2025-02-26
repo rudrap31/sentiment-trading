@@ -479,6 +479,18 @@
         "COMB.BR": {
             "headline": "Paramount Global misses quarterly revenue estimates on continued cable TV declines",
             "type": "SHORT"
+        },
+        "^GSPC": {
+            "headline": "Stock market today: Nasdaq, S&P 500 eke out gains as Dow, bitcoin drop with all eyes on Nvidia earnings",
+            "type": "SHORT"
+        },
+        "SG": {
+            "headline": "Sweetgreen (NYSE:SG) Posts Q4 Sales In Line With Estimates But Stock Drops 16.1%",
+            "type": "SHORT"
+        },
+        "NVDA": {
+            "headline": "Nvidia forecasts first-quarter revenue above estimates",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -6442,6 +6454,10 @@
         },
         {
             "time": "2025-02-26T21:22:22.927039",
+            "value": 103246.73916999997
+        },
+        {
+            "time": "2025-02-26T21:38:55.031080",
             "value": 103246.73916999997
         }
     ]
