@@ -26,7 +26,7 @@ function App() {
 
 
     return (
-        <div  className="body">
+        <div className="body">
             {loading ? (
                 <div class="loading">
                     <p>Loading data...</p>
