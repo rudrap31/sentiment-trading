@@ -503,6 +503,10 @@
         "DANOY": {
             "headline": "Food group Danone confident after strong 2024 sales and cash performance",
             "type": "BUY"
+        },
+        "AAPL": {
+            "headline": "Indonesia Reaches Pact With Apple, Signaling End for iPhone Ban",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -6218,6 +6222,10 @@
         },
         {
             "time": "2025-02-26T07:22:19.433893",
+            "value": 102866.09276999999
+        },
+        {
+            "time": "2025-02-26T08:30:51.716229",
             "value": 102866.09276999999
         }
     ]
