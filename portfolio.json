@@ -531,6 +531,18 @@
         "NWG": {
             "headline": "NatWest Plans SRT Tied to Almost \u00a31 Billion of Leverage Loans",
             "type": "SHORT"
+        },
+        "OPCH": {
+            "headline": "Option Care Health (NASDAQ:OPCH) Delivers Impressive Q4, Guides for Strong Full-Year Sales",
+            "type": "BUY"
+        },
+        "BLMN": {
+            "headline": "Bloomin' Brands (NASDAQ:BLMN) Misses Q4 Sales Targets, Stock Drops",
+            "type": "SHORT"
+        },
+        "LNTH": {
+            "headline": "Lantheus\u2019s (NASDAQ:LNTH) Q4 Sales Top Estimates, Stock Soars",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -6266,6 +6278,10 @@
         },
         {
             "time": "2025-02-26T12:46:26.681388",
+            "value": 102866.09276999999
+        },
+        {
+            "time": "2025-02-26T13:29:58.620803",
             "value": 102866.09276999999
         }
     ]
