@@ -1,12 +1,12 @@
 {
-    "cash": 43277.856169999955,
-    "value": 102863.48776999999,
+    "cash": 44417.856169999955,
+    "value": 102885.36276999999,
     "stocks": {
         "HYMTF": {
             "quantity": 19,
             "type": "SHORT",
             "buy_price": 55,
-            "current_price": 54.4,
+            "current_price": 55,
             "headline": "Hyundai Motor Q4 profit falls 17% as discounts weigh",
             "time": "2025-01-22T21:30:46.243577"
         },
@@ -14,7 +14,7 @@
             "quantity": 34,
             "type": "BUY",
             "buy_price": 29.45,
-            "current_price": 28.83,
+            "current_price": 28.89,
             "headline": "Australia's Qantas soars to record highs after frequent flyer programme revamp",
             "time": "2025-01-22T23:11:56.067293"
         },
@@ -142,7 +142,7 @@
             "quantity": 35,
             "type": "SHORT",
             "buy_price": 29.37,
-            "current_price": 28.39,
+            "current_price": 28.58,
             "headline": "Trump tariffs would test pricing power of Europe's luxury goods makers",
             "time": "2025-02-18T13:26:28.471226"
         },
@@ -214,7 +214,7 @@
             "quantity": 62,
             "type": "BUY",
             "buy_price": 16.22,
-            "current_price": 16.48,
+            "current_price": 16.5,
             "headline": "Trump Says New China Trade Deal \u2018Possible\u2019 Despite Tensions",
             "time": "2025-02-20T04:24:29.232499"
         },
@@ -225,14 +225,6 @@
             "current_price": 17.25,
             "headline": "Oil Extends Gain With Focus on Supply Uncertainty, Weaker Dollar",
             "time": "2025-02-20T16:49:40.607427"
-        },
-        "VLKAF": {
-            "quantity": 10,
-            "type": "BUY",
-            "buy_price": 105.545,
-            "current_price": 109.5855,
-            "headline": "Rivian posts $170 million 'gross profit' in Q4, sees losses decreasing as variable costs improve",
-            "time": "2025-02-20T21:19:06.426556"
         },
         "MA": {
             "quantity": 2,
@@ -374,7 +366,7 @@
             "quantity": 125,
             "type": "SHORT",
             "buy_price": 8.03,
-            "current_price": 7.9,
+            "current_price": 7.96,
             "headline": "Congo Suspends Cobalt Exports for Four Months Amid Glut",
             "time": "2025-02-25T14:40:17.395426"
         },
@@ -491,6 +483,14 @@
         "LCID": {
             "headline": "Lucid sees stock pop on Q4 results, announces CEO Peter Rawlinson will step down",
             "type": "SHORT"
+        },
+        "MS": {
+            "headline": "US Oil Steadies in the $60s as Dour Economic Sentiment Weighs",
+            "type": "BUY"
+        },
+        "^HSI": {
+            "headline": "Yields slumps with dollar as US growth worries weigh, Asia shares edge up",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -3353,6 +3353,16 @@
             "amount": 7,
             "time": "2025-02-26T01:48:16.770107",
             "profit": 58.10000000000008
+        },
+        {
+            "action": "BUY",
+            "ticker": "VLKAF",
+            "headline": "Rivian posts $170 million 'gross profit' in Q4, sees losses decreasing as variable costs improve",
+            "buy_price": 105.545,
+            "sold_price": 114,
+            "amount": 10,
+            "time": "2025-02-26T03:31:06.504882",
+            "profit": 84.54999999999998
         }
     ],
     "value_log": [
@@ -6167,6 +6177,10 @@
         {
             "time": "2025-02-26T01:48:17.540551",
             "value": 102863.48776999999
+        },
+        {
+            "time": "2025-02-26T03:31:07.301368",
+            "value": 102885.36276999999
         }
     ]
 }
