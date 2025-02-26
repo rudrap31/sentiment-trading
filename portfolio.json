@@ -499,6 +499,14 @@
         "ARIS": {
             "headline": "Aris Water (NYSE:ARIS) Surprises With Q4 Sales",
             "type": "BUY"
+        },
+        "MRNA": {
+            "headline": "Trump Team Weighs Pulling Funds for Moderna Bird Flu Vaccine",
+            "type": "BUY"
+        },
+        "VAC": {
+            "headline": "Marriott Vacations\u2019s (NYSE:VAC) Q4 Sales Beat Estimates",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -6470,6 +6478,10 @@
         },
         {
             "time": "2025-02-26T22:23:00.146782",
+            "value": 103246.73916999997
+        },
+        {
+            "time": "2025-02-26T23:23:59.379702",
             "value": 103246.73916999997
         }
     ]
