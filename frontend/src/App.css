@@ -1,47 +1,98 @@
-.chart{
-    padding-left: 100px;
-    padding-right: 100px;
+.loading {
+    width: 100%;
+    height: 100vh;
+    font-size: 36px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
-.value{
+.chart {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+@media (max-width: 700px) {
+    .chart {
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+}
+
+.value {
     display: flex;
     align-items: center;
-    margin-left: 40px;
+    margin-left: 5%;
 }
 
-.value h2{
+.value h2 {
     font-size: 60px;
     margin-right: 20px;
 }
 
-.value h3{
+.value h3 {
     font-size: 35px;
 }
 
-.body{
+@media (max-width: 700px) {
+    .value {
+        margin-left: 3%;
+    }
+
+    .value h2 {
+        font-size: 48px;
+        margin-right: 20px;
+    }
+
+    .value h3 {
+        font-size: 25px;
+    }
+}
+
+.body {
     background-color: rgb(14, 15, 20);
+    width: 100%;
     color: rgb(236, 236, 236);
 }
 
 
-.table{
+.table {
     width: 100%;
     text-align: center;
-  }
-
-th{
-    font-size: 24px;
-    color: rgb(153, 167, 181);
 }
 
-td{
+th {
+    font-size: 24px;
+    color: rgb(95, 93, 125);
+}
+
+td {
     height: 36px;
     font-size: 18px;
 }
-  
-.label{
+
+.label {
     display: flex;
     justify-content: center;
     font-size: 24px;
-    color: rgb(153, 167, 181);
+    color: rgb(95, 93, 125);
+}
+
+@media (max-width: 700px) {
+    th {
+        font-size: 14px;
+    }
+
+    td {
+        font-size: 12px;
+    }
+
+    .label {
+        font-size: 16px;
+    }
+}
+
+.percentage {
+    font-weight: 800;
 }
