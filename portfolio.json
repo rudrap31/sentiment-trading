@@ -1,6 +1,6 @@
 {
     "cash": 47940.60416999997,
-    "value": 103476.89367,
+    "value": 103478.13117,
     "stocks": {
         "HYMTF": {
             "quantity": 19,
@@ -94,7 +94,7 @@
             "quantity": 16,
             "type": "BUY",
             "buy_price": 63,
-            "current_price": 64.095,
+            "current_price": 64.11,
             "headline": "Cisco Gains Most in Six Months on Demand for AI-Ready",
             "time": "2025-02-13T15:12:45.843229"
         },
@@ -126,7 +126,7 @@
             "quantity": 5,
             "type": "BUY",
             "buy_price": 244.285,
-            "current_price": 241.395,
+            "current_price": 241.84,
             "headline": "Instagram upgrades DMs with music-sharing, message scheduling, translation and more",
             "time": "2025-02-19T16:25:52.511604"
         },
@@ -182,7 +182,7 @@
             "quantity": 7,
             "type": "SHORT",
             "buy_price": 153.5,
-            "current_price": 153.4675,
+            "current_price": 153.47,
             "headline": "Differences bubble up between PepsiCo and Coca-Cola on diversity programs",
             "time": "2025-02-21T22:19:38.504877"
         },
@@ -198,7 +198,7 @@
             "quantity": 3,
             "type": "SHORT",
             "buy_price": 410.4,
-            "current_price": 396.98,
+            "current_price": 396.99,
             "headline": "Microsoft Cancels Leases for AI Data Centers, Analyst Says",
             "time": "2025-02-24T15:13:39.645347"
         },
@@ -254,7 +254,7 @@
             "quantity": 22,
             "type": "BUY",
             "buy_price": 46.31,
-            "current_price": 48.55,
+            "current_price": 48.53,
             "headline": "Ryanair expects summer fares to rise 4-6%, CEO says",
             "time": "2025-02-25T14:40:17.376989"
         },
@@ -278,7 +278,7 @@
             "quantity": 8,
             "type": "SHORT",
             "buy_price": 129.65,
-            "current_price": 124.805,
+            "current_price": 124.92,
             "headline": "AI stocks battered heading into make-or-break Nvidia earnings",
             "time": "2025-02-25T18:13:33.254911"
         },
@@ -286,7 +286,7 @@
             "quantity": 5,
             "type": "SHORT",
             "buy_price": 211.87,
-            "current_price": 215.64,
+            "current_price": 215.62,
             "headline": "The Trump crypto rally is fading",
             "time": "2025-02-25T18:13:33.563254"
         },
@@ -302,7 +302,7 @@
             "quantity": 12,
             "type": "SHORT",
             "buy_price": 88.325,
-            "current_price": 84.905,
+            "current_price": 84.92,
             "headline": "Watch These Palantir Stock Price Levels as Sell-Off From Last Week's High Accelerates",
             "time": "2025-02-25T18:43:49.185571"
         },
@@ -310,7 +310,7 @@
             "quantity": 4,
             "type": "SHORT",
             "buy_price": 299.93,
-            "current_price": 293.045,
+            "current_price": 292.98,
             "headline": "Tesla's market value tumbles below $1 trillion as its Europe sales slump",
             "time": "2025-02-25T19:08:25.421438"
         },
@@ -462,6 +462,10 @@
         },
         "CVX": {
             "headline": "Oil Slides to Monthly Loss as Tariff Risks Batter Sentiment",
+            "type": "SHORT"
+        },
+        "ILMN": {
+            "headline": "Tariffs, Cut Funding Spur Illumina\u2019s Worst Month in 23 Years",
             "type": "SHORT"
         }
     },
@@ -6513,6 +6517,10 @@
         {
             "time": "2025-02-28T21:13:21.922037",
             "value": 103476.89367
+        },
+        {
+            "time": "2025-02-28T21:36:00.992910",
+            "value": 103478.13117
         }
     ]
 }
