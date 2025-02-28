@@ -467,6 +467,10 @@
         "ILMN": {
             "headline": "Tariffs, Cut Funding Spur Illumina\u2019s Worst Month in 23 Years",
             "type": "SHORT"
+        },
+        "BX": {
+            "headline": "Blackstone\u2019s Schwarzman Takes Home More Than $1 Billion Again",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -6520,6 +6524,10 @@
         },
         {
             "time": "2025-02-28T21:36:00.992910",
+            "value": 103478.13117
+        },
+        {
+            "time": "2025-02-28T23:14:13.579241",
             "value": 103478.13117
         }
     ]
