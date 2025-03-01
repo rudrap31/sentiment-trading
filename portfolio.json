@@ -1,20 +1,12 @@
 {
-    "cash": 47940.60416999997,
-    "value": 103478.13117,
+    "cash": 50012.20416999997,
+    "value": 103517.31197,
     "stocks": {
-        "HYMTF": {
-            "quantity": 19,
-            "type": "SHORT",
-            "buy_price": 55,
-            "current_price": 55,
-            "headline": "Hyundai Motor Q4 profit falls 17% as discounts weigh",
-            "time": "2025-01-22T21:30:46.243577"
-        },
         "QABSY": {
             "quantity": 34,
             "type": "BUY",
             "buy_price": 29.45,
-            "current_price": 29,
+            "current_price": 29.64,
             "headline": "Australia's Qantas soars to record highs after frequent flyer programme revamp",
             "time": "2025-01-22T23:11:56.067293"
         },
@@ -110,7 +102,7 @@
             "quantity": 35,
             "type": "SHORT",
             "buy_price": 29.37,
-            "current_price": 28.18,
+            "current_price": 27.97,
             "headline": "Trump tariffs would test pricing power of Europe's luxury goods makers",
             "time": "2025-02-18T13:26:28.471226"
         },
@@ -226,14 +218,6 @@
             "headline": "Why Is Nike (NKE) Stock Rocketing Higher Today",
             "time": "2025-02-24T18:13:32.572819"
         },
-        "ANZGF": {
-            "quantity": 52,
-            "type": "BUY",
-            "buy_price": 19.4471,
-            "current_price": 19.4471,
-            "headline": "Oil Edges Higher as Investors Assess Iran Sanctions and Trade",
-            "time": "2025-02-25T14:40:17.253430"
-        },
         "NMR": {
             "quantity": 151,
             "type": "SHORT",
@@ -262,7 +246,7 @@
             "quantity": 125,
             "type": "SHORT",
             "buy_price": 8.03,
-            "current_price": 7.92,
+            "current_price": 7.93,
             "headline": "Congo Suspends Cobalt Exports for Four Months Amid Glut",
             "time": "2025-02-25T14:40:17.395426"
         },
@@ -342,7 +326,7 @@
             "quantity": 99,
             "type": "SHORT",
             "buy_price": 10.18,
-            "current_price": 10.22,
+            "current_price": 10.19,
             "headline": "Tesla stock sinks as Europe sales tank on rival offerings, Musk blowback",
             "time": "2025-02-26T14:43:20.648094"
         },
@@ -366,7 +350,7 @@
             "quantity": 69,
             "type": "BUY",
             "buy_price": 14.55,
-            "current_price": 14.19,
+            "current_price": 14.26,
             "headline": "Food group Danone confident after strong 2024 sales and cash performance",
             "time": "2025-02-26T14:43:21.903452"
         },
@@ -382,7 +366,7 @@
             "quantity": 26,
             "type": "SHORT",
             "buy_price": 39.35,
-            "current_price": 38.77,
+            "current_price": 39,
             "headline": "Italy seizes $49 million from DHL unit in labour supply probe",
             "time": "2025-02-26T14:43:22.152372"
         },
@@ -398,7 +382,7 @@
             "quantity": 39,
             "type": "BUY",
             "buy_price": 25.74,
-            "current_price": 26.21,
+            "current_price": 26.06,
             "headline": "UniCredit CEO Orcel's annual pay jumps by 30% to 13 million euros",
             "time": "2025-02-26T14:43:22.863358"
         },
@@ -3611,6 +3595,26 @@
             "amount": 85,
             "time": "2025-02-28T21:13:21.012716",
             "profit": -39.10000000000007
+        },
+        {
+            "action": "SHORT",
+            "ticker": "HYMTF",
+            "headline": "Hyundai Motor Q4 profit falls 17% as discounts weigh",
+            "buy_price": 55,
+            "sold_price": 51.6,
+            "amount": 19,
+            "time": "2025-03-01T02:53:51.407021",
+            "profit": 64.59999999999997
+        },
+        {
+            "action": "BUY",
+            "ticker": "ANZGF",
+            "headline": "Oil Edges Higher as Investors Assess Iran Sanctions and Trade",
+            "buy_price": 19.4471,
+            "sold_price": 18.5,
+            "amount": 52,
+            "time": "2025-03-01T02:53:51.407038",
+            "profit": -49.249199999999945
         }
     ],
     "value_log": [
@@ -6541,6 +6545,10 @@
         {
             "time": "2025-03-01T00:56:27.748133",
             "value": 103478.13117
+        },
+        {
+            "time": "2025-03-01T02:53:52.197651",
+            "value": 103517.31197
         }
     ]
 }
