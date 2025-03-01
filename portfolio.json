@@ -463,6 +463,10 @@
         "INTC": {
             "headline": "Intel Pushes Back Ohio Chipmaking Plant Opening by Four Years to 2030",
             "type": "BUY"
+        },
+        "FQVLF": {
+            "headline": "Panama\u2019s $10 Billion Copper Mine Faces Tough Road to Restart",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -6576,6 +6580,10 @@
         },
         {
             "time": "2025-03-01T16:12:37.099947",
+            "value": 103491.31696999999
+        },
+        {
+            "time": "2025-03-01T18:14:35.472073",
             "value": 103491.31696999999
         }
     ]
