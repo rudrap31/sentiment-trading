@@ -1,6 +1,6 @@
 {
     "cash": 50012.20416999997,
-    "value": 103517.31197,
+    "value": 103491.31696999999,
     "stocks": {
         "QABSY": {
             "quantity": 34,
@@ -318,7 +318,7 @@
             "quantity": 9,
             "type": "SHORT",
             "buy_price": 111.38,
-            "current_price": 108.65,
+            "current_price": 111.745,
             "headline": "Tesla stock sinks as Europe sales tank on rival offerings, Musk blowback",
             "time": "2025-02-26T14:43:20.472639"
         },
@@ -358,7 +358,7 @@
             "quantity": 93,
             "type": "SHORT",
             "buy_price": 10.83,
-            "current_price": 10.73,
+            "current_price": 10.71,
             "headline": "India singles out VW in $1.4 billion tax dispute, says Kia corrected course",
             "time": "2025-02-26T14:43:22.068441"
         },
@@ -6549,6 +6549,10 @@
         {
             "time": "2025-03-01T02:53:52.197651",
             "value": 103517.31197
+        },
+        {
+            "time": "2025-03-01T04:14:17.239208",
+            "value": 103491.31696999999
         }
     ]
 }
