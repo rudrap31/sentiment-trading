@@ -471,6 +471,14 @@
         "BX": {
             "headline": "Blackstone\u2019s Schwarzman Takes Home More Than $1 Billion Again",
             "type": "BUY"
+        },
+        "APO-P-A": {
+            "headline": "US regulators, in unusual move, raise concerns about new private credit ETF",
+            "type": "SHORT"
+        },
+        "INTC": {
+            "headline": "Intel Pushes Back Ohio Chipmaking Plant Opening by Four Years to 2030",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -6528,6 +6536,10 @@
         },
         {
             "time": "2025-02-28T23:14:13.579241",
+            "value": 103478.13117
+        },
+        {
+            "time": "2025-03-01T00:56:27.748133",
             "value": 103478.13117
         }
     ]
