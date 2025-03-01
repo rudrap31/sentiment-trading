@@ -1,6 +1,6 @@
 {
     "cash": 50012.20416999997,
-    "value": 103491.31696999999,
+    "value": 103473.98197,
     "stocks": {
         "QABSY": {
             "quantity": 34,
@@ -318,7 +318,7 @@
             "quantity": 9,
             "type": "SHORT",
             "buy_price": 111.38,
-            "current_price": 111.745,
+            "current_price": 113.44,
             "headline": "Tesla stock sinks as Europe sales tank on rival offerings, Musk blowback",
             "time": "2025-02-26T14:43:20.472639"
         },
@@ -366,7 +366,7 @@
             "quantity": 26,
             "type": "SHORT",
             "buy_price": 39.35,
-            "current_price": 39,
+            "current_price": 39.08,
             "headline": "Italy seizes $49 million from DHL unit in labour supply probe",
             "time": "2025-02-26T14:43:22.152372"
         },
@@ -6589,6 +6589,10 @@
         {
             "time": "2025-03-01T20:12:07.985389",
             "value": 103491.31696999999
+        },
+        {
+            "time": "2025-03-01T22:10:22.793841",
+            "value": 103473.98197
         }
     ]
 }
