@@ -467,6 +467,10 @@
         "FQVLF": {
             "headline": "Panama\u2019s $10 Billion Copper Mine Faces Tough Road to Restart",
             "type": "SHORT"
+        },
+        "ADANIPOWER.NS": {
+            "headline": "India's Adani Group revives US investment plans, FT reports",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -6604,6 +6608,10 @@
         },
         {
             "time": "2025-03-02T04:13:36.964698",
+            "value": 103473.98197
+        },
+        {
+            "time": "2025-03-02T06:16:09.598004",
             "value": 103473.98197
         }
     ]
