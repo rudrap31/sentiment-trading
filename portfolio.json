@@ -475,6 +475,18 @@
         "XLU": {
             "headline": "How Wall Street pros are looking at fears over a US economy slowdown",
             "type": "SHORT"
+        },
+        "GOOG": {
+            "headline": "Honor Device Pledges $10 Billion for\u00a0AI in Bid to Be More Than a Phone Maker",
+            "type": "BUY"
+        },
+        "EADSF": {
+            "headline": "Social Democrats Set to Win Vote in German City of Hamburg",
+            "type": "BUY"
+        },
+        "PRDSY": {
+            "headline": "Prada moving closer to $1.6 billion deal for Versace, Bloomberg News reports",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -6636,6 +6648,10 @@
         },
         {
             "time": "2025-03-02T16:13:25.902010",
+            "value": 103473.98197
+        },
+        {
+            "time": "2025-03-02T20:12:20.233974",
             "value": 103473.98197
         }
     ]
