@@ -487,6 +487,10 @@
         "PRDSY": {
             "headline": "Prada moving closer to $1.6 billion deal for Versace, Bloomberg News reports",
             "type": "BUY"
+        },
+        "BYDDY": {
+            "headline": "BYD Seeks to Raise Up to $5.2 Billion in Placement, Terms Show",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -6676,6 +6680,10 @@
         },
         {
             "time": "2025-03-03T09:17:59.337267",
+            "value": 103473.98197
+        },
+        {
+            "time": "2025-03-03T10:17:14.652429",
             "value": 103473.98197
         }
     ]
