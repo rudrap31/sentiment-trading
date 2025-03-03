@@ -427,6 +427,10 @@
         "OKTA": {
             "headline": "Okta CEO: We just had a 'blowout' quarter",
             "type": "SHORT"
+        },
+        "COMP": {
+            "headline": "Wall Street hit by Trump tariffs on Canada and Mexico",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -6916,6 +6920,10 @@
         },
         {
             "time": "2025-03-03T21:38:07.291011",
+            "value": 103381.80206999995
+        },
+        {
+            "time": "2025-03-03T22:14:44.813543",
             "value": 103381.80206999995
         }
     ]
