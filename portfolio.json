@@ -431,6 +431,18 @@
         "COMP": {
             "headline": "Wall Street hit by Trump tariffs on Canada and Mexico",
             "type": "SHORT"
+        },
+        "RLGT": {
+            "headline": "Radiant Logistics acquires California-based forwarder",
+            "type": "BUY"
+        },
+        "^GSPC": {
+            "headline": "Asian Stocks to Decline as Tariffs Spark US Rout: Markets Wrap",
+            "type": "SHORT"
+        },
+        "C": {
+            "headline": "Citigroup almost sent $6 billion to wealth account in copy-paste error, Bloomberg reports",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -6924,6 +6936,10 @@
         },
         {
             "time": "2025-03-03T22:14:44.813543",
+            "value": 103381.80206999995
+        },
+        {
+            "time": "2025-03-03T23:14:33.220550",
             "value": 103381.80206999995
         }
     ]
