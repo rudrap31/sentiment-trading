@@ -415,6 +415,18 @@
         "NVDA": {
             "headline": "Stock market today: Dow sinks, S&P 500 posts worst day of 2025 after Trump forges ahead on tariffs",
             "type": "SHORT"
+        },
+        "BTC-USD": {
+            "headline": "Crypto stocks, bitcoin drop, reversing direction after Trump touts US crypto reserve",
+            "type": "SHORT"
+        },
+        "TDUP": {
+            "headline": "ThredUp (NASDAQ:TDUP) Misses Q4 Sales Targets",
+            "type": "SHORT"
+        },
+        "OKTA": {
+            "headline": "Okta CEO: We just had a 'blowout' quarter",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -6900,6 +6912,10 @@
         },
         {
             "time": "2025-03-03T21:14:10.940185",
+            "value": 103381.80206999995
+        },
+        {
+            "time": "2025-03-03T21:38:07.291011",
             "value": 103381.80206999995
         }
     ]
