@@ -491,6 +491,14 @@
         "BYDDY": {
             "headline": "BYD Seeks to Raise Up to $5.2 Billion in Placement, Terms Show",
             "type": "BUY"
+        },
+        "BRK-B": {
+            "headline": "Trump may put US into a recession, former advisor Anthony Scaramucci warns",
+            "type": "SHORT"
+        },
+        "^FCHI": {
+            "headline": "French Stocks Hit Record as Defense Rallies, Political Risk Dims",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -6692,6 +6700,10 @@
         },
         {
             "time": "2025-03-03T12:29:43.896937",
+            "value": 103473.98197
+        },
+        {
+            "time": "2025-03-03T13:23:56.014024",
             "value": 103473.98197
         }
     ]
