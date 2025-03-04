@@ -411,6 +411,10 @@
         "TSM": {
             "headline": "TSMC Unveils $100 Billion US Investment in Boost for Trump",
             "type": "BUY"
+        },
+        "CHLSY": {
+            "headline": "Lindt beats expectations on 2024 operating profit",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -6974,6 +6978,10 @@
         },
         {
             "time": "2025-03-04T05:15:10.968335",
+            "value": 103451.42506999995
+        },
+        {
+            "time": "2025-03-04T06:20:57.774248",
             "value": 103451.42506999995
         }
     ]
