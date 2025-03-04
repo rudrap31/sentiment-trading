@@ -403,6 +403,10 @@
         "C": {
             "headline": "Citigroup almost sent $6 billion to wealth account in copy-paste error, Bloomberg reports",
             "type": "SHORT"
+        },
+        "TCEHY": {
+            "headline": "Tencent\u2019s AI Bot Passes DeepSeek as China\u2019s Favorite on iPhones",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -6958,6 +6962,10 @@
         },
         {
             "time": "2025-03-04T03:25:12.511994",
+            "value": 103451.42506999995
+        },
+        {
+            "time": "2025-03-04T04:18:06.773656",
             "value": 103451.42506999995
         }
     ]
