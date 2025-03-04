@@ -443,6 +443,14 @@
         "OLPX": {
             "headline": "Olaplex\u2019s (NASDAQ:OLPX) Q4: Strong Sales, Stock Jumps 10.2%",
             "type": "SHORT"
+        },
+        "GSC": {
+            "headline": "Euro Hits 2025 High as Banks Ditch Parity Calls on Defense Push",
+            "type": "SHORT"
+        },
+        "VTBR.ME": {
+            "headline": "Ex-Credit Suisse Bankers Banned in UK for Tuna-Bond Scandal Role",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -7034,6 +7042,10 @@
         },
         {
             "time": "2025-03-04T12:29:02.258692",
+            "value": 103451.42506999995
+        },
+        {
+            "time": "2025-03-04T13:23:22.817631",
             "value": 103451.42506999995
         }
     ]
