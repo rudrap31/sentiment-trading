@@ -415,6 +415,14 @@
         "CHLSY": {
             "headline": "Lindt beats expectations on 2024 operating profit",
             "type": "BUY"
+        },
+        "BZ=F": {
+            "headline": "Oil pushes lower on Trump's tariffs, OPEC+ plans to hike output",
+            "type": "SHORT"
+        },
+        "CALT.MI": {
+            "headline": "Caltagirone has raised his stake in Generali to 8%, MF daily says",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -6986,6 +6994,10 @@
         },
         {
             "time": "2025-03-04T07:16:42.383972",
+            "value": 103451.42506999995
+        },
+        {
+            "time": "2025-03-04T08:18:14.851612",
             "value": 103451.42506999995
         }
     ]
