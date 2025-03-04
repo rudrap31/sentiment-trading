@@ -395,6 +395,10 @@
         "ROST": {
             "headline": "Ross Stores (NASDAQ:ROST) Reports Q4 In Line With Expectations But Quarterly Revenue Guidance Significantly Misses Expectations",
             "type": "SHORT"
+        },
+        "BBY": {
+            "headline": "Why Best Buy (BBY) Shares Are Sliding Today",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -7286,6 +7290,10 @@
         },
         {
             "time": "2025-03-04T21:36:40.960906",
+            "value": 103107.78887
+        },
+        {
+            "time": "2025-03-04T22:14:22.298380",
             "value": 103107.78887
         }
     ]
