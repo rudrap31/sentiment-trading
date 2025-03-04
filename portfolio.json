@@ -423,6 +423,10 @@
         "CALT.MI": {
             "headline": "Caltagirone has raised his stake in Generali to 8%, MF daily says",
             "type": "BUY"
+        },
+        "FRE.DE": {
+            "headline": "Fresenius Raises \u20ac1.1 Billion for Stake in Dialysis Company",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -6998,6 +7002,10 @@
         },
         {
             "time": "2025-03-04T08:18:14.851612",
+            "value": 103451.42506999995
+        },
+        {
+            "time": "2025-03-04T09:16:27.053114",
             "value": 103451.42506999995
         }
     ]
