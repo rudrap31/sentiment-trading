@@ -431,6 +431,18 @@
         "PUK": {
             "headline": "Prudential Is Said to Seek $12 Billion Value on India JV Listing",
             "type": "BUY"
+        },
+        "OMV.VI": {
+            "headline": "UAE\u2019s Adnoc Targets More Chemicals Growth After Mega OMV Deal",
+            "type": "BUY"
+        },
+        "BTGOF": {
+            "headline": "BT\u2019s \u00a31m leadership guru fell asleep in meetings",
+            "type": "SHORT"
+        },
+        "OLPX": {
+            "headline": "Olaplex\u2019s (NASDAQ:OLPX) Q4: Strong Sales, Stock Jumps 10.2%",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -7018,6 +7030,10 @@
         },
         {
             "time": "2025-03-04T11:13:35.720921",
+            "value": 103451.42506999995
+        },
+        {
+            "time": "2025-03-04T12:29:02.258692",
             "value": 103451.42506999995
         }
     ]
