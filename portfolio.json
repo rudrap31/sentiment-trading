@@ -1,6 +1,6 @@
 {
     "cash": 53775.21886999996,
-    "value": 103107.81387000001,
+    "value": 103107.78887,
     "stocks": {
         "BR": {
             "quantity": 5,
@@ -310,7 +310,7 @@
             "quantity": 5,
             "type": "BUY",
             "buy_price": 238.87,
-            "current_price": 235.935,
+            "current_price": 235.93,
             "headline": "Apple launches iPad Air with M3 chip, updates entry-level iPad with improved peformance",
             "time": "2025-03-04T15:15:41.502784"
         },
@@ -387,6 +387,14 @@
         "^FTSE": {
             "headline": "Trump tariff war wipes out Wall Street\u2019s post-election gains",
             "type": "BUY"
+        },
+        "SWIM": {
+            "headline": "Latham\u2019s (NASDAQ:SWIM) Q4: Beats On Revenue, Stock Soars",
+            "type": "BUY"
+        },
+        "ROST": {
+            "headline": "Ross Stores (NASDAQ:ROST) Reports Q4 In Line With Expectations But Quarterly Revenue Guidance Significantly Misses Expectations",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -7275,6 +7283,10 @@
         {
             "time": "2025-03-04T21:14:04.037082",
             "value": 103107.81387000001
+        },
+        {
+            "time": "2025-03-04T21:36:40.960906",
+            "value": 103107.78887
         }
     ]
 }
