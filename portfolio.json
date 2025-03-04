@@ -451,6 +451,10 @@
         "VTBR.ME": {
             "headline": "Ex-Credit Suisse Bankers Banned in UK for Tuna-Bond Scandal Role",
             "type": "SHORT"
+        },
+        "JWN": {
+            "headline": "Nordstrom beats holiday-quarter sales estimates; CFO jumps ship to Starbucks",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -7046,6 +7050,10 @@
         },
         {
             "time": "2025-03-04T13:23:22.817631",
+            "value": 103451.42506999995
+        },
+        {
+            "time": "2025-03-04T14:14:27.020484",
             "value": 103451.42506999995
         }
     ]
