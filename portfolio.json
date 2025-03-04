@@ -407,6 +407,10 @@
         "TCEHY": {
             "headline": "Tencent\u2019s AI Bot Passes DeepSeek as China\u2019s Favorite on iPhones",
             "type": "BUY"
+        },
+        "TSM": {
+            "headline": "TSMC Unveils $100 Billion US Investment in Boost for Trump",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -6966,6 +6970,10 @@
         },
         {
             "time": "2025-03-04T04:18:06.773656",
+            "value": 103451.42506999995
+        },
+        {
+            "time": "2025-03-04T05:15:10.968335",
             "value": 103451.42506999995
         }
     ]
