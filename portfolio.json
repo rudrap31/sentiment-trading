@@ -1,6 +1,6 @@
 {
-    "cash": 53775.21886999996,
-    "value": 103107.78887,
+    "cash": 54840.81886999996,
+    "value": 103244.48687,
     "stocks": {
         "BR": {
             "quantity": 5,
@@ -70,7 +70,7 @@
             "quantity": 62,
             "type": "BUY",
             "buy_price": 16.22,
-            "current_price": 16.43,
+            "current_price": 16.41,
             "headline": "Trump Says New China Trade Deal \u2018Possible\u2019 Despite Tensions",
             "time": "2025-02-20T04:24:29.232499"
         },
@@ -134,7 +134,7 @@
             "quantity": 125,
             "type": "SHORT",
             "buy_price": 8.03,
-            "current_price": 8.08,
+            "current_price": 8.02,
             "headline": "Congo Suspends Cobalt Exports for Four Months Amid Glut",
             "time": "2025-02-25T14:40:17.395426"
         },
@@ -166,7 +166,7 @@
             "quantity": 69,
             "type": "BUY",
             "buy_price": 14.55,
-            "current_price": 14.5,
+            "current_price": 15,
             "headline": "Food group Danone confident after strong 2024 sales and cash performance",
             "time": "2025-02-26T14:43:21.903452"
         },
@@ -182,7 +182,7 @@
             "quantity": 26,
             "type": "SHORT",
             "buy_price": 39.35,
-            "current_price": 40.31,
+            "current_price": 40.14,
             "headline": "Italy seizes $49 million from DHL unit in labour supply probe",
             "time": "2025-02-26T14:43:22.152372"
         },
@@ -198,7 +198,7 @@
             "quantity": 39,
             "type": "BUY",
             "buy_price": 25.74,
-            "current_price": 26.91,
+            "current_price": 26.82,
             "headline": "UniCredit CEO Orcel's annual pay jumps by 30% to 13 million euros",
             "time": "2025-02-26T14:43:22.863358"
         },
@@ -206,7 +206,7 @@
             "quantity": 83,
             "type": "SHORT",
             "buy_price": 12.19,
-            "current_price": 11.81,
+            "current_price": 11.68,
             "headline": "Panama\u2019s $10 Billion Copper Mine Faces Tough Road to Restart",
             "time": "2025-03-03T14:41:49.379603"
         },
@@ -246,7 +246,7 @@
             "quantity": 17,
             "type": "BUY",
             "buy_price": 62.34,
-            "current_price": 61.08,
+            "current_price": 63.39,
             "headline": "Tencent\u2019s AI Bot Passes DeepSeek as China\u2019s Favorite on iPhones",
             "time": "2025-03-04T14:41:15.509130"
         },
@@ -257,14 +257,6 @@
             "current_price": 180,
             "headline": "TSMC Unveils $100 Billion US Investment in Boost for Trump",
             "time": "2025-03-04T14:41:15.522523"
-        },
-        "CHLSY": {
-            "quantity": 80,
-            "type": "BUY",
-            "buy_price": 12.5,
-            "current_price": 13.05,
-            "headline": "Lindt beats expectations on 2024 operating profit",
-            "time": "2025-03-04T14:41:15.537483"
         },
         "PUK": {
             "quantity": 54,
@@ -278,7 +270,7 @@
             "quantity": 508,
             "type": "SHORT",
             "buy_price": 1.97,
-            "current_price": 1.95,
+            "current_price": 1.904,
             "headline": "BT\u2019s \u00a31m leadership guru fell asleep in meetings",
             "time": "2025-03-04T14:41:15.646730"
         },
@@ -402,6 +394,14 @@
         },
         "ES=F": {
             "headline": "Stock market today: Dow, S&P 500, Nasdaq futures rise after Lutnick hints at possible tariff relief",
+            "type": "BUY"
+        },
+        "BLK": {
+            "headline": "BlackRock\u2019s Ports Deal Marks New Reach, Hands Win to Trump",
+            "type": "BUY"
+        },
+        "601100.SS": {
+            "headline": "Chinese Stocks Rise as Growth Target Raises Hope for Stimulus",
             "type": "BUY"
         }
     },
@@ -4065,6 +4065,16 @@
             "amount": 24,
             "time": "2025-03-04T21:14:03.191973",
             "profit": 54.23999999999995
+        },
+        {
+            "action": "BUY",
+            "ticker": "CHLSY",
+            "headline": "Lindt beats expectations on 2024 operating profit",
+            "buy_price": 12.5,
+            "sold_price": 13.32,
+            "amount": 80,
+            "time": "2025-03-05T02:52:27.534957",
+            "profit": 65.60000000000002
         }
     ],
     "value_log": [
@@ -7307,6 +7317,10 @@
         {
             "time": "2025-03-05T01:08:05.744130",
             "value": 103107.78887
+        },
+        {
+            "time": "2025-03-05T02:52:28.329127",
+            "value": 103244.48687
         }
     ]
 }
