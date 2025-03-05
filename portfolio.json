@@ -431,6 +431,14 @@
         "MCQEF": {
             "headline": "China Targets Record Deficit to Buffer Economy Against Tariffs",
             "type": "SHORT"
+        },
+        "NVDA": {
+            "headline": "Nvidia Chart Watchers Brace for More Pain With Dip Buyers at Bay",
+            "type": "SHORT"
+        },
+        "SNPS": {
+            "headline": "UK competition regulator clears $35 billion Synopsys-Ansys deal",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -7376,6 +7384,10 @@
         },
         {
             "time": "2025-03-05T09:16:42.949371",
+            "value": 103287.50686999998
+        },
+        {
+            "time": "2025-03-05T10:16:38.186673",
             "value": 103287.50686999998
         }
     ]
