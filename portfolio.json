@@ -447,6 +447,10 @@
         "HYMTF": {
             "headline": "Self-driving technology startup Avride partners with Hyundai to expand robotaxi fleet",
             "type": "BUY"
+        },
+        "BCS": {
+            "headline": "Barclays Chair\u2019s Call Delayed UK Probe Over Staley\u2019s Epstein Friendship For Months",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -7408,6 +7412,10 @@
         },
         {
             "time": "2025-03-05T13:23:54.022848",
+            "value": 103287.50686999998
+        },
+        {
+            "time": "2025-03-05T14:14:21.011191",
             "value": 103287.50686999998
         }
     ]
