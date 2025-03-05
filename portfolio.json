@@ -411,6 +411,10 @@
         "^GSPC": {
             "headline": "Stocks Stage Relief Rally After Tariff-Led Swings: Markets Wrap",
             "type": "BUY"
+        },
+        "ADS.DE": {
+            "headline": "Adidas sees growth at high single-digit rate in 2025",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -7344,6 +7348,10 @@
         },
         {
             "time": "2025-03-05T06:21:22.484107",
+            "value": 103287.50686999998
+        },
+        {
+            "time": "2025-03-05T07:15:01.633635",
             "value": 103287.50686999998
         }
     ]
