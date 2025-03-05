@@ -455,6 +455,18 @@
         "MRVL": {
             "headline": "Marvell Technology (NASDAQ:MRVL) Q4 Sales Beat Estimates But Stock Drops 13.3%",
             "type": "SHORT"
+        },
+        "BZ=F": {
+            "headline": "Oil touches multi-year lows amid worries of excess supply, trade war",
+            "type": "SHORT"
+        },
+        "SG": {
+            "headline": "Elon Musk's DOGE may bring some pain to these 4 high-growth restaurant stocks",
+            "type": "SHORT"
+        },
+        "NNBR": {
+            "headline": "NN (NASDAQ:NNBR) Misses Q4 Sales Targets, But Stock Soars 9.1%",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -7600,6 +7612,10 @@
         },
         {
             "time": "2025-03-05T21:36:43.359700",
+            "value": 103365.86436999998
+        },
+        {
+            "time": "2025-03-05T22:14:47.101487",
             "value": 103365.86436999998
         }
     ]
