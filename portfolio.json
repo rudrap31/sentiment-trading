@@ -443,6 +443,18 @@
         "MS": {
             "headline": "Oil Falls to Lowest in Six Months as Trade Wars Cloud Outlook",
             "type": "SHORT"
+        },
+        "ZS": {
+            "headline": "Zscaler\u2019s (NASDAQ:ZS) Q4 Sales Beat Estimates, Stock Soars",
+            "type": "BUY"
+        },
+        "MDB": {
+            "headline": "MongoDB (NASDAQ:MDB) Exceeds Q4 Expectations But Stock Drops 12.4%",
+            "type": "SHORT"
+        },
+        "MRVL": {
+            "headline": "Marvell Technology (NASDAQ:MRVL) Q4 Sales Beat Estimates But Stock Drops 13.3%",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -7584,6 +7596,10 @@
         },
         {
             "time": "2025-03-05T21:13:54.420318",
+            "value": 103365.86436999998
+        },
+        {
+            "time": "2025-03-05T21:36:43.359700",
             "value": 103365.86436999998
         }
     ]
