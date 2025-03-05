@@ -419,6 +419,18 @@
         "012450.KS": {
             "headline": "Trump\u2019s Ukraine Pivot Fuels 100% Gains in World\u2019s Defense Stocks",
             "type": "BUY"
+        },
+        "BSE.NS": {
+            "headline": "India\u2019s NSE Moves Derivatives Expiry in Surprise Shift",
+            "type": "BUY"
+        },
+        "SVNDF": {
+            "headline": "Bain Is Said to Near Deal to Buy Seven & i\u2019s Supermarket Assets",
+            "type": "BUY"
+        },
+        "MCQEF": {
+            "headline": "China Targets Record Deficit to Buffer Economy Against Tariffs",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -7360,6 +7372,10 @@
         },
         {
             "time": "2025-03-05T08:20:05.395484",
+            "value": 103287.50686999998
+        },
+        {
+            "time": "2025-03-05T09:16:42.949371",
             "value": 103287.50686999998
         }
     ]
