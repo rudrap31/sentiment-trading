@@ -467,6 +467,10 @@
         "NNBR": {
             "headline": "NN (NASDAQ:NNBR) Misses Q4 Sales Targets, But Stock Soars 9.1%",
             "type": "SHORT"
+        },
+        "NKE": {
+            "headline": "Abercrombie & Fitch stock hammered by tariff concerns \u2014 why more brutal warnings lurk",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -7616,6 +7620,10 @@
         },
         {
             "time": "2025-03-05T22:14:47.101487",
+            "value": 103365.86436999998
+        },
+        {
+            "time": "2025-03-05T23:15:07.102905",
             "value": 103365.86436999998
         }
     ]
