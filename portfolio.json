@@ -439,6 +439,10 @@
         "SNPS": {
             "headline": "UK competition regulator clears $35 billion Synopsys-Ansys deal",
             "type": "BUY"
+        },
+        "STLAM.MI": {
+            "headline": "VW, Stellantis Are Big Winners From EU Relaxing CO2 Rules",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -7392,6 +7396,10 @@
         },
         {
             "time": "2025-03-05T11:13:23.163488",
+            "value": 103287.50686999998
+        },
+        {
+            "time": "2025-03-05T12:29:07.580189",
             "value": 103287.50686999998
         }
     ]
