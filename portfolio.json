@@ -467,6 +467,22 @@
         "HPE": {
             "headline": "Hewlett Packard Enterprise (NYSE:HPE) Posts Better-Than-Expected Sales In Q4 But Stock Drops 14.6%",
             "type": "SHORT"
+        },
+        "KR": {
+            "headline": "Costco misses on earnings as it faces cautious consumers, tariff threats",
+            "type": "SHORT"
+        },
+        "DOMO": {
+            "headline": "Domo (NASDAQ:DOMO) Posts Better-Than-Expected Sales In Q4",
+            "type": "BUY"
+        },
+        "GWRE": {
+            "headline": "Guidewire\u2019s (NYSE:GWRE) Q4 Sales Beat Estimates, Provides Encouraging Quarterly Revenue Guidance",
+            "type": "BUY"
+        },
+        "CLAR": {
+            "headline": "Clarus\u2019s (NASDAQ:CLAR) Q4: Beats On Revenue But Full-Year Sales Guidance Misses Expectations Significantly",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -7986,6 +8002,10 @@
         },
         {
             "time": "2025-03-06T21:36:32.717118",
+            "value": 103066.7743699999
+        },
+        {
+            "time": "2025-03-06T22:14:35.532331",
             "value": 103066.7743699999
         }
     ]
