@@ -419,6 +419,14 @@
         "LHA.DE": {
             "headline": "Lufthansa reports drop in FY operating profit after cash-strapped 2024",
             "type": "SHORT"
+        },
+        "AFLYY": {
+            "headline": "Air France-KLM annual results top expectations, driven by strong fourth quarter",
+            "type": "BUY"
+        },
+        "SVNDF": {
+            "headline": "Seven & i Announces New Leader, Share Buyback to Boost Valuation",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -7696,6 +7704,10 @@
         },
         {
             "time": "2025-03-06T06:21:24.219425",
+            "value": 103038.92136999998
+        },
+        {
+            "time": "2025-03-06T07:17:24.108584",
             "value": 103038.92136999998
         }
     ]
