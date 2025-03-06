@@ -447,6 +447,10 @@
         "M": {
             "headline": "Macy's fourth quarter is mixed and its 2025 outlook is tempered by tariffs and leery shoppers",
             "type": "SHORT"
+        },
+        "STLAM.MI": {
+            "headline": "S&P downgrades Stellantis rating, expects tariff headwinds",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -7748,6 +7752,10 @@
         },
         {
             "time": "2025-03-06T12:29:06.285727",
+            "value": 103038.92136999998
+        },
+        {
+            "time": "2025-03-06T13:23:46.321662",
             "value": 103038.92136999998
         }
     ]
