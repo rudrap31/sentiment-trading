@@ -431,6 +431,14 @@
         "RBGLY": {
             "headline": "Reckitt misses fourth-quarter sales expectations",
             "type": "SHORT"
+        },
+        "DZZ": {
+            "headline": "Deutsche Bank shares head for biggest two-day gain since 2011",
+            "type": "BUY"
+        },
+        "COIN": {
+            "headline": "Crypto world hopes a Trump summit Friday will deliver more of what it wants from Washington",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -7716,6 +7724,10 @@
         },
         {
             "time": "2025-03-06T08:19:37.836682",
+            "value": 103038.92136999998
+        },
+        {
+            "time": "2025-03-06T09:16:40.376873",
             "value": 103038.92136999998
         }
     ]
