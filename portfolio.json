@@ -471,6 +471,14 @@
         "NKE": {
             "headline": "Abercrombie & Fitch stock hammered by tariff concerns \u2014 why more brutal warnings lurk",
             "type": "SHORT"
+        },
+        "NQ=F": {
+            "headline": "Stock market today: Dow, S&P 500, Nasdaq futures hold steady after tariff relief for automakers",
+            "type": "BUY"
+        },
+        "8301.T": {
+            "headline": "Japan\u2019s Biggest Union Group to Reveal Strength of Pay Demands",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -7624,6 +7632,10 @@
         },
         {
             "time": "2025-03-05T23:15:07.102905",
+            "value": 103365.86436999998
+        },
+        {
+            "time": "2025-03-06T01:07:46.223012",
             "value": 103365.86436999998
         }
     ]
