@@ -1,6 +1,6 @@
 {
     "cash": 44155.310569999936,
-    "value": 103066.52836999991,
+    "value": 103066.7743699999,
     "stocks": {
         "BR": {
             "quantity": 5,
@@ -214,7 +214,7 @@
             "quantity": 3,
             "type": "BUY",
             "buy_price": 449.98,
-            "current_price": 445.648,
+            "current_price": 445.73,
             "headline": "UK competition regulator clears $35 billion Synopsys-Ansys deal",
             "time": "2025-03-05T14:41:14.949715"
         },
@@ -451,6 +451,22 @@
         "QQQ": {
             "headline": "February jobs report is expected to show hiring uptick, unemployment rate holding steady",
             "type": "BUY"
+        },
+        "AVGO": {
+            "headline": "Broadcom\u2019s (NASDAQ:AVGO) Q4 Sales Top Estimates, Stock Soars",
+            "type": "BUY"
+        },
+        "COST": {
+            "headline": "Costco beats quarterly sales estimates on bulk buying surge",
+            "type": "BUY"
+        },
+        "HDSN": {
+            "headline": "Hudson Technologies (NASDAQ:HDSN) Reports Sales Below Analyst Estimates In Q4 Earnings, Stock Drops",
+            "type": "SHORT"
+        },
+        "HPE": {
+            "headline": "Hewlett Packard Enterprise (NYSE:HPE) Posts Better-Than-Expected Sales In Q4 But Stock Drops 14.6%",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -7967,6 +7983,10 @@
         {
             "time": "2025-03-06T21:14:17.595722",
             "value": 103066.52836999991
+        },
+        {
+            "time": "2025-03-06T21:36:32.717118",
+            "value": 103066.7743699999
         }
     ]
 }
