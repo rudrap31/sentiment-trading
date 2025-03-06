@@ -407,6 +407,18 @@
         "BABA": {
             "headline": "Alibaba Shares Jump 7% After Unveiling Latest DeepSeek Contender",
             "type": "BUY"
+        },
+        "MRK.DE": {
+            "headline": "Merck KGaA sees forex-adjusted earnings growth of up to 8% this year",
+            "type": "BUY"
+        },
+        "DHLGY": {
+            "headline": "Germany's DHL to cut 8,000 jobs this year after annual operating profit falls 7.2%",
+            "type": "SHORT"
+        },
+        "LHA.DE": {
+            "headline": "Lufthansa reports drop in FY operating profit after cash-strapped 2024",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -7680,6 +7692,10 @@
         },
         {
             "time": "2025-03-06T05:15:36.516551",
+            "value": 103038.92136999998
+        },
+        {
+            "time": "2025-03-06T06:21:24.219425",
             "value": 103038.92136999998
         }
     ]
