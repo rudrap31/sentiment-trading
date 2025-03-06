@@ -427,6 +427,10 @@
         "SVNDF": {
             "headline": "Seven & i Announces New Leader, Share Buyback to Boost Valuation",
             "type": "BUY"
+        },
+        "RBGLY": {
+            "headline": "Reckitt misses fourth-quarter sales expectations",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -7708,6 +7712,10 @@
         },
         {
             "time": "2025-03-06T07:17:24.108584",
+            "value": 103038.92136999998
+        },
+        {
+            "time": "2025-03-06T08:19:37.836682",
             "value": 103038.92136999998
         }
     ]
