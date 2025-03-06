@@ -483,6 +483,18 @@
         "CLAR": {
             "headline": "Clarus\u2019s (NASDAQ:CLAR) Q4: Beats On Revenue But Full-Year Sales Guidance Misses Expectations Significantly",
             "type": "BUY"
+        },
+        "^RUT": {
+            "headline": "Asian Stocks to Dip as Wall Street Sentiment Sours: Markets Wrap",
+            "type": "SHORT"
+        },
+        "CVS": {
+            "headline": "Walgreens announces a $10 billion deal with Sycamore Partners to take the drug store chain private",
+            "type": "BUY"
+        },
+        "^GSPC": {
+            "headline": "Trump delays some tariffs on Mexico and Canada for one month",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -8006,6 +8018,10 @@
         },
         {
             "time": "2025-03-06T22:14:35.532331",
+            "value": 103066.7743699999
+        },
+        {
+            "time": "2025-03-06T23:15:03.384089",
             "value": 103066.7743699999
         }
     ]
