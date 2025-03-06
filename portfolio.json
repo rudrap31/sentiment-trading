@@ -1,6 +1,6 @@
 {
-    "cash": 46249.42386999995,
-    "value": 103365.86436999998,
+    "cash": 54271.553869999945,
+    "value": 103127.46636999997,
     "stocks": {
         "BR": {
             "quantity": 5,
@@ -106,14 +106,6 @@
             "headline": "Nomura AM Merging \u2018\u00a51 Trillion\u2019 Underperforming Fund",
             "time": "2025-02-25T14:40:17.267270"
         },
-        "GLNCY": {
-            "quantity": 125,
-            "type": "SHORT",
-            "buy_price": 8.03,
-            "current_price": 8.02,
-            "headline": "Congo Suspends Cobalt Exports for Four Months Amid Glut",
-            "time": "2025-02-25T14:40:17.395426"
-        },
         "INTU": {
             "quantity": 2,
             "type": "BUY",
@@ -130,14 +122,6 @@
             "headline": "Tesla stock sinks as Europe sales tank on rival offerings, Musk blowback",
             "time": "2025-02-26T14:43:20.472639"
         },
-        "RNLSY": {
-            "quantity": 99,
-            "type": "SHORT",
-            "buy_price": 10.18,
-            "current_price": 10.13,
-            "headline": "Tesla stock sinks as Europe sales tank on rival offerings, Musk blowback",
-            "time": "2025-02-26T14:43:20.648094"
-        },
         "DANOY": {
             "quantity": 69,
             "type": "BUY",
@@ -153,30 +137,6 @@
             "current_price": 10.99,
             "headline": "India singles out VW in $1.4 billion tax dispute, says Kia corrected course",
             "time": "2025-02-26T14:43:22.068441"
-        },
-        "DHLGY": {
-            "quantity": 26,
-            "type": "SHORT",
-            "buy_price": 39.35,
-            "current_price": 40.14,
-            "headline": "Italy seizes $49 million from DHL unit in labour supply probe",
-            "time": "2025-02-26T14:43:22.152372"
-        },
-        "UNCRY": {
-            "quantity": 39,
-            "type": "BUY",
-            "buy_price": 25.74,
-            "current_price": 26.82,
-            "headline": "UniCredit CEO Orcel's annual pay jumps by 30% to 13 million euros",
-            "time": "2025-02-26T14:43:22.863358"
-        },
-        "FQVLF": {
-            "quantity": 83,
-            "type": "SHORT",
-            "buy_price": 12.19,
-            "current_price": 11.68,
-            "headline": "Panama\u2019s $10 Billion Copper Mine Faces Tough Road to Restart",
-            "time": "2025-03-03T14:41:49.379603"
         },
         "XLU": {
             "quantity": 13,
@@ -210,14 +170,6 @@
             "headline": "Radiant Logistics acquires California-based forwarder",
             "time": "2025-03-04T14:41:15.457653"
         },
-        "TCEHY": {
-            "quantity": 17,
-            "type": "BUY",
-            "buy_price": 62.34,
-            "current_price": 63.4,
-            "headline": "Tencent\u2019s AI Bot Passes DeepSeek as China\u2019s Favorite on iPhones",
-            "time": "2025-03-04T14:41:15.509130"
-        },
         "TSM": {
             "quantity": 6,
             "type": "BUY",
@@ -238,7 +190,7 @@
             "quantity": 508,
             "type": "SHORT",
             "buy_price": 1.97,
-            "current_price": 1.904,
+            "current_price": 1.97,
             "headline": "BT\u2019s \u00a31m leadership guru fell asleep in meetings",
             "time": "2025-03-04T14:41:15.646730"
         },
@@ -298,14 +250,6 @@
             "headline": "Tesla China shipments tumble, the latest sign of weakening demand",
             "time": "2025-03-05T14:41:14.549364"
         },
-        "SVNDF": {
-            "quantity": 73,
-            "type": "BUY",
-            "buy_price": 13.73,
-            "current_price": 13.73,
-            "headline": "Bain Is Said to Near Deal to Buy Seven & i\u2019s Supermarket Assets",
-            "time": "2025-03-05T14:41:14.750014"
-        },
         "MCQEF": {
             "quantity": 7,
             "type": "SHORT",
@@ -329,14 +273,6 @@
             "current_price": 447.96,
             "headline": "UK competition regulator clears $35 billion Synopsys-Ansys deal",
             "time": "2025-03-05T14:41:14.949715"
-        },
-        "HYMTF": {
-            "quantity": 20,
-            "type": "BUY",
-            "buy_price": 51,
-            "current_price": 51.325,
-            "headline": "Self-driving technology startup Avride partners with Hyundai to expand robotaxi fleet",
-            "time": "2025-03-05T14:41:14.986571"
         },
         "BCS": {
             "quantity": 63,
@@ -4271,6 +4207,86 @@
             "amount": 28,
             "time": "2025-03-05T20:16:16.763034",
             "profit": -39.4800000000001
+        },
+        {
+            "action": "SHORT",
+            "ticker": "GLNCY",
+            "headline": "Congo Suspends Cobalt Exports for Four Months Amid Glut",
+            "buy_price": 8.03,
+            "sold_price": 8.325,
+            "amount": 125,
+            "time": "2025-03-06T02:53:23.089704",
+            "profit": -36.87499999999999
+        },
+        {
+            "action": "SHORT",
+            "ticker": "RNLSY",
+            "headline": "Tesla stock sinks as Europe sales tank on rival offerings, Musk blowback",
+            "buy_price": 10.18,
+            "sold_price": 10.7,
+            "amount": 99,
+            "time": "2025-03-06T02:53:23.089720",
+            "profit": -51.47999999999996
+        },
+        {
+            "action": "SHORT",
+            "ticker": "DHLGY",
+            "headline": "Italy seizes $49 million from DHL unit in labour supply probe",
+            "buy_price": 39.35,
+            "sold_price": 42.1,
+            "amount": 26,
+            "time": "2025-03-06T02:53:23.089724",
+            "profit": -71.5
+        },
+        {
+            "action": "BUY",
+            "ticker": "UNCRY",
+            "headline": "UniCredit CEO Orcel's annual pay jumps by 30% to 13 million euros",
+            "buy_price": 25.74,
+            "sold_price": 29.065,
+            "amount": 39,
+            "time": "2025-03-06T02:53:23.089727",
+            "profit": 129.67500000000013
+        },
+        {
+            "action": "SHORT",
+            "ticker": "FQVLF",
+            "headline": "Panama\u2019s $10 Billion Copper Mine Faces Tough Road to Restart",
+            "buy_price": 12.19,
+            "sold_price": 12.89,
+            "amount": 83,
+            "time": "2025-03-06T02:53:23.089731",
+            "profit": -58.10000000000009
+        },
+        {
+            "action": "BUY",
+            "ticker": "TCEHY",
+            "headline": "Tencent\u2019s AI Bot Passes DeepSeek as China\u2019s Favorite on iPhones",
+            "buy_price": 62.34,
+            "sold_price": 67.545,
+            "amount": 17,
+            "time": "2025-03-06T02:53:23.089734",
+            "profit": 88.48499999999997
+        },
+        {
+            "action": "BUY",
+            "ticker": "SVNDF",
+            "headline": "Bain Is Said to Near Deal to Buy Seven & i\u2019s Supermarket Assets",
+            "buy_price": 13.73,
+            "sold_price": 12.765,
+            "amount": 73,
+            "time": "2025-03-06T02:53:23.089736",
+            "profit": -70.445
+        },
+        {
+            "action": "BUY",
+            "ticker": "HYMTF",
+            "headline": "Self-driving technology startup Avride partners with Hyundai to expand robotaxi fleet",
+            "buy_price": 51,
+            "sold_price": 49,
+            "amount": 20,
+            "time": "2025-03-06T02:53:23.089740",
+            "profit": -40
         }
     ],
     "value_log": [
@@ -7637,6 +7653,10 @@
         {
             "time": "2025-03-06T01:07:46.223012",
             "value": 103365.86436999998
+        },
+        {
+            "time": "2025-03-06T02:53:23.876949",
+            "value": 103127.46636999997
         }
     ]
 }
