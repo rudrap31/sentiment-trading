@@ -491,6 +491,10 @@
         "EADSY": {
             "headline": "Saudi Fund Set to Invest in AirAsia, Boosting Ties to Region",
             "type": "BUY"
+        },
+        "^HSI": {
+            "headline": "Stocks stumble, bond selloff abates as investors take stock of US trade policy",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -8046,6 +8050,10 @@
         },
         {
             "time": "2025-03-07T02:53:54.221893",
+            "value": 103042.20536999992
+        },
+        {
+            "time": "2025-03-07T03:25:36.815313",
             "value": 103042.20536999992
         }
     ]
