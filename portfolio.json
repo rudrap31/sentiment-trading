@@ -511,6 +511,10 @@
         "CL=F": {
             "headline": "Oil Pares 2025\u2019s Biggest Weekly Drop as Tariff Tumult Dominates",
             "type": "SHORT"
+        },
+        "ES=F": {
+            "headline": "Stock market today: Dow, S&P 500, Nasdaq futures waver after jobs report, with Powell on deck",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -8110,6 +8114,10 @@
         },
         {
             "time": "2025-03-07T13:22:45.479552",
+            "value": 103052.98536999992
+        },
+        {
+            "time": "2025-03-07T14:13:48.817623",
             "value": 103052.98536999992
         }
     ]
