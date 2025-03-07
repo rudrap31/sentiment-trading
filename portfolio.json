@@ -451,6 +451,14 @@
         "^GSPC": {
             "headline": "Analysis-US jobs data calms market fears, but jitters on policy uncertainty dominate",
             "type": "SHORT"
+        },
+        "DXCM": {
+            "headline": "Dexcom receives FDA warning letter for two U.S. manufacturing facilities",
+            "type": "SHORT"
+        },
+        "GOOG": {
+            "headline": "US drops bid to make Google sell AI investments in antitrust case",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -8348,6 +8356,10 @@
         },
         {
             "time": "2025-03-07T22:13:44.798968",
+            "value": 102640.32506999992
+        },
+        {
+            "time": "2025-03-07T23:12:47.177645",
             "value": 102640.32506999992
         }
     ]
