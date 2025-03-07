@@ -1,6 +1,6 @@
 {
-    "cash": 44155.310569999936,
-    "value": 103066.7743699999,
+    "cash": 46154.12056999994,
+    "value": 103042.20536999992,
     "stocks": {
         "BR": {
             "quantity": 5,
@@ -102,7 +102,7 @@
             "quantity": 69,
             "type": "BUY",
             "buy_price": 14.55,
-            "current_price": 15.185,
+            "current_price": 15.18,
             "headline": "Food group Danone confident after strong 2024 sales and cash performance",
             "time": "2025-02-26T14:43:21.903452"
         },
@@ -150,7 +150,7 @@
             "quantity": 508,
             "type": "SHORT",
             "buy_price": 1.97,
-            "current_price": 1.97,
+            "current_price": 1.94,
             "headline": "BT\u2019s \u00a31m leadership guru fell asleep in meetings",
             "time": "2025-03-04T14:41:15.646730"
         },
@@ -206,7 +206,7 @@
             "quantity": 7,
             "type": "SHORT",
             "buy_price": 149,
-            "current_price": 149,
+            "current_price": 142.91,
             "headline": "China Targets Record Deficit to Buffer Economy Against Tariffs",
             "time": "2025-03-05T14:41:14.912657"
         },
@@ -314,27 +314,11 @@
             "headline": "Abercrombie & Fitch stock hammered by tariff concerns \u2014 why more brutal warnings lurk",
             "time": "2025-03-06T14:41:29.227608"
         },
-        "DHLGY": {
-            "quantity": 24,
-            "type": "SHORT",
-            "buy_price": 41.93,
-            "current_price": 42.1,
-            "headline": "Germany's DHL to cut 8,000 jobs this year after annual operating profit falls 7.2%",
-            "time": "2025-03-06T14:41:29.681733"
-        },
-        "SVNDF": {
-            "quantity": 81,
-            "type": "BUY",
-            "buy_price": 12.408,
-            "current_price": 12.765,
-            "headline": "Seven & i Announces New Leader, Share Buyback to Boost Valuation",
-            "time": "2025-03-06T14:41:29.922080"
-        },
         "RBGLY": {
             "quantity": 75,
             "type": "SHORT",
             "buy_price": 13.38,
-            "current_price": 13.455,
+            "current_price": 13.64,
             "headline": "Reckitt misses fourth-quarter sales expectations",
             "time": "2025-03-06T14:41:30.006769"
         },
@@ -366,7 +350,7 @@
             "quantity": 4,
             "type": "SHORT",
             "buy_price": 254.585,
-            "current_price": 254.585,
+            "current_price": 254.925,
             "headline": "Macy's stock drops as it misses the mark on sales growth and warns on profits",
             "time": "2025-03-06T15:15:26.534730"
         },
@@ -406,7 +390,7 @@
             "quantity": 29,
             "type": "SHORT",
             "buy_price": 35.102,
-            "current_price": 35.102,
+            "current_price": 36.118,
             "headline": "Tariffs Will Cost Automakers Billions, Says Canada\u2019s Linamar",
             "time": "2025-03-06T17:38:51.394337"
         },
@@ -498,6 +482,14 @@
         },
         "YM=F": {
             "headline": "Stock market today: Dow, S&P 500, Nasdaq futures rise as shaken Wall Street awaits jobs report",
+            "type": "BUY"
+        },
+        "004250.KS": {
+            "headline": "China Vows to Uphold Stability as Trump Reshapes World Order",
+            "type": "BUY"
+        },
+        "EADSY": {
+            "headline": "Saudi Fund Set to Invest in AirAsia, Boosting Ties to Region",
             "type": "BUY"
         }
     },
@@ -4541,6 +4533,26 @@
             "amount": 14,
             "time": "2025-03-06T21:14:16.632827",
             "profit": 53.479999999999905
+        },
+        {
+            "action": "SHORT",
+            "ticker": "DHLGY",
+            "headline": "Germany's DHL to cut 8,000 jobs this year after annual operating profit falls 7.2%",
+            "buy_price": 41.93,
+            "sold_price": 47.05,
+            "amount": 24,
+            "time": "2025-03-07T02:53:53.227726",
+            "profit": -122.87999999999994
+        },
+        {
+            "action": "BUY",
+            "ticker": "SVNDF",
+            "headline": "Seven & i Announces New Leader, Share Buyback to Boost Valuation",
+            "buy_price": 12.408,
+            "sold_price": 13.77,
+            "amount": 81,
+            "time": "2025-03-07T02:53:53.227742",
+            "profit": 110.322
         }
     ],
     "value_log": [
@@ -8031,6 +8043,10 @@
         {
             "time": "2025-03-07T01:08:33.951788",
             "value": 103066.7743699999
+        },
+        {
+            "time": "2025-03-07T02:53:54.221893",
+            "value": 103042.20536999992
         }
     ]
 }
