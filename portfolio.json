@@ -507,6 +507,10 @@
         "COMP": {
             "headline": "Rocky US stock market faces inflation data test",
             "type": "SHORT"
+        },
+        "CL=F": {
+            "headline": "Oil Pares 2025\u2019s Biggest Weekly Drop as Tariff Tumult Dominates",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -8098,6 +8102,10 @@
         },
         {
             "time": "2025-03-07T11:13:08.332805",
+            "value": 103052.98536999992
+        },
+        {
+            "time": "2025-03-07T12:28:27.722320",
             "value": 103052.98536999992
         }
     ]
