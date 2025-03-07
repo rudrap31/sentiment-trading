@@ -503,6 +503,10 @@
         "8301.T": {
             "headline": "Japan to Send Trade Minister Muto to US Amid Tariff Tensions",
             "type": "SHORT"
+        },
+        "COMP": {
+            "headline": "Rocky US stock market faces inflation data test",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -8090,6 +8094,10 @@
         },
         {
             "time": "2025-03-07T10:16:25.211012",
+            "value": 103052.98536999992
+        },
+        {
+            "time": "2025-03-07T11:13:08.332805",
             "value": 103052.98536999992
         }
     ]
