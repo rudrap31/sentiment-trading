@@ -1,6 +1,6 @@
 {
     "cash": 46154.12056999994,
-    "value": 103042.20536999992,
+    "value": 103052.98536999992,
     "stocks": {
         "BR": {
             "quantity": 5,
@@ -334,7 +334,7 @@
             "quantity": 77,
             "type": "SHORT",
             "buy_price": 13.08,
-            "current_price": 13.24,
+            "current_price": 13.1,
             "headline": "Hedge funds target Sainsbury\u2019s amid fears of Argos spending slump",
             "time": "2025-03-06T14:41:30.233591"
         },
@@ -8055,6 +8055,10 @@
         {
             "time": "2025-03-07T03:25:36.815313",
             "value": 103042.20536999992
+        },
+        {
+            "time": "2025-03-07T04:18:39.209728",
+            "value": 103052.98536999992
         }
     ]
 }
