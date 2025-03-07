@@ -495,6 +495,10 @@
         "^HSI": {
             "headline": "Stocks stumble, bond selloff abates as investors take stock of US trade policy",
             "type": "SHORT"
+        },
+        "BAYN.DE": {
+            "headline": "Bayer eyes exit from popular Roundup amid US legal risks",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -8066,6 +8070,10 @@
         },
         {
             "time": "2025-03-07T06:21:11.407621",
+            "value": 103052.98536999992
+        },
+        {
+            "time": "2025-03-07T07:15:30.124206",
             "value": 103052.98536999992
         }
     ]
