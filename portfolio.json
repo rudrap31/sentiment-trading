@@ -431,6 +431,14 @@
         "BTGOF": {
             "headline": "BT brand saved amid pressure from billionaire Indian investor",
             "type": "BUY"
+        },
+        "BSFO": {
+            "headline": "Fed\u2019s Daly Sees Rates in \u2018Good Place\u2019 Amid Elevated Uncertainty",
+            "type": "SHORT"
+        },
+        "CMG": {
+            "headline": "Stocks of McDonald's and other fast food giants rise, but challenges from Trump tariffs loom",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -8414,6 +8422,10 @@
         },
         {
             "time": "2025-03-08T16:11:50.375911",
+            "value": 102538.9475699999
+        },
+        {
+            "time": "2025-03-08T18:12:50.890985",
             "value": 102538.9475699999
         }
     ]
