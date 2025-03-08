@@ -439,6 +439,10 @@
         "CMG": {
             "headline": "Stocks of McDonald's and other fast food giants rise, but challenges from Trump tariffs loom",
             "type": "BUY"
+        },
+        "^GDAXI": {
+            "headline": "\u2018America First\u2019 policies are threatening American exceptionalism as the economy and markets flash warning signs",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -8426,6 +8430,10 @@
         },
         {
             "time": "2025-03-08T18:12:50.890985",
+            "value": 102538.9475699999
+        },
+        {
+            "time": "2025-03-08T20:09:54.517225",
             "value": 102538.9475699999
         }
     ]
