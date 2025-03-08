@@ -459,6 +459,10 @@
         "GOOG": {
             "headline": "US drops bid to make Google sell AI investments in antitrust case",
             "type": "SHORT"
+        },
+        "COF": {
+            "headline": "Trump Organization sues Capital One for closing bank accounts after Jan. 6 attack on US Capitol",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -8360,6 +8364,10 @@
         },
         {
             "time": "2025-03-07T23:12:47.177645",
+            "value": 102640.32506999992
+        },
+        {
+            "time": "2025-03-08T00:41:34.597970",
             "value": 102640.32506999992
         }
     ]
