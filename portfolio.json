@@ -1,6 +1,6 @@
 {
-    "cash": 44023.52496999994,
-    "value": 102640.32506999992,
+    "cash": 44990.05146999994,
+    "value": 102597.87756999992,
     "stocks": {
         "BR": {
             "quantity": 5,
@@ -254,7 +254,7 @@
             "quantity": 4,
             "type": "SHORT",
             "buy_price": 254.585,
-            "current_price": 254.925,
+            "current_price": 256.4,
             "headline": "Macy's stock drops as it misses the mark on sales growth and warns on profits",
             "time": "2025-03-06T15:15:26.534730"
         },
@@ -273,14 +273,6 @@
             "current_price": 393.31,
             "headline": "Microsoft Reduces Commitments to CoreWeave Ahead of IPO,\u00a0FT Reports",
             "time": "2025-03-06T17:38:51.346806"
-        },
-        "LIMAF": {
-            "quantity": 29,
-            "type": "SHORT",
-            "buy_price": 35.102,
-            "current_price": 36.118,
-            "headline": "Tariffs Will Cost Automakers Billions, Says Canada\u2019s Linamar",
-            "time": "2025-03-06T17:38:51.394337"
         },
         "CBAUF": {
             "quantity": 11,
@@ -406,7 +398,7 @@
             "quantity": 243,
             "type": "SHORT",
             "buy_price": 4.13,
-            "current_price": 4.13,
+            "current_price": 4.19,
             "headline": "Porsche SE expects $21.7 billion loss after tax on Volkswagen stake impairment",
             "time": "2025-03-07T19:11:49.905237"
         },
@@ -4755,6 +4747,16 @@
             "amount": 14,
             "time": "2025-03-07T19:36:34.352958",
             "profit": 59.5
+        },
+        {
+            "action": "SHORT",
+            "ticker": "LIMAF",
+            "headline": "Tariffs Will Cost Automakers Billions, Says Canada\u2019s Linamar",
+            "buy_price": 35.102,
+            "sold_price": 36.8755,
+            "amount": 29,
+            "time": "2025-03-08T02:24:27.831140",
+            "profit": -51.43150000000016
         }
     ],
     "value_log": [
@@ -8369,6 +8371,10 @@
         {
             "time": "2025-03-08T00:41:34.597970",
             "value": 102640.32506999992
+        },
+        {
+            "time": "2025-03-08T02:24:28.562476",
+            "value": 102597.87756999992
         }
     ]
 }
