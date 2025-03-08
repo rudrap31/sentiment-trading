@@ -423,6 +423,14 @@
         "COF": {
             "headline": "Trump Organization sues Capital One for closing bank accounts after Jan. 6 attack on US Capitol",
             "type": "SHORT"
+        },
+        "GOLD": {
+            "headline": "Barrick says 'committed to reaching a mutually beneficial resolution' in Mali",
+            "type": "BUY"
+        },
+        "BTGOF": {
+            "headline": "BT brand saved amid pressure from billionaire Indian investor",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -8402,6 +8410,10 @@
         },
         {
             "time": "2025-03-08T14:08:58.097947",
+            "value": 102538.9475699999
+        },
+        {
+            "time": "2025-03-08T16:11:50.375911",
             "value": 102538.9475699999
         }
     ]
