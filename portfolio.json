@@ -1,6 +1,6 @@
 {
-    "cash": 44990.05146999994,
-    "value": 102597.87756999992,
+    "cash": 48933.66146999993,
+    "value": 102539.48756999991,
     "stocks": {
         "BR": {
             "quantity": 5,
@@ -82,14 +82,6 @@
             "headline": "Intuit (NASDAQ:INTU) Exceeds Q4 Expectations, Quarterly Revenue Guidance Slightly Exceeds Expectations",
             "time": "2025-02-26T14:43:20.383342"
         },
-        "DANOY": {
-            "quantity": 69,
-            "type": "BUY",
-            "buy_price": 14.55,
-            "current_price": 15.18,
-            "headline": "Food group Danone confident after strong 2024 sales and cash performance",
-            "time": "2025-02-26T14:43:21.903452"
-        },
         "XLU": {
             "quantity": 13,
             "type": "SHORT",
@@ -129,14 +121,6 @@
             "current_price": 19.64,
             "headline": "Prudential Is Said to Seek $12 Billion Value on India JV Listing",
             "time": "2025-03-04T14:41:15.612755"
-        },
-        "BTGOF": {
-            "quantity": 508,
-            "type": "SHORT",
-            "buy_price": 1.97,
-            "current_price": 1.94,
-            "headline": "BT\u2019s \u00a31m leadership guru fell asleep in meetings",
-            "time": "2025-03-04T14:41:15.646730"
         },
         "GSC": {
             "quantity": 21,
@@ -234,22 +218,6 @@
             "headline": "Abercrombie & Fitch stock hammered by tariff concerns \u2014 why more brutal warnings lurk",
             "time": "2025-03-06T14:41:29.227608"
         },
-        "RBGLY": {
-            "quantity": 75,
-            "type": "SHORT",
-            "buy_price": 13.38,
-            "current_price": 13.64,
-            "headline": "Reckitt misses fourth-quarter sales expectations",
-            "time": "2025-03-06T14:41:30.006769"
-        },
-        "JSAIY": {
-            "quantity": 77,
-            "type": "SHORT",
-            "buy_price": 13.08,
-            "current_price": 13.1,
-            "headline": "Hedge funds target Sainsbury\u2019s amid fears of Argos spending slump",
-            "time": "2025-03-06T14:41:30.233591"
-        },
         "ADDDF": {
             "quantity": 4,
             "type": "SHORT",
@@ -278,7 +246,7 @@
             "quantity": 11,
             "type": "SHORT",
             "buy_price": 97.42,
-            "current_price": 97.42,
+            "current_price": 93.84,
             "headline": "CBA Tipped for Worst Return Potential Among Global Bank Stocks",
             "time": "2025-03-06T18:45:01.494258"
         },
@@ -334,7 +302,7 @@
             "quantity": 22,
             "type": "BUY",
             "buy_price": 46.46,
-            "current_price": 46.47,
+            "current_price": 47,
             "headline": "Saudi Fund Set to Invest in AirAsia, Boosting Ties to Region",
             "time": "2025-03-07T14:40:02.349433"
         },
@@ -4757,6 +4725,46 @@
             "amount": 29,
             "time": "2025-03-08T02:24:27.831140",
             "profit": -51.43150000000016
+        },
+        {
+            "action": "BUY",
+            "ticker": "DANOY",
+            "headline": "Food group Danone confident after strong 2024 sales and cash performance",
+            "buy_price": 14.55,
+            "sold_price": 15.56,
+            "amount": 69,
+            "time": "2025-03-08T04:11:56.987666",
+            "profit": 69.68999999999998
+        },
+        {
+            "action": "SHORT",
+            "ticker": "BTGOF",
+            "headline": "BT\u2019s \u00a31m leadership guru fell asleep in meetings",
+            "buy_price": 1.97,
+            "sold_price": 2.08,
+            "amount": 508,
+            "time": "2025-03-08T04:11:56.987680",
+            "profit": -55.88000000000005
+        },
+        {
+            "action": "SHORT",
+            "ticker": "RBGLY",
+            "headline": "Reckitt misses fourth-quarter sales expectations",
+            "buy_price": 13.38,
+            "sold_price": 14.1,
+            "amount": 75,
+            "time": "2025-03-08T04:11:56.987685",
+            "profit": -53.999999999999915
+        },
+        {
+            "action": "SHORT",
+            "ticker": "JSAIY",
+            "headline": "Hedge funds target Sainsbury\u2019s amid fears of Argos spending slump",
+            "buy_price": 13.08,
+            "sold_price": 13.49,
+            "amount": 77,
+            "time": "2025-03-08T04:11:56.987688",
+            "profit": -31.57000000000001
         }
     ],
     "value_log": [
@@ -8375,6 +8383,10 @@
         {
             "time": "2025-03-08T02:24:28.562476",
             "value": 102597.87756999992
+        },
+        {
+            "time": "2025-03-08T04:11:57.644645",
+            "value": 102539.48756999991
         }
     ]
 }
