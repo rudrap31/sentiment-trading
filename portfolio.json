@@ -1,6 +1,6 @@
 {
     "cash": 48933.66146999993,
-    "value": 102538.9475699999,
+    "value": 102539.48756999991,
     "stocks": {
         "BR": {
             "quantity": 5,
@@ -270,7 +270,7 @@
             "quantity": 54,
             "type": "SHORT",
             "buy_price": 18.68,
-            "current_price": 18.81,
+            "current_price": 18.8,
             "headline": "Why Rocket Lab (RKLB) Shares Are Falling Today",
             "time": "2025-03-06T20:38:55.565499"
         },
@@ -8435,6 +8435,10 @@
         {
             "time": "2025-03-08T20:09:54.517225",
             "value": 102538.9475699999
+        },
+        {
+            "time": "2025-03-08T22:09:52.846572",
+            "value": 102539.48756999991
         }
     ]
 }
