@@ -443,6 +443,10 @@
         "^GDAXI": {
             "headline": "\u2018America First\u2019 policies are threatening American exceptionalism as the economy and markets flash warning signs",
             "type": "SHORT"
+        },
+        "ADA-USD": {
+            "headline": "David Sacks says the US may have lost over $16 billion in early liquidation of bitcoins",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -8450,6 +8454,10 @@
         },
         {
             "time": "2025-03-09T04:11:17.920193",
+            "value": 102539.48756999991
+        },
+        {
+            "time": "2025-03-09T06:13:29.680791",
             "value": 102539.48756999991
         }
     ]
