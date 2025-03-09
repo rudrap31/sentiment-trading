@@ -451,6 +451,10 @@
         "PZZA": {
             "headline": "Restaurant Menus Have Been Growing. Here's Why Some Chains Are Cutting Back.",
             "type": "BUY"
+        },
+        "HAS": {
+            "headline": "Why Trump tariffs are burning up your portfolio",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -8474,6 +8478,10 @@
         },
         {
             "time": "2025-03-09T12:16:10.314647",
+            "value": 102539.48756999991
+        },
+        {
+            "time": "2025-03-09T14:09:52.352512",
             "value": 102539.48756999991
         }
     ]
