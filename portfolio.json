@@ -475,6 +475,14 @@
         "ADANIPOWER.NS": {
             "headline": "Fitch assigns negative outlook to India's Adani Energy on US probe risks",
             "type": "SHORT"
+        },
+        "TSM": {
+            "headline": "TSMC Revenue Up Nearly 40% Through First Two Months of Year",
+            "type": "BUY"
+        },
+        "IBM": {
+            "headline": "IBM wins UK lawsuit against LzLabs over alleged theft of mainframe technology",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -8562,6 +8570,10 @@
         },
         {
             "time": "2025-03-10T11:11:32.576252",
+            "value": 102539.48756999991
+        },
+        {
+            "time": "2025-03-10T12:29:57.919364",
             "value": 102539.48756999991
         }
     ]
