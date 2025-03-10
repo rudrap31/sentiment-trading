@@ -427,6 +427,10 @@
         "DAL": {
             "headline": "Delta Airlines cuts first-quarter forecast on economic uncertainty",
             "type": "SHORT"
+        },
+        "T": {
+            "headline": "AT&T sees first-quarter profit in line with estimates on 5G, fiber expansion",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -8836,6 +8840,10 @@
         },
         {
             "time": "2025-03-10T21:37:06.404465",
+            "value": 102696.76676999993
+        },
+        {
+            "time": "2025-03-10T22:14:39.261554",
             "value": 102696.76676999993
         }
     ]
