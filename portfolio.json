@@ -463,6 +463,10 @@
         "XPEV": {
             "headline": "Xpeng Shares Jump on Plans to Make Flying Cars, Humanoid Robots",
             "type": "BUY"
+        },
+        "TSLA": {
+            "headline": "Tesla Is Flailing in China and BYD\u2019s Rapid Rise Is to Blame",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -8530,6 +8534,10 @@
         },
         {
             "time": "2025-03-10T06:18:53.530759",
+            "value": 102539.48756999991
+        },
+        {
+            "time": "2025-03-10T07:14:31.213422",
             "value": 102539.48756999991
         }
     ]
