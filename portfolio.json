@@ -459,6 +459,10 @@
         "BAM": {
             "headline": "Mark Carney Wins Canada Liberal Contest, Will Succeed Trudeau in Days",
             "type": "BUY"
+        },
+        "XPEV": {
+            "headline": "Xpeng Shares Jump on Plans to Make Flying Cars, Humanoid Robots",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -8514,6 +8518,10 @@
         },
         {
             "time": "2025-03-10T03:16:22.288054",
+            "value": 102539.48756999991
+        },
+        {
+            "time": "2025-03-10T04:15:31.130664",
             "value": 102539.48756999991
         }
     ]
