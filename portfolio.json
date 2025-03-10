@@ -407,6 +407,22 @@
         "ES=F": {
             "headline": "Stock market today: Dow sinks 900 points, Nasdaq plunges 4% in worst day since 2022",
             "type": "SHORT"
+        },
+        "ASAN": {
+            "headline": "Asana (NYSE:ASAN) Posts Q4 Sales In Line With Estimates But Stock Drops 25.7%",
+            "type": "SHORT"
+        },
+        "ILMN": {
+            "headline": "Illumina lowers outlook due to China sales ban, to cut $100 million in costs",
+            "type": "BUY"
+        },
+        "STKS": {
+            "headline": "The ONE Group (NASDAQ:STKS) Exceeds Q4 Expectations But Quarterly Revenue Guidance Significantly Misses Expectations",
+            "type": "SHORT"
+        },
+        "^GSPC": {
+            "headline": "Stocks Tumble Most This Year With Recession Warnings Blaring",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -8804,6 +8820,10 @@
         },
         {
             "time": "2025-03-10T20:16:15.013242",
+            "value": 102696.76676999993
+        },
+        {
+            "time": "2025-03-10T20:39:26.366321",
             "value": 102696.76676999993
         }
     ]
