@@ -455,6 +455,10 @@
         "HAS": {
             "headline": "Why Trump tariffs are burning up your portfolio",
             "type": "SHORT"
+        },
+        "BAM": {
+            "headline": "Mark Carney Wins Canada Liberal Contest, Will Succeed Trudeau in Days",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -8498,6 +8502,10 @@
         },
         {
             "time": "2025-03-09T22:10:25.984591",
+            "value": 102539.48756999991
+        },
+        {
+            "time": "2025-03-10T00:58:28.826392",
             "value": 102539.48756999991
         }
     ]
