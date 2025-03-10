@@ -467,6 +467,10 @@
         "TSLA": {
             "headline": "Tesla Is Flailing in China and BYD\u2019s Rapid Rise Is to Blame",
             "type": "SHORT"
+        },
+        "YMM": {
+            "headline": "China's Full Truck Alliance eyes Hong Kong listing, strong 2025 growth, says executive",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -8538,6 +8542,10 @@
         },
         {
             "time": "2025-03-10T07:14:31.213422",
+            "value": 102539.48756999991
+        },
+        {
+            "time": "2025-03-10T08:17:40.036681",
             "value": 102539.48756999991
         }
     ]
