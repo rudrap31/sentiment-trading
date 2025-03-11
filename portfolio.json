@@ -399,6 +399,18 @@
         "^GSPC": {
             "headline": "Wall Street Left Dazed and Confused as Trump Jolts Markets Again",
             "type": "SHORT"
+        },
+        "VZ": {
+            "headline": "USDOT says Verizon 'not moving fast enough' on $2.4 billion FAA contract",
+            "type": "SHORT"
+        },
+        "BP": {
+            "headline": "Time has come to ramp up U.S. gas output, BP CEO says",
+            "type": "BUY"
+        },
+        "DAL": {
+            "headline": "Delta, Airbnb Lead Travel Stock Selloff on Consumer Worries",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -9144,6 +9156,10 @@
         },
         {
             "time": "2025-03-11T20:39:34.908615",
+            "value": 102479.7422699999
+        },
+        {
+            "time": "2025-03-11T21:11:58.988142",
             "value": 102479.7422699999
         }
     ]
