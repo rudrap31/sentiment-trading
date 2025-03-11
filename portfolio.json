@@ -455,6 +455,10 @@
         "NVDA": {
             "headline": "Celestial AI raises $250 million as it looks to speed up links between AI chips",
             "type": "BUY"
+        },
+        "UNCRY": {
+            "headline": "UniCredit Poised to Get ECB Nod for Commerzbank Stake in Days",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -8930,6 +8934,10 @@
         },
         {
             "time": "2025-03-11T12:29:53.439842",
+            "value": 102661.36116999993
+        },
+        {
+            "time": "2025-03-11T13:24:37.427924",
             "value": 102661.36116999993
         }
     ]
