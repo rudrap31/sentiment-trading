@@ -1,6 +1,6 @@
 {
-    "cash": 49143.57876999992,
-    "value": 102696.76676999993,
+    "cash": 50115.53876999992,
+    "value": 102661.36116999993,
     "stocks": {
         "BR": {
             "quantity": 5,
@@ -126,7 +126,7 @@
             "quantity": 4,
             "type": "SHORT",
             "buy_price": 254.585,
-            "current_price": 256.4,
+            "current_price": 244.6964,
             "headline": "Macy's stock drops as it misses the mark on sales growth and warns on profits",
             "time": "2025-03-06T15:15:26.534730"
         },
@@ -161,14 +161,6 @@
             "current_price": 65.23,
             "headline": "Walgreens announces a $10 billion deal with Sycamore Partners to take the drug store chain private",
             "time": "2025-03-07T14:40:02.011564"
-        },
-        "EADSY": {
-            "quantity": 22,
-            "type": "BUY",
-            "buy_price": 46.46,
-            "current_price": 47,
-            "headline": "Saudi Fund Set to Invest in AirAsia, Boosting Ties to Region",
-            "time": "2025-03-07T14:40:02.349433"
         },
         "HPE": {
             "quantity": 66,
@@ -214,7 +206,7 @@
             "quantity": 243,
             "type": "SHORT",
             "buy_price": 4.13,
-            "current_price": 4.19,
+            "current_price": 4.2,
             "headline": "Porsche SE expects $21.7 billion loss after tax on Volkswagen stake impairment",
             "time": "2025-03-07T19:11:49.905237"
         },
@@ -254,7 +246,7 @@
             "quantity": 500,
             "type": "BUY",
             "buy_price": 2,
-            "current_price": 2.08,
+            "current_price": 2.0445,
             "headline": "BT brand saved amid pressure from billionaire Indian investor",
             "time": "2025-03-10T14:14:47.706508"
         },
@@ -434,6 +426,10 @@
         },
         "CVX": {
             "headline": "Oil Extends Drop as Risk-Off Mood Sends Markets Into Tailspin",
+            "type": "SHORT"
+        },
+        "^HSI": {
+            "headline": "Asian stocks slide as market selloff deepens on US growth worries",
             "type": "SHORT"
         }
     },
@@ -5027,6 +5023,16 @@
             "amount": 6,
             "time": "2025-03-10T19:13:11.706338",
             "profit": 51.900000000000034
+        },
+        {
+            "action": "BUY",
+            "ticker": "EADSY",
+            "headline": "Saudi Fund Set to Invest in AirAsia, Boosting Ties to Region",
+            "buy_price": 46.46,
+            "sold_price": 44.18,
+            "amount": 22,
+            "time": "2025-03-11T02:54:02.186503",
+            "profit": -50.160000000000025
         }
     ],
     "value_log": [
@@ -8857,6 +8863,10 @@
         {
             "time": "2025-03-11T01:08:25.289318",
             "value": 102696.76676999993
+        },
+        {
+            "time": "2025-03-11T02:54:03.118490",
+            "value": 102661.36116999993
         }
     ]
 }
