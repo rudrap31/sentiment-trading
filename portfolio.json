@@ -419,6 +419,14 @@
         "COMP": {
             "headline": "Trump tariff chaos rattles global stock markets",
             "type": "SHORT"
+        },
+        "RIO": {
+            "headline": "Rio Tinto to raise up to $9 billion for Arcadium Lithium buyout, Bloomberg News reports",
+            "type": "BUY"
+        },
+        "PLTR": {
+            "headline": "Watch These Palantir Stock Price Levels After Recent Sell-Off",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -9176,6 +9184,10 @@
         },
         {
             "time": "2025-03-11T22:14:47.183767",
+            "value": 102479.7422699999
+        },
+        {
+            "time": "2025-03-11T23:14:36.293394",
             "value": 102479.7422699999
         }
     ]
