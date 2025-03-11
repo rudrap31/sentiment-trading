@@ -435,6 +435,10 @@
         "8301.T": {
             "headline": "Japan\u2019s Finance Minister Says Higher Yields Aren\u2019t All Bad",
             "type": "BUY"
+        },
+        "BYDDY": {
+            "headline": "Big Chinese Share Sales Are Luring Back Long-Term Investors",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -8882,6 +8886,10 @@
         },
         {
             "time": "2025-03-11T05:15:23.439525",
+            "value": 102661.36116999993
+        },
+        {
+            "time": "2025-03-11T06:21:33.792766",
             "value": 102661.36116999993
         }
     ]
