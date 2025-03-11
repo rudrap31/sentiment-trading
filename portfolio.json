@@ -451,6 +451,10 @@
         "LUV": {
             "headline": "Southwest Airlines cuts Q1 unit revenue growth forecast",
             "type": "SHORT"
+        },
+        "NVDA": {
+            "headline": "Celestial AI raises $250 million as it looks to speed up links between AI chips",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -8922,6 +8926,10 @@
         },
         {
             "time": "2025-03-11T11:13:27.173965",
+            "value": 102661.36116999993
+        },
+        {
+            "time": "2025-03-11T12:29:53.439842",
             "value": 102661.36116999993
         }
     ]
