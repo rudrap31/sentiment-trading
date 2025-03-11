@@ -431,6 +431,10 @@
         "T": {
             "headline": "AT&T sees first-quarter profit in line with estimates on 5G, fiber expansion",
             "type": "BUY"
+        },
+        "CVX": {
+            "headline": "Oil Extends Drop as Risk-Off Mood Sends Markets Into Tailspin",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -8848,6 +8852,10 @@
         },
         {
             "time": "2025-03-10T23:14:47.584584",
+            "value": 102696.76676999993
+        },
+        {
+            "time": "2025-03-11T01:08:25.289318",
             "value": 102696.76676999993
         }
     ]
