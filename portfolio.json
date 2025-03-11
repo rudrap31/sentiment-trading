@@ -415,6 +415,10 @@
         "SMCI": {
             "headline": "Supermicro Leads S&P 500 as AI Stocks Rise",
             "type": "BUY"
+        },
+        "COMP": {
+            "headline": "Trump tariff chaos rattles global stock markets",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -9168,6 +9172,10 @@
         },
         {
             "time": "2025-03-11T21:36:42.191335",
+            "value": 102479.7422699999
+        },
+        {
+            "time": "2025-03-11T22:14:47.183767",
             "value": 102479.7422699999
         }
     ]
