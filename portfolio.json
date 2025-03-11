@@ -431,6 +431,10 @@
         "^HSI": {
             "headline": "Asian stocks slide as market selloff deepens on US growth worries",
             "type": "SHORT"
+        },
+        "8301.T": {
+            "headline": "Japan\u2019s Finance Minister Says Higher Yields Aren\u2019t All Bad",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -8874,6 +8878,10 @@
         },
         {
             "time": "2025-03-11T04:18:36.234125",
+            "value": 102661.36116999993
+        },
+        {
+            "time": "2025-03-11T05:15:23.439525",
             "value": 102661.36116999993
         }
     ]
