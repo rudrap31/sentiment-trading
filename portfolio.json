@@ -411,6 +411,10 @@
         "DAL": {
             "headline": "Delta, Airbnb Lead Travel Stock Selloff on Consumer Worries",
             "type": "SHORT"
+        },
+        "SMCI": {
+            "headline": "Supermicro Leads S&P 500 as AI Stocks Rise",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -9160,6 +9164,10 @@
         },
         {
             "time": "2025-03-11T21:11:58.988142",
+            "value": 102479.7422699999
+        },
+        {
+            "time": "2025-03-11T21:36:42.191335",
             "value": 102479.7422699999
         }
     ]
