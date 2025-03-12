@@ -439,6 +439,14 @@
         "STLD": {
             "headline": "Trump\u2019s Trade War Expands as Metal Tariffs Spur EU Retaliation",
             "type": "SHORT"
+        },
+        "ITX.MC": {
+            "headline": "Zara owner Inditex meets Q4 sales forecast but recent sales slow",
+            "type": "SHORT"
+        },
+        "BPSO.MI": {
+            "headline": "Italy\u2019s Sondrio Vows Payouts as It Seeks to Fend Off BPER Bid",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -9234,6 +9242,10 @@
         },
         {
             "time": "2025-03-12T06:21:44.022443",
+            "value": 102379.28786999993
+        },
+        {
+            "time": "2025-03-12T07:15:24.684838",
             "value": 102379.28786999993
         }
     ]
