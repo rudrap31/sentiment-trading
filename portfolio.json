@@ -447,6 +447,10 @@
         "KSS": {
             "headline": "Kohl\u2019s Stock Keeps Falling as Wall Street Turns More Bearish",
             "type": "SHORT"
+        },
+        "PEP": {
+            "headline": "Exclusive-US food giants PepsiCo, Conagra seek to exempt some imports from tariffs, trade group says",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -9500,6 +9504,10 @@
         },
         {
             "time": "2025-03-12T21:13:49.392702",
+            "value": 102169.8069699999
+        },
+        {
+            "time": "2025-03-12T21:37:17.345986",
             "value": 102169.8069699999
         }
     ]
