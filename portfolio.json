@@ -1,6 +1,6 @@
 {
     "cash": 52597.745869999904,
-    "value": 102397.59786999993,
+    "value": 102379.28786999993,
     "stocks": {
         "UNP": {
             "quantity": 5,
@@ -286,7 +286,7 @@
             "quantity": 85,
             "type": "SHORT",
             "buy_price": 11.88,
-            "current_price": 11.77,
+            "current_price": 11.96,
             "headline": "Volkswagen gives muted outlook amid trade tensions, rising competition",
             "time": "2025-03-11T14:15:17.986573"
         },
@@ -294,7 +294,7 @@
             "quantity": 36,
             "type": "BUY",
             "buy_price": 27.91,
-            "current_price": 27.94,
+            "current_price": 27.88,
             "headline": "UniCredit Poised to Get ECB Nod for Commerzbank Stake in Days",
             "time": "2025-03-11T14:15:18.067760"
         },
@@ -422,6 +422,10 @@
         },
         "KSS": {
             "headline": "Kohl\u2019s Shares Fall After Weak Sales Outlook",
+            "type": "SHORT"
+        },
+        "8301.T": {
+            "headline": "BOJ\u2019s Ueda Signals Little Concern Over Highest Yields Since 2008",
             "type": "SHORT"
         }
     },
@@ -9203,6 +9207,10 @@
         {
             "time": "2025-03-12T02:53:16.241733",
             "value": 102397.59786999993
+        },
+        {
+            "time": "2025-03-12T03:24:50.461874",
+            "value": 102379.28786999993
         }
     ]
 }
