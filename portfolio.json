@@ -1,6 +1,6 @@
 {
     "cash": 46470.37096999991,
-    "value": 102169.62696999991,
+    "value": 102169.8069699999,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -230,7 +230,7 @@
             "quantity": 12,
             "type": "BUY",
             "buy_price": 88.1,
-            "current_price": 90.06,
+            "current_price": 90.075,
             "headline": "Big Chinese Share Sales Are Luring Back Long-Term Investors",
             "time": "2025-03-11T14:15:17.929477"
         },
@@ -418,6 +418,18 @@
         },
         "IRBT": {
             "headline": "Roomba maker iRobot, once Amazon's takeover target, flags going concern risk",
+            "type": "SHORT"
+        },
+        "PATH": {
+            "headline": "UiPath (NYSE:PATH) Posts Q4 Sales In Line With Estimates But Stock Drops 17.4%",
+            "type": "SHORT"
+        },
+        "GM": {
+            "headline": "Tesla US registrations dip 11% in January, the latest sign of demand weakness and consumer backlash",
+            "type": "SHORT"
+        },
+        "S": {
+            "headline": "SentinelOne (NYSE:S) Exceeds Q4 Expectations But Stock Drops 15%",
             "type": "SHORT"
         }
     },
@@ -9465,6 +9477,10 @@
         {
             "time": "2025-03-12T20:16:09.011002",
             "value": 102169.62696999991
+        },
+        {
+            "time": "2025-03-12T20:39:15.500054",
+            "value": 102169.8069699999
         }
     ]
 }
