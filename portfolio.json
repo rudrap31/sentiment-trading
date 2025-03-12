@@ -427,6 +427,14 @@
         "8301.T": {
             "headline": "BOJ\u2019s Ueda Signals Little Concern Over Highest Yields Since 2008",
             "type": "SHORT"
+        },
+        "CPCAY": {
+            "headline": "Cathay Pacific's 2024 profit rises marginally",
+            "type": "BUY"
+        },
+        "^YH308": {
+            "headline": "Ambani Follows Bharti With Starlink Deal, Sets Up India Race",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -9214,6 +9222,10 @@
         },
         {
             "time": "2025-03-12T04:18:32.011012",
+            "value": 102379.28786999993
+        },
+        {
+            "time": "2025-03-12T05:15:35.691887",
             "value": 102379.28786999993
         }
     ]
