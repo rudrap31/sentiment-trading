@@ -447,6 +447,14 @@
         "BPSO.MI": {
             "headline": "Italy\u2019s Sondrio Vows Payouts as It Seeks to Fend Off BPER Bid",
             "type": "BUY"
+        },
+        "MS": {
+            "headline": "Wall Street's hopes for a 2025 IPO bonanza are being put to the test",
+            "type": "BUY"
+        },
+        "BEN": {
+            "headline": "Franklin Templeton Files for XRP ETF as Cryptocurrency Adoption Grows Among Asset Managers",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -9246,6 +9254,10 @@
         },
         {
             "time": "2025-03-12T07:15:24.684838",
+            "value": 102379.28786999993
+        },
+        {
+            "time": "2025-03-12T08:20:39.349122",
             "value": 102379.28786999993
         }
     ]
