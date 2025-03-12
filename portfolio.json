@@ -451,6 +451,14 @@
         "PEP": {
             "headline": "Exclusive-US food giants PepsiCo, Conagra seek to exempt some imports from tariffs, trade group says",
             "type": "BUY"
+        },
+        "MSFT": {
+            "headline": "Trump\u2019s FTC Moves Ahead With Broad Microsoft Antitrust Probe",
+            "type": "BUY"
+        },
+        "JPM": {
+            "headline": "Over 1,600 Financial Firms Tapped Fed\u2019s Emergency Lending Tool",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -9508,6 +9516,10 @@
         },
         {
             "time": "2025-03-12T21:37:17.345986",
+            "value": 102169.8069699999
+        },
+        {
+            "time": "2025-03-12T22:14:47.304643",
             "value": 102169.8069699999
         }
     ]
