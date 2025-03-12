@@ -1,6 +1,6 @@
 {
-    "cash": 51707.7658699999,
-    "value": 102479.7422699999,
+    "cash": 52597.745869999904,
+    "value": 102397.59786999993,
     "stocks": {
         "UNP": {
             "quantity": 5,
@@ -94,7 +94,7 @@
             "quantity": 4,
             "type": "SHORT",
             "buy_price": 254.585,
-            "current_price": 244.6964,
+            "current_price": 246.46,
             "headline": "Macy's stock drops as it misses the mark on sales growth and warns on profits",
             "time": "2025-03-06T15:15:26.534730"
         },
@@ -190,7 +190,7 @@
             "quantity": 500,
             "type": "BUY",
             "buy_price": 2,
-            "current_price": 2.0445,
+            "current_price": 2.01,
             "headline": "BT brand saved amid pressure from billionaire Indian investor",
             "time": "2025-03-10T14:14:47.706508"
         },
@@ -278,17 +278,9 @@
             "quantity": 12,
             "type": "BUY",
             "buy_price": 88.1,
-            "current_price": 87.1,
+            "current_price": 90.06,
             "headline": "Big Chinese Share Sales Are Luring Back Long-Term Investors",
             "time": "2025-03-11T14:15:17.929477"
-        },
-        "HENOY": {
-            "quantity": 42,
-            "type": "BUY",
-            "buy_price": 23.83,
-            "current_price": 23.37,
-            "headline": "Henkel sees continued sales growth in 2025",
-            "time": "2025-03-11T14:15:17.959608"
         },
         "VWAPY": {
             "quantity": 85,
@@ -302,7 +294,7 @@
             "quantity": 36,
             "type": "BUY",
             "buy_price": 27.91,
-            "current_price": 27.99,
+            "current_price": 27.94,
             "headline": "UniCredit Poised to Get ECB Nod for Commerzbank Stake in Days",
             "time": "2025-03-11T14:15:18.067760"
         },
@@ -426,6 +418,10 @@
         },
         "PLTR": {
             "headline": "Watch These Palantir Stock Price Levels After Recent Sell-Off",
+            "type": "SHORT"
+        },
+        "KSS": {
+            "headline": "Kohl\u2019s Shares Fall After Weak Sales Outlook",
             "type": "SHORT"
         }
     },
@@ -5239,6 +5235,16 @@
             "amount": 22,
             "time": "2025-03-11T19:12:23.964564",
             "profit": -30.580000000000013
+        },
+        {
+            "action": "BUY",
+            "ticker": "HENOY",
+            "headline": "Henkel sees continued sales growth in 2025",
+            "buy_price": 23.83,
+            "sold_price": 21.19,
+            "amount": 42,
+            "time": "2025-03-12T02:53:15.535424",
+            "profit": -110.87999999999988
         }
     ],
     "value_log": [
@@ -9193,6 +9199,10 @@
         {
             "time": "2025-03-12T01:07:38.724224",
             "value": 102479.7422699999
+        },
+        {
+            "time": "2025-03-12T02:53:16.241733",
+            "value": 102397.59786999993
         }
     ]
 }
