@@ -431,6 +431,22 @@
         "S": {
             "headline": "SentinelOne (NYSE:S) Exceeds Q4 Expectations But Stock Drops 15%",
             "type": "SHORT"
+        },
+        "INTC": {
+            "headline": "Intel appoints Lip-Bu Tan as CEO, stock jumps 11%",
+            "type": "BUY"
+        },
+        "^GSPC": {
+            "headline": "Stocks Rise After CPI Surprise as Trade Risks Loom: Markets Wrap",
+            "type": "BUY"
+        },
+        "WDS": {
+            "headline": "Activist investor defies Woodside directors election citing climate risk, poor returns",
+            "type": "SHORT"
+        },
+        "KSS": {
+            "headline": "Kohl\u2019s Stock Keeps Falling as Wall Street Turns More Bearish",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -9480,6 +9496,10 @@
         },
         {
             "time": "2025-03-12T20:39:15.500054",
+            "value": 102169.8069699999
+        },
+        {
+            "time": "2025-03-12T21:13:49.392702",
             "value": 102169.8069699999
         }
     ]
