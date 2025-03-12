@@ -435,6 +435,10 @@
         "^YH308": {
             "headline": "Ambani Follows Bharti With Starlink Deal, Sets Up India Race",
             "type": "BUY"
+        },
+        "STLD": {
+            "headline": "Trump\u2019s Trade War Expands as Metal Tariffs Spur EU Retaliation",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -9226,6 +9230,10 @@
         },
         {
             "time": "2025-03-12T05:15:35.691887",
+            "value": 102379.28786999993
+        },
+        {
+            "time": "2025-03-12T06:21:44.022443",
             "value": 102379.28786999993
         }
     ]
