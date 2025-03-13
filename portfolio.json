@@ -483,6 +483,14 @@
         "ULTA": {
             "headline": "Ulta\u2019s (NASDAQ:ULTA) Q4 Sales Top Estimates",
             "type": "BUY"
+        },
+        "BLNK": {
+            "headline": "Blink Charging (NASDAQ:BLNK) Misses Q4 Sales Targets",
+            "type": "SHORT"
+        },
+        "XPOF": {
+            "headline": "Xponential Fitness (NYSE:XPOF) Beats Q4 Sales Targets But Stock Drops 19.8%",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -9822,6 +9830,10 @@
         },
         {
             "time": "2025-03-13T20:39:03.143907",
+            "value": 102562.7910699999
+        },
+        {
+            "time": "2025-03-13T21:13:48.014251",
             "value": 102562.7910699999
         }
     ]
