@@ -491,6 +491,10 @@
         "XPOF": {
             "headline": "Xponential Fitness (NYSE:XPOF) Beats Q4 Sales Targets But Stock Drops 19.8%",
             "type": "SHORT"
+        },
+        "MAT": {
+            "headline": "Exclusive-Major US toymaker speeds up plan to move manufacturing out of China",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -9834,6 +9838,10 @@
         },
         {
             "time": "2025-03-13T21:13:48.014251",
+            "value": 102562.7910699999
+        },
+        {
+            "time": "2025-03-13T21:37:33.507017",
             "value": 102562.7910699999
         }
     ]
