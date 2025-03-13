@@ -451,6 +451,10 @@
         "AMUN.PA": {
             "headline": "Amundi Says Investors See Better Valuations in China Than US",
             "type": "BUY"
+        },
+        "BNPQY": {
+            "headline": "BNP Paribas BP's reports 132% surge in full-year net profit",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -9556,6 +9560,10 @@
         },
         {
             "time": "2025-03-13T06:21:11.921616",
+            "value": 102186.32296999992
+        },
+        {
+            "time": "2025-03-13T07:15:03.260593",
             "value": 102186.32296999992
         }
     ]
