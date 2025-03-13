@@ -483,6 +483,10 @@
         "DELL": {
             "headline": "'Magnificent 7' stocks aren't the only high-flying tech names getting hit hardest in this sell-off",
             "type": "SHORT"
+        },
+        "DG": {
+            "headline": "Dollar General forecasts annual comparable sales growth below estimates",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -9604,6 +9608,10 @@
         },
         {
             "time": "2025-03-13T10:16:55.711776",
+            "value": 102186.32296999992
+        },
+        {
+            "time": "2025-03-13T11:13:50.141855",
             "value": 102186.32296999992
         }
     ]
