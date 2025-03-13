@@ -443,6 +443,14 @@
         "JPM": {
             "headline": "Over 1,600 Financial Firms Tapped Fed\u2019s Emergency Lending Tool",
             "type": "SHORT"
+        },
+        "TSM": {
+            "headline": "Taiwan Warns of Currency Risks From Stock Outflows, Trump Policy",
+            "type": "SHORT"
+        },
+        "AMUN.PA": {
+            "headline": "Amundi Says Investors See Better Valuations in China Than US",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -9540,6 +9548,10 @@
         },
         {
             "time": "2025-03-13T04:18:51.756288",
+            "value": 102186.32296999992
+        },
+        {
+            "time": "2025-03-13T05:15:20.213494",
             "value": 102186.32296999992
         }
     ]
