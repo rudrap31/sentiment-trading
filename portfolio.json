@@ -491,6 +491,10 @@
         "CPRI": {
             "headline": "Donatella Versace steps down as brand's creative officer",
             "type": "SHORT"
+        },
+        "BZ=F": {
+            "headline": "Oil Retreats as IEA Flags Trade War Risks to Global Demand",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -9620,6 +9624,10 @@
         },
         {
             "time": "2025-03-13T12:29:49.910659",
+            "value": 102186.32296999992
+        },
+        {
+            "time": "2025-03-13T13:24:41.078980",
             "value": 102186.32296999992
         }
     ]
