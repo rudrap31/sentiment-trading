@@ -455,6 +455,18 @@
         "BNPQY": {
             "headline": "BNP Paribas BP's reports 132% surge in full-year net profit",
             "type": "BUY"
+        },
+        "MAKSF": {
+            "headline": "John Lewis staff denied bonus despite surge in profits",
+            "type": "BUY"
+        },
+        "^YH308": {
+            "headline": "India watchdog plans to limit satellite permits to five years, defying Musk's Starlink",
+            "type": "SHORT"
+        },
+        "SVLPF": {
+            "headline": "UK's Savills sees return-to-office driving 2025 volumes after FY profit beat",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -9564,6 +9576,10 @@
         },
         {
             "time": "2025-03-13T07:15:03.260593",
+            "value": 102186.32296999992
+        },
+        {
+            "time": "2025-03-13T08:20:43.965544",
             "value": 102186.32296999992
         }
     ]
