@@ -1,6 +1,6 @@
 {
     "cash": 44079.8550699999,
-    "value": 102718.75256999992,
+    "value": 102748.50256999992,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -174,7 +174,7 @@
             "quantity": 85,
             "type": "SHORT",
             "buy_price": 11.88,
-            "current_price": 11.93,
+            "current_price": 11.58,
             "headline": "Volkswagen gives muted outlook amid trade tensions, rising competition",
             "time": "2025-03-11T14:15:17.986573"
         },
@@ -9885,6 +9885,10 @@
         {
             "time": "2025-03-14T02:52:55.902643",
             "value": 102718.75256999992
+        },
+        {
+            "time": "2025-03-14T03:26:28.349155",
+            "value": 102748.50256999992
         }
     ]
 }
