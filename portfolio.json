@@ -1,6 +1,6 @@
 {
     "cash": 40110.68686999991,
-    "value": 102835.14316999994,
+    "value": 102837.22316999992,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -358,7 +358,7 @@
             "quantity": 208,
             "type": "SHORT",
             "buy_price": 4.82,
-            "current_price": 4.6,
+            "current_price": 4.59,
             "headline": "Average US rate on a 30-year mortgage edges higher, ending a seven-week slide",
             "time": "2025-03-13T16:18:25.758126"
         },
@@ -486,6 +486,18 @@
         },
         "TALO": {
             "headline": "Exclusive-Mexican tycoon Slim eyes two of Pemex's key fields, gaining clout in energy sector",
+            "type": "BUY"
+        },
+        "PLTR": {
+            "headline": "Palantir Leads AI Stock Rebound From Tariff Rout",
+            "type": "BUY"
+        },
+        "^GSPC": {
+            "headline": "S&P 500 Stages Rebound After $5 Trillion Plunge: Markets Wrap",
+            "type": "BUY"
+        },
+        "^IXIC": {
+            "headline": "Stock market today: Dow, S&P 500 soar, Nasdaq rebounds in best day since November to cap volatile week",
             "type": "BUY"
         }
     },
@@ -10073,6 +10085,10 @@
         {
             "time": "2025-03-14T20:16:32.829117",
             "value": 102835.14316999994
+        },
+        {
+            "time": "2025-03-14T20:38:09.630780",
+            "value": 102837.22316999992
         }
     ]
 }
