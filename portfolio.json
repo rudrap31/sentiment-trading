@@ -1,6 +1,6 @@
 {
-    "cash": 40699.10706999991,
-    "value": 102563.09306999992,
+    "cash": 44079.8550699999,
+    "value": 102718.75256999992,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -54,7 +54,7 @@
             "quantity": 7,
             "type": "SHORT",
             "buy_price": 149,
-            "current_price": 142.91,
+            "current_price": 142.908,
             "headline": "China Targets Record Deficit to Buffer Economy Against Tariffs",
             "time": "2025-03-05T14:41:14.912657"
         },
@@ -102,7 +102,7 @@
             "quantity": 243,
             "type": "SHORT",
             "buy_price": 4.13,
-            "current_price": 4.15,
+            "current_price": 4.0775,
             "headline": "Porsche SE expects $21.7 billion loss after tax on Volkswagen stake impairment",
             "time": "2025-03-07T19:11:49.905237"
         },
@@ -134,7 +134,7 @@
             "quantity": 500,
             "type": "BUY",
             "buy_price": 2,
-            "current_price": 1.965,
+            "current_price": 2,
             "headline": "BT brand saved amid pressure from billionaire Indian investor",
             "time": "2025-03-10T14:14:47.706508"
         },
@@ -170,14 +170,6 @@
             "headline": "BlackRock CEO Fink says nationalistic policies will stoke inflation",
             "time": "2025-03-10T19:36:11.404349"
         },
-        "BYDDY": {
-            "quantity": 12,
-            "type": "BUY",
-            "buy_price": 88.1,
-            "current_price": 92.01,
-            "headline": "Big Chinese Share Sales Are Luring Back Long-Term Investors",
-            "time": "2025-03-11T14:15:17.929477"
-        },
         "VWAPY": {
             "quantity": 85,
             "type": "SHORT",
@@ -190,7 +182,7 @@
             "quantity": 36,
             "type": "BUY",
             "buy_price": 27.91,
-            "current_price": 28.32,
+            "current_price": 27.65,
             "headline": "UniCredit Poised to Get ECB Nod for Commerzbank Stake in Days",
             "time": "2025-03-11T14:15:18.067760"
         },
@@ -278,7 +270,7 @@
             "quantity": 316,
             "type": "BUY",
             "buy_price": 3.169,
-            "current_price": 3.17,
+            "current_price": 3.106,
             "headline": "City must back defence industry to protect Britain, says major pension fund",
             "time": "2025-03-12T16:46:25.529059"
         },
@@ -313,14 +305,6 @@
             "current_price": 39.48,
             "headline": "Truist adds New Jersey team as part of targeted growth push",
             "time": "2025-03-12T19:12:22.786096"
-        },
-        "POAHF": {
-            "quantity": 24,
-            "type": "SHORT",
-            "buy_price": 43.17,
-            "current_price": 41.501,
-            "headline": "Porsche stock slides on profit forecast; company may 'pass' tariff costs on to customers",
-            "time": "2025-03-12T19:36:49.683088"
         },
         "GM": {
             "quantity": 22,
@@ -382,7 +366,7 @@
             "quantity": 25,
             "type": "BUY",
             "buy_price": 40.55,
-            "current_price": 40.29,
+            "current_price": 39.91,
             "headline": "BNP Paribas BP's reports 132% surge in full-year net profit",
             "time": "2025-03-13T14:14:32.909276"
         },
@@ -390,7 +374,7 @@
             "quantity": 227,
             "type": "BUY",
             "buy_price": 4.41,
-            "current_price": 4.28,
+            "current_price": 4.48,
             "headline": "John Lewis staff denied bonus despite surge in profits",
             "time": "2025-03-13T14:14:33.077993"
         },
@@ -401,14 +385,6 @@
             "current_price": 26.24,
             "headline": "Q4 Earnings Highs And Lows: Amphastar Pharmaceuticals (NASDAQ:AMPH) Vs The Rest Of The Generic Pharmaceuticals Stocks",
             "time": "2025-03-13T14:14:33.264378"
-        },
-        "RNMBY": {
-            "quantity": 4,
-            "type": "BUY",
-            "buy_price": 270.16,
-            "current_price": 279.32,
-            "headline": "Rheinmetall worth more than Volkswagen as defence rally continues",
-            "time": "2025-03-13T14:14:33.281078"
         },
         "DELL": {
             "quantity": 11,
@@ -422,7 +398,7 @@
             "quantity": 208,
             "type": "SHORT",
             "buy_price": 4.82,
-            "current_price": 4.82,
+            "current_price": 4.6,
             "headline": "Average US rate on a 30-year mortgage edges higher, ending a seven-week slide",
             "time": "2025-03-13T16:18:25.758126"
         },
@@ -510,6 +486,10 @@
         },
         "CKHUY": {
             "headline": "China Amplifies Rebuke of Li Ka-shing\u2019s Panama Port\u00a0Deal With BlackRock",
+            "type": "BUY"
+        },
+        "^HSI": {
+            "headline": "Analysis-Donald Trump makes Chinese stocks (somewhat) great again",
             "type": "BUY"
         }
     },
@@ -5673,6 +5653,36 @@
             "amount": 14,
             "time": "2025-03-13T20:16:15.935354",
             "profit": 57.26000000000005
+        },
+        {
+            "action": "BUY",
+            "ticker": "BYDDY",
+            "headline": "Big Chinese Share Sales Are Luring Back Long-Term Investors",
+            "buy_price": 88.1,
+            "sold_price": 94.63,
+            "amount": 12,
+            "time": "2025-03-14T02:52:55.071744",
+            "profit": 78.36000000000001
+        },
+        {
+            "action": "SHORT",
+            "ticker": "POAHF",
+            "headline": "Porsche stock slides on profit forecast; company may 'pass' tariff costs on to customers",
+            "buy_price": 43.17,
+            "sold_price": 40.3405,
+            "amount": 24,
+            "time": "2025-03-14T02:52:55.071758",
+            "profit": 67.90800000000007
+        },
+        {
+            "action": "BUY",
+            "ticker": "RNMBY",
+            "headline": "Rheinmetall worth more than Volkswagen as defence rally continues",
+            "buy_price": 270.16,
+            "sold_price": 285.3,
+            "amount": 4,
+            "time": "2025-03-14T02:52:55.071763",
+            "profit": 60.559999999999945
         }
     ],
     "value_log": [
@@ -9871,6 +9881,10 @@
         {
             "time": "2025-03-14T01:07:44.266818",
             "value": 102563.09306999992
+        },
+        {
+            "time": "2025-03-14T02:52:55.902643",
+            "value": 102718.75256999992
         }
     ]
 }
