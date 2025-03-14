@@ -1,6 +1,6 @@
 {
     "cash": 40699.10706999991,
-    "value": 102562.7910699999,
+    "value": 102563.09306999992,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -54,7 +54,7 @@
             "quantity": 7,
             "type": "SHORT",
             "buy_price": 149,
-            "current_price": 142.908,
+            "current_price": 142.91,
             "headline": "China Targets Record Deficit to Buffer Economy Against Tariffs",
             "time": "2025-03-05T14:41:14.912657"
         },
@@ -278,7 +278,7 @@
             "quantity": 316,
             "type": "BUY",
             "buy_price": 3.169,
-            "current_price": 3.169,
+            "current_price": 3.17,
             "headline": "City must back defence industry to protect Britain, says major pension fund",
             "time": "2025-03-12T16:46:25.529059"
         },
@@ -506,6 +506,10 @@
         },
         "NVDA": {
             "headline": "Nvidia Stock Held Up Better Than Mag 7 Peers During Thursday's Rout\u2014Watch These Key Levels",
+            "type": "BUY"
+        },
+        "CKHUY": {
+            "headline": "China Amplifies Rebuke of Li Ka-shing\u2019s Panama Port\u00a0Deal With BlackRock",
             "type": "BUY"
         }
     },
@@ -9863,6 +9867,10 @@
         {
             "time": "2025-03-13T23:14:40.253277",
             "value": 102562.7910699999
+        },
+        {
+            "time": "2025-03-14T01:07:44.266818",
+            "value": 102563.09306999992
         }
     ]
 }
