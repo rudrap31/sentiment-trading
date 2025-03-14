@@ -1,6 +1,6 @@
 {
     "cash": 40110.68686999991,
-    "value": 102837.22316999992,
+    "value": 102840.63316999993,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -438,7 +438,7 @@
             "quantity": 31,
             "type": "BUY",
             "buy_price": 32.44,
-            "current_price": 33.4,
+            "current_price": 33.51,
             "headline": "Japan\u2019s Unions Win Largest Pay Hike in More Than Three Decades",
             "time": "2025-03-14T14:13:54.498590"
         },
@@ -10089,6 +10089,10 @@
         {
             "time": "2025-03-14T20:38:09.630780",
             "value": 102837.22316999992
+        },
+        {
+            "time": "2025-03-14T21:14:15.109422",
+            "value": 102840.63316999993
         }
     ]
 }
