@@ -495,6 +495,14 @@
         "HNHAF": {
             "headline": "World's top electronics maker Foxconn Q4 profit drops 13%",
             "type": "SHORT"
+        },
+        "NRILY": {
+            "headline": "Japan\u2019s Unions Win Largest Pay Hike in More Than Three Decades",
+            "type": "BUY"
+        },
+        "PPRUY": {
+            "headline": "Kering shares down 10% after appointment of Demna as Gucci designer",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -9908,6 +9916,10 @@
         },
         {
             "time": "2025-03-14T07:15:02.894372",
+            "value": 102748.50256999992
+        },
+        {
+            "time": "2025-03-14T09:16:44.344164",
             "value": 102748.50256999992
         }
     ]
