@@ -503,6 +503,14 @@
         "TSLA": {
             "headline": "Tesla raises concerns over retaliatory tariffs in unsigned letter",
             "type": "SHORT"
+        },
+        "BRK-B": {
+            "headline": "Berkshire Hathaway director Olson to step down, Buffett opposes shareholder proposals",
+            "type": "SHORT"
+        },
+        "NVO": {
+            "headline": "Drugmakers agree to participate in second round of price negotiations",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -10104,6 +10112,10 @@
         },
         {
             "time": "2025-03-14T22:14:11.159285",
+            "value": 102840.63316999993
+        },
+        {
+            "time": "2025-03-14T23:14:54.946613",
             "value": 102840.63316999993
         }
     ]
