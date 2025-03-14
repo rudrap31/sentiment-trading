@@ -503,6 +503,10 @@
         "PPRUY": {
             "headline": "Kering shares down 10% after appointment of Demna as Gucci designer",
             "type": "SHORT"
+        },
+        "SPT": {
+            "headline": "1 Software Stock to Own for Decades and 2 to Turn Down",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -9932,6 +9936,10 @@
         },
         {
             "time": "2025-03-14T12:28:24.491102",
+            "value": 102748.50256999992
+        },
+        {
+            "time": "2025-03-14T13:22:32.210663",
             "value": 102748.50256999992
         }
     ]
