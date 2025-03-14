@@ -499,6 +499,10 @@
         "^IXIC": {
             "headline": "Stock market today: Dow, S&P 500 soar, Nasdaq rebounds in best day since November to cap volatile week",
             "type": "BUY"
+        },
+        "TSLA": {
+            "headline": "Tesla raises concerns over retaliatory tariffs in unsigned letter",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -10096,6 +10100,10 @@
         },
         {
             "time": "2025-03-14T21:38:13.181267",
+            "value": 102840.63316999993
+        },
+        {
+            "time": "2025-03-14T22:14:11.159285",
             "value": 102840.63316999993
         }
     ]
