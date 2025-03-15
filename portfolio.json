@@ -1,6 +1,6 @@
 {
-    "cash": 40110.68686999991,
-    "value": 102840.63316999993,
+    "cash": 43184.98486999991,
+    "value": 102777.03116999994,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -41,14 +41,6 @@
             "current_price": 24.19,
             "headline": "Nordstrom beats holiday-quarter sales estimates; CFO jumps ship to Starbucks",
             "time": "2025-03-04T14:41:15.699500"
-        },
-        "MCQEF": {
-            "quantity": 7,
-            "type": "SHORT",
-            "buy_price": 149,
-            "current_price": 142.908,
-            "headline": "China Targets Record Deficit to Buffer Economy Against Tariffs",
-            "time": "2025-03-05T14:41:14.912657"
         },
         "CBAUF": {
             "quantity": 11,
@@ -174,7 +166,7 @@
             "quantity": 36,
             "type": "BUY",
             "buy_price": 27.91,
-            "current_price": 27.65,
+            "current_price": 28.85,
             "headline": "UniCredit Poised to Get ECB Nod for Commerzbank Stake in Days",
             "time": "2025-03-11T14:15:18.067760"
         },
@@ -218,14 +210,6 @@
             "headline": "Rio Tinto to raise up to $9 billion for Arcadium Lithium buyout, Bloomberg News reports",
             "time": "2025-03-12T14:14:43.689384"
         },
-        "CPCAY": {
-            "quantity": 142,
-            "type": "BUY",
-            "buy_price": 7.06,
-            "current_price": 7.16,
-            "headline": "Cathay Pacific's 2024 profit rises marginally",
-            "time": "2025-03-12T14:14:43.745806"
-        },
         "STLD": {
             "quantity": 9,
             "type": "SHORT",
@@ -254,7 +238,7 @@
             "quantity": 316,
             "type": "BUY",
             "buy_price": 3.169,
-            "current_price": 3.106,
+            "current_price": 3.13,
             "headline": "City must back defence industry to protect Britain, says major pension fund",
             "time": "2025-03-12T16:46:25.529059"
         },
@@ -326,7 +310,7 @@
             "quantity": 25,
             "type": "BUY",
             "buy_price": 40.55,
-            "current_price": 39.91,
+            "current_price": 41.43,
             "headline": "BNP Paribas BP's reports 132% surge in full-year net profit",
             "time": "2025-03-13T14:14:32.909276"
         },
@@ -334,7 +318,7 @@
             "quantity": 227,
             "type": "BUY",
             "buy_price": 4.41,
-            "current_price": 4.48,
+            "current_price": 4.4,
             "headline": "John Lewis staff denied bonus despite surge in profits",
             "time": "2025-03-13T14:14:33.077993"
         },
@@ -353,14 +337,6 @@
             "current_price": 95.67,
             "headline": "'Magnificent 7' stocks aren't the only high-flying tech names getting hit hardest in this sell-off",
             "time": "2025-03-13T14:14:33.293777"
-        },
-        "FMCC": {
-            "quantity": 208,
-            "type": "SHORT",
-            "buy_price": 4.82,
-            "current_price": 4.59,
-            "headline": "Average US rate on a 30-year mortgage edges higher, ending a seven-week slide",
-            "time": "2025-03-13T16:18:25.758126"
         },
         "MCD": {
             "quantity": 4,
@@ -422,7 +398,7 @@
             "quantity": 164,
             "type": "BUY",
             "buy_price": 6.11,
-            "current_price": 6.29,
+            "current_price": 5.95,
             "headline": "China Amplifies Rebuke of Li Ka-shing\u2019s Panama Port\u00a0Deal With BlackRock",
             "time": "2025-03-14T14:13:54.169067"
         },
@@ -5803,6 +5779,36 @@
             "amount": 9,
             "time": "2025-03-14T20:16:31.925735",
             "profit": 52.592399999999955
+        },
+        {
+            "action": "SHORT",
+            "ticker": "MCQEF",
+            "headline": "China Targets Record Deficit to Buffer Economy Against Tariffs",
+            "buy_price": 149,
+            "sold_price": 128.874,
+            "amount": 7,
+            "time": "2025-03-15T02:47:50.957937",
+            "profit": 140.88200000000003
+        },
+        {
+            "action": "BUY",
+            "ticker": "CPCAY",
+            "headline": "Cathay Pacific's 2024 profit rises marginally",
+            "buy_price": 7.06,
+            "sold_price": 6.648,
+            "amount": 142,
+            "time": "2025-03-15T02:47:50.957953",
+            "profit": -58.50399999999999
+        },
+        {
+            "action": "SHORT",
+            "ticker": "FMCC",
+            "headline": "Average US rate on a 30-year mortgage edges higher, ending a seven-week slide",
+            "buy_price": 4.82,
+            "sold_price": 5.09,
+            "amount": 208,
+            "time": "2025-03-15T02:47:50.957986",
+            "profit": -56.15999999999991
         }
     ],
     "value_log": [
@@ -10121,6 +10127,10 @@
         {
             "time": "2025-03-15T00:52:40.471661",
             "value": 102840.63316999993
+        },
+        {
+            "time": "2025-03-15T02:47:51.854495",
+            "value": 102777.03116999994
         }
     ]
 }
