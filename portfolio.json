@@ -483,6 +483,10 @@
         "SBUX": {
             "headline": "Make room Starbucks and McDonald's. China's Mixue and other brands win fans in Southeast Asia",
             "type": "BUY"
+        },
+        "TMXXF": {
+            "headline": "US tariff spat fuels trading boom on Canada\u2019s top exchange",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -10156,6 +10160,10 @@
         },
         {
             "time": "2025-03-15T12:19:28.412863",
+            "value": 102808.49366999995
+        },
+        {
+            "time": "2025-03-15T14:11:12.350246",
             "value": 102808.49366999995
         }
     ]
