@@ -487,6 +487,10 @@
         "TMXXF": {
             "headline": "US tariff spat fuels trading boom on Canada\u2019s top exchange",
             "type": "BUY"
+        },
+        "RIO": {
+            "headline": "Five Charts That Show Credit Complacency Is Fracturing",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -10172,6 +10176,10 @@
         },
         {
             "time": "2025-03-15T18:14:57.666702",
+            "value": 102808.49366999995
+        },
+        {
+            "time": "2025-03-15T20:12:17.417316",
             "value": 102808.49366999995
         }
     ]
