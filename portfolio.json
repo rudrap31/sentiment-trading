@@ -491,6 +491,10 @@
         "RIO": {
             "headline": "Five Charts That Show Credit Complacency Is Fracturing",
             "type": "SHORT"
+        },
+        "CKHUY": {
+            "headline": "China Ramps Up Criticism of Li Ka-shing\u2019s BlackRock Ports Deal",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -10200,6 +10204,10 @@
         },
         {
             "time": "2025-03-16T06:15:16.609737",
+            "value": 102808.49366999995
+        },
+        {
+            "time": "2025-03-16T08:14:28.574782",
             "value": 102808.49366999995
         }
     ]
