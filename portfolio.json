@@ -499,6 +499,10 @@
         "^DJI": {
             "headline": "'A sentiment shift': What Wall Street is saying after the S&P 500's 10% tumble",
             "type": "SHORT"
+        },
+        "RNMBY": {
+            "headline": "Rheinmetall\u2019s stock has soared over 1,000%, and the German defense giant sees growth \u2018that we have never experienced before\u2019",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -10236,6 +10240,10 @@
         },
         {
             "time": "2025-03-16T20:12:06.206729",
+            "value": 102808.49366999995
+        },
+        {
+            "time": "2025-03-16T22:11:12.259411",
             "value": 102808.49366999995
         }
     ]
