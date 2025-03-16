@@ -495,6 +495,10 @@
         "CKHUY": {
             "headline": "China Ramps Up Criticism of Li Ka-shing\u2019s BlackRock Ports Deal",
             "type": "SHORT"
+        },
+        "^DJI": {
+            "headline": "'A sentiment shift': What Wall Street is saying after the S&P 500's 10% tumble",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -10216,6 +10220,10 @@
         },
         {
             "time": "2025-03-16T12:19:24.898595",
+            "value": 102808.49366999995
+        },
+        {
+            "time": "2025-03-16T14:10:14.408209",
             "value": 102808.49366999995
         }
     ]
