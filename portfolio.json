@@ -515,6 +515,10 @@
         "GDS": {
             "headline": "Chinese Data Center Firm GDS Seeks Record $3.4 Billion Loan",
             "type": "BUY"
+        },
+        "^GDAXI": {
+            "headline": "Morning Bid: Europe, China shine as US exceptionalism fades",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -10276,6 +10280,10 @@
         },
         {
             "time": "2025-03-17T05:16:05.000031",
+            "value": 102808.49366999995
+        },
+        {
+            "time": "2025-03-17T06:22:05.959414",
             "value": 102808.49366999995
         }
     ]
