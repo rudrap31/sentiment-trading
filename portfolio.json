@@ -507,6 +507,14 @@
         "GS": {
             "headline": "Oil Advances After China Lays Out Steps to Boost Consumption",
             "type": "BUY"
+        },
+        "^HSI": {
+            "headline": "Oil prices jump; optimism over China's consumption stimulus boosts Asia shares",
+            "type": "BUY"
+        },
+        "GDS": {
+            "headline": "Chinese Data Center Firm GDS Seeks Record $3.4 Billion Loan",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -10252,6 +10260,10 @@
         },
         {
             "time": "2025-03-17T01:11:07.432461",
+            "value": 102808.49366999995
+        },
+        {
+            "time": "2025-03-17T02:57:33.257662",
             "value": 102808.49366999995
         }
     ]
