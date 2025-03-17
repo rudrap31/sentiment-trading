@@ -519,6 +519,10 @@
         "^GDAXI": {
             "headline": "Morning Bid: Europe, China shine as US exceptionalism fades",
             "type": "BUY"
+        },
+        "NVDA": {
+            "headline": "Nvidia CEO to defend\u00a0AI dominance as competition intensifies",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -10300,6 +10304,10 @@
         },
         {
             "time": "2025-03-17T10:17:41.009571",
+            "value": 102808.49366999995
+        },
+        {
+            "time": "2025-03-17T11:13:35.476998",
             "value": 102808.49366999995
         }
     ]
