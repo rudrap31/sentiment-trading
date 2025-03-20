@@ -407,6 +407,10 @@
         "TCEHY": {
             "headline": "Tencent Speeds AI Spending After Sales Grow Fastest in Years",
             "type": "BUY"
+        },
+        "SFTBY": {
+            "headline": "SoftBank buys chipmaker Ampere Computing for $6.5 billion, deepening AI bet",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -10530,6 +10534,10 @@
         },
         {
             "time": "2025-03-20T11:13:36.927240",
+            "value": 102934.56716999992
+        },
+        {
+            "time": "2025-03-20T12:28:50.811399",
             "value": 102934.56716999992
         }
     ]
