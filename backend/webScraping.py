@@ -12,8 +12,8 @@ def scrape_headlines():
     r = requests.get(URL, headers=headers)
     soup = BeautifulSoup(r.content, 'html.parser')
 
-    headlines = soup.find('ul', class_ = 'story-items pb-small yf-o0ewvr')
-    stories = headlines.find_all('li', class_='story-item')
+    headlines = soup.find('ul', class_ = 'stream-items yf-1usaaz9')
+    stories = headlines.find_all('li', class_='stream-item story-item yf-1usaaz9')
 
     list = []
     for story in stories: # Only uses headlines which have the stock ticker included (span)
