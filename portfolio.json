@@ -403,6 +403,10 @@
         "^SOX": {
             "headline": "Nvidia stock rises as GTC leaves Wall Street analysts 'comfortable with long term AI demand'",
             "type": "BUY"
+        },
+        "TCEHY": {
+            "headline": "Tencent Speeds AI Spending After Sales Grow Fastest in Years",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -10522,6 +10526,10 @@
         },
         {
             "time": "2025-03-20T10:16:40.870857",
+            "value": 102934.56716999992
+        },
+        {
+            "time": "2025-03-20T11:13:36.927240",
             "value": 102934.56716999992
         }
     ]
