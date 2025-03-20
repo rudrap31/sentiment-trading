@@ -375,6 +375,10 @@
         "SFTBY": {
             "headline": "SoftBank buys chipmaker Ampere Computing for $6.5 billion, deepening AI bet",
             "type": "BUY"
+        },
+        "INTC": {
+            "headline": "Why Intel Stock Is Sinking Today",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -10664,6 +10668,10 @@
         },
         {
             "time": "2025-03-20T22:14:35.991270",
+            "value": 102960.02786999998
+        },
+        {
+            "time": "2025-03-20T23:15:11.695853",
             "value": 102960.02786999998
         }
     ]
