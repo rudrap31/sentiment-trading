@@ -403,6 +403,10 @@
         "^STOXX50E": {
             "headline": "Euro, Stocks Fall After ECB's Lagarde Warns of Tariff Impact",
             "type": "SHORT"
+        },
+        "KLAR.PVT": {
+            "headline": "NYSE-bound Klarna signs payments deal with DoorDash",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -10874,6 +10878,10 @@
         },
         {
             "time": "2025-03-21T21:13:51.169883",
+            "value": 102763.73386999997
+        },
+        {
+            "time": "2025-03-21T21:36:23.668665",
             "value": 102763.73386999997
         }
     ]
