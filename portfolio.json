@@ -379,6 +379,10 @@
         "INTC": {
             "headline": "Why Intel Stock Is Sinking Today",
             "type": "SHORT"
+        },
+        "^GSPC": {
+            "headline": "Fed Holds Rates Steady, Sees Slower Growth and Higher Inflation",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -10672,6 +10676,10 @@
         },
         {
             "time": "2025-03-20T23:15:11.695853",
+            "value": 102960.02786999998
+        },
+        {
+            "time": "2025-03-21T01:09:40.352398",
             "value": 102960.02786999998
         }
     ]
