@@ -367,6 +367,10 @@
         "CG": {
             "headline": "M&A Rebound on Hold as Macro Uncertainty Drives Goldman, Carlyle Downgrades at Oppenheimer",
             "type": "SHORT"
+        },
+        "SAFRY": {
+            "headline": "Safran offers sale of North American unit to win EU okay on Collins deal, source says",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -10710,6 +10714,10 @@
         },
         {
             "time": "2025-03-21T05:15:17.960965",
+            "value": 102863.48886999997
+        },
+        {
+            "time": "2025-03-21T06:23:14.122105",
             "value": 102863.48886999997
         }
     ]
