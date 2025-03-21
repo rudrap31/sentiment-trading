@@ -407,6 +407,14 @@
         "KLAR.PVT": {
             "headline": "NYSE-bound Klarna signs payments deal with DoorDash",
             "type": "BUY"
+        },
+        "MRNA": {
+            "headline": "Is Moderna Stock A Sell As RFK Jr. Reportedly Mulls A Massive Funding Pull?",
+            "type": "SHORT"
+        },
+        "DRI": {
+            "headline": "Darden Restaurants Lifts Sales With Bigger Footprint, Popular Dishes",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -10886,6 +10894,10 @@
         },
         {
             "time": "2025-03-21T22:14:56.075587",
+            "value": 102763.73386999997
+        },
+        {
+            "time": "2025-03-21T23:14:36.492628",
             "value": 102763.73386999997
         }
     ]
