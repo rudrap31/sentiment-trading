@@ -395,6 +395,14 @@
         "PDD": {
             "headline": "Temu-owner PDD Holdings' revenues hit by intense China competition and challenges abroad",
             "type": "SHORT"
+        },
+        "^GSPC": {
+            "headline": "A $4.5 Trillion Triple-Witching Gives Investors Yet Another Test",
+            "type": "BUY"
+        },
+        "^STOXX50E": {
+            "headline": "Euro, Stocks Fall After ECB's Lagarde Warns of Tariff Impact",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -10858,6 +10866,10 @@
         },
         {
             "time": "2025-03-21T20:15:56.059144",
+            "value": 102763.73386999997
+        },
+        {
+            "time": "2025-03-21T20:38:28.880643",
             "value": 102763.73386999997
         }
     ]
