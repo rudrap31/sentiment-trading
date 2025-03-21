@@ -1,6 +1,6 @@
 {
-    "cash": 55366.240069999934,
-    "value": 102960.02786999998,
+    "cash": 58490.30006999993,
+    "value": 102863.48886999997,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -62,7 +62,7 @@
             "quantity": 243,
             "type": "SHORT",
             "buy_price": 4.13,
-            "current_price": 4.14,
+            "current_price": 4.02,
             "headline": "Porsche SE expects $21.7 billion loss after tax on Volkswagen stake impairment",
             "time": "2025-03-07T19:11:49.905237"
         },
@@ -78,7 +78,7 @@
             "quantity": 500,
             "type": "BUY",
             "buy_price": 2,
-            "current_price": 2.08,
+            "current_price": 2,
             "headline": "BT brand saved amid pressure from billionaire Indian investor",
             "time": "2025-03-10T14:14:47.706508"
         },
@@ -97,14 +97,6 @@
             "current_price": 49,
             "headline": "Stocks of McDonald's and other fast food giants rise, but challenges from Trump tariffs loom",
             "time": "2025-03-10T14:14:47.846136"
-        },
-        "VWAPY": {
-            "quantity": 85,
-            "type": "SHORT",
-            "buy_price": 11.88,
-            "current_price": 11.61,
-            "headline": "Volkswagen gives muted outlook amid trade tensions, rising competition",
-            "time": "2025-03-11T14:15:17.986573"
         },
         "SPY": {
             "quantity": 2,
@@ -142,7 +134,7 @@
             "quantity": 316,
             "type": "BUY",
             "buy_price": 3.169,
-            "current_price": 3.244,
+            "current_price": 3.2,
             "headline": "City must back defence industry to protect Britain, says major pension fund",
             "time": "2025-03-12T16:46:25.529059"
         },
@@ -230,7 +222,7 @@
             "quantity": 31,
             "type": "BUY",
             "buy_price": 32.44,
-            "current_price": 33.745,
+            "current_price": 33.46,
             "headline": "Japan\u2019s Unions Win Largest Pay Hike in More Than Three Decades",
             "time": "2025-03-14T14:13:54.498590"
         },
@@ -278,17 +270,9 @@
             "quantity": 29,
             "type": "BUY",
             "buy_price": 35.68,
-            "current_price": 35.54,
+            "current_price": 36.84,
             "headline": "US tariff spat fuels trading boom on Canada\u2019s top exchange",
             "time": "2025-03-17T14:14:49.071142"
-        },
-        "RNMBY": {
-            "quantity": 4,
-            "type": "BUY",
-            "buy_price": 298.5,
-            "current_price": 300.48,
-            "headline": "Rheinmetall\u2019s stock has soared over 1,000%, and the German defense giant sees growth \u2018that we have never experienced before\u2019",
-            "time": "2025-03-17T14:14:49.693312"
         },
         "NVDA": {
             "quantity": 9,
@@ -302,7 +286,7 @@
             "quantity": 8,
             "type": "SHORT",
             "buy_price": 126.515,
-            "current_price": 124.32,
+            "current_price": 126.83,
             "headline": "Banks That Saw $3,000 Gold Coming Are Staying Bullish for Now",
             "time": "2025-03-17T18:45:19.745108"
         },
@@ -330,19 +314,11 @@
             "headline": "Why Rivian Stock Gained While the Market Slumped Today",
             "time": "2025-03-20T14:14:51.056297"
         },
-        "TCEHY": {
-            "quantity": 14,
-            "type": "BUY",
-            "buy_price": 71.65,
-            "current_price": 69.59,
-            "headline": "Tencent Speeds AI Spending After Sales Grow Fastest in Years",
-            "time": "2025-03-20T14:14:51.088590"
-        },
         "SFTBY": {
             "quantity": 39,
             "type": "BUY",
             "buy_price": 26.03,
-            "current_price": 26.12,
+            "current_price": 26.23,
             "headline": "SoftBank buys chipmaker Ampere Computing for $6.5 billion, deepening AI bet",
             "time": "2025-03-20T14:14:51.108072"
         },
@@ -383,6 +359,10 @@
         "^GSPC": {
             "headline": "Fed Holds Rates Steady, Sees Slower Growth and Higher Inflation",
             "type": "SHORT"
+        },
+        "OLLI": {
+            "headline": "Ollie's Bargain Outlet Expects Growth to Continue in 2025 Amid Macro Uncertainty",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -6055,6 +6035,36 @@
             "amount": 5,
             "time": "2025-03-20T15:41:00.214861",
             "profit": 68.32049999999995
+        },
+        {
+            "action": "SHORT",
+            "ticker": "VWAPY",
+            "headline": "Volkswagen gives muted outlook amid trade tensions, rising competition",
+            "buy_price": 11.88,
+            "sold_price": 11.1,
+            "amount": 85,
+            "time": "2025-03-21T02:56:53.728375",
+            "profit": 66.3000000000001
+        },
+        {
+            "action": "BUY",
+            "ticker": "RNMBY",
+            "headline": "Rheinmetall\u2019s stock has soared over 1,000%, and the German defense giant sees growth \u2018that we have never experienced before\u2019",
+            "buy_price": 298.5,
+            "sold_price": 280.5,
+            "amount": 4,
+            "time": "2025-03-21T02:56:53.728392",
+            "profit": -72.0
+        },
+        {
+            "action": "BUY",
+            "ticker": "TCEHY",
+            "headline": "Tencent Speeds AI Spending After Sales Grow Fastest in Years",
+            "buy_price": 71.65,
+            "sold_price": 66.14,
+            "amount": 14,
+            "time": "2025-03-21T02:56:53.728397",
+            "profit": -77.14000000000007
         }
     ],
     "value_log": [
@@ -10681,6 +10691,10 @@
         {
             "time": "2025-03-21T01:09:40.352398",
             "value": 102960.02786999998
+        },
+        {
+            "time": "2025-03-21T02:56:54.625539",
+            "value": 102863.48886999997
         }
     ]
 }
