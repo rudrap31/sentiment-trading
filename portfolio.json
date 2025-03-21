@@ -363,6 +363,10 @@
         "OLLI": {
             "headline": "Ollie's Bargain Outlet Expects Growth to Continue in 2025 Amid Macro Uncertainty",
             "type": "BUY"
+        },
+        "CG": {
+            "headline": "M&A Rebound on Hold as Macro Uncertainty Drives Goldman, Carlyle Downgrades at Oppenheimer",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -10702,6 +10706,10 @@
         },
         {
             "time": "2025-03-21T04:18:33.969449",
+            "value": 102863.48886999997
+        },
+        {
+            "time": "2025-03-21T05:15:17.960965",
             "value": 102863.48886999997
         }
     ]
