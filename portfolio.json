@@ -427,6 +427,14 @@
         "NUE": {
             "headline": "Nucor forecasts first-quarter profit below estimates on lower steel pricing",
             "type": "SHORT"
+        },
+        "BAC": {
+            "headline": "Wall Street\u2019s Bank Outlooks Dim as Trump\u2019s Trade Wars Weigh",
+            "type": "SHORT"
+        },
+        "^HSI": {
+            "headline": "Wall St ends higher, dollar rises as Trump signals tariff respite",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -10936,6 +10944,10 @@
         },
         {
             "time": "2025-03-22T06:15:21.844746",
+            "value": 102794.14186999996
+        },
+        {
+            "time": "2025-03-22T08:14:29.605310",
             "value": 102794.14186999996
         }
     ]
