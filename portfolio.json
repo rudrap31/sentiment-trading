@@ -1,6 +1,6 @@
 {
     "cash": 52202.520069999926,
-    "value": 102811.54186999996,
+    "value": 102794.14186999996,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -238,7 +238,7 @@
             "quantity": 29,
             "type": "BUY",
             "buy_price": 35.68,
-            "current_price": 36.84,
+            "current_price": 36.24,
             "headline": "US tariff spat fuels trading boom on Canada\u2019s top exchange",
             "time": "2025-03-17T14:14:49.071142"
         },
@@ -419,6 +419,10 @@
         "FDX": {
             "headline": "FedEx Stock Drops. Trade Fears Take a Bite Out Of Business Activity.",
             "type": "SHORT"
+        },
+        "LAZR": {
+            "headline": "Luminar Stock Pops on Surprise Gross Profit",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -10921,6 +10925,10 @@
         {
             "time": "2025-03-22T02:51:00.532784",
             "value": 102811.54186999996
+        },
+        {
+            "time": "2025-03-22T04:14:45.044580",
+            "value": 102794.14186999996
         }
     ]
 }
