@@ -415,6 +415,14 @@
         "DRI": {
             "headline": "Darden Restaurants Lifts Sales With Bigger Footprint, Popular Dishes",
             "type": "BUY"
+        },
+        "LB": {
+            "headline": "IPO Stock Of The Week: Energy Leader LandBridge Hits Buy Point",
+            "type": "BUY"
+        },
+        "JPM": {
+            "headline": "Wall Street is starting to trim jobs as economic uncertainties mount",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -10898,6 +10906,10 @@
         },
         {
             "time": "2025-03-21T23:14:36.492628",
+            "value": 102763.73386999997
+        },
+        {
+            "time": "2025-03-22T00:52:45.183386",
             "value": 102763.73386999997
         }
     ]
