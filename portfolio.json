@@ -451,6 +451,18 @@
         "AON": {
             "headline": "GE Aerospace Leads Five Stocks Near Buy Points With This Bullish Trait",
             "type": "BUY"
+        },
+        "NVDA": {
+            "headline": "D-Wave Stock Slips. Why Nvidia\u2019s Quantum Computing Event Hurt the Shares.",
+            "type": "SHORT"
+        },
+        "BCS": {
+            "headline": "Barclays beats two lawsuits in US over $17.7 billion issuance blunder",
+            "type": "SHORT"
+        },
+        "FCX": {
+            "headline": "Freeport-McMoRan Stock Today: This Long-Term Butterfly Spread Trade Could Net $1,253",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -10992,6 +11004,10 @@
         },
         {
             "time": "2025-03-22T22:10:37.025530",
+            "value": 102794.14186999996
+        },
+        {
+            "time": "2025-03-23T00:57:59.537075",
             "value": 102794.14186999996
         }
     ]
