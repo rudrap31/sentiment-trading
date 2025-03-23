@@ -475,6 +475,10 @@
         "XOM": {
             "headline": "Oil Firms Seize Chance to Fight State Climate Laws\u2014With Trump\u2019s Help",
             "type": "BUY"
+        },
+        "BIDU": {
+            "headline": "Worried About the Markets? This Tech ETF Is Up Over 25% This Year and Could Still Go Higher.",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11040,6 +11044,10 @@
         },
         {
             "time": "2025-03-23T10:11:42.727923",
+            "value": 102794.14186999996
+        },
+        {
+            "time": "2025-03-23T12:19:55.246900",
             "value": 102794.14186999996
         }
     ]
