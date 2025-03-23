@@ -467,6 +467,10 @@
         "DNB": {
             "headline": "Clearlake Is Nearing $4 Billion Deal for Dun & Bradstreet",
             "type": "BUY"
+        },
+        "GLD": {
+            "headline": "Volatility Drives SPDR Gold ETF Assets to New Milestone",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11024,6 +11028,10 @@
         },
         {
             "time": "2025-03-23T06:15:26.583321",
+            "value": 102794.14186999996
+        },
+        {
+            "time": "2025-03-23T08:14:28.781496",
             "value": 102794.14186999996
         }
     ]
