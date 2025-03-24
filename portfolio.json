@@ -527,6 +527,10 @@
         "MRVL": {
             "headline": "TSMC, Marvell Are Rising. How Chip and Car Stocks Are Reacting to the Latest Tariff Twist.",
             "type": "BUY"
+        },
+        "CZR": {
+            "headline": "Golden Matrix Doubles Down on Profitability Amid Record FY Revenue",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -11160,6 +11164,10 @@
         },
         {
             "time": "2025-03-24T11:14:07.571956",
+            "value": 102794.14186999996
+        },
+        {
+            "time": "2025-03-24T12:31:02.072582",
             "value": 102794.14186999996
         }
     ]
