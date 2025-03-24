@@ -499,6 +499,10 @@
         "MRVI": {
             "headline": "Maravai Lifesciences price target lowered to $5 from $10 at Stifel",
             "type": "SHORT"
+        },
+        "IOVA": {
+            "headline": "1 Stock Worth Buying Near Its 52-Week Low, According to Wall Street",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -11104,6 +11108,10 @@
         },
         {
             "time": "2025-03-24T04:19:13.405798",
+            "value": 102794.14186999996
+        },
+        {
+            "time": "2025-03-24T05:16:14.146660",
             "value": 102794.14186999996
         }
     ]
