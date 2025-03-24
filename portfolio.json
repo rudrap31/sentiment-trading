@@ -519,6 +519,10 @@
         "ETH-USD": {
             "headline": "XRP, Bitcoin Prices Edge Higher. Why The Cryptos Are Trading Like Stocks.",
             "type": "BUY"
+        },
+        "WMT": {
+            "headline": "US retailers haggle with suppliers after Trump tariffs",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -11144,6 +11148,10 @@
         },
         {
             "time": "2025-03-24T09:17:58.503338",
+            "value": 102794.14186999996
+        },
+        {
+            "time": "2025-03-24T10:17:30.560791",
             "value": 102794.14186999996
         }
     ]
