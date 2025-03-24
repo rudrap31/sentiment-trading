@@ -515,6 +515,10 @@
         "CRSP": {
             "headline": "2 Beaten-Down Stocks to Buy on the Dip",
             "type": "SHORT"
+        },
+        "ETH-USD": {
+            "headline": "XRP, Bitcoin Prices Edge Higher. Why The Cryptos Are Trading Like Stocks.",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11136,6 +11140,10 @@
         },
         {
             "time": "2025-03-24T08:21:20.719753",
+            "value": 102794.14186999996
+        },
+        {
+            "time": "2025-03-24T09:17:58.503338",
             "value": 102794.14186999996
         }
     ]
