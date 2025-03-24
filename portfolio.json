@@ -503,6 +503,10 @@
         "SBUX": {
             "headline": "Coffee Makers Were Betting on Lower Prices \u2014 They Were Wrong",
             "type": "SHORT"
+        },
+        "OCDDY": {
+            "headline": "Ocado waters down ethnic minority targets as bosses go cold on DEI",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -11378,6 +11382,10 @@
         },
         {
             "time": "2025-03-24T21:37:10.030288",
+            "value": 102616.91576999986
+        },
+        {
+            "time": "2025-03-24T22:15:34.951218",
             "value": 102616.91576999986
         }
     ]
