@@ -495,6 +495,10 @@
         "OKTA": {
             "headline": "Dow Jones Futures Rise With Trump Tariff 'Flexibility' In Focus; 5 Stocks Near Buy Points",
             "type": "BUY"
+        },
+        "MRVI": {
+            "headline": "Maravai Lifesciences price target lowered to $5 from $10 at Stifel",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -11084,6 +11088,10 @@
         },
         {
             "time": "2025-03-23T22:11:35.649284",
+            "value": 102794.14186999996
+        },
+        {
+            "time": "2025-03-24T01:11:58.031022",
             "value": 102794.14186999996
         }
     ]
