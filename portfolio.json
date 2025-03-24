@@ -511,6 +511,10 @@
         "BNED": {
             "headline": "Retail Stocks See Big Buys From Large Investors",
             "type": "BUY"
+        },
+        "CRSP": {
+            "headline": "2 Beaten-Down Stocks to Buy on the Dip",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -11124,6 +11128,10 @@
         },
         {
             "time": "2025-03-24T06:22:36.878324",
+            "value": 102794.14186999996
+        },
+        {
+            "time": "2025-03-24T07:16:38.459451",
             "value": 102794.14186999996
         }
     ]
