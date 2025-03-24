@@ -503,6 +503,14 @@
         "IOVA": {
             "headline": "1 Stock Worth Buying Near Its 52-Week Low, According to Wall Street",
             "type": "SHORT"
+        },
+        "BRK-B": {
+            "headline": "Buffett's Berkshire Hathaway Outpaces S&P 500 With Best 2-Month Run Since 2010",
+            "type": "BUY"
+        },
+        "BNED": {
+            "headline": "Retail Stocks See Big Buys From Large Investors",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11112,6 +11120,10 @@
         },
         {
             "time": "2025-03-24T05:16:14.146660",
+            "value": 102794.14186999996
+        },
+        {
+            "time": "2025-03-24T06:22:36.878324",
             "value": 102794.14186999996
         }
     ]
