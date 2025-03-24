@@ -523,6 +523,10 @@
         "WMT": {
             "headline": "US retailers haggle with suppliers after Trump tariffs",
             "type": "SHORT"
+        },
+        "MRVL": {
+            "headline": "TSMC, Marvell Are Rising. How Chip and Car Stocks Are Reacting to the Latest Tariff Twist.",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11152,6 +11156,10 @@
         },
         {
             "time": "2025-03-24T10:17:30.560791",
+            "value": 102794.14186999996
+        },
+        {
+            "time": "2025-03-24T11:14:07.571956",
             "value": 102794.14186999996
         }
     ]
