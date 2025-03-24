@@ -531,6 +531,14 @@
         "CZR": {
             "headline": "Golden Matrix Doubles Down on Profitability Amid Record FY Revenue",
             "type": "SHORT"
+        },
+        "XIACY": {
+            "headline": "Xiaomi Seeks $5.3 Billion in Share Sale to Fund EV Expansion",
+            "type": "BUY"
+        },
+        "AAPL": {
+            "headline": "Is Apple Stock A Buy Amid Sluggish iPhone Sales?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11168,6 +11176,10 @@
         },
         {
             "time": "2025-03-24T12:31:02.072582",
+            "value": 102794.14186999996
+        },
+        {
+            "time": "2025-03-24T13:26:46.578584",
             "value": 102794.14186999996
         }
     ]
