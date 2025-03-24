@@ -499,6 +499,10 @@
         "CXW": {
             "headline": "Private prisons will gain as Trump conducts mass deportations \u2014 and you may be unknowingly invested in them",
             "type": "BUY"
+        },
+        "SBUX": {
+            "headline": "Coffee Makers Were Betting on Lower Prices \u2014 They Were Wrong",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -11370,6 +11374,10 @@
         },
         {
             "time": "2025-03-24T21:13:50.910869",
+            "value": 102616.91576999986
+        },
+        {
+            "time": "2025-03-24T21:37:10.030288",
             "value": 102616.91576999986
         }
     ]
