@@ -607,6 +607,26 @@
         "LUNRW": {
             "headline": "Intuitive Machines Stock Soars on Sales, Outlook After Moon Mission Failure",
             "type": "BUY"
+        },
+        "LMT": {
+            "headline": "Why Lockheed Martin Stock Is Down Today",
+            "type": "SHORT"
+        },
+        "UAL": {
+            "headline": "United Hikes Card, Lounge Fees. Airline Stocks Are Rising.",
+            "type": "BUY"
+        },
+        "TSLA": {
+            "headline": "Tesla jumps as possible tariff leeway, lower share price draw investors",
+            "type": "BUY"
+        },
+        "EXEL": {
+            "headline": "Biotech Leader Exelixis Eyes Buy Point In Monday's Stock Market Rally",
+            "type": "BUY"
+        },
+        "NVDA": {
+            "headline": "Nvidia Stock Is Rising. Tariffs and More Are Driving Shares Higher.",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11650,6 +11670,10 @@
         },
         {
             "time": "2025-03-25T22:15:01.724405",
+            "value": 102818.98256999989
+        },
+        {
+            "time": "2025-03-25T23:14:42.933526",
             "value": 102818.98256999989
         }
     ]
