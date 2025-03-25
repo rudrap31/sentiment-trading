@@ -575,6 +575,14 @@
         "GFI": {
             "headline": "Australia\u2019s Gold Road Rejects $2.1 Billion Takeover Offer From Gold Fields",
             "type": "BUY"
+        },
+        "GLDAF": {
+            "headline": "Cost of insuring electric vehicles could skyrocket amid Trump\u2019s trade war on China",
+            "type": "SHORT"
+        },
+        "CZR": {
+            "headline": "Golden Matrix Doubles Down on Profitability Amid Record FY Revenue",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -11602,6 +11610,10 @@
         },
         {
             "time": "2025-03-25T20:16:23.329524",
+            "value": 102818.98256999989
+        },
+        {
+            "time": "2025-03-25T20:39:46.861734",
             "value": 102818.98256999989
         }
     ]
