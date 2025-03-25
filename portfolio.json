@@ -515,6 +515,14 @@
         "ORCL": {
             "headline": "Prediction: Oracle Stock Could Surge by 200% in the Next 5 Years",
             "type": "BUY"
+        },
+        "RPD": {
+            "headline": "Exclusive-Rapid7 nears settlement with activist Jana Partners, sources say",
+            "type": "BUY"
+        },
+        "COMP": {
+            "headline": "Stocks Poised for Higher Open",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11446,6 +11454,10 @@
         },
         {
             "time": "2025-03-25T07:17:51.120186",
+            "value": 102763.58256999985
+        },
+        {
+            "time": "2025-03-25T08:20:50.503795",
             "value": 102763.58256999985
         }
     ]
