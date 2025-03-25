@@ -507,6 +507,14 @@
         "OCDDY": {
             "headline": "Ocado waters down ethnic minority targets as bosses go cold on DEI",
             "type": "SHORT"
+        },
+        "SRPT": {
+            "headline": "Is This Stock a Buy After a Massive 20% Drop in 1 Day?",
+            "type": "SHORT"
+        },
+        "FITB": {
+            "headline": "Why PepsiCo, Restaurant Brands, And Fifth Third Bancorp Are Winners For Passive Income",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11390,6 +11398,10 @@
         },
         {
             "time": "2025-03-24T23:15:15.311308",
+            "value": 102616.91576999986
+        },
+        {
+            "time": "2025-03-25T01:10:19.980033",
             "value": 102616.91576999986
         }
     ]
