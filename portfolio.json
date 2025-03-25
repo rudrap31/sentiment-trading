@@ -595,6 +595,10 @@
         "IBM": {
             "headline": "IBM Called Best Idea Amid Enterprise 'Demand Shift' For AI Applications",
             "type": "BUY"
+        },
+        "XRP-USD": {
+            "headline": "Bitcoin, XRP Edge Higher. Why Positive News for Stocks Is Helping Cryptos.",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11630,6 +11634,10 @@
         },
         {
             "time": "2025-03-25T21:14:13.105844",
+            "value": 102818.98256999989
+        },
+        {
+            "time": "2025-03-25T21:37:02.167912",
             "value": 102818.98256999989
         }
     ]
