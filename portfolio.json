@@ -507,6 +507,10 @@
         "NVDA": {
             "headline": "Here's How Nvidia Stock Has Bounced Back From Previous Dips",
             "type": "SHORT"
+        },
+        "^GSPC": {
+            "headline": "Here's How Often a Correction Leads to a Bear Market (Hint: Not as Often as You Might Fear)",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -11422,6 +11426,10 @@
         },
         {
             "time": "2025-03-25T03:31:35.961422",
+            "value": 102763.58256999985
+        },
+        {
+            "time": "2025-03-25T04:18:31.431321",
             "value": 102763.58256999985
         }
     ]
