@@ -1,6 +1,6 @@
 {
     "cash": 39824.729969999906,
-    "value": 102775.76256999986,
+    "value": 102763.58256999985,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -470,7 +470,7 @@
             "quantity": 29,
             "type": "BUY",
             "buy_price": 34.95,
-            "current_price": 34.95,
+            "current_price": 34.53,
             "headline": "Xiaomi Seeks $5.3 Billion in Share Sale to Fund EV Expansion",
             "time": "2025-03-24T14:15:09.878833"
         }
@@ -503,6 +503,10 @@
         "LPRO": {
             "headline": "Millennial and Gen Z credit scores are the latest sign of the \u2018vibecession.\u2019 Their credit scores will keep going up, Open Lending, TransUnion report shows",
             "type": "BUY"
+        },
+        "NVDA": {
+            "headline": "Here's How Nvidia Stock Has Bounced Back From Previous Dips",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -11415,6 +11419,10 @@
         {
             "time": "2025-03-25T02:57:41.107296",
             "value": 102775.76256999986
+        },
+        {
+            "time": "2025-03-25T03:31:35.961422",
+            "value": 102763.58256999985
         }
     ]
 }
