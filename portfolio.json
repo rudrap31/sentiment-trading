@@ -1,6 +1,6 @@
 {
-    "cash": 37692.76996999991,
-    "value": 102616.91576999986,
+    "cash": 39824.729969999906,
+    "value": 102775.76256999986,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -62,7 +62,7 @@
             "quantity": 243,
             "type": "SHORT",
             "buy_price": 4.13,
-            "current_price": 3.98,
+            "current_price": 3.99,
             "headline": "Porsche SE expects $21.7 billion loss after tax on Volkswagen stake impairment",
             "time": "2025-03-07T19:11:49.905237"
         },
@@ -102,7 +102,7 @@
             "quantity": 316,
             "type": "BUY",
             "buy_price": 3.169,
-            "current_price": 3.133,
+            "current_price": 3.21,
             "headline": "City must back defence industry to protect Britain, says major pension fund",
             "time": "2025-03-12T16:46:25.529059"
         },
@@ -166,7 +166,7 @@
             "quantity": 31,
             "type": "BUY",
             "buy_price": 32.44,
-            "current_price": 32.89,
+            "current_price": 32.69,
             "headline": "Japan\u2019s Unions Win Largest Pay Hike in More Than Three Decades",
             "time": "2025-03-14T14:13:54.498590"
         },
@@ -190,7 +190,7 @@
             "quantity": 29,
             "type": "BUY",
             "buy_price": 35.68,
-            "current_price": 36.24,
+            "current_price": 36.359,
             "headline": "US tariff spat fuels trading boom on Canada\u2019s top exchange",
             "time": "2025-03-17T14:14:49.071142"
         },
@@ -206,7 +206,7 @@
             "quantity": 8,
             "type": "SHORT",
             "buy_price": 126.515,
-            "current_price": 123.89,
+            "current_price": 126.1,
             "headline": "Banks That Saw $3,000 Gold Coming Are Staying Bullish for Now",
             "time": "2025-03-17T18:45:19.745108"
         },
@@ -226,14 +226,6 @@
             "headline": "Nvidia stock sinks as CEO Jensen Huang keynotes GTC 2025 event, unveils new chip lineup",
             "time": "2025-03-20T14:14:51.030600"
         },
-        "SFTBY": {
-            "quantity": 39,
-            "type": "BUY",
-            "buy_price": 26.03,
-            "current_price": 26.55,
-            "headline": "SoftBank buys chipmaker Ampere Computing for $6.5 billion, deepening AI bet",
-            "time": "2025-03-20T14:14:51.108072"
-        },
         "TDG": {
             "quantity": 1,
             "type": "BUY",
@@ -246,7 +238,7 @@
             "quantity": 16,
             "type": "BUY",
             "buy_price": 66.29,
-            "current_price": 65.72,
+            "current_price": 65.35,
             "headline": "Tencent Speeds AI Spending After Sales Grow Fastest in Years",
             "time": "2025-03-21T14:14:09.827392"
         },
@@ -262,7 +254,7 @@
             "quantity": 15,
             "type": "BUY",
             "buy_price": 67.91,
-            "current_price": 67.77,
+            "current_price": 68.03,
             "headline": "Safran offers sale of North American unit to win EU okay on Collins deal, source says",
             "time": "2025-03-21T14:14:10.017247"
         },
@@ -286,7 +278,7 @@
             "quantity": 7,
             "type": "BUY",
             "buy_price": 145.995,
-            "current_price": 147.195,
+            "current_price": 149.9804,
             "headline": "Hapag-Lloyd Expects Earnings to Sink This Year in Stormy Market Conditions",
             "time": "2025-03-21T18:19:33.610640"
         },
@@ -342,7 +334,7 @@
             "quantity": 24,
             "type": "BUY",
             "buy_price": 41.92,
-            "current_price": 40.82,
+            "current_price": 41.82,
             "headline": "China's top food delivery firm Meituan's revenue in line with estimates",
             "time": "2025-03-24T14:15:08.724568"
         },
@@ -358,7 +350,7 @@
             "quantity": 50,
             "type": "BUY",
             "buy_price": 20.3,
-            "current_price": 20.2,
+            "current_price": 20.825,
             "headline": "Meituan Nearly Triples Profit Despite Competition",
             "time": "2025-03-24T14:15:08.985699"
         },
@@ -409,14 +401,6 @@
             "current_price": 95.87,
             "headline": "Worried About the Markets? This Tech ETF Is Up Over 25% This Year and Could Still Go Higher.",
             "time": "2025-03-24T14:15:09.189674"
-        },
-        "CICOY": {
-            "quantity": 133,
-            "type": "BUY",
-            "buy_price": 7.56,
-            "current_price": 7.608,
-            "headline": "China\u2019s largest shipping line sees stunning gains in revenue, profits",
-            "time": "2025-03-24T14:15:09.433087"
         },
         "ORCL": {
             "quantity": 7,
@@ -514,6 +498,10 @@
         },
         "FITB": {
             "headline": "Why PepsiCo, Restaurant Brands, And Fifth Third Bancorp Are Winners For Passive Income",
+            "type": "BUY"
+        },
+        "LPRO": {
+            "headline": "Millennial and Gen Z credit scores are the latest sign of the \u2018vibecession.\u2019 Their credit scores will keep going up, Open Lending, TransUnion report shows",
             "type": "BUY"
         }
     },
@@ -6437,6 +6425,26 @@
             "amount": 15,
             "time": "2025-03-24T19:12:18.688508",
             "profit": 52.575000000000145
+        },
+        {
+            "action": "BUY",
+            "ticker": "SFTBY",
+            "headline": "SoftBank buys chipmaker Ampere Computing for $6.5 billion, deepening AI bet",
+            "buy_price": 26.03,
+            "sold_price": 27.52,
+            "amount": 39,
+            "time": "2025-03-25T02:57:40.246046",
+            "profit": 58.10999999999994
+        },
+        {
+            "action": "BUY",
+            "ticker": "CICOY",
+            "headline": "China\u2019s largest shipping line sees stunning gains in revenue, profits",
+            "buy_price": 7.56,
+            "sold_price": 7.96,
+            "amount": 133,
+            "time": "2025-03-25T02:57:40.246064",
+            "profit": 53.200000000000045
         }
     ],
     "value_log": [
@@ -11403,6 +11411,10 @@
         {
             "time": "2025-03-25T01:10:19.980033",
             "value": 102616.91576999986
+        },
+        {
+            "time": "2025-03-25T02:57:41.107296",
+            "value": 102775.76256999986
         }
     ]
 }
