@@ -599,6 +599,14 @@
         "XRP-USD": {
             "headline": "Bitcoin, XRP Edge Higher. Why Positive News for Stocks Is Helping Cryptos.",
             "type": "BUY"
+        },
+        "AZEK": {
+            "headline": "AZEK Stock Jumps on James Hardie Takeover Deal",
+            "type": "BUY"
+        },
+        "LUNRW": {
+            "headline": "Intuitive Machines Stock Soars on Sales, Outlook After Moon Mission Failure",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11638,6 +11646,10 @@
         },
         {
             "time": "2025-03-25T21:37:02.167912",
+            "value": 102818.98256999989
+        },
+        {
+            "time": "2025-03-25T22:15:01.724405",
             "value": 102818.98256999989
         }
     ]
