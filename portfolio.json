@@ -523,6 +523,14 @@
         "COMP": {
             "headline": "Stocks Poised for Higher Open",
             "type": "BUY"
+        },
+        "APP": {
+            "headline": "Here Are 2 Artificial Intelligence (AI) Stocks That Tumbled During the Nasdaq Correction. Should You Buy the Dip?",
+            "type": "SHORT"
+        },
+        "SSNLF": {
+            "headline": "Exclusive-India slaps Samsung with tax demand of $601 million for telecom imports",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -11458,6 +11466,10 @@
         },
         {
             "time": "2025-03-25T08:20:50.503795",
+            "value": 102763.58256999985
+        },
+        {
+            "time": "2025-03-25T09:17:00.859839",
             "value": 102763.58256999985
         }
     ]
