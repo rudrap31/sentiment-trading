@@ -535,6 +535,14 @@
         "SFD": {
             "headline": "Smithfield Foods expects growth in sales, profit on strong packaged meats demand",
             "type": "BUY"
+        },
+        "GE": {
+            "headline": "GE Aerospace Closes On Buy Point As Aerospace/Defense Stocks Rally",
+            "type": "BUY"
+        },
+        "TRRSF": {
+            "headline": "ShoreOne,\u00a0Trisura join forces to enhance coastal homeowners\u2019 insurance",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11482,6 +11490,10 @@
         },
         {
             "time": "2025-03-25T11:13:47.455578",
+            "value": 102763.58256999985
+        },
+        {
+            "time": "2025-03-25T12:30:07.472960",
             "value": 102763.58256999985
         }
     ]
