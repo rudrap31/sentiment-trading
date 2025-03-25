@@ -543,6 +543,14 @@
         "TRRSF": {
             "headline": "ShoreOne,\u00a0Trisura join forces to enhance coastal homeowners\u2019 insurance",
             "type": "BUY"
+        },
+        "AVGO": {
+            "headline": "Broadcom Lowers Power Consumption With Latest AI Networking Chips",
+            "type": "BUY"
+        },
+        "ACRE": {
+            "headline": "Ares Commercial price target lowered to $5 from $7 at BofA",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -11494,6 +11502,10 @@
         },
         {
             "time": "2025-03-25T12:30:07.472960",
+            "value": 102763.58256999985
+        },
+        {
+            "time": "2025-03-25T13:26:03.678149",
             "value": 102763.58256999985
         }
     ]
