@@ -1,6 +1,6 @@
 {
-    "cash": 28636.202469999902,
-    "value": 102957.5164699999,
+    "cash": 7477.3642699999,
+    "value": 102974.1682699999,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -561,154 +561,161 @@
             "current_price": 4.83,
             "headline": "Ares Commercial price target lowered to $5 from $7 at BofA",
             "time": "2025-03-25T14:15:26.404539"
-        }
-    },
-    "queued_trades": {
+        },
         "GFI": {
+            "quantity": 48,
+            "type": "BUY",
+            "buy_price": 20.85,
+            "current_price": 20.85,
             "headline": "Australia\u2019s Gold Road Rejects $2.1 Billion Takeover Offer From Gold Fields",
-            "type": "BUY"
+            "time": "2025-03-26T14:15:44.785482"
         },
         "GLDAF": {
+            "quantity": 500,
+            "type": "SHORT",
+            "buy_price": 2,
+            "current_price": 2,
             "headline": "Cost of insuring electric vehicles could skyrocket amid Trump\u2019s trade war on China",
-            "type": "SHORT"
-        },
-        "CZR": {
-            "headline": "Golden Matrix Doubles Down on Profitability Amid Record FY Revenue",
-            "type": "SHORT"
+            "time": "2025-03-26T14:15:44.858727"
         },
         "AL": {
+            "quantity": 21,
+            "type": "BUY",
+            "buy_price": 49.24,
+            "current_price": 49.24,
             "headline": "Air Lease gets $329 million in insurance payout for jets stranded in Russia",
-            "type": "BUY"
+            "time": "2025-03-26T14:15:45.009072"
         },
         "AAPL": {
+            "quantity": 5,
+            "type": "BUY",
+            "buy_price": 224.24,
+            "current_price": 224.24,
             "headline": "Is Apple Stock A Buy Amid Sluggish iPhone Sales?",
-            "type": "BUY"
+            "time": "2025-03-26T14:15:45.085355"
         },
         "IBM": {
+            "quantity": 4,
+            "type": "BUY",
+            "buy_price": 250.21,
+            "current_price": 250.21,
             "headline": "IBM Called Best Idea Amid Enterprise 'Demand Shift' For AI Applications",
-            "type": "BUY"
-        },
-        "XRP-USD": {
-            "headline": "Bitcoin, XRP Edge Higher. Why Positive News for Stocks Is Helping Cryptos.",
-            "type": "BUY"
+            "time": "2025-03-26T14:15:45.157744"
         },
         "AZEK": {
+            "quantity": 21,
+            "type": "BUY",
+            "buy_price": 49.26,
+            "current_price": 49.26,
             "headline": "AZEK Stock Jumps on James Hardie Takeover Deal",
-            "type": "BUY"
+            "time": "2025-03-26T14:15:45.305869"
         },
         "LUNRW": {
+            "quantity": 432,
+            "type": "BUY",
+            "buy_price": 2.32,
+            "current_price": 2.32,
             "headline": "Intuitive Machines Stock Soars on Sales, Outlook After Moon Mission Failure",
-            "type": "BUY"
+            "time": "2025-03-26T14:15:45.520658"
         },
         "LMT": {
+            "quantity": 3,
+            "type": "SHORT",
+            "buy_price": 441.54,
+            "current_price": 441.54,
             "headline": "Why Lockheed Martin Stock Is Down Today",
-            "type": "SHORT"
+            "time": "2025-03-26T14:15:45.592957"
         },
         "UAL": {
+            "quantity": 13,
+            "type": "BUY",
+            "buy_price": 79.01,
+            "current_price": 79.01,
             "headline": "United Hikes Card, Lounge Fees. Airline Stocks Are Rising.",
-            "type": "BUY"
-        },
-        "TSLA": {
-            "headline": "Tesla jumps as possible tariff leeway, lower share price draw investors",
-            "type": "BUY"
+            "time": "2025-03-26T14:15:45.665282"
         },
         "EXEL": {
+            "quantity": 27,
+            "type": "BUY",
+            "buy_price": 37.86,
+            "current_price": 37.86,
             "headline": "Biotech Leader Exelixis Eyes Buy Point In Monday's Stock Market Rally",
-            "type": "BUY"
-        },
-        "NVDA": {
-            "headline": "Nvidia Stock Is Rising. Tariffs and More Are Driving Shares Higher.",
-            "type": "BUY"
-        },
-        "COMP": {
-            "headline": "Stocks Rally at the Open Amid Optimism Over Tariffs",
-            "type": "BUY"
-        },
-        "GOLD": {
-            "headline": "Gold rally attracts investors back to mining stocks after months of outflows",
-            "type": "BUY"
+            "time": "2025-03-26T14:15:45.810506"
         },
         "ROP": {
+            "quantity": 2,
+            "type": "BUY",
+            "buy_price": 581.64,
+            "current_price": 581.64,
             "headline": "Roper Strikes $1.65 Billion Deal to Buy Autism Therapy Software Provider CentralReach",
-            "type": "BUY"
+            "time": "2025-03-26T14:15:46.106487"
         },
         "ZUMZ": {
+            "quantity": 67,
+            "type": "SHORT",
+            "buy_price": 15.13,
+            "current_price": 15.13,
             "headline": "Retailers Bulk Up Inventories to Blunt Tariff Impact",
-            "type": "SHORT"
+            "time": "2025-03-26T14:15:46.179985"
         },
         "CMG": {
+            "quantity": 21,
+            "type": "BUY",
+            "buy_price": 49.66,
+            "current_price": 49.66,
             "headline": "Chipotle and 8 More Growth Stocks Could Beat Tech in a Volatile Market",
-            "type": "BUY"
+            "time": "2025-03-26T14:15:46.254814"
         },
         "META": {
+            "quantity": 2,
+            "type": "SHORT",
+            "buy_price": 627.82,
+            "current_price": 627.82,
             "headline": "Tesla Stock Jumps, But This Threat Continues To Loom",
-            "type": "SHORT"
+            "time": "2025-03-26T14:15:46.333769"
         },
         "AS": {
+            "quantity": 35,
+            "type": "BUY",
+            "buy_price": 29.09,
+            "current_price": 29.09,
             "headline": "IPO Watch: Wilson, Salomon Owner Skis Market Moguls As Growth Rebounds",
-            "type": "BUY"
+            "time": "2025-03-26T14:15:46.406397"
         },
         "SAP": {
+            "quantity": 4,
+            "type": "BUY",
+            "buy_price": 272.92,
+            "current_price": 271.57,
             "headline": "Germany\u2019s SAP Overtakes Wegovy Maker Novo Nordisk as Europe\u2019s Most Valuable Company",
-            "type": "BUY"
-        },
-        "^DJI": {
-            "headline": "Stocks Rally on Tariff Hopes. The Dow Jumps 600 Points.",
-            "type": "BUY"
+            "time": "2025-03-26T14:15:46.478765"
         },
         "NUE": {
+            "quantity": 8,
+            "type": "SHORT",
+            "buy_price": 127.01,
+            "current_price": 128.26,
             "headline": "Nucor Stock Pullback Offers 'Attractive' Entry Point, UBS Says in Upgrade",
-            "type": "SHORT"
-        },
-        "ME": {
-            "headline": "23andMe stock plunges following bankruptcy, CEO exit",
-            "type": "SHORT"
+            "time": "2025-03-26T14:15:46.626933"
         },
         "NFLX": {
+            "quantity": 2,
+            "type": "BUY",
+            "buy_price": 996,
+            "current_price": 982.52,
             "headline": "Is Netflix Stock Fully Valued Or Does It Have Room To Rise?",
-            "type": "BUY"
+            "time": "2025-03-26T14:15:46.778855"
         },
-        "ZI": {
-            "headline": "a16z- and Benchmark-backed 11x has been claiming customers it doesn\u2019t have",
-            "type": "SHORT"
-        },
-        "BROS": {
-            "headline": "Dutch Bros Stock Surges as Analysts Weigh in Ahead of Investor Day",
-            "type": "BUY"
-        },
-        "SPY": {
-            "headline": "ETF Investors Signal Big Shift to Active Strategies",
-            "type": "BUY"
-        },
-        "AU": {
-            "headline": "AngloGold advances Inflection Resources\u2019 copper-gold projects in Australia to phase two",
-            "type": "BUY"
-        },
-        "MSFT": {
-            "headline": "Microsoft Stock Ends Harrowing 7-Week Losing Streak, Retakes Key Technical Level; Is MSFT A Buy In March, Or Is It A Sell?",
-            "type": "SHORT"
-        },
-        "GS": {
-            "headline": "China Stocks Getting Back Into Investors\u2019 Good Books",
-            "type": "BUY"
-        },
-        "AMD": {
-            "headline": "Is AMD Stock A Buy Before Chipmaker's First-Quarter Report?",
-            "type": "BUY"
-        },
-        "WIPRO.BO": {
-            "headline": "India's Wipro wins $650 million deal from British insurer Phoenix Group",
-            "type": "BUY"
-        },
-        "OKTA": {
-            "headline": "Cybersecurity Stock Cracks Breakout Code \u2014 With Help From Amazon",
-            "type": "SHORT"
-        },
-        "PM": {
-            "headline": "This Tobacco Giant's Business Shift Moves It Near The Top Of The S&P 500",
-            "type": "BUY"
+        "DLTR": {
+            "quantity": 15,
+            "type": "BUY",
+            "buy_price": 70.46,
+            "current_price": 70.46,
+            "headline": "Dollar Tree Offloads Family Dollar For $1 Billion, Shares Bounce",
+            "time": "2025-03-26T14:15:55.450587"
         }
     },
+    "queued_trades": {},
     "trade_history": [
         {
             "action": "SHORT",
@@ -6679,6 +6686,16 @@
             "amount": 7,
             "time": "2025-03-26T02:56:44.169396",
             "profit": 89.28499999999997
+        },
+        {
+            "action": "SHORT",
+            "ticker": "ME",
+            "headline": "23andMe stock plunges following bankruptcy, CEO exit",
+            "buy_price": 0.6,
+            "sold_price": 0.5646,
+            "amount": 1667,
+            "time": "2025-03-26T14:15:54.337686",
+            "profit": 59.01179999999998
         }
     ],
     "value_log": [
@@ -11817,6 +11834,10 @@
         {
             "time": "2025-03-26T13:25:51.137016",
             "value": 102957.5164699999
+        },
+        {
+            "time": "2025-03-26T14:15:55.450604",
+            "value": 102974.1682699999
         }
     ]
 }
