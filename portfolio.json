@@ -643,6 +643,14 @@
         "META": {
             "headline": "Tesla Stock Jumps, But This Threat Continues To Loom",
             "type": "SHORT"
+        },
+        "AS": {
+            "headline": "IPO Watch: Wilson, Salomon Owner Skis Market Moguls As Growth Rebounds",
+            "type": "BUY"
+        },
+        "SAP": {
+            "headline": "Germany\u2019s SAP Overtakes Wegovy Maker Novo Nordisk as Europe\u2019s Most Valuable Company",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11716,6 +11724,10 @@
         },
         {
             "time": "2025-03-26T04:18:39.488600",
+            "value": 102957.5164699999
+        },
+        {
+            "time": "2025-03-26T05:15:52.312720",
             "value": 102957.5164699999
         }
     ]
