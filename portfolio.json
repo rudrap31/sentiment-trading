@@ -575,6 +575,10 @@
         "SU.PA": {
             "headline": "Schneider Electric to invest over $700 million in US to power AI boom",
             "type": "BUY"
+        },
+        "BABA": {
+            "headline": "Chinese Tech Stocks Near Correction Territory on Data Center Bubble Fears",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -11926,6 +11930,10 @@
         },
         {
             "time": "2025-03-26T20:16:30.253051",
+            "value": 101809.10706999985
+        },
+        {
+            "time": "2025-03-26T20:39:35.673693",
             "value": 101809.10706999985
         }
     ]
