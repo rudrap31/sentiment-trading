@@ -1,6 +1,6 @@
 {
     "cash": 28636.202469999902,
-    "value": 102917.8964699999,
+    "value": 102957.5164699999,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -478,7 +478,7 @@
             "quantity": 14,
             "type": "SHORT",
             "buy_price": 76.44,
-            "current_price": 76.44,
+            "current_price": 73.61,
             "headline": "Is This Stock a Buy After a Massive 20% Drop in 1 Day?",
             "time": "2025-03-25T14:15:25.804328"
         },
@@ -631,6 +631,10 @@
         "ROP": {
             "headline": "Roper Strikes $1.65 Billion Deal to Buy Autism Therapy Software Provider CentralReach",
             "type": "BUY"
+        },
+        "ZUMZ": {
+            "headline": "Retailers Bulk Up Inventories to Blunt Tariff Impact",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -11697,6 +11701,10 @@
         {
             "time": "2025-03-26T02:56:45.141777",
             "value": 102917.8964699999
+        },
+        {
+            "time": "2025-03-26T03:29:11.208969",
+            "value": 102957.5164699999
         }
     ]
 }
