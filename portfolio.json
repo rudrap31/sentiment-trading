@@ -691,6 +691,18 @@
         "GS": {
             "headline": "China Stocks Getting Back Into Investors\u2019 Good Books",
             "type": "BUY"
+        },
+        "AMD": {
+            "headline": "Is AMD Stock A Buy Before Chipmaker's First-Quarter Report?",
+            "type": "BUY"
+        },
+        "WIPRO.BO": {
+            "headline": "India's Wipro wins $650 million deal from British insurer Phoenix Group",
+            "type": "BUY"
+        },
+        "OKTA": {
+            "headline": "Cybersecurity Stock Cracks Breakout Code \u2014 With Help From Amazon",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -11792,6 +11804,10 @@
         },
         {
             "time": "2025-03-26T11:13:43.116591",
+            "value": 102957.5164699999
+        },
+        {
+            "time": "2025-03-26T12:30:22.712980",
             "value": 102957.5164699999
         }
     ]
