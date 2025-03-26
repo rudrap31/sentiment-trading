@@ -659,6 +659,14 @@
         "NUE": {
             "headline": "Nucor Stock Pullback Offers 'Attractive' Entry Point, UBS Says in Upgrade",
             "type": "SHORT"
+        },
+        "ME": {
+            "headline": "23andMe stock plunges following bankruptcy, CEO exit",
+            "type": "SHORT"
+        },
+        "NFLX": {
+            "headline": "Is Netflix Stock Fully Valued Or Does It Have Room To Rise?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11744,6 +11752,10 @@
         },
         {
             "time": "2025-03-26T07:15:27.660196",
+            "value": 102957.5164699999
+        },
+        {
+            "time": "2025-03-26T08:20:33.268651",
             "value": 102957.5164699999
         }
     ]
