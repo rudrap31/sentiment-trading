@@ -583,6 +583,10 @@
         "MKC-V": {
             "headline": "McCormick Earnings Show Surprise Drop as Foreign-Exchange Headwinds Offset Volume Growth",
             "type": "SHORT"
+        },
+        "^GSPC": {
+            "headline": "Stocks Edge Higher. Consumer Confidence Report Is Up Next.",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11942,6 +11946,10 @@
         },
         {
             "time": "2025-03-26T21:13:44.167291",
+            "value": 101809.10706999985
+        },
+        {
+            "time": "2025-03-26T21:37:11.602614",
             "value": 101809.10706999985
         }
     ]
