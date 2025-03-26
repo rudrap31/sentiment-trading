@@ -579,6 +579,10 @@
         "BABA": {
             "headline": "Chinese Tech Stocks Near Correction Territory on Data Center Bubble Fears",
             "type": "SHORT"
+        },
+        "MKC-V": {
+            "headline": "McCormick Earnings Show Surprise Drop as Foreign-Exchange Headwinds Offset Volume Growth",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -11934,6 +11938,10 @@
         },
         {
             "time": "2025-03-26T20:39:35.673693",
+            "value": 101809.10706999985
+        },
+        {
+            "time": "2025-03-26T21:13:44.167291",
             "value": 101809.10706999985
         }
     ]
