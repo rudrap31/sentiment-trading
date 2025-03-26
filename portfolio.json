@@ -703,6 +703,10 @@
         "OKTA": {
             "headline": "Cybersecurity Stock Cracks Breakout Code \u2014 With Help From Amazon",
             "type": "SHORT"
+        },
+        "PM": {
+            "headline": "This Tobacco Giant's Business Shift Moves It Near The Top Of The S&P 500",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11808,6 +11812,10 @@
         },
         {
             "time": "2025-03-26T12:30:22.712980",
+            "value": 102957.5164699999
+        },
+        {
+            "time": "2025-03-26T13:25:51.137016",
             "value": 102957.5164699999
         }
     ]
