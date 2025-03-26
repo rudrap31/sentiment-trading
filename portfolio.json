@@ -627,6 +627,14 @@
         "NVDA": {
             "headline": "Nvidia Stock Is Rising. Tariffs and More Are Driving Shares Higher.",
             "type": "BUY"
+        },
+        "COMP": {
+            "headline": "Stocks Rally at the Open Amid Optimism Over Tariffs",
+            "type": "BUY"
+        },
+        "GOLD": {
+            "headline": "Gold rally attracts investors back to mining stocks after months of outflows",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11674,6 +11682,10 @@
         },
         {
             "time": "2025-03-25T23:14:42.933526",
+            "value": 102818.98256999989
+        },
+        {
+            "time": "2025-03-26T01:10:01.564701",
             "value": 102818.98256999989
         }
     ]
