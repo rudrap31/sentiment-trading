@@ -635,6 +635,14 @@
         "ZUMZ": {
             "headline": "Retailers Bulk Up Inventories to Blunt Tariff Impact",
             "type": "SHORT"
+        },
+        "CMG": {
+            "headline": "Chipotle and 8 More Growth Stocks Could Beat Tech in a Volatile Market",
+            "type": "BUY"
+        },
+        "META": {
+            "headline": "Tesla Stock Jumps, But This Threat Continues To Loom",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -11704,6 +11712,10 @@
         },
         {
             "time": "2025-03-26T03:29:11.208969",
+            "value": 102957.5164699999
+        },
+        {
+            "time": "2025-03-26T04:18:39.488600",
             "value": 102957.5164699999
         }
     ]
