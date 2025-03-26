@@ -667,6 +667,18 @@
         "NFLX": {
             "headline": "Is Netflix Stock Fully Valued Or Does It Have Room To Rise?",
             "type": "BUY"
+        },
+        "ZI": {
+            "headline": "a16z- and Benchmark-backed 11x has been claiming customers it doesn\u2019t have",
+            "type": "SHORT"
+        },
+        "BROS": {
+            "headline": "Dutch Bros Stock Surges as Analysts Weigh in Ahead of Investor Day",
+            "type": "BUY"
+        },
+        "SPY": {
+            "headline": "ETF Investors Signal Big Shift to Active Strategies",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11756,6 +11768,10 @@
         },
         {
             "time": "2025-03-26T08:20:33.268651",
+            "value": 102957.5164699999
+        },
+        {
+            "time": "2025-03-26T09:17:18.809421",
             "value": 102957.5164699999
         }
     ]
