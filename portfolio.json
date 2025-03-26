@@ -591,6 +591,18 @@
         "COMP": {
             "headline": "Dow Dips Into the Red After Consumer Confidence Data",
             "type": "SHORT"
+        },
+        "KR": {
+            "headline": "Kroger Accuses Albertsons of Undermining Their $20 Billion Merger",
+            "type": "SHORT"
+        },
+        "SSNLF": {
+            "headline": "Samsung Electronics Co-CEO Dies, Worsening Tech Firm\u2019s \u2018Crisis\u2019 Moment",
+            "type": "SHORT"
+        },
+        "KBH": {
+            "headline": "KB Home Stock Slides After Earnings Miss. Sales Were \u2018Muted,\u2019 CEO Says.",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -11958,6 +11970,10 @@
         },
         {
             "time": "2025-03-26T22:14:37.384490",
+            "value": 101809.10706999985
+        },
+        {
+            "time": "2025-03-26T23:15:02.349798",
             "value": 101809.10706999985
         }
     ]
