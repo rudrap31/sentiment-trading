@@ -603,6 +603,10 @@
         "KBH": {
             "headline": "KB Home Stock Slides After Earnings Miss. Sales Were \u2018Muted,\u2019 CEO Says.",
             "type": "SHORT"
+        },
+        "NSC": {
+            "headline": "Norfolk Southern expands portfolio of certified rail-served industrial sites",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11974,6 +11978,10 @@
         },
         {
             "time": "2025-03-26T23:15:02.349798",
+            "value": 101809.10706999985
+        },
+        {
+            "time": "2025-03-27T01:09:41.854118",
             "value": 101809.10706999985
         }
     ]
