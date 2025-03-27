@@ -1,6 +1,6 @@
 {
     "cash": 28261.503069999897,
-    "value": 101545.32416999986,
+    "value": 101514.00936999985,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -326,7 +326,7 @@
             "quantity": 29,
             "type": "BUY",
             "buy_price": 34.95,
-            "current_price": 34.2812,
+            "current_price": 34.43,
             "headline": "Xiaomi Seeks $5.3 Billion in Share Sale to Fund EV Expansion",
             "time": "2025-03-24T14:15:09.878833"
         },
@@ -462,7 +462,7 @@
             "quantity": 13,
             "type": "BUY",
             "buy_price": 79.01,
-            "current_price": 79.01,
+            "current_price": 77.87,
             "headline": "United Hikes Card, Lounge Fees. Airline Stocks Are Rising.",
             "time": "2025-03-26T14:15:45.665282"
         },
@@ -470,7 +470,7 @@
             "quantity": 27,
             "type": "BUY",
             "buy_price": 37.86,
-            "current_price": 37.86,
+            "current_price": 37.01,
             "headline": "Biotech Leader Exelixis Eyes Buy Point In Monday's Stock Market Rally",
             "time": "2025-03-26T14:15:45.810506"
         },
@@ -478,7 +478,7 @@
             "quantity": 2,
             "type": "BUY",
             "buy_price": 581.64,
-            "current_price": 581.64,
+            "current_price": 582.71,
             "headline": "Roper Strikes $1.65 Billion Deal to Buy Autism Therapy Software Provider CentralReach",
             "time": "2025-03-26T14:15:46.106487"
         },
@@ -582,6 +582,14 @@
         },
         "NSC": {
             "headline": "Norfolk Southern expands portfolio of certified rail-served industrial sites",
+            "type": "BUY"
+        },
+        "^IXIC": {
+            "headline": "Oklo Stock Falls on Earnings. What Nuclear-Energy Fans Should Keep in Mind.",
+            "type": "SHORT"
+        },
+        "AMZN": {
+            "headline": "How To Use A Bullish Diagonal Spread As Amazon Stock Moves Higher",
             "type": "BUY"
         }
     },
@@ -11993,6 +12001,10 @@
         {
             "time": "2025-03-27T02:57:06.146492",
             "value": 101545.32416999986
+        },
+        {
+            "time": "2025-03-27T03:31:30.735786",
+            "value": 101514.00936999985
         }
     ]
 }
