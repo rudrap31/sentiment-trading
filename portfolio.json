@@ -655,6 +655,14 @@
         "AXS": {
             "headline": "Amazon Of Latin America Soars On Earnings, Nears Buy Point",
             "type": "BUY"
+        },
+        "AMD": {
+            "headline": "Is AMD Stock A Buy Before Chipmaker's First-Quarter Report?",
+            "type": "BUY"
+        },
+        "TSLA": {
+            "headline": "BYD Stock Rises. EV Maker Ramps Up Tesla Battle With Global Sales Drive.",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12260,6 +12268,10 @@
         },
         {
             "time": "2025-03-27T20:15:48.045980",
+            "value": 101657.44436999991
+        },
+        {
+            "time": "2025-03-27T20:38:57.989318",
             "value": 101657.44436999991
         }
     ]
