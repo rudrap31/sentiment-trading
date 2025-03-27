@@ -615,6 +615,14 @@
         "ANCTF": {
             "headline": "7-Eleven Owner Says Couche-Tard Underestimates Antitrust Hurdles to Proposed $47 Billion Deal",
             "type": "SHORT"
+        },
+        "UPS": {
+            "headline": "UPS Stock Falls After Bank of America Analyst Lowers Forecast",
+            "type": "SHORT"
+        },
+        "MSTR": {
+            "headline": "MicroStrategy Insiders Have Shunned Its Common Stock. They Snapped Up Its New Preferred.",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -12036,6 +12044,10 @@
         },
         {
             "time": "2025-03-27T05:16:14.551092",
+            "value": 101514.00936999985
+        },
+        {
+            "time": "2025-03-27T06:21:54.945724",
             "value": 101514.00936999985
         }
     ]
