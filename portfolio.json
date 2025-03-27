@@ -663,6 +663,10 @@
         "HMC": {
             "headline": "Trump auto tariffs may be 'worse' for Ferrari: JPMorgan",
             "type": "SHORT"
+        },
+        "HYMTF": {
+            "headline": "GM, Ford and Other Auto Stocks Drop on Tariff News",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -12112,6 +12116,10 @@
         },
         {
             "time": "2025-03-27T12:30:32.048394",
+            "value": 101514.00936999985
+        },
+        {
+            "time": "2025-03-27T13:25:35.483451",
             "value": 101514.00936999985
         }
     ]
