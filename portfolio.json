@@ -635,6 +635,18 @@
         "RDWR": {
             "headline": "Extreme Networks Stock Sees IBD RS Rating Rise To 74",
             "type": "BUY"
+        },
+        "HOOD": {
+            "headline": "Kalshi Saw $208 Million in March Madness \u2018Bets.\u2019 But Don\u2019t Call It Gambling.",
+            "type": "BUY"
+        },
+        "BA": {
+            "headline": "Boeing Goes for 2 Defense Wins in a Row With Navy Jet Fighter",
+            "type": "BUY"
+        },
+        "GME": {
+            "headline": "GameStop Stock Rises After Bitcoin Announcement",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12064,6 +12076,10 @@
         },
         {
             "time": "2025-03-27T07:15:45.784371",
+            "value": 101514.00936999985
+        },
+        {
+            "time": "2025-03-27T08:20:35.281748",
             "value": 101514.00936999985
         }
     ]
