@@ -655,6 +655,14 @@
         "DJT": {
             "headline": "This Is The Ultimate Donald Trump Stock: Is Trump Media A Buy As It Soars Amid Finance Move?",
             "type": "BUY"
+        },
+        "ABBV": {
+            "headline": "2 Dividend Stocks Defying the Market Dip to Buy for a Lifetime of Passive Income",
+            "type": "SHORT"
+        },
+        "HMC": {
+            "headline": "Trump auto tariffs may be 'worse' for Ferrari: JPMorgan",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -12100,6 +12108,10 @@
         },
         {
             "time": "2025-03-27T11:13:38.859872",
+            "value": 101514.00936999985
+        },
+        {
+            "time": "2025-03-27T12:30:32.048394",
             "value": 101514.00936999985
         }
     ]
