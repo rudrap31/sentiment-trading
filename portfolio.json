@@ -1,6 +1,6 @@
 {
-    "cash": 25371.473069999898,
-    "value": 101809.10706999985,
+    "cash": 28261.503069999897,
+    "value": 101545.32416999986,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -46,7 +46,7 @@
             "quantity": 243,
             "type": "SHORT",
             "buy_price": 4.13,
-            "current_price": 4.0297,
+            "current_price": 3.96,
             "headline": "Porsche SE expects $21.7 billion loss after tax on Volkswagen stake impairment",
             "time": "2025-03-07T19:11:49.905237"
         },
@@ -62,7 +62,7 @@
             "quantity": 33,
             "type": "SHORT",
             "buy_price": 30.5,
-            "current_price": 31,
+            "current_price": 30.75,
             "headline": "Fed\u2019s Daly Sees Rates in \u2018Good Place\u2019 Amid Elevated Uncertainty",
             "time": "2025-03-10T14:14:47.817503"
         },
@@ -86,7 +86,7 @@
             "quantity": 316,
             "type": "BUY",
             "buy_price": 3.169,
-            "current_price": 3.2,
+            "current_price": 3.13,
             "headline": "City must back defence industry to protect Britain, says major pension fund",
             "time": "2025-03-12T16:46:25.529059"
         },
@@ -97,14 +97,6 @@
             "current_price": 389.97,
             "headline": "Trump\u2019s FTC Moves Ahead With Broad Microsoft Antitrust Probe",
             "time": "2025-03-13T14:14:32.849447"
-        },
-        "MAKSF": {
-            "quantity": 227,
-            "type": "BUY",
-            "buy_price": 4.41,
-            "current_price": 4.58,
-            "headline": "John Lewis staff denied bonus despite surge in profits",
-            "time": "2025-03-13T14:14:33.077993"
         },
         "MAT": {
             "quantity": 51,
@@ -126,7 +118,7 @@
             "quantity": 31,
             "type": "BUY",
             "buy_price": 32.44,
-            "current_price": 32.91,
+            "current_price": 32.26,
             "headline": "Japan\u2019s Unions Win Largest Pay Hike in More Than Three Decades",
             "time": "2025-03-14T14:13:54.498590"
         },
@@ -142,7 +134,7 @@
             "quantity": 8,
             "type": "SHORT",
             "buy_price": 126.515,
-            "current_price": 128.25,
+            "current_price": 128.48,
             "headline": "Banks That Saw $3,000 Gold Coming Are Staying Bullish for Now",
             "time": "2025-03-17T18:45:19.745108"
         },
@@ -166,7 +158,7 @@
             "quantity": 16,
             "type": "BUY",
             "buy_price": 66.29,
-            "current_price": 64.83,
+            "current_price": 64.95,
             "headline": "Tencent Speeds AI Spending After Sales Grow Fastest in Years",
             "time": "2025-03-21T14:14:09.827392"
         },
@@ -182,7 +174,7 @@
             "quantity": 15,
             "type": "BUY",
             "buy_price": 67.91,
-            "current_price": 68.58,
+            "current_price": 67.37,
             "headline": "Safran offers sale of North American unit to win EU okay on Collins deal, source says",
             "time": "2025-03-21T14:14:10.017247"
         },
@@ -246,7 +238,7 @@
             "quantity": 24,
             "type": "BUY",
             "buy_price": 41.92,
-            "current_price": 40.79,
+            "current_price": 40.97,
             "headline": "China's top food delivery firm Meituan's revenue in line with estimates",
             "time": "2025-03-24T14:15:08.724568"
         },
@@ -257,14 +249,6 @@
             "current_price": 65.74,
             "headline": "Nike Flags Revenue Decline Amid Restructuring, Tariff Impact; Quarterly Results Top Views",
             "time": "2025-03-24T14:15:08.756246"
-        },
-        "MPNGF": {
-            "quantity": 50,
-            "type": "BUY",
-            "buy_price": 20.3,
-            "current_price": 20.95,
-            "headline": "Meituan Nearly Triples Profit Despite Competition",
-            "time": "2025-03-24T14:15:08.985699"
         },
         "AON": {
             "quantity": 3,
@@ -362,14 +346,6 @@
             "headline": "Private prisons will gain as Trump conducts mass deportations \u2014 and you may be unknowingly invested in them",
             "time": "2025-03-25T14:15:25.717366"
         },
-        "OCDDY": {
-            "quantity": 149,
-            "type": "SHORT",
-            "buy_price": 6.72,
-            "current_price": 6.5,
-            "headline": "Ocado waters down ethnic minority targets as bosses go cold on DEI",
-            "time": "2025-03-25T14:15:25.778507"
-        },
         "FITB": {
             "quantity": 25,
             "type": "BUY",
@@ -414,7 +390,7 @@
             "quantity": 44,
             "type": "BUY",
             "buy_price": 22.955,
-            "current_price": 23.02,
+            "current_price": 22.98,
             "headline": "ShoreOne,\u00a0Trisura join forces to enhance coastal homeowners\u2019 insurance",
             "time": "2025-03-25T14:15:26.353719"
         },
@@ -6769,6 +6745,36 @@
             "amount": 432,
             "time": "2025-03-26T19:36:44.221255",
             "profit": -935.28
+        },
+        {
+            "action": "BUY",
+            "ticker": "MAKSF",
+            "headline": "John Lewis staff denied bonus despite surge in profits",
+            "buy_price": 4.41,
+            "sold_price": 4,
+            "amount": 227,
+            "time": "2025-03-27T02:57:05.348685",
+            "profit": -93.07000000000004
+        },
+        {
+            "action": "BUY",
+            "ticker": "MPNGF",
+            "headline": "Meituan Nearly Triples Profit Despite Competition",
+            "buy_price": 20.3,
+            "sold_price": 21.85,
+            "amount": 50,
+            "time": "2025-03-27T02:57:05.348704",
+            "profit": 77.50000000000003
+        },
+        {
+            "action": "SHORT",
+            "ticker": "OCDDY",
+            "headline": "Ocado waters down ethnic minority targets as bosses go cold on DEI",
+            "buy_price": 6.72,
+            "sold_price": 7.47,
+            "amount": 149,
+            "time": "2025-03-27T02:57:05.348709",
+            "profit": -111.75
         }
     ],
     "value_log": [
@@ -11983,6 +11989,10 @@
         {
             "time": "2025-03-27T01:09:41.854118",
             "value": 101809.10706999985
+        },
+        {
+            "time": "2025-03-27T02:57:06.146492",
+            "value": 101545.32416999986
         }
     ]
 }
