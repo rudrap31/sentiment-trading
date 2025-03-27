@@ -647,6 +647,14 @@
         "GME": {
             "headline": "GameStop Stock Rises After Bitcoin Announcement",
             "type": "BUY"
+        },
+        "TSLA": {
+            "headline": "Delaware was rattled by Big Business moving their legal homes. Here's a look by the numbers",
+            "type": "SHORT"
+        },
+        "DJT": {
+            "headline": "This Is The Ultimate Donald Trump Stock: Is Trump Media A Buy As It Soars Amid Finance Move?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12088,6 +12096,10 @@
         },
         {
             "time": "2025-03-27T10:16:40.900677",
+            "value": 101514.00936999985
+        },
+        {
+            "time": "2025-03-27T11:13:38.859872",
             "value": 101514.00936999985
         }
     ]
