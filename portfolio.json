@@ -607,6 +607,14 @@
         "AROC": {
             "headline": "This Stock Hits New Highs Amid Trump's 'Energy Emergency'",
             "type": "SHORT"
+        },
+        "OKTA": {
+            "headline": "SailPoint stock drop 'hard to explain' after post-IPO earnings, CEO says",
+            "type": "SHORT"
+        },
+        "ANCTF": {
+            "headline": "7-Eleven Owner Says Couche-Tard Underestimates Antitrust Hurdles to Proposed $47 Billion Deal",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -12024,6 +12032,10 @@
         },
         {
             "time": "2025-03-27T04:18:37.116719",
+            "value": 101514.00936999985
+        },
+        {
+            "time": "2025-03-27T05:16:14.551092",
             "value": 101514.00936999985
         }
     ]
