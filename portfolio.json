@@ -623,6 +623,18 @@
         "MSTR": {
             "headline": "MicroStrategy Insiders Have Shunned Its Common Stock. They Snapped Up Its New Preferred.",
             "type": "SHORT"
+        },
+        "BOKF": {
+            "headline": "Oil Futures Little Changed as Tariff Boost Wanes",
+            "type": "BUY"
+        },
+        "VZ": {
+            "headline": "Verizon Quarterly Postpaid Subscriber Count Faces Higher Competition Pressure, RBC Says",
+            "type": "SHORT"
+        },
+        "RDWR": {
+            "headline": "Extreme Networks Stock Sees IBD RS Rating Rise To 74",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12048,6 +12060,10 @@
         },
         {
             "time": "2025-03-27T06:21:54.945724",
+            "value": 101514.00936999985
+        },
+        {
+            "time": "2025-03-27T07:15:45.784371",
             "value": 101514.00936999985
         }
     ]
