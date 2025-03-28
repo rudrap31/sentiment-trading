@@ -1,6 +1,6 @@
 {
-    "cash": 17546.463069999907,
-    "value": 101788.2563699999,
+    "cash": 18511.583069999906,
+    "value": 101753.6263699999,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -274,14 +274,6 @@
             "headline": "Golden Matrix Doubles Down on Profitability Amid Record FY Revenue",
             "time": "2025-03-24T14:15:09.712864"
         },
-        "XIACY": {
-            "quantity": 29,
-            "type": "BUY",
-            "buy_price": 34.95,
-            "current_price": 34.43,
-            "headline": "Xiaomi Seeks $5.3 Billion in Share Sale to Fund EV Expansion",
-            "time": "2025-03-24T14:15:09.878833"
-        },
         "TSLA": {
             "quantity": 4,
             "type": "SHORT",
@@ -478,7 +470,7 @@
             "quantity": 16,
             "type": "SHORT",
             "buy_price": 66.06,
-            "current_price": 66.06,
+            "current_price": 66.14,
             "headline": "Kroger Accuses Albertsons of Undermining Their $20 Billion Merger",
             "time": "2025-03-27T14:15:11.662536"
         },
@@ -666,6 +658,14 @@
         },
         "NFLX": {
             "headline": "Is Netflix Stock A Buy Ahead Of First-Quarter Earnings Report?",
+            "type": "BUY"
+        },
+        "CTAS": {
+            "headline": "Cintas Raises Full-Year Earnings Outlook After Third-Quarter Beat",
+            "type": "BUY"
+        },
+        "DG": {
+            "headline": "Dollar Tree stock jumps on $1 billion sale of Family Dollar",
             "type": "BUY"
         }
     },
@@ -6969,6 +6969,16 @@
             "amount": 243,
             "time": "2025-03-28T02:59:18.829876",
             "profit": 60.75
+        },
+        {
+            "action": "BUY",
+            "ticker": "XIACY",
+            "headline": "Xiaomi Seeks $5.3 Billion in Share Sale to Fund EV Expansion",
+            "buy_price": 34.95,
+            "sold_price": 33.28,
+            "amount": 29,
+            "time": "2025-03-28T03:33:47.030742",
+            "profit": -48.43000000000005
         }
     ],
     "value_log": [
@@ -12311,6 +12321,10 @@
         {
             "time": "2025-03-28T02:59:20.080418",
             "value": 101788.2563699999
+        },
+        {
+            "time": "2025-03-28T03:33:48.050269",
+            "value": 101753.6263699999
         }
     ]
 }
