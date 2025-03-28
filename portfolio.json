@@ -503,6 +503,14 @@
         "STLA": {
             "headline": "Trump auto tariffs: Wall Street reacts as stocks slide",
             "type": "SHORT"
+        },
+        "COMP": {
+            "headline": "Dow Drops 300 Points As Tariff Worries Return",
+            "type": "SHORT"
+        },
+        "RACE.MI": {
+            "headline": "Ferrari raises some prices in response to U.S auto tariffs",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -12536,6 +12544,10 @@
         },
         {
             "time": "2025-03-28T20:39:21.597137",
+            "value": 101322.13636999992
+        },
+        {
+            "time": "2025-03-28T21:14:02.833524",
             "value": 101322.13636999992
         }
     ]
