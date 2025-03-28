@@ -1,6 +1,6 @@
 {
     "cash": 18511.583069999906,
-    "value": 101753.6263699999,
+    "value": 101752.2663699999,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -478,7 +478,7 @@
             "quantity": 17,
             "type": "SHORT",
             "buy_price": 59.13,
-            "current_price": 59.13,
+            "current_price": 59.21,
             "headline": "KB Home Stock Slides After Earnings Miss. Sales Were \u2018Muted,\u2019 CEO Says.",
             "time": "2025-03-27T14:15:11.720157"
         },
@@ -666,6 +666,10 @@
         },
         "DG": {
             "headline": "Dollar Tree stock jumps on $1 billion sale of Family Dollar",
+            "type": "BUY"
+        },
+        "CHWY": {
+            "headline": "Chewy Stock Rises on Earnings Beat as CEO Cites \u2018Strong Active Customer Growth\u2019",
             "type": "BUY"
         }
     },
@@ -12325,6 +12329,10 @@
         {
             "time": "2025-03-28T03:33:48.050269",
             "value": 101753.6263699999
+        },
+        {
+            "time": "2025-03-28T04:18:58.288875",
+            "value": 101752.2663699999
         }
     ]
 }
