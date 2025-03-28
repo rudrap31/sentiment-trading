@@ -687,6 +687,10 @@
         "000120.KS": {
             "headline": "BNSF attracted $4.2B investment from online rail customers in 2024",
             "type": "BUY"
+        },
+        "SNX": {
+            "headline": "TD Synnex Stock Sinks as Expenses Increase",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -12376,6 +12380,10 @@
         },
         {
             "time": "2025-03-28T11:13:32.409633",
+            "value": 101752.2663699999
+        },
+        {
+            "time": "2025-03-28T12:29:25.792604",
             "value": 101752.2663699999
         }
     ]
