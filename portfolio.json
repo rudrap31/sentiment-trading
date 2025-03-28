@@ -1,6 +1,6 @@
 {
-    "cash": 16482.123069999907,
-    "value": 101657.44436999991,
+    "cash": 17546.463069999907,
+    "value": 101788.2563699999,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -42,14 +42,6 @@
             "headline": "Canada court approves $23 billion settlement to end Big Tobacco lawsuits",
             "time": "2025-03-07T16:17:22.832830"
         },
-        "POAHY": {
-            "quantity": 243,
-            "type": "SHORT",
-            "buy_price": 4.13,
-            "current_price": 3.96,
-            "headline": "Porsche SE expects $21.7 billion loss after tax on Volkswagen stake impairment",
-            "time": "2025-03-07T19:11:49.905237"
-        },
         "BSFO": {
             "quantity": 33,
             "type": "SHORT",
@@ -70,7 +62,7 @@
             "quantity": 316,
             "type": "BUY",
             "buy_price": 3.169,
-            "current_price": 3.13,
+            "current_price": 3.1975,
             "headline": "City must back defence industry to protect Britain, says major pension fund",
             "time": "2025-03-12T16:46:25.529059"
         },
@@ -102,7 +94,7 @@
             "quantity": 31,
             "type": "BUY",
             "buy_price": 32.44,
-            "current_price": 32.26,
+            "current_price": 32.8,
             "headline": "Japan\u2019s Unions Win Largest Pay Hike in More Than Three Decades",
             "time": "2025-03-14T14:13:54.498590"
         },
@@ -118,7 +110,7 @@
             "quantity": 8,
             "type": "SHORT",
             "buy_price": 126.515,
-            "current_price": 128.48,
+            "current_price": 127.49,
             "headline": "Banks That Saw $3,000 Gold Coming Are Staying Bullish for Now",
             "time": "2025-03-17T18:45:19.745108"
         },
@@ -142,7 +134,7 @@
             "quantity": 16,
             "type": "BUY",
             "buy_price": 66.29,
-            "current_price": 64.95,
+            "current_price": 66.492,
             "headline": "Tencent Speeds AI Spending After Sales Grow Fastest in Years",
             "time": "2025-03-21T14:14:09.827392"
         },
@@ -150,7 +142,7 @@
             "quantity": 15,
             "type": "BUY",
             "buy_price": 67.91,
-            "current_price": 67.37,
+            "current_price": 67.06,
             "headline": "Safran offers sale of North American unit to win EU okay on Collins deal, source says",
             "time": "2025-03-21T14:14:10.017247"
         },
@@ -206,7 +198,7 @@
             "quantity": 24,
             "type": "BUY",
             "buy_price": 41.92,
-            "current_price": 40.97,
+            "current_price": 42.31,
             "headline": "China's top food delivery firm Meituan's revenue in line with estimates",
             "time": "2025-03-24T14:15:08.724568"
         },
@@ -342,7 +334,7 @@
             "quantity": 44,
             "type": "BUY",
             "buy_price": 22.955,
-            "current_price": 22.98,
+            "current_price": 23.28,
             "headline": "ShoreOne,\u00a0Trisura join forces to enhance coastal homeowners\u2019 insurance",
             "time": "2025-03-25T14:15:26.353719"
         },
@@ -6967,6 +6959,16 @@
             "amount": 67,
             "time": "2025-03-27T17:13:37.402130",
             "profit": -30.819999999999936
+        },
+        {
+            "action": "SHORT",
+            "ticker": "POAHY",
+            "headline": "Porsche SE expects $21.7 billion loss after tax on Volkswagen stake impairment",
+            "buy_price": 4.13,
+            "sold_price": 3.88,
+            "amount": 243,
+            "time": "2025-03-28T02:59:18.829876",
+            "profit": 60.75
         }
     ],
     "value_log": [
@@ -12305,6 +12307,10 @@
         {
             "time": "2025-03-28T01:09:28.434795",
             "value": 101657.44436999991
+        },
+        {
+            "time": "2025-03-28T02:59:20.080418",
+            "value": 101788.2563699999
         }
     ]
 }
