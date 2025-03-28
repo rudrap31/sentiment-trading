@@ -683,6 +683,10 @@
         "EBBGF": {
             "headline": "Enbridge Stock: A Stable Firm With Long Track Record Of Dividend Increases",
             "type": "BUY"
+        },
+        "000120.KS": {
+            "headline": "BNSF attracted $4.2B investment from online rail customers in 2024",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12352,6 +12356,10 @@
         },
         {
             "time": "2025-03-28T06:22:12.460495",
+            "value": 101752.2663699999
+        },
+        {
+            "time": "2025-03-28T07:15:55.823908",
             "value": 101752.2663699999
         }
     ]
