@@ -499,6 +499,10 @@
         "NXGPF": {
             "headline": "Next\u2019s Shares Jump on Guidance Upgrade Against Tough Sector Backdrop",
             "type": "BUY"
+        },
+        "STLA": {
+            "headline": "Trump auto tariffs: Wall Street reacts as stocks slide",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -12528,6 +12532,10 @@
         },
         {
             "time": "2025-03-28T20:16:22.142312",
+            "value": 101322.13636999992
+        },
+        {
+            "time": "2025-03-28T20:39:21.597137",
             "value": 101322.13636999992
         }
     ]
