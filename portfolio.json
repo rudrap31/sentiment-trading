@@ -515,6 +515,10 @@
         "AESI": {
             "headline": "An Oil Stock Riding the \u2018Dune Express\u2019 to Success in an Uncertain Energy Rally",
             "type": "BUY"
+        },
+        "GM": {
+            "headline": "Commentary: Trump risks the 'Cubanization' of the US auto fleet",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -12560,6 +12564,10 @@
         },
         {
             "time": "2025-03-28T22:15:33.136328",
+            "value": 101322.13636999992
+        },
+        {
+            "time": "2025-03-28T23:14:54.432586",
             "value": 101322.13636999992
         }
     ]
