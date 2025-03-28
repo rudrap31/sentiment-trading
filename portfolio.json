@@ -675,6 +675,14 @@
         "CVCO": {
             "headline": "Manufactured-Home Builder Nails Industry Leadership As Stock Nears Buy Point",
             "type": "BUY"
+        },
+        "FDX": {
+            "headline": "FedEx offers lower cost no-box, no-label returns",
+            "type": "BUY"
+        },
+        "EBBGF": {
+            "headline": "Enbridge Stock: A Stable Firm With Long Track Record Of Dividend Increases",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12340,6 +12348,10 @@
         },
         {
             "time": "2025-03-28T05:16:08.294307",
+            "value": 101752.2663699999
+        },
+        {
+            "time": "2025-03-28T06:22:12.460495",
             "value": 101752.2663699999
         }
     ]
