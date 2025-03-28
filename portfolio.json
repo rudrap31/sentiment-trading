@@ -511,6 +511,10 @@
         "RACE.MI": {
             "headline": "Ferrari raises some prices in response to U.S auto tariffs",
             "type": "SHORT"
+        },
+        "AESI": {
+            "headline": "An Oil Stock Riding the \u2018Dune Express\u2019 to Success in an Uncertain Energy Rally",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12552,6 +12556,10 @@
         },
         {
             "time": "2025-03-28T21:36:52.339217",
+            "value": 101322.13636999992
+        },
+        {
+            "time": "2025-03-28T22:15:33.136328",
             "value": 101322.13636999992
         }
     ]
