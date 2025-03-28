@@ -671,6 +671,10 @@
         "CHWY": {
             "headline": "Chewy Stock Rises on Earnings Beat as CEO Cites \u2018Strong Active Customer Growth\u2019",
             "type": "BUY"
+        },
+        "CVCO": {
+            "headline": "Manufactured-Home Builder Nails Industry Leadership As Stock Nears Buy Point",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12332,6 +12336,10 @@
         },
         {
             "time": "2025-03-28T04:18:58.288875",
+            "value": 101752.2663699999
+        },
+        {
+            "time": "2025-03-28T05:16:08.294307",
             "value": 101752.2663699999
         }
     ]
