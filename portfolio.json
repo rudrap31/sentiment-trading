@@ -531,6 +531,14 @@
         "GME": {
             "headline": "GameStop Stock Tumbles on Bitcoin Plans. There Can Be Only One MicroStrategy.",
             "type": "SHORT"
+        },
+        "IVV": {
+            "headline": "BlackRock: Outcome ETFs Will Reach $650 Billion by 2030",
+            "type": "BUY"
+        },
+        "TSLA": {
+            "headline": "Tesla\u2019s Stock Finishes the Day Higher, Following Auto Tariff News",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12588,6 +12596,10 @@
         },
         {
             "time": "2025-03-29T02:53:54.446279",
+            "value": 101296.86926999991
+        },
+        {
+            "time": "2025-03-29T04:14:39.457092",
             "value": 101296.86926999991
         }
     ]
