@@ -551,6 +551,10 @@
         "IAG": {
             "headline": "Why IAMGOLD Corporation (IAG) Surged On Thursday?",
             "type": "SHORT"
+        },
+        "UBSFF": {
+            "headline": "Ubisoft Shares Climb After Tencent Backs Assassin\u2019s Creed Carveout",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12624,6 +12628,10 @@
         },
         {
             "time": "2025-03-29T10:11:56.908452",
+            "value": 101296.86926999991
+        },
+        {
+            "time": "2025-03-29T12:19:48.400712",
             "value": 101296.86926999991
         }
     ]
