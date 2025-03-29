@@ -519,6 +519,18 @@
         "GM": {
             "headline": "Commentary: Trump risks the 'Cubanization' of the US auto fleet",
             "type": "SHORT"
+        },
+        "JEF": {
+            "headline": "Jefferies Results Suggest Wall Street Down but Hardly Out",
+            "type": "SHORT"
+        },
+        "NVO": {
+            "headline": "Novo shares on track for biggest monthly fall since 2002, investor worries grow",
+            "type": "SHORT"
+        },
+        "GME": {
+            "headline": "GameStop Stock Tumbles on Bitcoin Plans. There Can Be Only One MicroStrategy.",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -12568,6 +12580,10 @@
         },
         {
             "time": "2025-03-28T23:14:54.432586",
+            "value": 101322.13636999992
+        },
+        {
+            "time": "2025-03-29T00:53:53.359917",
             "value": 101322.13636999992
         }
     ]
