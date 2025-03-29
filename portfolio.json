@@ -543,6 +543,14 @@
         "TCAF": {
             "headline": "$1.4B Leaves QQQ as Technology Stocks Lead Market Malaise",
             "type": "SHORT"
+        },
+        "BILI": {
+            "headline": "Why Bilibili Inc. (BILI) Surged On Thursday?",
+            "type": "SHORT"
+        },
+        "IAG": {
+            "headline": "Why IAMGOLD Corporation (IAG) Surged On Thursday?",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -12612,6 +12620,10 @@
         },
         {
             "time": "2025-03-29T08:14:42.478229",
+            "value": 101296.86926999991
+        },
+        {
+            "time": "2025-03-29T10:11:56.908452",
             "value": 101296.86926999991
         }
     ]
