@@ -563,6 +563,10 @@
         "TGI": {
             "headline": "Why Triumph Group Inc (TGI) Is Surging In 2025?",
             "type": "BUY"
+        },
+        "COST": {
+            "headline": "Macy's, Kohl's close department stores as they struggle to remain relevant",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -12648,6 +12652,10 @@
         },
         {
             "time": "2025-03-29T16:13:39.910374",
+            "value": 101296.86926999991
+        },
+        {
+            "time": "2025-03-29T18:14:46.316550",
             "value": 101296.86926999991
         }
     ]
