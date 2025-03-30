@@ -627,6 +627,14 @@
         "F": {
             "headline": "Commentary: Trump risks the 'Cubanization' of the US auto fleet",
             "type": "SHORT"
+        },
+        "MDAIW": {
+            "headline": "Spectral AI Inc. (MDAI) Poised for FDA Approval with Revolutionary DeepView System",
+            "type": "BUY"
+        },
+        "CRWD": {
+            "headline": "CrowdStrike (CRWD) Gains Bullish Support from J.P. Morgan Amid ARR Acceleration",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12760,6 +12768,10 @@
         },
         {
             "time": "2025-03-30T16:13:21.459538",
+            "value": 101296.86926999991
+        },
+        {
+            "time": "2025-03-30T18:14:56.417504",
             "value": 101296.86926999991
         }
     ]
