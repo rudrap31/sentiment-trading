@@ -591,6 +591,30 @@
         "MU": {
             "headline": "1 No-Brainer Artificial Intelligence (AI) Stock to Buy Before It Skyrockets",
             "type": "BUY"
+        },
+        "SARO": {
+            "headline": "Why StandardAero (SARO) Is Surging In 2025?",
+            "type": "BUY"
+        },
+        "RTX": {
+            "headline": "Why RTX Corporation (RTX) Is Surging In 2025?",
+            "type": "BUY"
+        },
+        "WWD": {
+            "headline": "Why Woodward (WWD) Is Surging In 2025?",
+            "type": "BUY"
+        },
+        "VSEC": {
+            "headline": "Why VSE Corporation (VSEC) Is Surging In 2025?",
+            "type": "SHORT"
+        },
+        "HEI-A": {
+            "headline": "Why Heico Corporation (HEI) Is Surging In 2025?",
+            "type": "BUY"
+        },
+        "AIR": {
+            "headline": "Why AAR Corp. (AIR) Is Surging in 2025?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12700,6 +12724,10 @@
         },
         {
             "time": "2025-03-30T04:13:57.533296",
+            "value": 101296.86926999991
+        },
+        {
+            "time": "2025-03-30T06:15:47.768502",
             "value": 101296.86926999991
         }
     ]
