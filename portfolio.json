@@ -615,6 +615,10 @@
         "AIR": {
             "headline": "Why AAR Corp. (AIR) Is Surging in 2025?",
             "type": "BUY"
+        },
+        "DG": {
+            "headline": "Dollar General Just Raised a Huge Red Flag About the State of the Economy. What Does It Mean for Investors?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12732,6 +12736,10 @@
         },
         {
             "time": "2025-03-30T08:14:30.713262",
+            "value": 101296.86926999991
+        },
+        {
+            "time": "2025-03-30T10:12:08.684181",
             "value": 101296.86926999991
         }
     ]
