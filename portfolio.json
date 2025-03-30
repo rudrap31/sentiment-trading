@@ -623,6 +623,10 @@
         "WMT": {
             "headline": "Target slashes bonuses, Walmart holds the eggs, and cheaper Wegovy: Business news roundup",
             "type": "SHORT"
+        },
+        "F": {
+            "headline": "Commentary: Trump risks the 'Cubanization' of the US auto fleet",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -12752,6 +12756,10 @@
         },
         {
             "time": "2025-03-30T14:11:04.487253",
+            "value": 101296.86926999991
+        },
+        {
+            "time": "2025-03-30T16:13:21.459538",
             "value": 101296.86926999991
         }
     ]
