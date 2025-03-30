@@ -635,6 +635,10 @@
         "CRWD": {
             "headline": "CrowdStrike (CRWD) Gains Bullish Support from J.P. Morgan Amid ARR Acceleration",
             "type": "BUY"
+        },
+        "AVGO": {
+            "headline": "Broadcom (AVGO) Introduces Next-Gen AI Chips \u2013 Faster, Smarter, and More Efficient!",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12772,6 +12776,10 @@
         },
         {
             "time": "2025-03-30T18:14:56.417504",
+            "value": 101296.86926999991
+        },
+        {
+            "time": "2025-03-30T20:12:42.475362",
             "value": 101296.86926999991
         }
     ]
