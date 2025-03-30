@@ -575,6 +575,10 @@
         "XEL": {
             "headline": "Corporate America Ditches Green Bonds as Trump Emboldens GOP Attacks",
             "type": "SHORT"
+        },
+        "GLAXF": {
+            "headline": "China Expansion Helps Fuel This AI-Powered Cloud Stock In Rough Market",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12676,6 +12680,10 @@
         },
         {
             "time": "2025-03-30T00:59:05.511702",
+            "value": 101296.86926999991
+        },
+        {
+            "time": "2025-03-30T03:02:27.604183",
             "value": 101296.86926999991
         }
     ]
