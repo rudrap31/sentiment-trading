@@ -579,6 +579,18 @@
         "GLAXF": {
             "headline": "China Expansion Helps Fuel This AI-Powered Cloud Stock In Rough Market",
             "type": "BUY"
+        },
+        "ELAN": {
+            "headline": "Is Elanco Animal Health (ELAN) About to Explode?",
+            "type": "SHORT"
+        },
+        "GO": {
+            "headline": "Is Grocery Outlet Holding (GO) About to Explode?",
+            "type": "SHORT"
+        },
+        "MU": {
+            "headline": "1 No-Brainer Artificial Intelligence (AI) Stock to Buy Before It Skyrockets",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12684,6 +12696,10 @@
         },
         {
             "time": "2025-03-30T03:02:27.604183",
+            "value": 101296.86926999991
+        },
+        {
+            "time": "2025-03-30T04:13:57.533296",
             "value": 101296.86926999991
         }
     ]
