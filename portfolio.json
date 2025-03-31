@@ -659,6 +659,18 @@
         "TFC": {
             "headline": "Truist Financial price target lowered to $50 from $52 at Wells Fargo",
             "type": "SHORT"
+        },
+        "AGX": {
+            "headline": "Lululemon reports Q4 beat, CoreWeave IPO priced at $40: Morning Buzz",
+            "type": "BUY"
+        },
+        "AAPL": {
+            "headline": "Is Apple Inc. (AAPL) The Mega Cap Stock Gaining Bullish Momentum This Week?",
+            "type": "BUY"
+        },
+        "FOXA": {
+            "headline": "Jim Cramer\u2019s Media King \u2013 Why Fox Corporation (FOX) Outranked Disney!",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12808,6 +12820,10 @@
         },
         {
             "time": "2025-03-31T01:13:56.255014",
+            "value": 101296.86926999991
+        },
+        {
+            "time": "2025-03-31T03:04:25.243015",
             "value": 101296.86926999991
         }
     ]
