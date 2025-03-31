@@ -1,6 +1,6 @@
 {
-    "cash": 37048.07806999991,
-    "value": 101296.86926999991,
+    "cash": 23792.588069999907,
+    "value": 101296.86926999994,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -481,230 +481,113 @@
             "current_price": 104.62,
             "headline": "TD Synnex Stock Sinks as Expenses Increase",
             "time": "2025-03-28T14:15:06.764393"
-        }
-    },
-    "queued_trades": {
-        "^GSPC": {
-            "headline": "Stocks Fall as Trade War Clouds Economic Outlook: Markets Wrap",
-            "type": "SHORT"
-        },
-        "GC=F": {
-            "headline": "Wall Street keeps upping its bullish calls on gold \u2014 here's why",
-            "type": "BUY"
-        },
-        "SNX": {
-            "headline": "TD Synnex Stock Sinks as Expenses Increase",
-            "type": "SHORT"
         },
         "NXGPF": {
+            "quantity": 8,
+            "type": "BUY",
+            "buy_price": 126.5,
+            "current_price": 126.5,
             "headline": "Next\u2019s Shares Jump on Guidance Upgrade Against Tough Sector Backdrop",
-            "type": "BUY"
+            "time": "2025-03-31T14:16:04.742429"
         },
         "STLA": {
+            "quantity": 92,
+            "type": "SHORT",
+            "buy_price": 10.94,
+            "current_price": 10.94,
             "headline": "Trump auto tariffs: Wall Street reacts as stocks slide",
-            "type": "SHORT"
-        },
-        "COMP": {
-            "headline": "Dow Drops 300 Points As Tariff Worries Return",
-            "type": "SHORT"
-        },
-        "RACE.MI": {
-            "headline": "Ferrari raises some prices in response to U.S auto tariffs",
-            "type": "SHORT"
+            "time": "2025-03-31T14:16:04.789818"
         },
         "AESI": {
+            "quantity": 56,
+            "type": "BUY",
+            "buy_price": 17.95,
+            "current_price": 17.95,
             "headline": "An Oil Stock Riding the \u2018Dune Express\u2019 to Success in an Uncertain Energy Rally",
-            "type": "BUY"
+            "time": "2025-03-31T14:16:04.931185"
         },
         "GM": {
+            "quantity": 22,
+            "type": "SHORT",
+            "buy_price": 45.93,
+            "current_price": 45.93,
             "headline": "Commentary: Trump risks the 'Cubanization' of the US auto fleet",
-            "type": "SHORT"
+            "time": "2025-03-31T14:16:04.978260"
         },
         "JEF": {
+            "quantity": 20,
+            "type": "SHORT",
+            "buy_price": 51.53,
+            "current_price": 51.53,
             "headline": "Jefferies Results Suggest Wall Street Down but Hardly Out",
-            "type": "SHORT"
+            "time": "2025-03-31T14:16:05.025352"
         },
         "NVO": {
+            "quantity": 15,
+            "type": "SHORT",
+            "buy_price": 67.78,
+            "current_price": 67.78,
             "headline": "Novo shares on track for biggest monthly fall since 2002, investor worries grow",
-            "type": "SHORT"
+            "time": "2025-03-31T14:16:05.072913"
         },
         "GME": {
+            "quantity": 47,
+            "type": "SHORT",
+            "buy_price": 21.55,
+            "current_price": 21.55,
             "headline": "GameStop Stock Tumbles on Bitcoin Plans. There Can Be Only One MicroStrategy.",
-            "type": "SHORT"
+            "time": "2025-03-31T14:16:05.120339"
         },
         "IVV": {
+            "quantity": 2,
+            "type": "BUY",
+            "buy_price": 553.51,
+            "current_price": 553.51,
             "headline": "BlackRock: Outcome ETFs Will Reach $650 Billion by 2030",
-            "type": "BUY"
+            "time": "2025-03-31T14:16:05.167458"
         },
         "TSLA": {
+            "quantity": 4,
+            "type": "BUY",
+            "buy_price": 251.86,
+            "current_price": 251.86,
             "headline": "Tesla\u2019s Stock Finishes the Day Higher, Following Auto Tariff News",
-            "type": "BUY"
+            "time": "2025-03-31T14:16:05.214763"
         },
         "TCAF": {
+            "quantity": 32,
+            "type": "SHORT",
+            "buy_price": 31.94,
+            "current_price": 31.94,
             "headline": "$1.4B Leaves QQQ as Technology Stocks Lead Market Malaise",
-            "type": "SHORT"
+            "time": "2025-03-31T14:16:05.262228"
         },
         "BILI": {
+            "quantity": 54,
+            "type": "SHORT",
+            "buy_price": 18.81,
+            "current_price": 18.81,
             "headline": "Why Bilibili Inc. (BILI) Surged On Thursday?",
-            "type": "SHORT"
+            "time": "2025-03-31T14:16:05.309470"
         },
         "IAG": {
+            "quantity": 156,
+            "type": "SHORT",
+            "buy_price": 6.43,
+            "current_price": 6.43,
             "headline": "Why IAMGOLD Corporation (IAG) Surged On Thursday?",
-            "type": "SHORT"
+            "time": "2025-03-31T14:16:05.358084"
         },
         "UBSFF": {
+            "quantity": 66,
+            "type": "BUY",
+            "buy_price": 15.24,
+            "current_price": 15.24,
             "headline": "Ubisoft Shares Climb After Tencent Backs Assassin\u2019s Creed Carveout",
-            "type": "BUY"
-        },
-        "NVDA": {
-            "headline": "Down 13% to 41%, These 3 Nvidia Partners Are Raging Buys",
-            "type": "SHORT"
-        },
-        "TGI": {
-            "headline": "Why Triumph Group Inc (TGI) Is Surging In 2025?",
-            "type": "BUY"
-        },
-        "COST": {
-            "headline": "Macy's, Kohl's close department stores as they struggle to remain relevant",
-            "type": "SHORT"
-        },
-        "SYK": {
-            "headline": "Stryker Corporation (SYK): Jim Cramer Sees Big Gains Despite Tariff Worries",
-            "type": "BUY"
-        },
-        "XEL": {
-            "headline": "Corporate America Ditches Green Bonds as Trump Emboldens GOP Attacks",
-            "type": "SHORT"
-        },
-        "GLAXF": {
-            "headline": "China Expansion Helps Fuel This AI-Powered Cloud Stock In Rough Market",
-            "type": "BUY"
-        },
-        "ELAN": {
-            "headline": "Is Elanco Animal Health (ELAN) About to Explode?",
-            "type": "SHORT"
-        },
-        "GO": {
-            "headline": "Is Grocery Outlet Holding (GO) About to Explode?",
-            "type": "SHORT"
-        },
-        "MU": {
-            "headline": "1 No-Brainer Artificial Intelligence (AI) Stock to Buy Before It Skyrockets",
-            "type": "BUY"
-        },
-        "SARO": {
-            "headline": "Why StandardAero (SARO) Is Surging In 2025?",
-            "type": "BUY"
-        },
-        "RTX": {
-            "headline": "Why RTX Corporation (RTX) Is Surging In 2025?",
-            "type": "BUY"
-        },
-        "WWD": {
-            "headline": "Why Woodward (WWD) Is Surging In 2025?",
-            "type": "BUY"
-        },
-        "VSEC": {
-            "headline": "Why VSE Corporation (VSEC) Is Surging In 2025?",
-            "type": "SHORT"
-        },
-        "HEI-A": {
-            "headline": "Why Heico Corporation (HEI) Is Surging In 2025?",
-            "type": "BUY"
-        },
-        "AIR": {
-            "headline": "Why AAR Corp. (AIR) Is Surging in 2025?",
-            "type": "BUY"
-        },
-        "DG": {
-            "headline": "Dollar General Just Raised a Huge Red Flag About the State of the Economy. What Does It Mean for Investors?",
-            "type": "BUY"
-        },
-        "WMT": {
-            "headline": "Target slashes bonuses, Walmart holds the eggs, and cheaper Wegovy: Business news roundup",
-            "type": "SHORT"
-        },
-        "F": {
-            "headline": "Commentary: Trump risks the 'Cubanization' of the US auto fleet",
-            "type": "SHORT"
-        },
-        "MDAIW": {
-            "headline": "Spectral AI Inc. (MDAI) Poised for FDA Approval with Revolutionary DeepView System",
-            "type": "BUY"
-        },
-        "CRWD": {
-            "headline": "CrowdStrike (CRWD) Gains Bullish Support from J.P. Morgan Amid ARR Acceleration",
-            "type": "BUY"
-        },
-        "AVGO": {
-            "headline": "Broadcom (AVGO) Introduces Next-Gen AI Chips \u2013 Faster, Smarter, and More Efficient!",
-            "type": "BUY"
-        },
-        "PLTR": {
-            "headline": "Is Palantir Technologies (PLTR) The Stock with Potential to Rise 1000 Percent?",
-            "type": "BUY"
-        },
-        "IONQ-WS": {
-            "headline": "Is IonQ, Inc. (IONQ) a Stock with Potential to Rise 1000 Percent?",
-            "type": "BUY"
-        },
-        "AI": {
-            "headline": "Is C3.ai (AI) a Stock with Potential to Rise 1000 Percent?",
-            "type": "BUY"
-        },
-        "QS": {
-            "headline": "Is QuantumScape (QS) a Stock with Potential to Rise 1000 Percent?",
-            "type": "BUY"
-        },
-        "TFC": {
-            "headline": "Truist Financial price target lowered to $50 from $52 at Wells Fargo",
-            "type": "SHORT"
-        },
-        "AGX": {
-            "headline": "Lululemon reports Q4 beat, CoreWeave IPO priced at $40: Morning Buzz",
-            "type": "BUY"
-        },
-        "AAPL": {
-            "headline": "Is Apple Inc. (AAPL) The Mega Cap Stock Gaining Bullish Momentum This Week?",
-            "type": "BUY"
-        },
-        "FOXA": {
-            "headline": "Jim Cramer\u2019s Media King \u2013 Why Fox Corporation (FOX) Outranked Disney!",
-            "type": "BUY"
-        },
-        "BLK": {
-            "headline": "Khosla Sees One of Best Opportunities in a Decade",
-            "type": "BUY"
-        },
-        "^DJI": {
-            "headline": "Stock Futures Fall as Bad Quarter Set to End With More Tariffs Uncertainty",
-            "type": "SHORT"
-        },
-        "ASBFY": {
-            "headline": "CEO of fast-fashion brand Primark steps down after allegations of bad behavior in social situation",
-            "type": "SHORT"
-        },
-        "LLY": {
-            "headline": "Eli Lilly Reverses Its Recent Upswing On Broader Market Woes. Is It A Sell?",
-            "type": "BUY"
-        },
-        "FFIV": {
-            "headline": "F5 (FFIV) Shares Rebounded in the Second Half of 2024",
-            "type": "BUY"
-        },
-        "AMGDF": {
-            "headline": "Aston Martin Shares Jump on Plans for Cash Injection",
-            "type": "BUY"
-        },
-        "ADNT": {
-            "headline": "Adient PLC (ADNT) Slid on Lower-than-Expected Sales Guidance",
-            "type": "SHORT"
-        },
-        "CRWV": {
-            "headline": "CoreWeave Stock Can\u2019t Hold $40. It Picked a Tough Time to IPO.",
-            "type": "SHORT"
+            "time": "2025-03-31T14:16:05.410555"
         }
     },
+    "queued_trades": {},
     "trade_history": [
         {
             "action": "SHORT",
@@ -12893,6 +12776,10 @@
         {
             "time": "2025-03-31T13:26:16.020636",
             "value": 101296.86926999991
+        },
+        {
+            "time": "2025-03-31T14:16:12.564832",
+            "value": 101296.86926999994
         }
     ]
 }
