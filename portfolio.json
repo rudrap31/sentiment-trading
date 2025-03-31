@@ -695,6 +695,14 @@
         "AMGDF": {
             "headline": "Aston Martin Shares Jump on Plans for Cash Injection",
             "type": "BUY"
+        },
+        "ADNT": {
+            "headline": "Adient PLC (ADNT) Slid on Lower-than-Expected Sales Guidance",
+            "type": "SHORT"
+        },
+        "CRWV": {
+            "headline": "CoreWeave Stock Can\u2019t Hold $40. It Picked a Tough Time to IPO.",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -12880,6 +12888,10 @@
         },
         {
             "time": "2025-03-31T12:30:36.721339",
+            "value": 101296.86926999991
+        },
+        {
+            "time": "2025-03-31T13:26:16.020636",
             "value": 101296.86926999991
         }
     ]
