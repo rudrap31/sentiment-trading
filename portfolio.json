@@ -683,6 +683,18 @@
         "ASBFY": {
             "headline": "CEO of fast-fashion brand Primark steps down after allegations of bad behavior in social situation",
             "type": "SHORT"
+        },
+        "LLY": {
+            "headline": "Eli Lilly Reverses Its Recent Upswing On Broader Market Woes. Is It A Sell?",
+            "type": "BUY"
+        },
+        "FFIV": {
+            "headline": "F5 (FFIV) Shares Rebounded in the Second Half of 2024",
+            "type": "BUY"
+        },
+        "AMGDF": {
+            "headline": "Aston Martin Shares Jump on Plans for Cash Injection",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12864,6 +12876,10 @@
         },
         {
             "time": "2025-03-31T11:13:46.435357",
+            "value": 101296.86926999991
+        },
+        {
+            "time": "2025-03-31T12:30:36.721339",
             "value": 101296.86926999991
         }
     ]
