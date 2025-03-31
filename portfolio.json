@@ -479,6 +479,18 @@
         "NKE": {
             "headline": "Commentary: Why are investors buying the dip in stocks?",
             "type": "SHORT"
+        },
+        "VLVLY": {
+            "headline": "Volvo Cars brings back veteran CEO to tackle tariffs, mounting industry challenges",
+            "type": "BUY"
+        },
+        "F": {
+            "headline": "Commentary: Trump risks the 'Cubanization' of the US auto fleet",
+            "type": "SHORT"
+        },
+        "UBER": {
+            "headline": "Is Uber Technologies, Inc. (UBER) Best Stock to Buy for the Next 3 Months?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12876,6 +12888,10 @@
         },
         {
             "time": "2025-03-31T22:15:47.349712",
+            "value": 101287.7592699999
+        },
+        {
+            "time": "2025-03-31T23:15:02.585643",
             "value": 101287.7592699999
         }
     ]
