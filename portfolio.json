@@ -475,7 +475,12 @@
             "time": "2025-03-31T14:16:05.358084"
         }
     },
-    "queued_trades": {},
+    "queued_trades": {
+        "NKE": {
+            "headline": "Commentary: Why are investors buying the dip in stocks?",
+            "type": "SHORT"
+        }
+    },
     "trade_history": [
         {
             "action": "SHORT",
@@ -12855,6 +12860,10 @@
         },
         {
             "time": "2025-03-31T20:17:01.943281",
+            "value": 101287.7592699999
+        },
+        {
+            "time": "2025-03-31T20:40:16.230325",
             "value": 101287.7592699999
         }
     ]
