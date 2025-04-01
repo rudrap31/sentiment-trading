@@ -1,6 +1,6 @@
 {
-    "cash": 41986.30806999991,
-    "value": 101287.15186999991,
+    "cash": 23793.175569999923,
+    "value": 101199.85626999992,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -14,7 +14,7 @@
             "quantity": 27,
             "type": "BUY",
             "buy_price": 37.5,
-            "current_price": 38.31,
+            "current_price": 38.27,
             "headline": "Equitable to use funds from reinsurance deal to boost AllianceBernstein stake",
             "time": "2025-02-24T15:13:39.806047"
         },
@@ -22,7 +22,7 @@
             "quantity": 13,
             "type": "SHORT",
             "buy_price": 79.18,
-            "current_price": 78.85,
+            "current_price": 78.35,
             "headline": "How Wall Street pros are looking at fears over a US economy slowdown",
             "time": "2025-03-03T14:41:49.430490"
         },
@@ -30,7 +30,7 @@
             "quantity": 42,
             "type": "BUY",
             "buy_price": 24.26,
-            "current_price": 24.45,
+            "current_price": 24.455,
             "headline": "Nordstrom beats holiday-quarter sales estimates; CFO jumps ship to Starbucks",
             "time": "2025-03-04T14:41:15.699500"
         },
@@ -38,7 +38,7 @@
             "quantity": 7,
             "type": "BUY",
             "buy_price": 151.475,
-            "current_price": 158.73,
+            "current_price": 157.07,
             "headline": "Canada court approves $23 billion settlement to end Big Tobacco lawsuits",
             "time": "2025-03-07T16:17:22.832830"
         },
@@ -62,7 +62,7 @@
             "quantity": 51,
             "type": "BUY",
             "buy_price": 19.81,
-            "current_price": 19.43,
+            "current_price": 19.335,
             "headline": "Exclusive-Major US toymaker speeds up plan to move manufacturing out of China",
             "time": "2025-03-14T14:13:54.062103"
         },
@@ -102,7 +102,7 @@
             "quantity": 1,
             "type": "BUY",
             "buy_price": 1354.345,
-            "current_price": 1383.29,
+            "current_price": 1381.53,
             "headline": "This Defense Stock Holds Support Near Entry, Record High",
             "time": "2025-03-20T17:39:14.127681"
         },
@@ -114,19 +114,11 @@
             "headline": "Safran offers sale of North American unit to win EU okay on Collins deal, source says",
             "time": "2025-03-21T14:14:10.017247"
         },
-        "JNJ": {
-            "quantity": 7,
-            "type": "BUY",
-            "buy_price": 163.19,
-            "current_price": 165.84,
-            "headline": "Johnson & Johnson to Invest Over $55 Billion in U.S. in Next Four Years",
-            "time": "2025-03-21T14:14:12.877563"
-        },
         "DRI": {
             "quantity": 5,
             "type": "BUY",
             "buy_price": 203.19,
-            "current_price": 207.76,
+            "current_price": 205.26,
             "headline": "Darden Restaurants Lifts Sales With Bigger Footprint, Popular Dishes",
             "time": "2025-03-24T14:15:08.452235"
         },
@@ -134,7 +126,7 @@
             "quantity": 24,
             "type": "SHORT",
             "buy_price": 42.89,
-            "current_price": 41.73,
+            "current_price": 40.9701,
             "headline": "Wall Street\u2019s Bank Outlooks Dim as Trump\u2019s Trade Wars Weigh",
             "time": "2025-03-24T14:15:08.619743"
         },
@@ -142,7 +134,7 @@
             "quantity": 3,
             "type": "BUY",
             "buy_price": 391.995,
-            "current_price": 399.09,
+            "current_price": 396.49,
             "headline": "GE Aerospace Leads Five Stocks Near Buy Points With This Bullish Trait",
             "time": "2025-03-24T14:15:09.015178"
         },
@@ -150,7 +142,7 @@
             "quantity": 113,
             "type": "BUY",
             "buy_price": 8.86,
-            "current_price": 8.94,
+            "current_price": 8.95,
             "headline": "Clearlake Is Nearing $4 Billion Deal for Dun & Bradstreet",
             "time": "2025-03-24T14:15:09.115339"
         },
@@ -158,7 +150,7 @@
             "quantity": 4,
             "type": "BUY",
             "buy_price": 279.15,
-            "current_price": 288.14,
+            "current_price": 288.2,
             "headline": "Volatility Drives SPDR Gold ETF Assets to New Milestone",
             "time": "2025-03-24T14:15:09.140004"
         },
@@ -166,7 +158,7 @@
             "quantity": 9,
             "type": "BUY",
             "buy_price": 115.95,
-            "current_price": 118.93,
+            "current_price": 118.12,
             "headline": "Oil Firms Seize Chance to Fight State Climate Laws\u2014With Trump\u2019s Help",
             "time": "2025-03-24T14:15:09.165055"
         },
@@ -174,7 +166,7 @@
             "quantity": 12,
             "type": "SHORT",
             "buy_price": 86.47,
-            "current_price": 87.79,
+            "current_price": 88.26,
             "headline": "US retailers haggle with suppliers after Trump tariffs",
             "time": "2025-03-24T14:15:09.664298"
         },
@@ -182,7 +174,7 @@
             "quantity": 50,
             "type": "BUY",
             "buy_price": 20.2,
-            "current_price": 20.29,
+            "current_price": 19.85,
             "headline": "Private prisons will gain as Trump conducts mass deportations \u2014 and you may be unknowingly invested in them",
             "time": "2025-03-25T14:15:25.717366"
         },
@@ -198,7 +190,7 @@
             "quantity": 50,
             "type": "BUY",
             "buy_price": 20.08,
-            "current_price": 20.39,
+            "current_price": 20.44,
             "headline": "Smithfield Foods expects growth in sales, profit on strong packaged meats demand",
             "time": "2025-03-25T14:15:26.259761"
         },
@@ -222,7 +214,7 @@
             "quantity": 5,
             "type": "BUY",
             "buy_price": 224.24,
-            "current_price": 222.13,
+            "current_price": 221.445,
             "headline": "Is Apple Stock A Buy Amid Sluggish iPhone Sales?",
             "time": "2025-03-26T14:15:45.085355"
         },
@@ -230,7 +222,7 @@
             "quantity": 21,
             "type": "BUY",
             "buy_price": 49.26,
-            "current_price": 48.89,
+            "current_price": 48.44,
             "headline": "AZEK Stock Jumps on James Hardie Takeover Deal",
             "time": "2025-03-26T14:15:45.305869"
         },
@@ -238,7 +230,7 @@
             "quantity": 3,
             "type": "SHORT",
             "buy_price": 441.54,
-            "current_price": 446.71,
+            "current_price": 445.715,
             "headline": "Why Lockheed Martin Stock Is Down Today",
             "time": "2025-03-26T14:15:45.592957"
         },
@@ -246,7 +238,7 @@
             "quantity": 2,
             "type": "BUY",
             "buy_price": 581.64,
-            "current_price": 589.58,
+            "current_price": 584.88,
             "headline": "Roper Strikes $1.65 Billion Deal to Buy Autism Therapy Software Provider CentralReach",
             "time": "2025-03-26T14:15:46.106487"
         },
@@ -254,7 +246,7 @@
             "quantity": 21,
             "type": "BUY",
             "buy_price": 49.66,
-            "current_price": 50.21,
+            "current_price": 50.32,
             "headline": "Chipotle and 8 More Growth Stocks Could Beat Tech in a Volatile Market",
             "time": "2025-03-26T14:15:46.254814"
         },
@@ -262,7 +254,7 @@
             "quantity": 8,
             "type": "SHORT",
             "buy_price": 133.35,
-            "current_price": 132.23,
+            "current_price": 132.68,
             "headline": "Chinese Tech Stocks Near Correction Territory on Data Center Bubble Fears",
             "time": "2025-03-27T14:15:11.545348"
         },
@@ -270,7 +262,7 @@
             "quantity": 17,
             "type": "SHORT",
             "buy_price": 59.13,
-            "current_price": 58.12,
+            "current_price": 57.16,
             "headline": "KB Home Stock Slides After Earnings Miss. Sales Were \u2018Muted,\u2019 CEO Says.",
             "time": "2025-03-27T14:15:11.720157"
         },
@@ -278,7 +270,7 @@
             "quantity": 5,
             "type": "BUY",
             "buy_price": 236.24,
-            "current_price": 236.85,
+            "current_price": 232.55,
             "headline": "Norfolk Southern expands portfolio of certified rail-served industrial sites",
             "time": "2025-03-27T14:15:11.749667"
         },
@@ -286,7 +278,7 @@
             "quantity": 21,
             "type": "SHORT",
             "buy_price": 49.365,
-            "current_price": 48.31,
+            "current_price": 47.71,
             "headline": "Correction: Core & Main Projects Slower Sales Growth After Fiscal Fourth-Quarter Earnings Slide; Names New CEO",
             "time": "2025-03-27T14:15:11.877309"
         },
@@ -294,7 +286,7 @@
             "quantity": 38,
             "type": "SHORT",
             "buy_price": 26.77,
-            "current_price": 26.24,
+            "current_price": 25.8814,
             "headline": "This Stock Hits New Highs Amid Trump's 'Energy Emergency'",
             "time": "2025-03-27T14:15:11.903386"
         },
@@ -302,7 +294,7 @@
             "quantity": 10,
             "type": "SHORT",
             "buy_price": 111,
-            "current_price": 109.99,
+            "current_price": 108.43,
             "headline": "UPS Stock Falls After Bank of America Analyst Lowers Forecast",
             "time": "2025-03-27T14:15:11.985795"
         },
@@ -449,98 +441,153 @@
             "current_price": 6.25,
             "headline": "Why IAMGOLD Corporation (IAG) Surged On Thursday?",
             "time": "2025-03-31T14:16:05.358084"
-        }
-    },
-    "queued_trades": {
+        },
         "NKE": {
+            "quantity": 16,
+            "type": "SHORT",
+            "buy_price": 63.75,
+            "current_price": 63.75,
             "headline": "Commentary: Why are investors buying the dip in stocks?",
-            "type": "SHORT"
+            "time": "2025-04-01T14:15:18.201953"
         },
         "VLVLY": {
+            "quantity": 35,
+            "type": "BUY",
+            "buy_price": 29.225,
+            "current_price": 29.225,
             "headline": "Volvo Cars brings back veteran CEO to tackle tariffs, mounting industry challenges",
-            "type": "BUY"
+            "time": "2025-04-01T14:15:18.235436"
         },
         "F": {
+            "quantity": 100,
+            "type": "SHORT",
+            "buy_price": 10.01,
+            "current_price": 10.01,
             "headline": "Commentary: Trump risks the 'Cubanization' of the US auto fleet",
-            "type": "SHORT"
+            "time": "2025-04-01T14:15:18.260741"
         },
         "UBER": {
+            "quantity": 14,
+            "type": "BUY",
+            "buy_price": 72.8,
+            "current_price": 72.8,
             "headline": "Is Uber Technologies, Inc. (UBER) Best Stock to Buy for the Next 3 Months?",
-            "type": "BUY"
+            "time": "2025-04-01T14:15:18.291926"
         },
         "COMP": {
+            "quantity": 116,
+            "type": "SHORT",
+            "buy_price": 8.68,
+            "current_price": 8.68,
             "headline": "Stock-market investors looking for clarity on Trump\u2019s tariffs on April 2 risk disappointment",
-            "type": "SHORT"
+            "time": "2025-04-01T14:15:18.316985"
         },
         "PZZA": {
+            "quantity": 25,
+            "type": "SHORT",
+            "buy_price": 40.89,
+            "current_price": 40.89,
             "headline": "Popular pizza chain battles key customer problem",
-            "type": "SHORT"
-        },
-        "TSLA": {
-            "headline": "HSBC Cuts Tesla (TSLA) Price Target, Citing Aging Products and China Pressure",
-            "type": "SHORT"
+            "time": "2025-04-01T14:15:18.344041"
         },
         "CRWD": {
+            "quantity": 3,
+            "type": "BUY",
+            "buy_price": 356.28,
+            "current_price": 356.28,
             "headline": "CrowdStrike (CRWD) Gains Bullish Support from J.P. Morgan Amid ARR Acceleration",
-            "type": "BUY"
+            "time": "2025-04-01T14:15:18.395034"
         },
         "MDAIW": {
+            "quantity": 3847,
+            "type": "BUY",
+            "buy_price": 0.26,
+            "current_price": 0.26,
             "headline": "Spectral AI Inc. (MDAI) Poised for FDA Approval with Revolutionary DeepView System",
-            "type": "BUY"
-        },
-        "^GSPC": {
-            "headline": "Stocks are on pace for their worst month since 2022. Could April bring buying opportunities?",
-            "type": "BUY"
+            "time": "2025-04-01T14:15:18.420370"
         },
         "COST": {
+            "quantity": 2,
+            "type": "SHORT",
+            "buy_price": 939.9,
+            "current_price": 939.9,
             "headline": "Is Costco (COST) The Most Expensive Stock Insiders Are Dumping In March?",
-            "type": "SHORT"
+            "time": "2025-04-01T14:15:18.471033"
         },
         "PCVX": {
+            "quantity": 27,
+            "type": "BUY",
+            "buy_price": 37.78,
+            "current_price": 37.78,
             "headline": "Why Vaxcyte, Inc. (PCVX) Is Among the Best Mid Cap Biotech Stocks to Buy",
-            "type": "BUY"
+            "time": "2025-04-01T14:15:18.497884"
         },
         "VICI": {
+            "quantity": 31,
+            "type": "BUY",
+            "buy_price": 32.77,
+            "current_price": 32.77,
             "headline": "Is VICI Properties Inc. (NASDAQ:VICI) a High-Growth Non-Tech Stock That Is Profitable in 2025?",
-            "type": "BUY"
+            "time": "2025-04-01T14:15:18.525600"
         },
         "ASXFY": {
+            "quantity": 25,
+            "type": "BUY",
+            "buy_price": 40.3025,
+            "current_price": 40.3025,
             "headline": "MetalsGrove Mining acquires three gold permits in C\u00f4te d\u2019Ivoire",
-            "type": "BUY"
-        },
-        "JNJ": {
-            "headline": "J&J shares fall after judge rejects $10 billion talc settlement",
-            "type": "SHORT"
+            "time": "2025-04-01T14:15:18.556339"
         },
         "NEE": {
+            "quantity": 15,
+            "type": "SHORT",
+            "buy_price": 70.89,
+            "current_price": 70.89,
             "headline": "Daily Spotlight: Not a Good Start to 2025",
-            "type": "SHORT"
+            "time": "2025-04-01T14:15:18.607424"
         },
         "PVH": {
+            "quantity": 14,
+            "type": "SHORT",
+            "buy_price": 74.7,
+            "current_price": 74.7,
             "headline": "PVH Corp FY sales, profit slide on \u2018challenging macro environment\u2019",
-            "type": "SHORT"
+            "time": "2025-04-01T14:15:18.632344"
         },
         "TSM": {
+            "quantity": 6,
+            "type": "SHORT",
+            "buy_price": 166.91,
+            "current_price": 166.91,
             "headline": "Taiwan Semiconductor Manufacturing (TSM) Faces Leadership Challenge Despite $100 Billion U.S. Investment",
-            "type": "SHORT"
+            "time": "2025-04-01T14:15:18.659999"
         },
         "ERJ": {
+            "quantity": 23,
+            "type": "SHORT",
+            "buy_price": 44.98,
+            "current_price": 44.98,
             "headline": "Why Embraer S.A. (ERJ) Declined Last Week?",
-            "type": "SHORT"
+            "time": "2025-04-01T14:15:18.684846"
         },
         "AIR": {
+            "quantity": 19,
+            "type": "SHORT",
+            "buy_price": 55.52,
+            "current_price": 55.52,
             "headline": "Why AAR Corp. (AIR) Declined Last Week?",
-            "type": "SHORT"
-        },
-        "ACHR-WS": {
-            "headline": "Why Archer Aviation (ACHR) Declined Last Week?",
-            "type": "SHORT"
+            "time": "2025-04-01T14:15:18.712859"
         },
         "EW": {
+            "quantity": 14,
+            "type": "BUY",
+            "buy_price": 72.27,
+            "current_price": 72.27,
             "headline": "Sands Capital Select Growth Fund Sold Edwards Lifesciences Corporation (EW) For Better Opportunities",
-            "type": "BUY"
+            "time": "2025-04-01T14:15:18.765705"
         }
     },
+    "queued_trades": {},
     "trade_history": [
         {
             "action": "SHORT",
@@ -7301,6 +7348,16 @@
             "amount": 19,
             "time": "2025-04-01T03:11:08.016651",
             "profit": 67.44999999999995
+        },
+        {
+            "action": "BUY",
+            "ticker": "JNJ",
+            "headline": "Johnson & Johnson to Invest Over $55 Billion in U.S. in Next Four Years",
+            "buy_price": 163.19,
+            "sold_price": 157.605,
+            "amount": 7,
+            "time": "2025-04-01T14:15:26.206770",
+            "profit": -39.095000000000056
         }
     ],
     "value_log": [
@@ -13015,6 +13072,10 @@
         {
             "time": "2025-04-01T13:27:06.899003",
             "value": 101287.15186999991
+        },
+        {
+            "time": "2025-04-01T14:15:27.346776",
+            "value": 101199.85626999992
         }
     ]
 }
