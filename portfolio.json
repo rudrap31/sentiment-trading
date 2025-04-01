@@ -487,6 +487,18 @@
         "MDAIW": {
             "headline": "Spectral AI Inc. (MDAI) Poised for FDA Approval with Revolutionary DeepView System",
             "type": "BUY"
+        },
+        "^GSPC": {
+            "headline": "Stocks are on pace for their worst month since 2022. Could April bring buying opportunities?",
+            "type": "BUY"
+        },
+        "COST": {
+            "headline": "Is Costco (COST) The Most Expensive Stock Insiders Are Dumping In March?",
+            "type": "SHORT"
+        },
+        "PCVX": {
+            "headline": "Why Vaxcyte, Inc. (PCVX) Is Among the Best Mid Cap Biotech Stocks to Buy",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12930,6 +12942,10 @@
         },
         {
             "time": "2025-04-01T04:19:24.461303",
+            "value": 101287.15186999991
+        },
+        {
+            "time": "2025-04-01T06:22:57.137213",
             "value": 101287.15186999991
         }
     ]
