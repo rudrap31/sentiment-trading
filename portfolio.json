@@ -511,6 +511,18 @@
         "JNJ": {
             "headline": "J&J shares fall after judge rejects $10 billion talc settlement",
             "type": "SHORT"
+        },
+        "NEE": {
+            "headline": "Daily Spotlight: Not a Good Start to 2025",
+            "type": "SHORT"
+        },
+        "PVH": {
+            "headline": "PVH Corp FY sales, profit slide on \u2018challenging macro environment\u2019",
+            "type": "SHORT"
+        },
+        "TSM": {
+            "headline": "Taiwan Semiconductor Manufacturing (TSM) Faces Leadership Challenge Despite $100 Billion U.S. Investment",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -12978,6 +12990,10 @@
         },
         {
             "time": "2025-04-01T11:13:52.063035",
+            "value": 101287.15186999991
+        },
+        {
+            "time": "2025-04-01T12:31:36.674398",
             "value": 101287.15186999991
         }
     ]
