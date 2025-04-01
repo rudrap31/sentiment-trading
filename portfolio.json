@@ -507,6 +507,10 @@
         "ASXFY": {
             "headline": "MetalsGrove Mining acquires three gold permits in C\u00f4te d\u2019Ivoire",
             "type": "BUY"
+        },
+        "JNJ": {
+            "headline": "J&J shares fall after judge rejects $10 billion talc settlement",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -12970,6 +12974,10 @@
         },
         {
             "time": "2025-04-01T10:17:36.425401",
+            "value": 101287.15186999991
+        },
+        {
+            "time": "2025-04-01T11:13:52.063035",
             "value": 101287.15186999991
         }
     ]
