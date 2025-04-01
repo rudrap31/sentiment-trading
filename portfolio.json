@@ -499,6 +499,10 @@
         "PCVX": {
             "headline": "Why Vaxcyte, Inc. (PCVX) Is Among the Best Mid Cap Biotech Stocks to Buy",
             "type": "BUY"
+        },
+        "VICI": {
+            "headline": "Is VICI Properties Inc. (NASDAQ:VICI) a High-Growth Non-Tech Stock That Is Profitable in 2025?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12950,6 +12954,10 @@
         },
         {
             "time": "2025-04-01T07:16:44.901823",
+            "value": 101287.15186999991
+        },
+        {
+            "time": "2025-04-01T08:21:16.508743",
             "value": 101287.15186999991
         }
     ]
