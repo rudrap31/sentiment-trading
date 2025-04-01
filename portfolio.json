@@ -471,6 +471,22 @@
         "COMP": {
             "headline": "Stock-market investors looking for clarity on Trump\u2019s tariffs on April 2 risk disappointment",
             "type": "SHORT"
+        },
+        "PZZA": {
+            "headline": "Popular pizza chain battles key customer problem",
+            "type": "SHORT"
+        },
+        "TSLA": {
+            "headline": "HSBC Cuts Tesla (TSLA) Price Target, Citing Aging Products and China Pressure",
+            "type": "SHORT"
+        },
+        "CRWD": {
+            "headline": "CrowdStrike (CRWD) Gains Bullish Support from J.P. Morgan Amid ARR Acceleration",
+            "type": "BUY"
+        },
+        "MDAIW": {
+            "headline": "Spectral AI Inc. (MDAI) Poised for FDA Approval with Revolutionary DeepView System",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12910,6 +12926,10 @@
         },
         {
             "time": "2025-04-01T03:11:08.969759",
+            "value": 101287.15186999991
+        },
+        {
+            "time": "2025-04-01T04:19:24.461303",
             "value": 101287.15186999991
         }
     ]
