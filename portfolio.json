@@ -503,6 +503,10 @@
         "VICI": {
             "headline": "Is VICI Properties Inc. (NASDAQ:VICI) a High-Growth Non-Tech Stock That Is Profitable in 2025?",
             "type": "BUY"
+        },
+        "ASXFY": {
+            "headline": "MetalsGrove Mining acquires three gold permits in C\u00f4te d\u2019Ivoire",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12958,6 +12962,10 @@
         },
         {
             "time": "2025-04-01T08:21:16.508743",
+            "value": 101287.15186999991
+        },
+        {
+            "time": "2025-04-01T09:17:53.231225",
             "value": 101287.15186999991
         }
     ]
