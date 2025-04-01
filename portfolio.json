@@ -567,6 +567,10 @@
         "ADNT": {
             "headline": "Adient PLC (ADNT) Slid on Lower-than-Expected Sales Guidance",
             "type": "SHORT"
+        },
+        "MDAIW": {
+            "headline": "Spectral AI (MDAI) Secures $17.7 Million to Launch Burn Wound AI System",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -13176,6 +13180,10 @@
         },
         {
             "time": "2025-04-01T21:37:42.423793",
+            "value": 101293.85186999993
+        },
+        {
+            "time": "2025-04-01T22:15:29.927287",
             "value": 101293.85186999993
         }
     ]
