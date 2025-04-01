@@ -555,6 +555,18 @@
         "GM": {
             "headline": "What Makes General Motors Co. (GM) an Attractive Investment?",
             "type": "BUY"
+        },
+        "NVO": {
+            "headline": "Novo Nordisk\u2019s Worst Month Since 2002 Shows Growth Concerns",
+            "type": "SHORT"
+        },
+        "HOOD": {
+            "headline": "Why meme stocks like GameStop could cause you headaches",
+            "type": "SHORT"
+        },
+        "ADNT": {
+            "headline": "Adient PLC (ADNT) Slid on Lower-than-Expected Sales Guidance",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -13160,6 +13172,10 @@
         },
         {
             "time": "2025-04-01T21:14:52.369617",
+            "value": 101293.85186999993
+        },
+        {
+            "time": "2025-04-01T21:37:42.423793",
             "value": 101293.85186999993
         }
     ]
