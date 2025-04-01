@@ -523,6 +523,22 @@
         "TSM": {
             "headline": "Taiwan Semiconductor Manufacturing (TSM) Faces Leadership Challenge Despite $100 Billion U.S. Investment",
             "type": "SHORT"
+        },
+        "ERJ": {
+            "headline": "Why Embraer S.A. (ERJ) Declined Last Week?",
+            "type": "SHORT"
+        },
+        "AIR": {
+            "headline": "Why AAR Corp. (AIR) Declined Last Week?",
+            "type": "SHORT"
+        },
+        "ACHR-WS": {
+            "headline": "Why Archer Aviation (ACHR) Declined Last Week?",
+            "type": "SHORT"
+        },
+        "EW": {
+            "headline": "Sands Capital Select Growth Fund Sold Edwards Lifesciences Corporation (EW) For Better Opportunities",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -12994,6 +13010,10 @@
         },
         {
             "time": "2025-04-01T12:31:36.674398",
+            "value": 101287.15186999991
+        },
+        {
+            "time": "2025-04-01T13:27:06.899003",
             "value": 101287.15186999991
         }
     ]
