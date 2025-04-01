@@ -571,6 +571,14 @@
         "MDAIW": {
             "headline": "Spectral AI (MDAI) Secures $17.7 Million to Launch Burn Wound AI System",
             "type": "BUY"
+        },
+        "GOOG": {
+            "headline": "Yanolja FY Total Transaction Value Soars 186% To Record",
+            "type": "BUY"
+        },
+        "GIB": {
+            "headline": "Is CGI Inc. (GIB) the Most Oversold Large Cap Stock to Invest in Now?",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -13184,6 +13192,10 @@
         },
         {
             "time": "2025-04-01T22:15:29.927287",
+            "value": 101293.85186999993
+        },
+        {
+            "time": "2025-04-01T23:15:21.655163",
             "value": 101293.85186999993
         }
     ]
