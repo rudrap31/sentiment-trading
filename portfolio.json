@@ -547,6 +547,10 @@
         "BLK": {
             "headline": "BlackRock's Fink warns of protectionism amid private market push",
             "type": "SHORT"
+        },
+        "LLY": {
+            "headline": "Eli Lilly Reverses Its Recent Upswing On Broader Market Woes. Is It A Sell?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -13144,6 +13148,10 @@
         },
         {
             "time": "2025-04-01T20:17:27.938547",
+            "value": 101293.85186999993
+        },
+        {
+            "time": "2025-04-01T20:40:40.988840",
             "value": 101293.85186999993
         }
     ]
