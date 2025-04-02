@@ -611,6 +611,18 @@
         "BRZE": {
             "headline": "Braze (BRZE) Narrows Q4 Losses with 22.5% Revenue Boost and AI-Driven Innovation",
             "type": "SHORT"
+        },
+        "BA": {
+            "headline": "Boeing Just Got an Order for 50 Jets. Why the Stock Is Falling.",
+            "type": "SHORT"
+        },
+        "AMZN": {
+            "headline": "Amazon Pushes Further Into AI Agents As Stock Falls On Tariff Concerns",
+            "type": "SHORT"
+        },
+        "X": {
+            "headline": "U.S. Steel Stock Is Downgraded as Investors Wait for Trump",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -13266,6 +13278,10 @@
         },
         {
             "time": "2025-04-02T07:16:04.129293",
+            "value": 101371.6878699999
+        },
+        {
+            "time": "2025-04-02T08:21:21.708504",
             "value": 101371.6878699999
         }
     ]
