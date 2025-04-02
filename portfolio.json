@@ -599,6 +599,18 @@
         "ASBFY": {
             "headline": "Primark boss resigns over inappropriate behaviour",
             "type": "SHORT"
+        },
+        "VRNT": {
+            "headline": "Verint Systems (VRNT) Stock Target Lowered Amid Unbundled SaaS Renewal Challenges",
+            "type": "SHORT"
+        },
+        "PONY": {
+            "headline": "Pony AI (PONY) Secures Landmark Permit for Paid Driverless Robotaxis in Shenzhen",
+            "type": "BUY"
+        },
+        "BRZE": {
+            "headline": "Braze (BRZE) Narrows Q4 Losses with 22.5% Revenue Boost and AI-Driven Innovation",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -13250,6 +13262,10 @@
         },
         {
             "time": "2025-04-02T06:21:59.148912",
+            "value": 101371.6878699999
+        },
+        {
+            "time": "2025-04-02T07:16:04.129293",
             "value": 101371.6878699999
         }
     ]
