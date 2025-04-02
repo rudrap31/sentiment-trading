@@ -1,6 +1,6 @@
 {
-    "cash": 33923.29556999992,
-    "value": 101321.85786999993,
+    "cash": 34925.275569999925,
+    "value": 101263.30786999993,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -462,23 +462,15 @@
             "quantity": 15,
             "type": "SHORT",
             "buy_price": 70.89,
-            "current_price": 70.89,
+            "current_price": 70.48,
             "headline": "Daily Spotlight: Not a Good Start to 2025",
             "time": "2025-04-01T14:15:18.607424"
-        },
-        "PVH": {
-            "quantity": 14,
-            "type": "SHORT",
-            "buy_price": 74.7,
-            "current_price": 74.7,
-            "headline": "PVH Corp FY sales, profit slide on \u2018challenging macro environment\u2019",
-            "time": "2025-04-01T14:15:18.632344"
         },
         "TSM": {
             "quantity": 6,
             "type": "SHORT",
             "buy_price": 166.91,
-            "current_price": 166.91,
+            "current_price": 170.39,
             "headline": "Taiwan Semiconductor Manufacturing (TSM) Faces Leadership Challenge Despite $100 Billion U.S. Investment",
             "time": "2025-04-01T14:15:18.659999"
         },
@@ -639,6 +631,14 @@
         "SPOT": {
             "headline": "Spotify (SPOT) Rose 148% in 2024",
             "type": "BUY"
+        },
+        "TSM": {
+            "headline": "Taiwan Semiconductor Manufacturing (TSM) Faces Leadership Challenge Despite $100 Billion U.S. Investment",
+            "type": "SHORT"
+        },
+        "PVH": {
+            "headline": "PVH Corp FY sales, profit slide on \u2018challenging macro environment\u2019",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -7511,6 +7511,16 @@
             "amount": 92,
             "time": "2025-04-02T20:16:34.659196",
             "profit": -30.360000000000007
+        },
+        {
+            "action": "SHORT",
+            "ticker": "PVH",
+            "headline": "PVH Corp FY sales, profit slide on \u2018challenging macro environment\u2019",
+            "buy_price": 74.7,
+            "sold_price": 77.83,
+            "amount": 14,
+            "time": "2025-04-02T20:40:26.037680",
+            "profit": -43.819999999999936
         }
     ],
     "value_log": [
@@ -13353,6 +13363,10 @@
         {
             "time": "2025-04-02T20:16:35.979623",
             "value": 101321.85786999993
+        },
+        {
+            "time": "2025-04-02T20:40:27.034546",
+            "value": 101263.30786999993
         }
     ]
 }
