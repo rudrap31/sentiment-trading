@@ -591,6 +591,14 @@
         "NFLX": {
             "headline": "Why Two Banks Are Bullish on Netflix (NFLX)",
             "type": "SHORT"
+        },
+        "META": {
+            "headline": "Meta Stock Slumps the Least in a Bad Quarter for the Mag 7. Tesla Is Set to See Its Worst First Quarter Ever.",
+            "type": "SHORT"
+        },
+        "ASBFY": {
+            "headline": "Primark boss resigns over inappropriate behaviour",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -13238,6 +13246,10 @@
         },
         {
             "time": "2025-04-02T05:17:37.652332",
+            "value": 101371.6878699999
+        },
+        {
+            "time": "2025-04-02T06:21:59.148912",
             "value": 101371.6878699999
         }
     ]
