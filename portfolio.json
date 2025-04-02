@@ -1,6 +1,6 @@
 {
     "cash": 34925.275569999925,
-    "value": 101263.30786999993,
+    "value": 101243.75786999994,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -478,7 +478,7 @@
             "quantity": 23,
             "type": "SHORT",
             "buy_price": 44.98,
-            "current_price": 44.98,
+            "current_price": 45.83,
             "headline": "Why Embraer S.A. (ERJ) Declined Last Week?",
             "time": "2025-04-01T14:15:18.684846"
         },
@@ -638,6 +638,10 @@
         },
         "PVH": {
             "headline": "PVH Corp FY sales, profit slide on \u2018challenging macro environment\u2019",
+            "type": "SHORT"
+        },
+        "MSFT": {
+            "headline": "How OpenAI\u2019s $300 Billion Valuation Creates a Problem for Microsoft",
             "type": "SHORT"
         }
     },
@@ -13367,6 +13371,10 @@
         {
             "time": "2025-04-02T20:40:27.034546",
             "value": 101263.30786999993
+        },
+        {
+            "time": "2025-04-02T21:14:19.431575",
+            "value": 101243.75786999994
         }
     ]
 }
