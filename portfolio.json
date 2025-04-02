@@ -663,6 +663,10 @@
         "SPAI": {
             "headline": "Why Safe Pro Group (SPAI) Declined Last Week?",
             "type": "SHORT"
+        },
+        "TXRH": {
+            "headline": "Jim Cramer On Texas Roadhouse (TXRH) \u2013 Price Advantage in Tough Times!",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -13398,6 +13402,10 @@
         },
         {
             "time": "2025-04-02T21:37:34.264510",
+            "value": 101243.75786999994
+        },
+        {
+            "time": "2025-04-02T22:15:15.484754",
             "value": 101243.75786999994
         }
     ]
