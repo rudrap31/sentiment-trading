@@ -647,6 +647,10 @@
         "FVRR": {
             "headline": "2 Beaten-Down Stocks to Buy and Hold for a Decade",
             "type": "BUY"
+        },
+        "LAD": {
+            "headline": "Here\u2019s What Boosted Lithia Motors (LAD) in Q4",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -13322,6 +13326,10 @@
         },
         {
             "time": "2025-04-02T12:30:35.000216",
+            "value": 101371.6878699999
+        },
+        {
+            "time": "2025-04-02T13:26:00.946573",
             "value": 101371.6878699999
         }
     ]
