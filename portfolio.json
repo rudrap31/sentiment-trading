@@ -579,6 +579,14 @@
         "^GSPC": {
             "headline": "CFO turnover reaches six-year high: Russell Reynolds",
             "type": "BUY"
+        },
+        "VLO": {
+            "headline": "Rex 4Q Beats Top and Bottom Line, Expanded Capacity Set to Drive Growth \u2013 Quarterly Update Report",
+            "type": "BUY"
+        },
+        "ME": {
+            "headline": "FTC concerned about privacy protections in 23andMe bankruptcy",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -13218,6 +13226,10 @@
         },
         {
             "time": "2025-04-02T03:36:40.725719",
+            "value": 101371.6878699999
+        },
+        {
+            "time": "2025-04-02T04:18:45.029791",
             "value": 101371.6878699999
         }
     ]
