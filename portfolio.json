@@ -1,6 +1,6 @@
 {
-    "cash": 29866.96556999992,
-    "value": 101293.85186999993,
+    "cash": 30945.84556999992,
+    "value": 101384.2503699999,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -54,7 +54,7 @@
             "quantity": 316,
             "type": "BUY",
             "buy_price": 3.169,
-            "current_price": 3.175,
+            "current_price": 3.19,
             "headline": "City must back defence industry to protect Britain, says major pension fund",
             "time": "2025-03-12T16:46:25.529059"
         },
@@ -78,7 +78,7 @@
             "quantity": 31,
             "type": "BUY",
             "buy_price": 32.44,
-            "current_price": 32.3925,
+            "current_price": 34,
             "headline": "Japan\u2019s Unions Win Largest Pay Hike in More Than Three Decades",
             "time": "2025-03-14T14:13:54.498590"
         },
@@ -86,7 +86,7 @@
             "quantity": 29,
             "type": "BUY",
             "buy_price": 35.68,
-            "current_price": 36.54,
+            "current_price": 36.574,
             "headline": "US tariff spat fuels trading boom on Canada\u2019s top exchange",
             "time": "2025-03-17T14:14:49.071142"
         },
@@ -94,7 +94,7 @@
             "quantity": 8,
             "type": "SHORT",
             "buy_price": 126.515,
-            "current_price": 122.93,
+            "current_price": 124.5,
             "headline": "Banks That Saw $3,000 Gold Coming Are Staying Bullish for Now",
             "time": "2025-03-17T18:45:19.745108"
         },
@@ -110,7 +110,7 @@
             "quantity": 15,
             "type": "BUY",
             "buy_price": 67.91,
-            "current_price": 66.22,
+            "current_price": 66.3,
             "headline": "Safran offers sale of North American unit to win EU okay on Collins deal, source says",
             "time": "2025-03-21T14:14:10.017247"
         },
@@ -193,14 +193,6 @@
             "current_price": 20.63,
             "headline": "Smithfield Foods expects growth in sales, profit on strong packaged meats demand",
             "time": "2025-03-25T14:15:26.259761"
-        },
-        "TRRSF": {
-            "quantity": 44,
-            "type": "BUY",
-            "buy_price": 22.955,
-            "current_price": 23.52,
-            "headline": "ShoreOne,\u00a0Trisura join forces to enhance coastal homeowners\u2019 insurance",
-            "time": "2025-03-25T14:15:26.353719"
         },
         "GLDAF": {
             "quantity": 500,
@@ -350,7 +342,7 @@
             "quantity": 43,
             "type": "BUY",
             "buy_price": 23.61,
-            "current_price": 23.45,
+            "current_price": 23.55,
             "headline": "Enbridge Stock: A Stable Firm With Long Track Record Of Dividend Increases",
             "time": "2025-03-28T14:15:06.745551"
         },
@@ -430,7 +422,7 @@
             "quantity": 35,
             "type": "BUY",
             "buy_price": 29.225,
-            "current_price": 29.29,
+            "current_price": 29.23,
             "headline": "Volvo Cars brings back veteran CEO to tackle tariffs, mounting industry challenges",
             "time": "2025-04-01T14:15:18.235436"
         },
@@ -579,6 +571,14 @@
         "GIB": {
             "headline": "Is CGI Inc. (GIB) the Most Oversold Large Cap Stock to Invest in Now?",
             "type": "SHORT"
+        },
+        "PARA": {
+            "headline": "Yahoo Hires Marketing Chief to Bring Back Love for \u2018One of the OGs of the Internet\u2019",
+            "type": "BUY"
+        },
+        "^GSPC": {
+            "headline": "CFO turnover reaches six-year high: Russell Reynolds",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -7411,6 +7411,16 @@
             "amount": 27,
             "time": "2025-04-01T16:46:42.253377",
             "profit": -71.01000000000008
+        },
+        {
+            "action": "BUY",
+            "ticker": "TRRSF",
+            "headline": "ShoreOne,\u00a0Trisura join forces to enhance coastal homeowners\u2019 insurance",
+            "buy_price": 22.955,
+            "sold_price": 24.52,
+            "amount": 44,
+            "time": "2025-04-02T02:59:25.178801",
+            "profit": 68.86000000000006
         }
     ],
     "value_log": [
@@ -13201,6 +13211,10 @@
         {
             "time": "2025-04-02T01:11:27.294281",
             "value": 101293.85186999993
+        },
+        {
+            "time": "2025-04-02T02:59:26.107322",
+            "value": 101384.2503699999
         }
     ]
 }
