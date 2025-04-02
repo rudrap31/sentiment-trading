@@ -639,6 +639,14 @@
         "DUOL": {
             "headline": "Duolingo, Inc. (DUOL): Insiders Were Dumping in Q1 2025",
             "type": "SHORT"
+        },
+        "DB": {
+            "headline": "Deutsche Bank\u2019s DWS Fined $27 Million in German Greenwashing Probe",
+            "type": "SHORT"
+        },
+        "FVRR": {
+            "headline": "2 Beaten-Down Stocks to Buy and Hold for a Decade",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -13310,6 +13318,10 @@
         },
         {
             "time": "2025-04-02T11:13:47.585419",
+            "value": 101371.6878699999
+        },
+        {
+            "time": "2025-04-02T12:30:35.000216",
             "value": 101371.6878699999
         }
     ]
