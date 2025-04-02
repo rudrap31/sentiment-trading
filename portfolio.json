@@ -643,6 +643,26 @@
         "MSFT": {
             "headline": "How OpenAI\u2019s $300 Billion Valuation Creates a Problem for Microsoft",
             "type": "SHORT"
+        },
+        "DPRO.CN": {
+            "headline": "Why Draganfly Inc. (DPRO) Declined Last Week?",
+            "type": "SHORT"
+        },
+        "CODA": {
+            "headline": "Why Coda Octopus Group (CODA) Declined Last Week?",
+            "type": "SHORT"
+        },
+        "KITTW": {
+            "headline": "Why Nauticus Robotics (KITT) Declined Last Week?",
+            "type": "SHORT"
+        },
+        "PL-WS": {
+            "headline": "Why Planet Labs (PL) Declined Last Week?",
+            "type": "SHORT"
+        },
+        "SPAI": {
+            "headline": "Why Safe Pro Group (SPAI) Declined Last Week?",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -13374,6 +13394,10 @@
         },
         {
             "time": "2025-04-02T21:14:19.431575",
+            "value": 101243.75786999994
+        },
+        {
+            "time": "2025-04-02T21:37:34.264510",
             "value": 101243.75786999994
         }
     ]
