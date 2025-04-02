@@ -587,6 +587,10 @@
         "ME": {
             "headline": "FTC concerned about privacy protections in 23andMe bankruptcy",
             "type": "SHORT"
+        },
+        "NFLX": {
+            "headline": "Why Two Banks Are Bullish on Netflix (NFLX)",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -13230,6 +13234,10 @@
         },
         {
             "time": "2025-04-02T04:18:45.029791",
+            "value": 101371.6878699999
+        },
+        {
+            "time": "2025-04-02T05:17:37.652332",
             "value": 101371.6878699999
         }
     ]
