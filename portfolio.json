@@ -1,6 +1,6 @@
 {
     "cash": 30945.84556999992,
-    "value": 101384.2503699999,
+    "value": 101371.6878699999,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -478,7 +478,7 @@
             "quantity": 25,
             "type": "BUY",
             "buy_price": 40.3025,
-            "current_price": 40.3025,
+            "current_price": 39.8,
             "headline": "MetalsGrove Mining acquires three gold permits in C\u00f4te d\u2019Ivoire",
             "time": "2025-04-01T14:15:18.556339"
         },
@@ -13215,6 +13215,10 @@
         {
             "time": "2025-04-02T02:59:26.107322",
             "value": 101384.2503699999
+        },
+        {
+            "time": "2025-04-02T03:36:40.725719",
+            "value": 101371.6878699999
         }
     ]
 }
