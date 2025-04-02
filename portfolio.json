@@ -627,6 +627,18 @@
         "GIS": {
             "headline": "Jim Cramer Take on General Mills (GIS): Growth Has Vanished!",
             "type": "SHORT"
+        },
+        "ICE": {
+            "headline": "Intercontinental Exchange, Inc. (ICE): Insiders Were Dumping in Q1 2025",
+            "type": "SHORT"
+        },
+        "ETR": {
+            "headline": "Entergy Corporation (ETR): Insiders Were Dumping in Q1 2025",
+            "type": "SHORT"
+        },
+        "DUOL": {
+            "headline": "Duolingo, Inc. (DUOL): Insiders Were Dumping in Q1 2025",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -13290,6 +13302,10 @@
         },
         {
             "time": "2025-04-02T09:17:19.002696",
+            "value": 101371.6878699999
+        },
+        {
+            "time": "2025-04-02T10:17:11.777243",
             "value": 101371.6878699999
         }
     ]
