@@ -471,6 +471,18 @@
         "MNDY": {
             "headline": "Monday.com Ltd. (MNDY) Fell as it Failed to Sustain the Momentum",
             "type": "SHORT"
+        },
+        "F": {
+            "headline": "US car dealers fret as Donald Trump\u2019s tariffs set to take effect",
+            "type": "SHORT"
+        },
+        "CRDO": {
+            "headline": "Credo Technology Group (CRDO) Surged on Increased Demand",
+            "type": "BUY"
+        },
+        "ALHGO.PA": {
+            "headline": "Hamilton Shares Rise After Big Money Buys",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -13608,6 +13620,10 @@
         },
         {
             "time": "2025-04-03T20:16:41.099236",
+            "value": 100540.14346999991
+        },
+        {
+            "time": "2025-04-03T20:39:52.676236",
             "value": 100540.14346999991
         }
     ]
