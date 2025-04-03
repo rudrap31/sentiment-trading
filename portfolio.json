@@ -695,6 +695,14 @@
         "PLTR": {
             "headline": "Palantir (PLTR) Is Called Too Expensive by Schwab Guests",
             "type": "SHORT"
+        },
+        "WRB": {
+            "headline": "W.R. Berkley Nears Historical Price-To-Book High, Analyst Downgrades Stock On Overvaluation Concerns",
+            "type": "SHORT"
+        },
+        "BABA": {
+            "headline": "Jim Cramer: \u201cAlibaba (BABA) CEO Joe Tsai Doesn\u2019t Get It!\u201d \u2013 AI Hype Reality Check",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -13458,6 +13466,10 @@
         },
         {
             "time": "2025-04-03T05:15:58.880026",
+            "value": 101251.66786999993
+        },
+        {
+            "time": "2025-04-03T06:22:36.156252",
             "value": 101251.66786999993
         }
     ]
