@@ -743,6 +743,22 @@
         "ORCL": {
             "headline": "Is Oracle (ORCL) a Fast Growing Business?",
             "type": "BUY"
+        },
+        "LPRO": {
+            "headline": "Open Lending price target lowered to $2 from $7 at Needham",
+            "type": "SHORT"
+        },
+        "GRMN": {
+            "headline": "Trump Tariffs Take Down Apple, PC, Consumer Electronics Stocks",
+            "type": "SHORT"
+        },
+        "MTSI": {
+            "headline": "MACOM Technology Solutions Holdings (MTSI) Surged in Q4 Amid Robust Growth in Data Center & Defense Sectors",
+            "type": "SHORT"
+        },
+        "CTVA": {
+            "headline": "Daily Spotlight: Stocks Back Near Fair Value",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -13534,6 +13550,10 @@
         },
         {
             "time": "2025-04-03T12:30:23.548947",
+            "value": 101251.66786999993
+        },
+        {
+            "time": "2025-04-03T13:26:05.119145",
             "value": 101251.66786999993
         }
     ]
