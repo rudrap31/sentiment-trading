@@ -499,6 +499,14 @@
         "ATKR": {
             "headline": "Atkore (ATKR) Declined on Worse-Than-Expected Results and Lowered Guidance",
             "type": "SHORT"
+        },
+        "AAPL": {
+            "headline": "How Apple Gets a Lift From Visa\u2019s $100M Credit Card Offer",
+            "type": "BUY"
+        },
+        "AMD": {
+            "headline": "CoreWeave stock rips higher after muted IPO",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -13648,6 +13656,10 @@
         },
         {
             "time": "2025-04-03T21:37:11.549839",
+            "value": 100540.14346999991
+        },
+        {
+            "time": "2025-04-03T22:14:55.030528",
             "value": 100540.14346999991
         }
     ]
