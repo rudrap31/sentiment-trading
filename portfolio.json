@@ -703,6 +703,10 @@
         "BABA": {
             "headline": "Jim Cramer: \u201cAlibaba (BABA) CEO Joe Tsai Doesn\u2019t Get It!\u201d \u2013 AI Hype Reality Check",
             "type": "SHORT"
+        },
+        "DOGE-USD": {
+            "headline": "Wells Fargo sees 5 reasons investors should brace for Tesla stock to drop another 50%",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -13470,6 +13474,10 @@
         },
         {
             "time": "2025-04-03T06:22:36.156252",
+            "value": 101251.66786999993
+        },
+        {
+            "time": "2025-04-03T07:16:31.765873",
             "value": 101251.66786999993
         }
     ]
