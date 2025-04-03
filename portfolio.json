@@ -687,6 +687,14 @@
         "COMP": {
             "headline": "Stocks Are Waffling as Dip-Buying Emerges",
             "type": "SHORT"
+        },
+        "FTI": {
+            "headline": "IBD 50 Stock Eyes All-Time High Amid Trump 'Energy Emergency'",
+            "type": "BUY"
+        },
+        "PLTR": {
+            "headline": "Palantir (PLTR) Is Called Too Expensive by Schwab Guests",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -13438,6 +13446,10 @@
         },
         {
             "time": "2025-04-03T02:58:19.566762",
+            "value": 101251.66786999993
+        },
+        {
+            "time": "2025-04-03T03:34:44.721123",
             "value": 101251.66786999993
         }
     ]
