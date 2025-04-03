@@ -1,6 +1,6 @@
 {
-    "cash": 34925.275569999925,
-    "value": 101251.66786999993,
+    "cash": 7835.959769999927,
+    "value": 101251.66786999992,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -497,270 +497,201 @@
             "current_price": 72.27,
             "headline": "Sands Capital Select Growth Fund Sold Edwards Lifesciences Corporation (EW) For Better Opportunities",
             "time": "2025-04-01T14:15:18.765705"
-        }
-    },
-    "queued_trades": {
+        },
         "KHC": {
+            "quantity": 34,
+            "type": "BUY",
+            "buy_price": 30.04,
+            "current_price": 30.04,
             "headline": "Kraft Heinz's Stock Is as Cheap as It's Been Since 2020. 1 Thing to Know Before You Buy.",
-            "type": "BUY"
+            "time": "2025-04-03T14:15:29.763206"
         },
         "BLK": {
+            "quantity": 2,
+            "type": "SHORT",
+            "buy_price": 927.47,
+            "current_price": 927.47,
             "headline": "BlackRock's Fink warns of protectionism amid private market push",
-            "type": "SHORT"
+            "time": "2025-04-03T14:15:29.810505"
         },
         "LLY": {
+            "quantity": 2,
+            "type": "BUY",
+            "buy_price": 802.3,
+            "current_price": 802.3,
             "headline": "Eli Lilly Reverses Its Recent Upswing On Broader Market Woes. Is It A Sell?",
-            "type": "BUY"
+            "time": "2025-04-03T14:15:29.858087"
         },
         "GM": {
+            "quantity": 22,
+            "type": "BUY",
+            "buy_price": 46.84,
+            "current_price": 46.84,
             "headline": "What Makes General Motors Co. (GM) an Attractive Investment?",
-            "type": "BUY"
-        },
-        "NVO": {
-            "headline": "Novo Nordisk\u2019s Worst Month Since 2002 Shows Growth Concerns",
-            "type": "SHORT"
+            "time": "2025-04-03T14:15:29.906568"
         },
         "HOOD": {
+            "quantity": 26,
+            "type": "SHORT",
+            "buy_price": 38.59,
+            "current_price": 38.59,
             "headline": "Why meme stocks like GameStop could cause you headaches",
-            "type": "SHORT"
+            "time": "2025-04-03T14:15:30.001885"
         },
         "ADNT": {
+            "quantity": 82,
+            "type": "SHORT",
+            "buy_price": 12.31,
+            "current_price": 12.31,
             "headline": "Adient PLC (ADNT) Slid on Lower-than-Expected Sales Guidance",
-            "type": "SHORT"
+            "time": "2025-04-03T14:15:30.052231"
         },
         "MDAIW": {
+            "quantity": 3572,
+            "type": "BUY",
+            "buy_price": 0.28,
+            "current_price": 0.28,
             "headline": "Spectral AI (MDAI) Secures $17.7 Million to Launch Burn Wound AI System",
-            "type": "BUY"
+            "time": "2025-04-03T14:15:30.099566"
         },
         "GOOG": {
+            "quantity": 7,
+            "type": "BUY",
+            "buy_price": 154.13,
+            "current_price": 154.13,
             "headline": "Yanolja FY Total Transaction Value Soars 186% To Record",
-            "type": "BUY"
+            "time": "2025-04-03T14:15:30.148885"
         },
         "GIB": {
+            "quantity": 10,
+            "type": "SHORT",
+            "buy_price": 100.08,
+            "current_price": 100.08,
             "headline": "Is CGI Inc. (GIB) the Most Oversold Large Cap Stock to Invest in Now?",
-            "type": "SHORT"
+            "time": "2025-04-03T14:15:30.207635"
         },
         "PARA": {
+            "quantity": 86,
+            "type": "BUY",
+            "buy_price": 11.67,
+            "current_price": 11.67,
             "headline": "Yahoo Hires Marketing Chief to Bring Back Love for \u2018One of the OGs of the Internet\u2019",
-            "type": "BUY"
-        },
-        "^GSPC": {
-            "headline": "CFO turnover reaches six-year high: Russell Reynolds",
-            "type": "BUY"
+            "time": "2025-04-03T14:15:30.254981"
         },
         "VLO": {
+            "quantity": 8,
+            "type": "BUY",
+            "buy_price": 129.28,
+            "current_price": 129.28,
             "headline": "Rex 4Q Beats Top and Bottom Line, Expanded Capacity Set to Drive Growth \u2013 Quarterly Update Report",
-            "type": "BUY"
+            "time": "2025-04-03T14:15:30.363508"
         },
         "ME": {
+            "quantity": 1258,
+            "type": "SHORT",
+            "buy_price": 0.7951,
+            "current_price": 0.7951,
             "headline": "FTC concerned about privacy protections in 23andMe bankruptcy",
-            "type": "SHORT"
+            "time": "2025-04-03T14:15:30.450575"
         },
         "NFLX": {
+            "quantity": 2,
+            "type": "SHORT",
+            "buy_price": 911.7,
+            "current_price": 911.7,
             "headline": "Why Two Banks Are Bullish on Netflix (NFLX)",
-            "type": "SHORT"
+            "time": "2025-04-03T14:15:30.500438"
         },
         "META": {
+            "quantity": 2,
+            "type": "SHORT",
+            "buy_price": 557.1,
+            "current_price": 557.1,
             "headline": "Meta Stock Slumps the Least in a Bad Quarter for the Mag 7. Tesla Is Set to See Its Worst First Quarter Ever.",
-            "type": "SHORT"
+            "time": "2025-04-03T14:15:30.558967"
         },
         "ASBFY": {
+            "quantity": 40,
+            "type": "SHORT",
+            "buy_price": 25.35,
+            "current_price": 25.35,
             "headline": "Primark boss resigns over inappropriate behaviour",
-            "type": "SHORT"
+            "time": "2025-04-03T14:15:30.626750"
         },
         "VRNT": {
+            "quantity": 59,
+            "type": "SHORT",
+            "buy_price": 17.15,
+            "current_price": 17.15,
             "headline": "Verint Systems (VRNT) Stock Target Lowered Amid Unbundled SaaS Renewal Challenges",
-            "type": "SHORT"
+            "time": "2025-04-03T14:15:30.673940"
         },
         "PONY": {
+            "quantity": 139,
+            "type": "BUY",
+            "buy_price": 7.2,
+            "current_price": 7.2,
             "headline": "Pony AI (PONY) Secures Landmark Permit for Paid Driverless Robotaxis in Shenzhen",
-            "type": "BUY"
+            "time": "2025-04-03T14:15:30.721268"
         },
         "BRZE": {
+            "quantity": 30,
+            "type": "SHORT",
+            "buy_price": 34.04,
+            "current_price": 34.04,
             "headline": "Braze (BRZE) Narrows Q4 Losses with 22.5% Revenue Boost and AI-Driven Innovation",
-            "type": "SHORT"
+            "time": "2025-04-03T14:15:30.768790"
         },
         "BA": {
+            "quantity": 7,
+            "type": "SHORT",
+            "buy_price": 162.97,
+            "current_price": 162.97,
             "headline": "Boeing Just Got an Order for 50 Jets. Why the Stock Is Falling.",
-            "type": "SHORT"
+            "time": "2025-04-03T14:15:30.821848"
         },
         "AMZN": {
+            "quantity": 6,
+            "type": "SHORT",
+            "buy_price": 184.09,
+            "current_price": 184.09,
             "headline": "Amazon Pushes Further Into AI Agents As Stock Falls On Tariff Concerns",
-            "type": "SHORT"
+            "time": "2025-04-03T14:15:30.873376"
         },
         "X": {
+            "quantity": 25,
+            "type": "SHORT",
+            "buy_price": 40.9,
+            "current_price": 40.9,
             "headline": "U.S. Steel Stock Is Downgraded as Investors Wait for Trump",
-            "type": "SHORT"
+            "time": "2025-04-03T14:15:30.937171"
         },
         "GIS": {
+            "quantity": 17,
+            "type": "SHORT",
+            "buy_price": 58.9,
+            "current_price": 58.9,
             "headline": "Jim Cramer Take on General Mills (GIS): Growth Has Vanished!",
-            "type": "SHORT"
+            "time": "2025-04-03T14:15:31.005792"
         },
         "ICE": {
+            "quantity": 7,
+            "type": "SHORT",
+            "buy_price": 166.01,
+            "current_price": 166.01,
             "headline": "Intercontinental Exchange, Inc. (ICE): Insiders Were Dumping in Q1 2025",
-            "type": "SHORT"
+            "time": "2025-04-03T14:15:31.089274"
         },
         "ETR": {
+            "quantity": 12,
+            "type": "SHORT",
+            "buy_price": 85.88,
+            "current_price": 85.88,
             "headline": "Entergy Corporation (ETR): Insiders Were Dumping in Q1 2025",
-            "type": "SHORT"
-        },
-        "DUOL": {
-            "headline": "Duolingo, Inc. (DUOL): Insiders Were Dumping in Q1 2025",
-            "type": "SHORT"
-        },
-        "DB": {
-            "headline": "Deutsche Bank\u2019s DWS Fined $27 Million in German Greenwashing Probe",
-            "type": "SHORT"
-        },
-        "FVRR": {
-            "headline": "2 Beaten-Down Stocks to Buy and Hold for a Decade",
-            "type": "BUY"
-        },
-        "LAD": {
-            "headline": "Here\u2019s What Boosted Lithia Motors (LAD) in Q4",
-            "type": "BUY"
-        },
-        "PYPL": {
-            "headline": "Is This Bargain Stock Poised for a Bull Run?",
-            "type": "BUY"
-        },
-        "LGIH": {
-            "headline": "LGI Homes (LGIH) Shares Sold off after Fed\u2019s Reversed Course",
-            "type": "SHORT"
-        },
-        "SPOT": {
-            "headline": "Spotify (SPOT) Rose 148% in 2024",
-            "type": "BUY"
-        },
-        "TSM": {
-            "headline": "Taiwan Semiconductor Manufacturing (TSM) Faces Leadership Challenge Despite $100 Billion U.S. Investment",
-            "type": "SHORT"
-        },
-        "PVH": {
-            "headline": "PVH Corp FY sales, profit slide on \u2018challenging macro environment\u2019",
-            "type": "SHORT"
-        },
-        "MSFT": {
-            "headline": "How OpenAI\u2019s $300 Billion Valuation Creates a Problem for Microsoft",
-            "type": "SHORT"
-        },
-        "DPRO.CN": {
-            "headline": "Why Draganfly Inc. (DPRO) Declined Last Week?",
-            "type": "SHORT"
-        },
-        "CODA": {
-            "headline": "Why Coda Octopus Group (CODA) Declined Last Week?",
-            "type": "SHORT"
-        },
-        "KITTW": {
-            "headline": "Why Nauticus Robotics (KITT) Declined Last Week?",
-            "type": "SHORT"
-        },
-        "PL-WS": {
-            "headline": "Why Planet Labs (PL) Declined Last Week?",
-            "type": "SHORT"
-        },
-        "SPAI": {
-            "headline": "Why Safe Pro Group (SPAI) Declined Last Week?",
-            "type": "SHORT"
-        },
-        "TXRH": {
-            "headline": "Jim Cramer On Texas Roadhouse (TXRH) \u2013 Price Advantage in Tough Times!",
-            "type": "BUY"
-        },
-        "KDP": {
-            "headline": "Keurig Dr Pepper Gets New $4 Billion Revolving Credit Line",
-            "type": "BUY"
-        },
-        "NVDA": {
-            "headline": "Nvidia Stock Wavers. It\u2019s Looking to Break a 5-Day Losing Streak.",
-            "type": "SHORT"
-        },
-        "TSLA": {
-            "headline": "Tesla (TSLA) Performing Poorly in Multiple Markets",
-            "type": "SHORT"
-        },
-        "PRGS": {
-            "headline": "Progress Software's M&A Strategy Likely to Benefit From Tough Macro Environment, Oppenheimer Says",
-            "type": "BUY"
-        },
-        "COMP": {
-            "headline": "Stocks Are Waffling as Dip-Buying Emerges",
-            "type": "SHORT"
-        },
-        "FTI": {
-            "headline": "IBD 50 Stock Eyes All-Time High Amid Trump 'Energy Emergency'",
-            "type": "BUY"
-        },
-        "PLTR": {
-            "headline": "Palantir (PLTR) Is Called Too Expensive by Schwab Guests",
-            "type": "SHORT"
-        },
-        "WRB": {
-            "headline": "W.R. Berkley Nears Historical Price-To-Book High, Analyst Downgrades Stock On Overvaluation Concerns",
-            "type": "SHORT"
-        },
-        "BABA": {
-            "headline": "Jim Cramer: \u201cAlibaba (BABA) CEO Joe Tsai Doesn\u2019t Get It!\u201d \u2013 AI Hype Reality Check",
-            "type": "SHORT"
-        },
-        "DOGE-USD": {
-            "headline": "Wells Fargo sees 5 reasons investors should brace for Tesla stock to drop another 50%",
-            "type": "SHORT"
-        },
-        "INTC": {
-            "headline": "Intel's New CEO Outlines Recovery Strategy. Wall Street Remains Cautious.",
-            "type": "BUY"
-        },
-        "FOX": {
-            "headline": "Newsmax stock soars, pushing market cap north of $20 billion after shocking IPO success",
-            "type": "BUY"
-        },
-        "AAPL": {
-            "headline": "Apple Stock Looks Appetizing At Current Levels, Citi Says",
-            "type": "BUY"
-        },
-        "HMC": {
-            "headline": "Automakers report stellar sales ahead of Trump's tariffs taking effect",
-            "type": "BUY"
-        },
-        "ASB.AX": {
-            "headline": "Shipbuilder Austal rides military spending wave, shares defy market slump",
-            "type": "BUY"
-        },
-        "TLT": {
-            "headline": "FXU Assets Surge 29% With $426 Million Inflow",
-            "type": "BUY"
-        },
-        "^RUT": {
-            "headline": "Tariff Threats Hit Russell 2000",
-            "type": "SHORT"
-        },
-        "FRT": {
-            "headline": "3 Elite High-Yield Dividend Stocks That Could Supply You With a Lifetime of Rising Passive Income",
-            "type": "BUY"
-        },
-        "ORCL": {
-            "headline": "Is Oracle (ORCL) a Fast Growing Business?",
-            "type": "BUY"
-        },
-        "LPRO": {
-            "headline": "Open Lending price target lowered to $2 from $7 at Needham",
-            "type": "SHORT"
-        },
-        "GRMN": {
-            "headline": "Trump Tariffs Take Down Apple, PC, Consumer Electronics Stocks",
-            "type": "SHORT"
-        },
-        "MTSI": {
-            "headline": "MACOM Technology Solutions Holdings (MTSI) Surged in Q4 Amid Robust Growth in Data Center & Defense Sectors",
-            "type": "SHORT"
-        },
-        "CTVA": {
-            "headline": "Daily Spotlight: Stocks Back Near Fair Value",
-            "type": "SHORT"
+            "time": "2025-04-03T14:15:31.201433"
         }
     },
+    "queued_trades": {},
     "trade_history": [
         {
             "action": "SHORT",
@@ -13555,6 +13486,10 @@
         {
             "time": "2025-04-03T13:26:05.119145",
             "value": 101251.66786999993
+        },
+        {
+            "time": "2025-04-03T14:15:39.312231",
+            "value": 101251.66786999992
         }
     ]
 }
