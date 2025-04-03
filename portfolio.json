@@ -723,6 +723,18 @@
         "HMC": {
             "headline": "Automakers report stellar sales ahead of Trump's tariffs taking effect",
             "type": "BUY"
+        },
+        "ASB.AX": {
+            "headline": "Shipbuilder Austal rides military spending wave, shares defy market slump",
+            "type": "BUY"
+        },
+        "TLT": {
+            "headline": "FXU Assets Surge 29% With $426 Million Inflow",
+            "type": "BUY"
+        },
+        "^RUT": {
+            "headline": "Tariff Threats Hit Russell 2000",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -13506,6 +13518,10 @@
         },
         {
             "time": "2025-04-03T10:17:06.078794",
+            "value": 101251.66786999993
+        },
+        {
+            "time": "2025-04-03T11:14:46.722724",
             "value": 101251.66786999993
         }
     ]
