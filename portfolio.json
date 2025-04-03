@@ -1,6 +1,6 @@
 {
     "cash": 34925.275569999925,
-    "value": 101243.75786999994,
+    "value": 101251.66786999993,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -54,7 +54,7 @@
             "quantity": 316,
             "type": "BUY",
             "buy_price": 3.169,
-            "current_price": 3.19,
+            "current_price": 3.245,
             "headline": "City must back defence industry to protect Britain, says major pension fund",
             "time": "2025-03-12T16:46:25.529059"
         },
@@ -78,7 +78,7 @@
             "quantity": 31,
             "type": "BUY",
             "buy_price": 32.44,
-            "current_price": 34,
+            "current_price": 33.19,
             "headline": "Japan\u2019s Unions Win Largest Pay Hike in More Than Three Decades",
             "time": "2025-03-14T14:13:54.498590"
         },
@@ -94,7 +94,7 @@
             "quantity": 8,
             "type": "SHORT",
             "buy_price": 126.515,
-            "current_price": 124.5,
+            "current_price": 124.49,
             "headline": "Banks That Saw $3,000 Gold Coming Are Staying Bullish for Now",
             "time": "2025-03-17T18:45:19.745108"
         },
@@ -110,7 +110,7 @@
             "quantity": 15,
             "type": "BUY",
             "buy_price": 67.91,
-            "current_price": 66.3,
+            "current_price": 66.33,
             "headline": "Safran offers sale of North American unit to win EU okay on Collins deal, source says",
             "time": "2025-03-21T14:14:10.017247"
         },
@@ -326,7 +326,7 @@
             "quantity": 43,
             "type": "BUY",
             "buy_price": 23.61,
-            "current_price": 23.55,
+            "current_price": 23.62,
             "headline": "Enbridge Stock: A Stable Firm With Long Track Record Of Dividend Increases",
             "time": "2025-03-28T14:15:06.745551"
         },
@@ -398,7 +398,7 @@
             "quantity": 35,
             "type": "BUY",
             "buy_price": 29.225,
-            "current_price": 29.23,
+            "current_price": 29.49,
             "headline": "Volvo Cars brings back veteran CEO to tackle tariffs, mounting industry challenges",
             "time": "2025-04-01T14:15:18.235436"
         },
@@ -454,7 +454,7 @@
             "quantity": 25,
             "type": "BUY",
             "buy_price": 40.3025,
-            "current_price": 39.8,
+            "current_price": 39.92,
             "headline": "MetalsGrove Mining acquires three gold permits in C\u00f4te d\u2019Ivoire",
             "time": "2025-04-01T14:15:18.556339"
         },
@@ -674,6 +674,18 @@
         },
         "NVDA": {
             "headline": "Nvidia Stock Wavers. It\u2019s Looking to Break a 5-Day Losing Streak.",
+            "type": "SHORT"
+        },
+        "TSLA": {
+            "headline": "Tesla (TSLA) Performing Poorly in Multiple Markets",
+            "type": "SHORT"
+        },
+        "PRGS": {
+            "headline": "Progress Software's M&A Strategy Likely to Benefit From Tough Macro Environment, Oppenheimer Says",
+            "type": "BUY"
+        },
+        "COMP": {
+            "headline": "Stocks Are Waffling as Dip-Buying Emerges",
             "type": "SHORT"
         }
     },
@@ -13423,6 +13435,10 @@
         {
             "time": "2025-04-03T01:10:35.217270",
             "value": 101243.75786999994
+        },
+        {
+            "time": "2025-04-03T02:58:19.566762",
+            "value": 101251.66786999993
         }
     ]
 }
