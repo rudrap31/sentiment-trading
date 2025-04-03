@@ -707,6 +707,18 @@
         "DOGE-USD": {
             "headline": "Wells Fargo sees 5 reasons investors should brace for Tesla stock to drop another 50%",
             "type": "SHORT"
+        },
+        "INTC": {
+            "headline": "Intel's New CEO Outlines Recovery Strategy. Wall Street Remains Cautious.",
+            "type": "BUY"
+        },
+        "FOX": {
+            "headline": "Newsmax stock soars, pushing market cap north of $20 billion after shocking IPO success",
+            "type": "BUY"
+        },
+        "AAPL": {
+            "headline": "Apple Stock Looks Appetizing At Current Levels, Citi Says",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -13478,6 +13490,10 @@
         },
         {
             "time": "2025-04-03T07:16:31.765873",
+            "value": 101251.66786999993
+        },
+        {
+            "time": "2025-04-03T08:20:56.078074",
             "value": 101251.66786999993
         }
     ]
