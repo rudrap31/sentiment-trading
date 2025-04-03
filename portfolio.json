@@ -483,6 +483,18 @@
         "ALHGO.PA": {
             "headline": "Hamilton Shares Rise After Big Money Buys",
             "type": "BUY"
+        },
+        "LAD": {
+            "headline": "Here\u2019s What Boosted Lithia Motors (LAD) in Q4",
+            "type": "BUY"
+        },
+        "DB": {
+            "headline": "Deutsche Bank\u2019s DWS Fined $27 Million in Greenwashing Probe",
+            "type": "SHORT"
+        },
+        "BB": {
+            "headline": "BlackBerry Expects Full-Year Revenue to Decline Annually; Reports Fiscal Fourth-Quarter Results",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -13624,6 +13636,10 @@
         },
         {
             "time": "2025-04-03T20:39:52.676236",
+            "value": 100540.14346999991
+        },
+        {
+            "time": "2025-04-03T21:14:19.672231",
             "value": 100540.14346999991
         }
     ]
