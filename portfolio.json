@@ -527,6 +527,14 @@
         "^IXIC": {
             "headline": "Stock market today: Stock futures sink after Trump's 'Liberation Day' tariffs shock markets",
             "type": "SHORT"
+        },
+        "DAL": {
+            "headline": "Airline Shares Fall on Trump Tariffs",
+            "type": "SHORT"
+        },
+        "CTSH": {
+            "headline": "Cognizant Technology Solutions (CTSH): Among the Most Oversold Large Cap Stocks to Invest in Now",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -13766,6 +13774,10 @@
         },
         {
             "time": "2025-04-04T08:20:51.700196",
+            "value": 100461.69496999992
+        },
+        {
+            "time": "2025-04-04T09:17:01.942563",
             "value": 100461.69496999992
         }
     ]
