@@ -1,6 +1,6 @@
 {
-    "cash": 38430.82116999993,
-    "value": 100540.14346999991,
+    "cash": 43531.966169999934,
+    "value": 100461.69496999992,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -46,7 +46,7 @@
             "quantity": 316,
             "type": "BUY",
             "buy_price": 3.169,
-            "current_price": 3.245,
+            "current_price": 3.155,
             "headline": "City must back defence industry to protect Britain, says major pension fund",
             "time": "2025-03-12T16:46:25.529059"
         },
@@ -62,25 +62,9 @@
             "quantity": 31,
             "type": "BUY",
             "buy_price": 32.44,
-            "current_price": 33.19,
+            "current_price": 32.75,
             "headline": "Japan\u2019s Unions Win Largest Pay Hike in More Than Three Decades",
             "time": "2025-03-14T14:13:54.498590"
-        },
-        "TMXXF": {
-            "quantity": 29,
-            "type": "BUY",
-            "buy_price": 35.68,
-            "current_price": 36.574,
-            "headline": "US tariff spat fuels trading boom on Canada\u2019s top exchange",
-            "time": "2025-03-17T14:14:49.071142"
-        },
-        "MQBKY": {
-            "quantity": 8,
-            "type": "SHORT",
-            "buy_price": 126.515,
-            "current_price": 124.49,
-            "headline": "Banks That Saw $3,000 Gold Coming Are Staying Bullish for Now",
-            "time": "2025-03-17T18:45:19.745108"
         },
         "TDG": {
             "quantity": 1,
@@ -89,14 +73,6 @@
             "current_price": 1363.42,
             "headline": "This Defense Stock Holds Support Near Entry, Record High",
             "time": "2025-03-20T17:39:14.127681"
-        },
-        "SAFRY": {
-            "quantity": 15,
-            "type": "BUY",
-            "buy_price": 67.91,
-            "current_price": 66.33,
-            "headline": "Safran offers sale of North American unit to win EU okay on Collins deal, source says",
-            "time": "2025-03-21T14:14:10.017247"
         },
         "DRI": {
             "quantity": 5,
@@ -222,7 +198,7 @@
             "quantity": 43,
             "type": "BUY",
             "buy_price": 23.61,
-            "current_price": 23.62,
+            "current_price": 23.3,
             "headline": "Enbridge Stock: A Stable Firm With Long Track Record Of Dividend Increases",
             "time": "2025-03-28T14:15:06.745551"
         },
@@ -274,14 +250,6 @@
             "headline": "Why IAMGOLD Corporation (IAG) Surged On Thursday?",
             "time": "2025-03-31T14:16:05.358084"
         },
-        "VLVLY": {
-            "quantity": 35,
-            "type": "BUY",
-            "buy_price": 29.225,
-            "current_price": 29.49,
-            "headline": "Volvo Cars brings back veteran CEO to tackle tariffs, mounting industry challenges",
-            "time": "2025-04-01T14:15:18.235436"
-        },
         "F": {
             "quantity": 100,
             "type": "SHORT",
@@ -302,7 +270,7 @@
             "quantity": 25,
             "type": "BUY",
             "buy_price": 40.3025,
-            "current_price": 39.92,
+            "current_price": 39.8525,
             "headline": "MetalsGrove Mining acquires three gold permits in C\u00f4te d\u2019Ivoire",
             "time": "2025-04-01T14:15:18.556339"
         },
@@ -410,14 +378,6 @@
             "headline": "Meta Stock Slumps the Least in a Bad Quarter for the Mag 7. Tesla Is Set to See Its Worst First Quarter Ever.",
             "time": "2025-04-03T14:15:30.558967"
         },
-        "ASBFY": {
-            "quantity": 40,
-            "type": "SHORT",
-            "buy_price": 25.35,
-            "current_price": 25.55,
-            "headline": "Primark boss resigns over inappropriate behaviour",
-            "time": "2025-04-03T14:15:30.626750"
-        },
         "BRZE": {
             "quantity": 30,
             "type": "SHORT",
@@ -511,6 +471,10 @@
         "BZ=F": {
             "headline": "Gas prices rise to highest level since September as oil hovers above $70 per barrel",
             "type": "BUY"
+        },
+        "TSLA": {
+            "headline": "Tesla's First-Quarter Deliveries Miss Estimates Amid Demand Weakness",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -7683,6 +7647,56 @@
             "amount": 9,
             "time": "2025-04-03T20:16:39.836995",
             "profit": -31.679999999999964
+        },
+        {
+            "action": "BUY",
+            "ticker": "TMXXF",
+            "headline": "US tariff spat fuels trading boom on Canada\u2019s top exchange",
+            "buy_price": 35.68,
+            "sold_price": 37.675,
+            "amount": 29,
+            "time": "2025-04-04T02:58:02.659257",
+            "profit": 57.854999999999926
+        },
+        {
+            "action": "SHORT",
+            "ticker": "MQBKY",
+            "headline": "Banks That Saw $3,000 Gold Coming Are Staying Bullish for Now",
+            "buy_price": 126.515,
+            "sold_price": 118.64,
+            "amount": 8,
+            "time": "2025-04-04T02:58:02.659270",
+            "profit": 63.0
+        },
+        {
+            "action": "BUY",
+            "ticker": "SAFRY",
+            "headline": "Safran offers sale of North American unit to win EU okay on Collins deal, source says",
+            "buy_price": 67.91,
+            "sold_price": 64.64,
+            "amount": 15,
+            "time": "2025-04-04T02:58:02.659274",
+            "profit": -49.04999999999994
+        },
+        {
+            "action": "BUY",
+            "ticker": "VLVLY",
+            "headline": "Volvo Cars brings back veteran CEO to tackle tariffs, mounting industry challenges",
+            "buy_price": 29.225,
+            "sold_price": 28.03,
+            "amount": 35,
+            "time": "2025-04-04T02:58:02.659299",
+            "profit": -41.82500000000001
+        },
+        {
+            "action": "SHORT",
+            "ticker": "ASBFY",
+            "headline": "Primark boss resigns over inappropriate behaviour",
+            "buy_price": 25.35,
+            "sold_price": 26.13,
+            "amount": 40,
+            "time": "2025-04-04T02:58:02.659305",
+            "profit": -31.199999999999903
         }
     ],
     "value_log": [
@@ -13673,6 +13687,10 @@
         {
             "time": "2025-04-04T01:10:07.855445",
             "value": 100540.14346999991
+        },
+        {
+            "time": "2025-04-04T02:58:03.482657",
+            "value": 100461.69496999992
         }
     ]
 }
