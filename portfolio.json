@@ -295,6 +295,14 @@
         "^RUT": {
             "headline": "Small-Cap Stocks Are Being Pummeled. It\u2019s an Economic Warning Sign.",
             "type": "SHORT"
+        },
+        "ATAT": {
+            "headline": "Renaissance International Small Cap Strategy Added Atour Lifestyle Holdings Limited (ATAT) to its Portfolio in Q4",
+            "type": "BUY"
+        },
+        "^GSPC": {
+            "headline": "It's Been 44 Months Since Block Stock Set Its All-Time High. Here's 1 Reason to Buy Today.",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -14160,6 +14168,10 @@
         },
         {
             "time": "2025-04-04T20:39:02.773056",
+            "value": 100814.65026999991
+        },
+        {
+            "time": "2025-04-04T21:14:38.566725",
             "value": 100814.65026999991
         }
     ]
