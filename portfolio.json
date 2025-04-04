@@ -1,6 +1,6 @@
 {
-    "cash": 64391.95236999993,
-    "value": 100874.79966999996,
+    "cash": 62102.20826999993,
+    "value": 100988.28616999992,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -14,7 +14,7 @@
             "quantity": 13,
             "type": "SHORT",
             "buy_price": 79.18,
-            "current_price": 77.13,
+            "current_price": 77.135,
             "headline": "How Wall Street pros are looking at fears over a US economy slowdown",
             "time": "2025-03-03T14:41:49.430490"
         },
@@ -54,7 +54,7 @@
             "quantity": 3,
             "type": "BUY",
             "buy_price": 391.995,
-            "current_price": 391.49,
+            "current_price": 390.02,
             "headline": "GE Aerospace Leads Five Stocks Near Buy Points With This Bullish Trait",
             "time": "2025-03-24T14:15:09.015178"
         },
@@ -62,7 +62,7 @@
             "quantity": 113,
             "type": "BUY",
             "buy_price": 8.86,
-            "current_price": 8.755,
+            "current_price": 8.82,
             "headline": "Clearlake Is Nearing $4 Billion Deal for Dun & Bradstreet",
             "time": "2025-03-24T14:15:09.115339"
         },
@@ -70,7 +70,7 @@
             "quantity": 4,
             "type": "BUY",
             "buy_price": 279.15,
-            "current_price": 280.83,
+            "current_price": 280.7,
             "headline": "Volatility Drives SPDR Gold ETF Assets to New Milestone",
             "time": "2025-03-24T14:15:09.140004"
         },
@@ -86,7 +86,7 @@
             "quantity": 50,
             "type": "BUY",
             "buy_price": 20.08,
-            "current_price": 20.31,
+            "current_price": 20.585,
             "headline": "Smithfield Foods expects growth in sales, profit on strong packaged meats demand",
             "time": "2025-03-25T14:15:26.259761"
         },
@@ -102,7 +102,7 @@
             "quantity": 2,
             "type": "BUY",
             "buy_price": 581.64,
-            "current_price": 571.4899,
+            "current_price": 571.225,
             "headline": "Roper Strikes $1.65 Billion Deal to Buy Autism Therapy Software Provider CentralReach",
             "time": "2025-03-26T14:15:46.106487"
         },
@@ -110,7 +110,7 @@
             "quantity": 21,
             "type": "BUY",
             "buy_price": 49.66,
-            "current_price": 48.52,
+            "current_price": 48.85,
             "headline": "Chipotle and 8 More Growth Stocks Could Beat Tech in a Volatile Market",
             "time": "2025-03-26T14:15:46.254814"
         },
@@ -118,7 +118,7 @@
             "quantity": 31,
             "type": "BUY",
             "buy_price": 32.47,
-            "current_price": 32.73,
+            "current_price": 33.5,
             "headline": "Chewy Stock Rises on Earnings Beat as CEO Cites \u2018Strong Active Customer Growth\u2019",
             "time": "2025-03-28T14:15:06.715629"
         },
@@ -150,7 +150,7 @@
             "quantity": 15,
             "type": "SHORT",
             "buy_price": 70.89,
-            "current_price": 71.43,
+            "current_price": 70.89,
             "headline": "Daily Spotlight: Not a Good Start to 2025",
             "time": "2025-04-01T14:15:18.607424"
         },
@@ -158,7 +158,7 @@
             "quantity": 14,
             "type": "BUY",
             "buy_price": 72.27,
-            "current_price": 71.335,
+            "current_price": 71.51,
             "headline": "Sands Capital Select Growth Fund Sold Edwards Lifesciences Corporation (EW) For Better Opportunities",
             "time": "2025-04-01T14:15:18.765705"
         },
@@ -166,7 +166,7 @@
             "quantity": 34,
             "type": "BUY",
             "buy_price": 30.04,
-            "current_price": 30.855,
+            "current_price": 30.53,
             "headline": "Kraft Heinz's Stock Is as Cheap as It's Been Since 2020. 1 Thing to Know Before You Buy.",
             "time": "2025-04-03T14:15:29.763206"
         },
@@ -174,7 +174,7 @@
             "quantity": 7,
             "type": "BUY",
             "buy_price": 154.13,
-            "current_price": 149.73,
+            "current_price": 151.91,
             "headline": "Yanolja FY Total Transaction Value Soars 186% To Record",
             "time": "2025-04-03T14:15:30.148885"
         },
@@ -182,7 +182,7 @@
             "quantity": 10,
             "type": "SHORT",
             "buy_price": 100.08,
-            "current_price": 98.75,
+            "current_price": 99.72,
             "headline": "Is CGI Inc. (GIB) the Most Oversold Large Cap Stock to Invest in Now?",
             "time": "2025-04-03T14:15:30.207635"
         },
@@ -190,7 +190,7 @@
             "quantity": 7,
             "type": "SHORT",
             "buy_price": 166.01,
-            "current_price": 162.65,
+            "current_price": 162.99,
             "headline": "Intercontinental Exchange, Inc. (ICE): Insiders Were Dumping in Q1 2025",
             "time": "2025-04-03T14:15:31.089274"
         },
@@ -198,23 +198,15 @@
             "quantity": 12,
             "type": "SHORT",
             "buy_price": 85.88,
-            "current_price": 81.97,
+            "current_price": 82.035,
             "headline": "Entergy Corporation (ETR): Insiders Were Dumping in Q1 2025",
             "time": "2025-04-03T14:15:31.201433"
-        },
-        "LAD": {
-            "quantity": 4,
-            "type": "BUY",
-            "buy_price": 269,
-            "current_price": 268.92,
-            "headline": "Here\u2019s What Boosted Lithia Motors (LAD) in Q4",
-            "time": "2025-04-04T14:14:31.555356"
         },
         "DB": {
             "quantity": 48,
             "type": "SHORT",
             "buy_price": 20.88,
-            "current_price": 20.44,
+            "current_price": 20.72,
             "headline": "Deutsche Bank\u2019s DWS Fined $27 Million in Greenwashing Probe",
             "time": "2025-04-04T14:14:31.601439"
         },
@@ -222,7 +214,7 @@
             "quantity": 19,
             "type": "SHORT",
             "buy_price": 52.65,
-            "current_price": 51.0077,
+            "current_price": 53.18,
             "headline": "Atkore (ATKR) Declined on Worse-Than-Expected Results and Lowered Guidance",
             "time": "2025-04-04T14:14:31.684204"
         },
@@ -230,7 +222,7 @@
             "quantity": 6,
             "type": "BUY",
             "buy_price": 192.97,
-            "current_price": 194.19,
+            "current_price": 196.605,
             "headline": "How Apple Gets a Lift From Visa\u2019s $100M Credit Card Offer",
             "time": "2025-04-04T14:14:31.725620"
         },
@@ -238,7 +230,7 @@
             "quantity": 12,
             "type": "BUY",
             "buy_price": 88.33,
-            "current_price": 85.865,
+            "current_price": 86.95,
             "headline": "CoreWeave stock rips higher after muted IPO",
             "time": "2025-04-04T14:14:31.766920"
         },
@@ -246,7 +238,7 @@
             "quantity": 4,
             "type": "SHORT",
             "buy_price": 253.7,
-            "current_price": 241.5,
+            "current_price": 247.95,
             "headline": "Tesla's First-Quarter Deliveries Miss Estimates Amid Demand Weakness",
             "time": "2025-04-04T14:14:31.862211"
         },
@@ -254,7 +246,7 @@
             "quantity": 15,
             "type": "BUY",
             "buy_price": 66.73,
-            "current_price": 65.02,
+            "current_price": 66.61,
             "headline": "Domino\u2019s Pizza and DoorDash Strike a Deal. Sales Are Why.",
             "time": "2025-04-04T14:14:32.200103"
         },
@@ -262,7 +254,7 @@
             "quantity": 84,
             "type": "BUY",
             "buy_price": 12.02,
-            "current_price": 12.23,
+            "current_price": 12.51,
             "headline": "Roblox Stock Rises On New Online Advertising Initiative",
             "time": "2025-04-04T14:14:32.369143"
         },
@@ -270,7 +262,7 @@
             "quantity": 14,
             "type": "SHORT",
             "buy_price": 72.9,
-            "current_price": 72.9,
+            "current_price": 71.47,
             "headline": "Cognizant Technology Solutions (CTSH): Among the Most Oversold Large Cap Stocks to Invest in Now",
             "time": "2025-04-04T14:14:32.497068"
         },
@@ -278,9 +270,33 @@
             "quantity": 7,
             "type": "BUY",
             "buy_price": 152.49,
-            "current_price": 152.49,
+            "current_price": 151.06,
             "headline": "The New Pepsi Challenge: Saving Pepsi From Years of Decline",
             "time": "2025-04-04T14:14:32.623589"
+        },
+        "ASML": {
+            "quantity": 2,
+            "type": "SHORT",
+            "buy_price": 619.085,
+            "current_price": 619.085,
+            "headline": "ASML Holding N.V. (ASML) \u2013 Jim Cramer Flags Trade Issues: \u2018A Dutch Company Stuck in U.S.-China Tensions!\u2019",
+            "time": "2025-04-04T15:15:38.816450"
+        },
+        "HSY": {
+            "quantity": 7,
+            "type": "BUY",
+            "buy_price": 165.4875,
+            "current_price": 165.4875,
+            "headline": "Hershey near $750M deal to buy LesserEvil popcorn brand, WSJ reports",
+            "time": "2025-04-04T15:15:38.903329"
+        },
+        "NVO": {
+            "quantity": 16,
+            "type": "SHORT",
+            "buy_price": 64.3551,
+            "current_price": 64.3551,
+            "headline": "Is Novo Nordisk A/S (NVO) The Best Beaten Down Stock to Buy According to Analysts?",
+            "time": "2025-04-04T15:15:39.030858"
         }
     },
     "queued_trades": {},
@@ -7884,6 +7900,16 @@
             "amount": 27,
             "time": "2025-04-04T14:41:31.742835",
             "profit": 59.80500000000009
+        },
+        {
+            "action": "BUY",
+            "ticker": "LAD",
+            "headline": "Here\u2019s What Boosted Lithia Motors (LAD) in Q4",
+            "buy_price": 269,
+            "sold_price": 284.13,
+            "amount": 4,
+            "time": "2025-04-04T15:15:37.369156",
+            "profit": 60.51999999999998
         }
     ],
     "value_log": [
@@ -13930,6 +13956,10 @@
         {
             "time": "2025-04-04T14:41:32.774106",
             "value": 100874.79966999996
+        },
+        {
+            "time": "2025-04-04T15:15:39.030874",
+            "value": 100988.28616999992
         }
     ]
 }
