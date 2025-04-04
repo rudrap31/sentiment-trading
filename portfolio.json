@@ -539,6 +539,10 @@
         "NQ=F": {
             "headline": "'Worse than expected': Wall Street reacts to Trump's 'Liberation Day' tariff surprise, stocks sink",
             "type": "SHORT"
+        },
+        "IVV": {
+            "headline": "April Kicks Off With $3.2 Billion in Outflows",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -13786,6 +13790,10 @@
         },
         {
             "time": "2025-04-04T10:17:16.157701",
+            "value": 100461.69496999992
+        },
+        {
+            "time": "2025-04-04T11:14:30.769284",
             "value": 100461.69496999992
         }
     ]
