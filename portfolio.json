@@ -515,6 +515,10 @@
         "CRWD": {
             "headline": "CrowdStrike Holdings Stock Gets IBD Rating Lift To 96",
             "type": "BUY"
+        },
+        "RDDT": {
+            "headline": "'Someone Asked Why '$75K Is Seen As A Low Salary On Reddit.' The Responses Actually Make More Sense Than You'd Expect",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -13746,6 +13750,10 @@
         },
         {
             "time": "2025-04-04T06:22:04.392934",
+            "value": 100461.69496999992
+        },
+        {
+            "time": "2025-04-04T07:15:23.532108",
             "value": 100461.69496999992
         }
     ]
