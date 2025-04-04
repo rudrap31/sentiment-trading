@@ -319,6 +319,14 @@
         "PLYA": {
             "headline": "Here\u2019s Why Playa Hotels & Resorts N.V. (PLYA) Rose in Q4",
             "type": "BUY"
+        },
+        "BTC-USD": {
+            "headline": "Bitcoin Price Falls Below $82,000, Crypto Stocks Slide After Tariff Plans",
+            "type": "SHORT"
+        },
+        "EADSY": {
+            "headline": "Aerospace walks trade tightrope as EU mulls tariff response",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -14192,6 +14200,10 @@
         },
         {
             "time": "2025-04-04T21:37:00.710872",
+            "value": 100814.65026999991
+        },
+        {
+            "time": "2025-04-04T22:14:58.361049",
             "value": 100814.65026999991
         }
     ]
