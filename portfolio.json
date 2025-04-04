@@ -475,6 +475,18 @@
         "TSLA": {
             "headline": "Tesla's First-Quarter Deliveries Miss Estimates Amid Demand Weakness",
             "type": "SHORT"
+        },
+        "CRWV": {
+            "headline": "CoreWeave Adds To Rally Following Downsized IPO. Why Shares Could Stay Volatile.",
+            "type": "BUY"
+        },
+        "AMZN": {
+            "headline": "Amazon (AMZN) Stock Is \u201cStarting to Look Appealing,\u201d Consumer Expert Says",
+            "type": "BUY"
+        },
+        "PLTR": {
+            "headline": "Palantir Stock Rises Ahead of Tariff News. Defense Spending Is a Wild Card.",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -13694,6 +13706,10 @@
         },
         {
             "time": "2025-04-04T03:31:59.935358",
+            "value": 100461.69496999992
+        },
+        {
+            "time": "2025-04-04T04:18:48.694414",
             "value": 100461.69496999992
         }
     ]
