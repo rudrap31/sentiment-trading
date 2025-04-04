@@ -487,6 +487,26 @@
         "PLTR": {
             "headline": "Palantir Stock Rises Ahead of Tariff News. Defense Spending Is a Wild Card.",
             "type": "BUY"
+        },
+        "LLY": {
+            "headline": "Hims & Hers Zepbound Offering Won\u2019t Bring Needed Sales Boom, Analysts Say",
+            "type": "BUY"
+        },
+        "DIN": {
+            "headline": "Hooters\u2019 Bankruptcy Is the Latest Sign of Trouble for Restaurants",
+            "type": "SHORT"
+        },
+        "MRX": {
+            "headline": "Stock Of The Day, Already Up 110% Since IPO, Rallies On Strong Preliminary Results",
+            "type": "BUY"
+        },
+        "^GSPC": {
+            "headline": "Tariffs could trigger a negative feedback loop in the stock market, asset manager says",
+            "type": "SHORT"
+        },
+        "UBER": {
+            "headline": "Domino\u2019s Pizza and DoorDash Strike a Deal. Sales Are Why.",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -13710,6 +13730,10 @@
         },
         {
             "time": "2025-04-04T04:18:48.694414",
+            "value": 100461.69496999992
+        },
+        {
+            "time": "2025-04-04T05:16:18.153796",
             "value": 100461.69496999992
         }
     ]
