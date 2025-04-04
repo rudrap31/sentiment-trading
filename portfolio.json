@@ -507,6 +507,14 @@
         "UBER": {
             "headline": "Domino\u2019s Pizza and DoorDash Strike a Deal. Sales Are Why.",
             "type": "BUY"
+        },
+        "GC=F": {
+            "headline": "Gold Climbs to Near Record Ahead of Trump\u2019s Latest Tariff Reveal",
+            "type": "BUY"
+        },
+        "CRWD": {
+            "headline": "CrowdStrike Holdings Stock Gets IBD Rating Lift To 96",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -13734,6 +13742,10 @@
         },
         {
             "time": "2025-04-04T05:16:18.153796",
+            "value": 100461.69496999992
+        },
+        {
+            "time": "2025-04-04T06:22:04.392934",
             "value": 100461.69496999992
         }
     ]
