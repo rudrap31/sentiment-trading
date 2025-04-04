@@ -327,6 +327,22 @@
         "EADSY": {
             "headline": "Aerospace walks trade tightrope as EU mulls tariff response",
             "type": "SHORT"
+        },
+        "COMP": {
+            "headline": "Trump's Tariffs Are Crushing the Stock Market: Here's What All Investors Need to Know",
+            "type": "SHORT"
+        },
+        "^DJI": {
+            "headline": "Commentary: How Trump's tariffs could harm Americans",
+            "type": "SHORT"
+        },
+        "HSY": {
+            "headline": "Hershey Strikes $750 Million Deal for LesserEvil Popcorn Brand",
+            "type": "BUY"
+        },
+        "STLAM.MI": {
+            "headline": "Stellantis temporarily halts production at 2 plants in Canada, Mexico as auto tariffs take effect",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -14204,6 +14220,10 @@
         },
         {
             "time": "2025-04-04T22:14:58.361049",
+            "value": 100814.65026999991
+        },
+        {
+            "time": "2025-04-04T23:15:01.197666",
             "value": 100814.65026999991
         }
     ]
