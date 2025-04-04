@@ -535,6 +535,10 @@
         "CTSH": {
             "headline": "Cognizant Technology Solutions (CTSH): Among the Most Oversold Large Cap Stocks to Invest in Now",
             "type": "SHORT"
+        },
+        "NQ=F": {
+            "headline": "'Worse than expected': Wall Street reacts to Trump's 'Liberation Day' tariff surprise, stocks sink",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -13778,6 +13782,10 @@
         },
         {
             "time": "2025-04-04T09:17:01.942563",
+            "value": 100461.69496999992
+        },
+        {
+            "time": "2025-04-04T10:17:16.157701",
             "value": 100461.69496999992
         }
     ]
