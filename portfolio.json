@@ -327,6 +327,10 @@
         "EADSF": {
             "headline": "Boeing, Airbus Set to Lose 45-Year Duty-Free Status",
             "type": "SHORT"
+        },
+        "CHD": {
+            "headline": "Consumer Staples Gain on Rush to Safety After Tariffs Spark Market Rout",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -14250,6 +14254,10 @@
         },
         {
             "time": "2025-04-05T04:14:38.112984",
+            "value": 100635.16276999992
+        },
+        {
+            "time": "2025-04-05T06:15:26.996855",
             "value": 100635.16276999992
         }
     ]
