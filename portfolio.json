@@ -367,6 +367,10 @@
         "KO": {
             "headline": "Jim Cramer Says Don\u2019t Short Coca-Cola (KO): \u2018It Was a Winner When the Nasdaq Broke\u2019",
             "type": "BUY"
+        },
+        "OIS": {
+            "headline": "Why Oil States International, Inc. (OIS) Stock Crashed This Week",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -14318,6 +14322,10 @@
         },
         {
             "time": "2025-04-05T18:14:28.769370",
+            "value": 100635.16276999992
+        },
+        {
+            "time": "2025-04-05T20:12:12.951024",
             "value": 100635.16276999992
         }
     ]
