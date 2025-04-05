@@ -1,6 +1,6 @@
 {
-    "cash": 64237.44826999994,
-    "value": 100814.65026999991,
+    "cash": 67060.29826999994,
+    "value": 100635.16276999992,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -14,17 +14,9 @@
             "quantity": 33,
             "type": "SHORT",
             "buy_price": 30.5,
-            "current_price": 30.75,
+            "current_price": 30.5,
             "headline": "Fed\u2019s Daly Sees Rates in \u2018Good Place\u2019 Amid Elevated Uncertainty",
             "time": "2025-03-10T14:14:47.817503"
-        },
-        "LGGNF": {
-            "quantity": 316,
-            "type": "BUY",
-            "buy_price": 3.169,
-            "current_price": 3.155,
-            "headline": "City must back defence industry to protect Britain, says major pension fund",
-            "time": "2025-03-12T16:46:25.529059"
         },
         "HNHAF": {
             "quantity": 308,
@@ -38,7 +30,7 @@
             "quantity": 31,
             "type": "BUY",
             "buy_price": 32.44,
-            "current_price": 32.75,
+            "current_price": 32.805,
             "headline": "Japan\u2019s Unions Win Largest Pay Hike in More Than Three Decades",
             "time": "2025-03-14T14:13:54.498590"
         },
@@ -82,14 +74,6 @@
             "headline": "Cost of insuring electric vehicles could skyrocket amid Trump\u2019s trade war on China",
             "time": "2025-03-26T14:15:44.858727"
         },
-        "EBBGF": {
-            "quantity": 43,
-            "type": "BUY",
-            "buy_price": 23.61,
-            "current_price": 23.3,
-            "headline": "Enbridge Stock: A Stable Firm With Long Track Record Of Dividend Increases",
-            "time": "2025-03-28T14:15:06.745551"
-        },
         "NXGPF": {
             "quantity": 8,
             "type": "BUY",
@@ -97,14 +81,6 @@
             "current_price": 126.5,
             "headline": "Next\u2019s Shares Jump on Guidance Upgrade Against Tough Sector Backdrop",
             "time": "2025-03-31T14:16:04.742429"
-        },
-        "ASXFY": {
-            "quantity": 25,
-            "type": "BUY",
-            "buy_price": 40.3025,
-            "current_price": 39.8525,
-            "headline": "MetalsGrove Mining acquires three gold permits in C\u00f4te d\u2019Ivoire",
-            "time": "2025-04-01T14:15:18.556339"
         },
         "KHC": {
             "quantity": 34,
@@ -238,7 +214,7 @@
             "quantity": 5,
             "type": "BUY",
             "buy_price": 218.4,
-            "current_price": 218.4,
+            "current_price": 214.98,
             "headline": "Nike, Lululemon Soar as Trump Touts Productive Call With Vietnam",
             "time": "2025-04-04T16:45:33.105107"
         },
@@ -342,6 +318,10 @@
         },
         "STLAM.MI": {
             "headline": "Stellantis temporarily halts production at 2 plants in Canada, Mexico as auto tariffs take effect",
+            "type": "SHORT"
+        },
+        "AAPL": {
+            "headline": "Plenty of Tariff Pain for Big Tech, From Supply Chains to Advertising Impact",
             "type": "SHORT"
         }
     },
@@ -8115,6 +8095,36 @@
             "amount": 7,
             "time": "2025-04-04T19:36:12.165015",
             "profit": -46.90000000000012
+        },
+        {
+            "action": "BUY",
+            "ticker": "LGGNF",
+            "headline": "City must back defence industry to protect Britain, says major pension fund",
+            "buy_price": 3.169,
+            "sold_price": 2.9,
+            "amount": 316,
+            "time": "2025-04-05T02:54:07.951650",
+            "profit": -85.00400000000005
+        },
+        {
+            "action": "BUY",
+            "ticker": "EBBGF",
+            "headline": "Enbridge Stock: A Stable Firm With Long Track Record Of Dividend Increases",
+            "buy_price": 23.61,
+            "sold_price": 22.9,
+            "amount": 43,
+            "time": "2025-04-05T02:54:07.951666",
+            "profit": -30.530000000000037
+        },
+        {
+            "action": "BUY",
+            "ticker": "ASXFY",
+            "headline": "MetalsGrove Mining acquires three gold permits in C\u00f4te d\u2019Ivoire",
+            "buy_price": 40.3025,
+            "sold_price": 36.87,
+            "amount": 25,
+            "time": "2025-04-05T02:54:07.951671",
+            "profit": -85.81250000000011
         }
     ],
     "value_log": [
@@ -14229,6 +14239,10 @@
         {
             "time": "2025-04-05T00:53:58.007645",
             "value": 100814.65026999991
+        },
+        {
+            "time": "2025-04-05T02:54:08.747322",
+            "value": 100635.16276999992
         }
     ]
 }
