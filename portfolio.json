@@ -331,6 +331,10 @@
         "CHD": {
             "headline": "Consumer Staples Gain on Rush to Safety After Tariffs Spark Market Rout",
             "type": "BUY"
+        },
+        "BIP-P-A": {
+            "headline": "Brookfield Infrastructure to Buy Colonial Pipeline Operator in $9 Billion Deal",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -14266,6 +14270,10 @@
         },
         {
             "time": "2025-04-05T10:11:54.404506",
+            "value": 100635.16276999992
+        },
+        {
+            "time": "2025-04-05T12:20:02.894783",
             "value": 100635.16276999992
         }
     ]
