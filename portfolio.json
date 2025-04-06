@@ -447,6 +447,14 @@
         "LNG": {
             "headline": "Why Cheniere Energy Partners (CQP) Gained This Week?",
             "type": "BUY"
+        },
+        "DNN": {
+            "headline": "Is Denison Mines Corp. (DNN) The Small Cap Stock with Huge Upside Potential?",
+            "type": "BUY"
+        },
+        "BRK-B": {
+            "headline": "Up 17% in 2025, Has Warren Buffett-Led Berkshire Hathaway Run Up Too Far, Too Fast?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -14450,6 +14458,10 @@
         },
         {
             "time": "2025-04-06T20:12:20.213591",
+            "value": 100635.16276999992
+        },
+        {
+            "time": "2025-04-06T22:11:31.545591",
             "value": 100635.16276999992
         }
     ]
