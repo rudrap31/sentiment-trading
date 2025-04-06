@@ -379,6 +379,18 @@
         "MS": {
             "headline": "US Treasuries Gain as Trade War Spurs Inflation and Growth Angst",
             "type": "BUY"
+        },
+        "LEN-B": {
+            "headline": "As Fear Grips Markets, These Industry-Leading Stocks Look Like Bargains",
+            "type": "SHORT"
+        },
+        "NOW": {
+            "headline": "Jim Cramer on ServiceNow (NOW): \u201cDown 32% \u2013 I Can\u2019t Remember a Drop Like That!\u201d",
+            "type": "SHORT"
+        },
+        "WDAY": {
+            "headline": "Workday, Inc. (WDAY): Among the Best Innovative Stocks to Buy According to Analysts",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -14350,6 +14362,10 @@
         },
         {
             "time": "2025-04-06T04:14:32.026942",
+            "value": 100635.16276999992
+        },
+        {
+            "time": "2025-04-06T06:16:06.740866",
             "value": 100635.16276999992
         }
     ]
