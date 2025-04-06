@@ -375,6 +375,10 @@
         "BTAFF": {
             "headline": "Dividend Stocks: Smoking-Hot 7% Yield Lights Up Demand",
             "type": "BUY"
+        },
+        "MS": {
+            "headline": "US Treasuries Gain as Trade War Spurs Inflation and Growth Angst",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -14342,6 +14346,10 @@
         },
         {
             "time": "2025-04-06T03:00:47.888619",
+            "value": 100635.16276999992
+        },
+        {
+            "time": "2025-04-06T04:14:32.026942",
             "value": 100635.16276999992
         }
     ]
