@@ -371,6 +371,10 @@
         "OIS": {
             "headline": "Why Oil States International, Inc. (OIS) Stock Crashed This Week",
             "type": "SHORT"
+        },
+        "BTAFF": {
+            "headline": "Dividend Stocks: Smoking-Hot 7% Yield Lights Up Demand",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -14334,6 +14338,10 @@
         },
         {
             "time": "2025-04-06T00:59:03.727923",
+            "value": 100635.16276999992
+        },
+        {
+            "time": "2025-04-06T03:00:47.888619",
             "value": 100635.16276999992
         }
     ]
