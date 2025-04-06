@@ -431,6 +431,10 @@
         "SOUNW": {
             "headline": "Why SoundHound AI Inc. (SOUN) Performed Worst On Friday?",
             "type": "SHORT"
+        },
+        "PGRE": {
+            "headline": "Big Office Landlord Made $4 Million in Previously Undisclosed Payouts to Its CEO",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -14414,6 +14418,10 @@
         },
         {
             "time": "2025-04-06T10:12:41.372451",
+            "value": 100635.16276999992
+        },
+        {
+            "time": "2025-04-06T12:20:02.902081",
             "value": 100635.16276999992
         }
     ]
