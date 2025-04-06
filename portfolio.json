@@ -391,6 +391,26 @@
         "WDAY": {
             "headline": "Workday, Inc. (WDAY): Among the Best Innovative Stocks to Buy According to Analysts",
             "type": "BUY"
+        },
+        "GOOG": {
+            "headline": "Alphabet (GOOGL) Price Target Cut as AI Threat Looms Over Google Search Dominance",
+            "type": "SHORT"
+        },
+        "APP": {
+            "headline": "AppLovin (APP) Defends AI Strategy After Short Seller Reports Spark De-Platforming Fears",
+            "type": "SHORT"
+        },
+        "CME": {
+            "headline": "CME Group (CME) Called \u2018Totally Terrific\u2019 \u2013 Jim Cramer Says It\u2019s Fintech Without Risk",
+            "type": "SHORT"
+        },
+        "COP": {
+            "headline": "Jim Cramer on ConocoPhillips (COP): \u2018Great Call, One of the Best-Run Oils\u2019",
+            "type": "BUY"
+        },
+        "ORCL": {
+            "headline": "Jim Cramer on Oracle (ORCL): \u201cWarning Sign\u2014Lost a Key Contract, That\u2019s Not Good!\u201d",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -14366,6 +14386,10 @@
         },
         {
             "time": "2025-04-06T06:16:06.740866",
+            "value": 100635.16276999992
+        },
+        {
+            "time": "2025-04-06T08:14:33.728971",
             "value": 100635.16276999992
         }
     ]
