@@ -435,6 +435,18 @@
         "PGRE": {
             "headline": "Big Office Landlord Made $4 Million in Previously Undisclosed Payouts to Its CEO",
             "type": "BUY"
+        },
+        "PLTR": {
+            "headline": "Palantir Takes Trump Tariffs Hit But Outperforms Software Peers. Is Palantir Stock A Buy?",
+            "type": "BUY"
+        },
+        "TSM": {
+            "headline": "Prediction: Taiwan Semiconductor Manufacturing Will Soar Over the Next 5 Years. Here's 1 Reason Why.",
+            "type": "SHORT"
+        },
+        "LNG": {
+            "headline": "Why Cheniere Energy Partners (CQP) Gained This Week?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -14426,6 +14438,10 @@
         },
         {
             "time": "2025-04-06T14:10:57.204642",
+            "value": 100635.16276999992
+        },
+        {
+            "time": "2025-04-06T16:13:12.751404",
             "value": 100635.16276999992
         }
     ]
