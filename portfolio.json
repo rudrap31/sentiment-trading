@@ -411,6 +411,26 @@
         "ORCL": {
             "headline": "Jim Cramer on Oracle (ORCL): \u201cWarning Sign\u2014Lost a Key Contract, That\u2019s Not Good!\u201d",
             "type": "SHORT"
+        },
+        "TTD": {
+            "headline": "Market Meltdown: 1 Screaming Buy Down 50% Hasn't Been This Cheap in 5 Years",
+            "type": "SHORT"
+        },
+        "HNHAF": {
+            "headline": "Foxconn reports record Q1 revenue, says it must closely watch global politics",
+            "type": "BUY"
+        },
+        "BE": {
+            "headline": "Why Bloom Energy Corp. (BE) Performed Worst On Friday?",
+            "type": "SHORT"
+        },
+        "CVE": {
+            "headline": "Why Cenovus Energy Inc. (CVE) Performed Worst On Friday?",
+            "type": "SHORT"
+        },
+        "SOUNW": {
+            "headline": "Why SoundHound AI Inc. (SOUN) Performed Worst On Friday?",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -14390,6 +14410,10 @@
         },
         {
             "time": "2025-04-06T08:14:33.728971",
+            "value": 100635.16276999992
+        },
+        {
+            "time": "2025-04-06T10:12:41.372451",
             "value": 100635.16276999992
         }
     ]
