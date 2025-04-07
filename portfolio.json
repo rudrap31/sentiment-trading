@@ -491,6 +491,14 @@
         "MCK": {
             "headline": "McKesson Corporation (MCK): Jim Cramer\u2019s Top Pick \u2013 Why He Thinks McKesson Can \u2018Jack Prices Up\u2019",
             "type": "BUY"
+        },
+        "SPRY": {
+            "headline": "ARS Pharmaceuticals (SPRY): Among Unstoppable Stocks That Could Double Your Money",
+            "type": "SHORT"
+        },
+        "RNA": {
+            "headline": "Avidity Biosciences (RNA): Among Unstoppable Stocks That Could Double Your Money",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -14522,6 +14530,10 @@
         },
         {
             "time": "2025-04-07T07:16:44.662138",
+            "value": 100635.16276999992
+        },
+        {
+            "time": "2025-04-07T08:21:33.705052",
             "value": 100635.16276999992
         }
     ]
