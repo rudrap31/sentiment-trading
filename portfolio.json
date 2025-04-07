@@ -499,6 +499,14 @@
         "RNA": {
             "headline": "Avidity Biosciences (RNA): Among Unstoppable Stocks That Could Double Your Money",
             "type": "SHORT"
+        },
+        "^SPX": {
+            "headline": "Wall Street stock bulls throw in the towel as tariff market meltdown 'projects negative outcomes to infinity'",
+            "type": "SHORT"
+        },
+        "GLDAF": {
+            "headline": "GlobalData reduces US light vehicle sales outlook following tariff announcements",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -14542,6 +14550,10 @@
         },
         {
             "time": "2025-04-07T10:18:27.610170",
+            "value": 100635.16276999992
+        },
+        {
+            "time": "2025-04-07T11:13:57.548892",
             "value": 100635.16276999992
         }
     ]
