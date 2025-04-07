@@ -459,6 +459,22 @@
         "^YH102": {
             "headline": "Jaguar and Land Rover maker pauses shipments to US as it develops post-tariff plans",
             "type": "SHORT"
+        },
+        "PANW": {
+            "headline": "Jim Cramer Calls Out Palo Alto Networks (PANW) Media Hit: \u2018Totally Taken Out of Context\u2019",
+            "type": "SHORT"
+        },
+        "SNYXF": {
+            "headline": "Why Vital Energy, Inc. (VTLE) Crashed This Week",
+            "type": "SHORT"
+        },
+        "AMTX": {
+            "headline": "Why Aemetis, Inc. (AMTX) Stock Crashed This Week",
+            "type": "SHORT"
+        },
+        "KOS": {
+            "headline": "Why Kosmos Energy Ltd. (KOS) Stock Crashed This Week",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -14474,6 +14490,10 @@
         },
         {
             "time": "2025-04-07T03:02:37.172720",
+            "value": 100635.16276999992
+        },
+        {
+            "time": "2025-04-07T04:19:24.700603",
             "value": 100635.16276999992
         }
     ]
