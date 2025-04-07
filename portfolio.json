@@ -419,7 +419,16 @@
             "time": "2025-04-07T18:44:35.401601"
         }
     },
-    "queued_trades": {},
+    "queued_trades": {
+        "^GSPC": {
+            "headline": "US stock futures tumble indicating another plummet on Wall Street",
+            "type": "SHORT"
+        },
+        "NFLX": {
+            "headline": "Market Turmoil: 3 Stocks to Steady Any Portfolio",
+            "type": "SHORT"
+        }
+    },
     "trade_history": [
         {
             "action": "SHORT",
@@ -14841,6 +14850,10 @@
         },
         {
             "time": "2025-04-07T20:16:24.623507",
+            "value": 99998.66596999991
+        },
+        {
+            "time": "2025-04-07T20:40:43.361412",
             "value": 99998.66596999991
         }
     ]
