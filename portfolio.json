@@ -475,6 +475,18 @@
         "KOS": {
             "headline": "Why Kosmos Energy Ltd. (KOS) Stock Crashed This Week",
             "type": "SHORT"
+        },
+        "EWTX": {
+            "headline": "Edgewise Therapeutics (EWTX): Among Unstoppable Stocks That Could Double Your Money",
+            "type": "SHORT"
+        },
+        "GM": {
+            "headline": "General Motors Company (GM): Jim Cramer Cautions on GM \u2013 Will Higher Costs Crush Demand?",
+            "type": "SHORT"
+        },
+        "C": {
+            "headline": "Tariffs Stoke Fears That Hung Debt Will Return",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -14498,6 +14510,10 @@
         },
         {
             "time": "2025-04-07T05:16:58.578225",
+            "value": 100635.16276999992
+        },
+        {
+            "time": "2025-04-07T06:22:38.540992",
             "value": 100635.16276999992
         }
     ]
