@@ -511,6 +511,10 @@
         "CTAS": {
             "headline": "Cintas Corporation (CTAS) Dropped -11% in Q4",
             "type": "SHORT"
+        },
+        "WSM": {
+            "headline": "Here\u2019s Why Vltava Fund Opted To Sell Williams-Sonoma (WSM)",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -14562,6 +14566,10 @@
         },
         {
             "time": "2025-04-07T12:31:46.064033",
+            "value": 100635.16276999992
+        },
+        {
+            "time": "2025-04-07T13:26:55.609468",
             "value": 100635.16276999992
         }
     ]
