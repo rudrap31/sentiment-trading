@@ -507,6 +507,10 @@
         "GLDAF": {
             "headline": "GlobalData reduces US light vehicle sales outlook following tariff announcements",
             "type": "SHORT"
+        },
+        "CTAS": {
+            "headline": "Cintas Corporation (CTAS) Dropped -11% in Q4",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -14554,6 +14558,10 @@
         },
         {
             "time": "2025-04-07T11:13:57.548892",
+            "value": 100635.16276999992
+        },
+        {
+            "time": "2025-04-07T12:31:46.064033",
             "value": 100635.16276999992
         }
     ]
