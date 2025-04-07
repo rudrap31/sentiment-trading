@@ -487,6 +487,10 @@
         "C": {
             "headline": "Tariffs Stoke Fears That Hung Debt Will Return",
             "type": "SHORT"
+        },
+        "MCK": {
+            "headline": "McKesson Corporation (MCK): Jim Cramer\u2019s Top Pick \u2013 Why He Thinks McKesson Can \u2018Jack Prices Up\u2019",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -14514,6 +14518,10 @@
         },
         {
             "time": "2025-04-07T06:22:38.540992",
+            "value": 100635.16276999992
+        },
+        {
+            "time": "2025-04-07T07:16:44.662138",
             "value": 100635.16276999992
         }
     ]
