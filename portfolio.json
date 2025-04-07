@@ -455,6 +455,10 @@
         "BRK-B": {
             "headline": "Up 17% in 2025, Has Warren Buffett-Led Berkshire Hathaway Run Up Too Far, Too Fast?",
             "type": "BUY"
+        },
+        "^YH102": {
+            "headline": "Jaguar and Land Rover maker pauses shipments to US as it develops post-tariff plans",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -14462,6 +14466,10 @@
         },
         {
             "time": "2025-04-06T22:11:31.545591",
+            "value": 100635.16276999992
+        },
+        {
+            "time": "2025-04-07T01:12:42.455054",
             "value": 100635.16276999992
         }
     ]
