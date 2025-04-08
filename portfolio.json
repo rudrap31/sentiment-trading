@@ -383,6 +383,10 @@
         "STRF": {
             "headline": "MicroStrategy, Robinhood Stocks Drop After Bitcoin Plunge",
             "type": "SHORT"
+        },
+        "NQ=F": {
+            "headline": "One chart shows how much optimism has been wiped out of the 'Magnificent 7' because of Trump tariffs",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -15362,6 +15366,10 @@
         },
         {
             "time": "2025-04-08T21:37:43.554653",
+            "value": 99847.54586999993
+        },
+        {
+            "time": "2025-04-08T22:16:09.288872",
             "value": 99847.54586999993
         }
     ]
