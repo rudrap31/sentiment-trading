@@ -463,6 +463,10 @@
         "NVDA": {
             "headline": "Nasdaq Sell-Off: 2 Solid Artificial Intelligence (AI) Stocks to Buy Hand Over Fist Before They Soar 70% to 85%, According to Wall Street",
             "type": "SHORT"
+        },
+        "TSLA": {
+            "headline": "Tesla Stock Jumps After Trump Slump. Why Tariffs Hit It Harder Than Most.",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -14972,6 +14976,10 @@
         },
         {
             "time": "2025-04-08T09:17:32.697693",
+            "value": 99957.82296999992
+        },
+        {
+            "time": "2025-04-08T10:17:18.128689",
             "value": 99957.82296999992
         }
     ]
