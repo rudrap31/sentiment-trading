@@ -479,6 +479,14 @@
         "CRZBF": {
             "headline": "Metal Prices Tick Up But Outlook Remains Divided Following Trump\u2019s Tariffs",
             "type": "BUY"
+        },
+        "JHG": {
+            "headline": "Janus Henderson Strikes Deal to Manage $45 Billion of Insurer\u2019s Assets",
+            "type": "BUY"
+        },
+        "BIL": {
+            "headline": "These Bond ETFs Are Still Winning Amid Trump Tariff Selloff",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -14996,6 +15004,10 @@
         },
         {
             "time": "2025-04-08T11:13:57.622583",
+            "value": 99957.82296999992
+        },
+        {
+            "time": "2025-04-08T12:30:46.784400",
             "value": 99957.82296999992
         }
     ]
