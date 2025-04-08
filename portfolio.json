@@ -487,6 +487,10 @@
         "BIL": {
             "headline": "These Bond ETFs Are Still Winning Amid Trump Tariff Selloff",
             "type": "BUY"
+        },
+        "EBAY": {
+            "headline": "Tariffs Add to Market Uncertainty",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -15008,6 +15012,10 @@
         },
         {
             "time": "2025-04-08T12:30:46.784400",
+            "value": 99957.82296999992
+        },
+        {
+            "time": "2025-04-08T13:26:42.219140",
             "value": 99957.82296999992
         }
     ]
