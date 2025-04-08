@@ -363,6 +363,10 @@
         "CRWD": {
             "headline": "Will Cybersecurity Stocks Out-Perform Software Amid Trump Tariffs?",
             "type": "SHORT"
+        },
+        "TPG": {
+            "headline": "Is TPG (TPG) Positioned to Benefit from Surging Demand for Illiquid Alternative Investments?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -15330,6 +15334,10 @@
         },
         {
             "time": "2025-04-08T20:16:11.285684",
+            "value": 99847.54586999993
+        },
+        {
+            "time": "2025-04-08T20:40:50.480985",
             "value": 99847.54586999993
         }
     ]
