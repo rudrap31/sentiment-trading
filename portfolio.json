@@ -419,6 +419,10 @@
         "COF": {
             "headline": "Cap One-Discover deal detractors assail reported DOJ approval",
             "type": "BUY"
+        },
+        "BTI": {
+            "headline": "British American Tobacco's Huge Yield Is Safe for Now, But Keep an Eye on This Troubled Division",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -14900,6 +14904,10 @@
         },
         {
             "time": "2025-04-08T02:58:56.355918",
+            "value": 99957.82296999992
+        },
+        {
+            "time": "2025-04-08T03:34:10.729625",
             "value": 99957.82296999992
         }
     ]
