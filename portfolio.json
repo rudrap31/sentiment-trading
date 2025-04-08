@@ -467,6 +467,18 @@
         "TSLA": {
             "headline": "Tesla Stock Jumps After Trump Slump. Why Tariffs Hit It Harder Than Most.",
             "type": "SHORT"
+        },
+        "X": {
+            "headline": "Why United States Steel Corp. (X) Went Up On Monday?",
+            "type": "BUY"
+        },
+        "GLDAF": {
+            "headline": "European car markets see mixed results in March \u2013 GlobalData",
+            "type": "BUY"
+        },
+        "CRZBF": {
+            "headline": "Metal Prices Tick Up But Outlook Remains Divided Following Trump\u2019s Tariffs",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -14980,6 +14992,10 @@
         },
         {
             "time": "2025-04-08T10:17:18.128689",
+            "value": 99957.82296999992
+        },
+        {
+            "time": "2025-04-08T11:13:57.622583",
             "value": 99957.82296999992
         }
     ]
