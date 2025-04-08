@@ -367,6 +367,22 @@
         "TPG": {
             "headline": "Is TPG (TPG) Positioned to Benefit from Surging Demand for Illiquid Alternative Investments?",
             "type": "BUY"
+        },
+        "MBGAF": {
+            "headline": "'I find it impossible to catch my bearings': Yahoo Finance community reacts to Trump tariff stock market plunge",
+            "type": "SHORT"
+        },
+        "WSM": {
+            "headline": "Here\u2019s Why Vltava Fund Opted To Sell Williams-Sonoma (WSM)",
+            "type": "BUY"
+        },
+        "URI": {
+            "headline": "Is United Rentals (URI) Trading at Attractive Price?",
+            "type": "BUY"
+        },
+        "STRF": {
+            "headline": "MicroStrategy, Robinhood Stocks Drop After Bitcoin Plunge",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -15338,6 +15354,10 @@
         },
         {
             "time": "2025-04-08T20:40:50.480985",
+            "value": 99847.54586999993
+        },
+        {
+            "time": "2025-04-08T21:14:19.005572",
             "value": 99847.54586999993
         }
     ]
