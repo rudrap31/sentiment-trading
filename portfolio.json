@@ -1,6 +1,6 @@
 {
-    "cash": 45004.26146999991,
-    "value": 99998.66596999991,
+    "cash": 48069.963469999915,
+    "value": 99957.82296999992,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -30,7 +30,7 @@
             "quantity": 31,
             "type": "BUY",
             "buy_price": 32.44,
-            "current_price": 32.805,
+            "current_price": 32.58,
             "headline": "Japan\u2019s Unions Win Largest Pay Hike in More Than Three Decades",
             "time": "2025-03-14T14:13:54.498590"
         },
@@ -146,14 +146,6 @@
             "headline": "U.S. Oil Price Skids To 4-Year Low; Goldman Slashes Oil Outlook",
             "time": "2025-04-04T16:45:32.920102"
         },
-        "ADDDF": {
-            "quantity": 5,
-            "type": "BUY",
-            "buy_price": 218.4,
-            "current_price": 214.98,
-            "headline": "Nike, Lululemon Soar as Trump Touts Productive Call With Vietnam",
-            "time": "2025-04-04T16:45:33.105107"
-        },
         "SG": {
             "quantity": 48,
             "type": "SHORT",
@@ -194,14 +186,6 @@
             "headline": "Here\u2019s Why Playa Hotels & Resorts N.V. (PLYA) Rose in Q4",
             "time": "2025-04-07T14:15:27.841732"
         },
-        "EADSY": {
-            "quantity": 25,
-            "type": "SHORT",
-            "buy_price": 40.61,
-            "current_price": 39.81,
-            "headline": "Aerospace walks trade tightrope as EU mulls tariff response",
-            "time": "2025-04-07T14:15:28.007417"
-        },
         "COMP": {
             "quantity": 124,
             "type": "SHORT",
@@ -214,7 +198,7 @@
             "quantity": 7,
             "type": "SHORT",
             "buy_price": 157.65,
-            "current_price": 153.86,
+            "current_price": 151,
             "headline": "Boeing, Airbus Set to Lose 45-Year Duty-Free Status",
             "time": "2025-04-07T14:15:28.481637"
         },
@@ -281,14 +265,6 @@
             "current_price": 3.41,
             "headline": "Why Oil States International, Inc. (OIS) Stock Crashed This Week",
             "time": "2025-04-07T14:15:29.397655"
-        },
-        "BTAFF": {
-            "quantity": 24,
-            "type": "BUY",
-            "buy_price": 42.06,
-            "current_price": 42.06,
-            "headline": "Dividend Stocks: Smoking-Hot 7% Yield Lights Up Demand",
-            "time": "2025-04-07T14:15:29.563318"
         },
         "MS": {
             "quantity": 11,
@@ -438,6 +414,10 @@
         },
         "PLTR": {
             "headline": "Palantir Takes Trump Tariffs Hit But Outperforms Software Peers. Is Palantir Stock A Buy?",
+            "type": "BUY"
+        },
+        "COF": {
+            "headline": "Cap One-Discover deal detractors assail reported DOJ approval",
             "type": "BUY"
         }
     },
@@ -8561,6 +8541,36 @@
             "amount": 18,
             "time": "2025-04-07T18:20:08.521359",
             "profit": -41.08499999999998
+        },
+        {
+            "action": "BUY",
+            "ticker": "ADDDF",
+            "headline": "Nike, Lululemon Soar as Trump Touts Productive Call With Vietnam",
+            "buy_price": 218.4,
+            "sold_price": 206.71,
+            "amount": 5,
+            "time": "2025-04-08T02:58:55.516292",
+            "profit": -58.44999999999999
+        },
+        {
+            "action": "SHORT",
+            "ticker": "EADSY",
+            "headline": "Aerospace walks trade tightrope as EU mulls tariff response",
+            "buy_price": 40.61,
+            "sold_price": 37.42,
+            "amount": 25,
+            "time": "2025-04-08T02:58:55.516308",
+            "profit": 79.74999999999994
+        },
+        {
+            "action": "BUY",
+            "ticker": "BTAFF",
+            "headline": "Dividend Stocks: Smoking-Hot 7% Yield Lights Up Demand",
+            "buy_price": 42.06,
+            "sold_price": 39.048,
+            "amount": 24,
+            "time": "2025-04-08T02:58:55.516313",
+            "profit": -72.28800000000001
         }
     ],
     "value_log": [
@@ -14887,6 +14897,10 @@
         {
             "time": "2025-04-08T01:10:32.506410",
             "value": 99998.66596999991
+        },
+        {
+            "time": "2025-04-08T02:58:56.355918",
+            "value": 99957.82296999992
         }
     ]
 }
