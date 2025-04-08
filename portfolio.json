@@ -423,6 +423,10 @@
         "BTI": {
             "headline": "British American Tobacco's Huge Yield Is Safe for Now, But Keep an Eye on This Troubled Division",
             "type": "BUY"
+        },
+        "AVO": {
+            "headline": "Is Mission Produce (AVO) A Small Cap Stock with Huge Upside Potential?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -14908,6 +14912,10 @@
         },
         {
             "time": "2025-04-08T03:34:10.729625",
+            "value": 99957.82296999992
+        },
+        {
+            "time": "2025-04-08T04:18:58.928471",
             "value": 99957.82296999992
         }
     ]
