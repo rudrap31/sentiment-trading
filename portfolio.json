@@ -387,6 +387,14 @@
         "NQ=F": {
             "headline": "One chart shows how much optimism has been wiped out of the 'Magnificent 7' because of Trump tariffs",
             "type": "SHORT"
+        },
+        "DBSDY": {
+            "headline": "Singapore's DBS, BoC customer data at risk after ransomware attack on vendor",
+            "type": "SHORT"
+        },
+        "NVDA": {
+            "headline": "Nvidia Stock Rises Amid Uncertainty Over Trump\u2019s Tariffs",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -15370,6 +15378,10 @@
         },
         {
             "time": "2025-04-08T22:16:09.288872",
+            "value": 99847.54586999993
+        },
+        {
+            "time": "2025-04-08T23:15:19.254661",
             "value": 99847.54586999993
         }
     ]
