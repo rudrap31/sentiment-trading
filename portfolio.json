@@ -431,6 +431,14 @@
         "AURA": {
             "headline": "Is Aura Biosciences (AURA) The Small Cap Stock with Huge Upside Potential?",
             "type": "BUY"
+        },
+        "PDFS": {
+            "headline": "Is PDF Solutions (PDFS) A Small Cap Stock with Huge Upside Potential?",
+            "type": "BUY"
+        },
+        "KRUS": {
+            "headline": "Kura Sushi USA, Inc. (KRUS): Among the Small Cap Stocks with Huge Upside Potential",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -14924,6 +14932,10 @@
         },
         {
             "time": "2025-04-08T05:16:04.340310",
+            "value": 99957.82296999992
+        },
+        {
+            "time": "2025-04-08T06:22:03.426400",
             "value": 99957.82296999992
         }
     ]
