@@ -451,6 +451,18 @@
         "DDI": {
             "headline": "Is DoubleDown Interactive (DDI)) A Small Cap Stock with Huge Upside Potential?",
             "type": "BUY"
+        },
+        "^N225": {
+            "headline": "Tariff Relief Hopes Drive Japan's Nikkei Up 6%",
+            "type": "BUY"
+        },
+        "POAHF": {
+            "headline": "Porsche AG Deliveries Fall on China and Europe Headwinds",
+            "type": "SHORT"
+        },
+        "NVDA": {
+            "headline": "Nasdaq Sell-Off: 2 Solid Artificial Intelligence (AI) Stocks to Buy Hand Over Fist Before They Soar 70% to 85%, According to Wall Street",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -14956,6 +14968,10 @@
         },
         {
             "time": "2025-04-08T08:21:27.957872",
+            "value": 99957.82296999992
+        },
+        {
+            "time": "2025-04-08T09:17:32.697693",
             "value": 99957.82296999992
         }
     ]
