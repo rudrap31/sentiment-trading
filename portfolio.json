@@ -287,6 +287,14 @@
         "BIL": {
             "headline": "These Bond ETFs Are Still Winning Amid Trump Tariff Selloff",
             "type": "BUY"
+        },
+        "TSLA": {
+            "headline": "Tesla Stock Gives Back Early Gains. Trump Just Hurt It.",
+            "type": "BUY"
+        },
+        "RPM": {
+            "headline": "RPM International Flags Tariff-Led Increase for Raw Material Inflation as Quarterly Results Miss Views",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -15852,6 +15860,10 @@
         },
         {
             "time": "2025-04-09T20:42:00.669676",
+            "value": 100778.70897
+        },
+        {
+            "time": "2025-04-09T21:12:55.195879",
             "value": 100778.70897
         }
     ]
