@@ -407,6 +407,14 @@
         "GLDAF": {
             "headline": "Trump\u2019s automotive tariffs set to drive up vehicle prices and insurance rates in US",
             "type": "SHORT"
+        },
+        "TSLA": {
+            "headline": "Why Tesla Stock Sank 11.5% in March",
+            "type": "SHORT"
+        },
+        "CMG": {
+            "headline": "Well-Known Investor Has Bought Meta (META), Chipotle (CMG)",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -15416,6 +15424,10 @@
         },
         {
             "time": "2025-04-09T03:36:10.624892",
+            "value": 99995.11996999991
+        },
+        {
+            "time": "2025-04-09T04:19:20.562951",
             "value": 99995.11996999991
         }
     ]
