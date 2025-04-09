@@ -491,6 +491,14 @@
         "DAL": {
             "headline": "Delta Air Lines Pulls Guidance on Trump Tariff Uncertainty. Why the Stock Is Rising.",
             "type": "BUY"
+        },
+        "TW": {
+            "headline": "Is Tradeweb (TW) Poised for Continued Success?",
+            "type": "BUY"
+        },
+        "SVNDF": {
+            "headline": "7-Eleven Owner Targets Profit Growth Despite Tariff Uncertainty",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -15532,6 +15540,10 @@
         },
         {
             "time": "2025-04-09T11:14:03.371718",
+            "value": 99995.11996999991
+        },
+        {
+            "time": "2025-04-09T12:31:01.099471",
             "value": 99995.11996999991
         }
     ]
