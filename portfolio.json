@@ -463,6 +463,30 @@
         "012450.KS": {
             "headline": "South Korea's Hanwha Aerospace slashes capital increase plan to $1.6 billion",
             "type": "BUY"
+        },
+        "ENPH": {
+            "headline": "Why Enphase Energy Inc. (ENPH) Went Down On Tuesday?",
+            "type": "SHORT"
+        },
+        "W": {
+            "headline": "Why Wayfair Inc. (W) Went Down On Tuesday?",
+            "type": "SHORT"
+        },
+        "CRWV": {
+            "headline": "Why CoreWeave Inc. (CRWV) Went Down On Tuesday?",
+            "type": "SHORT"
+        },
+        "ALB": {
+            "headline": "Why Albemarle Corporation\u00a0(ALB) Went Down On Tuesday?",
+            "type": "SHORT"
+        },
+        "TEM": {
+            "headline": "Why Tempus AI Inc. (TEM) Went Down On Tuesday?",
+            "type": "SHORT"
+        },
+        "VFC": {
+            "headline": "Why V.F. Corporation (VFC) Went Down On Tuesday?",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -15496,6 +15520,10 @@
         },
         {
             "time": "2025-04-09T09:17:31.219625",
+            "value": 99995.11996999991
+        },
+        {
+            "time": "2025-04-09T10:19:24.403259",
             "value": 99995.11996999991
         }
     ]
