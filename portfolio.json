@@ -1,6 +1,6 @@
 {
-    "cash": 52297.48636999992,
-    "value": 99847.54586999993,
+    "cash": 53468.16636999992,
+    "value": 99995.11996999991,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -30,7 +30,7 @@
             "quantity": 31,
             "type": "BUY",
             "buy_price": 32.44,
-            "current_price": 32.58,
+            "current_price": 33.23,
             "headline": "Japan\u2019s Unions Win Largest Pay Hike in More Than Three Decades",
             "time": "2025-03-14T14:13:54.498590"
         },
@@ -129,14 +129,6 @@
             "current_price": 13.31,
             "headline": "Here\u2019s Why Playa Hotels & Resorts N.V. (PLYA) Rose in Q4",
             "time": "2025-04-07T14:15:27.841732"
-        },
-        "EADSF": {
-            "quantity": 7,
-            "type": "SHORT",
-            "buy_price": 157.65,
-            "current_price": 151,
-            "headline": "Boeing, Airbus Set to Lose 45-Year Duty-Free Status",
-            "time": "2025-04-07T14:15:28.481637"
         },
         "CHD": {
             "quantity": 10,
@@ -238,7 +230,7 @@
             "quantity": 29,
             "type": "SHORT",
             "buy_price": 35,
-            "current_price": 36,
+            "current_price": 33.32,
             "headline": "Porsche AG Deliveries Fall on China and Europe Headwinds",
             "time": "2025-04-08T14:15:33.746834"
         },
@@ -326,7 +318,7 @@
             "quantity": 1283,
             "type": "SHORT",
             "buy_price": 0.78,
-            "current_price": 0.78,
+            "current_price": 0.7573,
             "headline": "Britain's JD Sports underperforms market rout on US exposure",
             "time": "2025-04-08T19:13:16.848863"
         },
@@ -395,6 +387,18 @@
         "NVDA": {
             "headline": "Nvidia Stock Rises Amid Uncertainty Over Trump\u2019s Tariffs",
             "type": "SHORT"
+        },
+        "MESA": {
+            "headline": "Mesa Air Strikes All-Stock Deal to Merge With Republic Airways",
+            "type": "BUY"
+        },
+        "MDB": {
+            "headline": "MongoDB (MDB) Stays Strong on GenAI Data Growth Despite Price Target Cut",
+            "type": "BUY"
+        },
+        "SMTC": {
+            "headline": "Semtech (SMTC) Rolls Out Power-Efficient Optical Tech for Scalable AI Infrastructure",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -8937,6 +8941,16 @@
             "amount": 10,
             "time": "2025-04-08T20:16:10.327182",
             "profit": 55.0
+        },
+        {
+            "action": "SHORT",
+            "ticker": "EADSF",
+            "headline": "Boeing, Airbus Set to Lose 45-Year Duty-Free Status",
+            "buy_price": 157.65,
+            "sold_price": 148.06,
+            "amount": 7,
+            "time": "2025-04-09T03:00:07.737885",
+            "profit": 67.13000000000002
         }
     ],
     "value_log": [
@@ -15387,6 +15401,10 @@
         {
             "time": "2025-04-09T01:10:47.016368",
             "value": 99847.54586999993
+        },
+        {
+            "time": "2025-04-09T03:00:08.760931",
+            "value": 99995.11996999991
         }
     ]
 }
