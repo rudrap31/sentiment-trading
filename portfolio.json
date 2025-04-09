@@ -1,6 +1,6 @@
 {
     "cash": 65377.828569999954,
-    "value": 100782.03897000001,
+    "value": 100778.70897,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -214,7 +214,7 @@
             "quantity": 9,
             "type": "SHORT",
             "buy_price": 115,
-            "current_price": 111.43,
+            "current_price": 111.8,
             "headline": "Singapore's DBS, BoC customer data at risk after ransomware attack on vendor",
             "time": "2025-04-09T14:16:14.474190"
         },
@@ -15849,6 +15849,10 @@
         {
             "time": "2025-04-09T20:16:24.907844",
             "value": 100782.03897000001
+        },
+        {
+            "time": "2025-04-09T20:42:00.669676",
+            "value": 100778.70897
         }
     ]
 }
