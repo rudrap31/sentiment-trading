@@ -295,6 +295,14 @@
         "RPM": {
             "headline": "RPM International Flags Tariff-Led Increase for Raw Material Inflation as Quarterly Results Miss Views",
             "type": "BUY"
+        },
+        "GS": {
+            "headline": "Rebound in US Stocks Meets Skepticism as Rally Chasers Pour In",
+            "type": "BUY"
+        },
+        "DG": {
+            "headline": "AMD downgraded, Dollar General upgraded: Wall Street's top analyst calls",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -15864,6 +15872,10 @@
         },
         {
             "time": "2025-04-09T21:12:55.195879",
+            "value": 100778.70897
+        },
+        {
+            "time": "2025-04-09T21:36:28.393820",
             "value": 100778.70897
         }
     ]
