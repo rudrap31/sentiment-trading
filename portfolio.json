@@ -303,6 +303,10 @@
         "DG": {
             "headline": "AMD downgraded, Dollar General upgraded: Wall Street's top analyst calls",
             "type": "SHORT"
+        },
+        "SMCI": {
+            "headline": "Watch These Supermicro Price Levels as Stock Soars After Tariff-Induced Selling",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -15876,6 +15880,10 @@
         },
         {
             "time": "2025-04-09T21:36:28.393820",
+            "value": 100778.70897
+        },
+        {
+            "time": "2025-04-09T22:15:16.157989",
             "value": 100778.70897
         }
     ]
