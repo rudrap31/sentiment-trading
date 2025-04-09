@@ -451,6 +451,18 @@
         "X": {
             "headline": "U.S. Steel Stock Rises as Trump Orders Review of Nippon Deal",
             "type": "BUY"
+        },
+        "COMB.BR": {
+            "headline": "Paramount Global, Skydance Media merger deadline to get 90-day extension",
+            "type": "BUY"
+        },
+        "SONY": {
+            "headline": "Why Sony Stock Swooned on Monday",
+            "type": "SHORT"
+        },
+        "012450.KS": {
+            "headline": "South Korea's Hanwha Aerospace slashes capital increase plan to $1.6 billion",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -15480,6 +15492,10 @@
         },
         {
             "time": "2025-04-09T08:22:12.146617",
+            "value": 99995.11996999991
+        },
+        {
+            "time": "2025-04-09T09:17:31.219625",
             "value": 99995.11996999991
         }
     ]
