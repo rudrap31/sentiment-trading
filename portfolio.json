@@ -415,6 +415,18 @@
         "CMG": {
             "headline": "Well-Known Investor Has Bought Meta (META), Chipotle (CMG)",
             "type": "BUY"
+        },
+        "PODD": {
+            "headline": "This Insulin Pump Maker Expands Into New Territory And Its Stock Shows Relative Strength",
+            "type": "BUY"
+        },
+        "PRGS": {
+            "headline": "Progress Software Corporation (PRGS) Surges After AI-Driven Q1 Earnings Beat and Raised Guidance",
+            "type": "BUY"
+        },
+        "DT": {
+            "headline": "Dynatrace, Inc. (DT) Partners with AWS to Drive Observability for Generative AI Applications",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -15428,6 +15440,10 @@
         },
         {
             "time": "2025-04-09T04:19:20.562951",
+            "value": 99995.11996999991
+        },
+        {
+            "time": "2025-04-09T05:15:59.910399",
             "value": 99995.11996999991
         }
     ]
