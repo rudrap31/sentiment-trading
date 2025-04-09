@@ -307,6 +307,22 @@
         "SMCI": {
             "headline": "Watch These Supermicro Price Levels as Stock Soars After Tariff-Induced Selling",
             "type": "SHORT"
+        },
+        "STRF": {
+            "headline": "Strategy reports unrealized $5.91B loss on digital assets",
+            "type": "SHORT"
+        },
+        "^GSPC": {
+            "headline": "Stocks Are Off Session Highs. The Dow Is Still Up 800 Points.",
+            "type": "BUY"
+        },
+        "CL=F": {
+            "headline": "Oil prices could fall to the $50 range by year-end if there's a recession, Goldman Sachs says",
+            "type": "SHORT"
+        },
+        "INTC": {
+            "headline": "AMD Downgraded on Competition, China Worries",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -15884,6 +15900,10 @@
         },
         {
             "time": "2025-04-09T22:15:16.157989",
+            "value": 100778.70897
+        },
+        {
+            "time": "2025-04-09T23:15:02.798498",
             "value": 100778.70897
         }
     ]
