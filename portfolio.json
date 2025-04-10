@@ -1,6 +1,6 @@
 {
-    "cash": 44152.145569999964,
-    "value": 100889.26096999994,
+    "cash": 42110.80556999997,
+    "value": 100649.26006999997,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -30,7 +30,7 @@
             "quantity": 4,
             "type": "BUY",
             "buy_price": 279.15,
-            "current_price": 290.94,
+            "current_price": 291.67,
             "headline": "Volatility Drives SPDR Gold ETF Assets to New Milestone",
             "time": "2025-03-24T14:15:09.140004"
         },
@@ -54,7 +54,7 @@
             "quantity": 10,
             "type": "SHORT",
             "buy_price": 100.08,
-            "current_price": 96.685,
+            "current_price": 96.94,
             "headline": "Is CGI Inc. (GIB) the Most Oversold Large Cap Stock to Invest in Now?",
             "time": "2025-04-03T14:15:30.207635"
         },
@@ -62,7 +62,7 @@
             "quantity": 4,
             "type": "SHORT",
             "buy_price": 282.66,
-            "current_price": 277.26,
+            "current_price": 278.49,
             "headline": "Sellers Rule The Roost Amid Tariff Wars, But This Stock Hits A High",
             "time": "2025-04-04T16:17:52.113937"
         },
@@ -70,7 +70,7 @@
             "quantity": 76,
             "type": "BUY",
             "buy_price": 13.21,
-            "current_price": 13.325,
+            "current_price": 13.35,
             "headline": "Here\u2019s Why Playa Hotels & Resorts N.V. (PLYA) Rose in Q4",
             "time": "2025-04-07T14:15:27.841732"
         },
@@ -78,7 +78,7 @@
             "quantity": 10,
             "type": "BUY",
             "buy_price": 102.73,
-            "current_price": 102.24,
+            "current_price": 102.415,
             "headline": "Consumer Staples Gain on Rush to Safety After Tariffs Spark Market Rout",
             "time": "2025-04-07T14:15:28.555545"
         },
@@ -86,7 +86,7 @@
             "quantity": 15,
             "type": "BUY",
             "buy_price": 68.16,
-            "current_price": 69.37,
+            "current_price": 70.01,
             "headline": "Jim Cramer Says Don\u2019t Short Coca-Cola (KO): \u2018It Was a Winner When the Nasdaq Broke\u2019",
             "time": "2025-04-07T14:15:29.276889"
         },
@@ -94,7 +94,7 @@
             "quantity": 4,
             "type": "SHORT",
             "buy_price": 252.98,
-            "current_price": 256.08,
+            "current_price": 257.88,
             "headline": "CME Group (CME) Called \u2018Totally Terrific\u2019 \u2013 Jim Cramer Says It\u2019s Fintech Without Risk",
             "time": "2025-04-07T14:15:30.156560"
         },
@@ -102,7 +102,7 @@
             "quantity": 2,
             "type": "BUY",
             "buy_price": 662.62,
-            "current_price": 677.78,
+            "current_price": 682.05,
             "headline": "McKesson Corporation (MCK): Jim Cramer\u2019s Top Pick \u2013 Why He Thinks McKesson Can \u2018Jack Prices Up\u2019",
             "time": "2025-04-07T14:15:35.236398"
         },
@@ -110,7 +110,7 @@
             "quantity": 26,
             "type": "BUY",
             "buy_price": 39.65,
-            "current_price": 40.15,
+            "current_price": 40.525,
             "headline": "British American Tobacco's Huge Yield Is Safe for Now, But Keep an Eye on This Troubled Division",
             "time": "2025-04-08T14:15:33.533258"
         },
@@ -126,7 +126,7 @@
             "quantity": 11,
             "type": "BUY",
             "buy_price": 91.495,
-            "current_price": 91.5173,
+            "current_price": 91.5101,
             "headline": "These Bond ETFs Are Still Winning Amid Trump Tariff Selloff",
             "time": "2025-04-08T14:15:33.857337"
         },
@@ -134,7 +134,7 @@
             "quantity": 17,
             "type": "SHORT",
             "buy_price": 62.14,
-            "current_price": 61.36,
+            "current_price": 61.8398,
             "headline": "Tariffs Add to Market Uncertainty",
             "time": "2025-04-08T14:15:33.871086"
         },
@@ -142,7 +142,7 @@
             "quantity": 18,
             "type": "SHORT",
             "buy_price": 57.36,
-            "current_price": 57.24,
+            "current_price": 57.63,
             "headline": "Monster Beverage Corporation (MNST) Surged on Price Rise and Strength",
             "time": "2025-04-08T15:16:30.829723"
         },
@@ -150,7 +150,7 @@
             "quantity": 15,
             "type": "BUY",
             "buy_price": 68.05,
-            "current_price": 68.94,
+            "current_price": 69.5,
             "headline": "Why CVS Health Stock Is Soaring Today",
             "time": "2025-04-08T16:18:45.011092"
         },
@@ -158,7 +158,7 @@
             "quantity": 31,
             "type": "BUY",
             "buy_price": 32.85,
-            "current_price": 32.645,
+            "current_price": 33.22,
             "headline": "Sparkletts Parent, Stock Of The Day, Climbs To 32-Year High",
             "time": "2025-04-08T17:40:11.400351"
         },
@@ -174,7 +174,7 @@
             "quantity": 12,
             "type": "SHORT",
             "buy_price": 86.25,
-            "current_price": 85.875,
+            "current_price": 85.95,
             "headline": "MicroStrategy, Robinhood Stocks Drop After Bitcoin Plunge",
             "time": "2025-04-09T14:16:14.412455"
         },
@@ -190,7 +190,7 @@
             "quantity": 8,
             "type": "BUY",
             "buy_price": 125.33,
-            "current_price": 124.1,
+            "current_price": 125.56,
             "headline": "Is Tradeweb (TW) Poised for Continued Success?",
             "time": "2025-04-09T14:16:14.919410"
         },
@@ -214,7 +214,7 @@
             "quantity": 94,
             "type": "BUY",
             "buy_price": 10.75,
-            "current_price": 10.7143,
+            "current_price": 10.785,
             "headline": "Walgreens shrinks losses as Sycamore take-private deal nears",
             "time": "2025-04-10T14:15:23.048442"
         },
@@ -222,7 +222,7 @@
             "quantity": 7,
             "type": "SHORT",
             "buy_price": 158.78,
-            "current_price": 154.08,
+            "current_price": 155.54,
             "headline": "JPMorgan Cuts Alphabet Price Target Amid Trump Tariffs. Is Google Stock A Buy?",
             "time": "2025-04-10T14:15:23.116233"
         },
@@ -230,7 +230,7 @@
             "quantity": 12,
             "type": "SHORT",
             "buy_price": 85.85,
-            "current_price": 86.355,
+            "current_price": 86.49,
             "headline": "AMD downgraded, Dollar General upgraded: Wall Street's top analyst calls",
             "time": "2025-04-10T14:15:23.469636"
         },
@@ -238,7 +238,7 @@
             "quantity": 12,
             "type": "SHORT",
             "buy_price": 89.35,
-            "current_price": 85.635,
+            "current_price": 86.965,
             "headline": "\u2018The Menu Keeps Changing\u2019: Cava CEO Says Tariffs Are Fueling Uncertainty",
             "time": "2025-04-10T14:15:24.206572"
         },
@@ -246,7 +246,7 @@
             "quantity": 59,
             "type": "SHORT",
             "buy_price": 17.02,
-            "current_price": 16.7,
+            "current_price": 17.0713,
             "headline": "Dave & Buster\u2019s overhauls its remodel strategy as sales continue to fall",
             "time": "2025-04-10T14:15:24.284023"
         },
@@ -254,7 +254,7 @@
             "quantity": 6,
             "type": "SHORT",
             "buy_price": 167.35,
-            "current_price": 159.5,
+            "current_price": 161.41,
             "headline": "Why MongoDB Stock Lost 34% in March",
             "time": "2025-04-10T14:15:24.808787"
         },
@@ -262,7 +262,7 @@
             "quantity": 7,
             "type": "SHORT",
             "buy_price": 151.82,
-            "current_price": 145.06,
+            "current_price": 146.97,
             "headline": "Jim Cramer Says Williams-Sonoma Inc. (WSM) Is \u201cGetting Killed\u201d",
             "time": "2025-04-10T14:15:24.876262"
         },
@@ -270,7 +270,7 @@
             "quantity": 3,
             "type": "SHORT",
             "buy_price": 479.77,
-            "current_price": 460.83,
+            "current_price": 471.6,
             "headline": "Jim Cramer Calls Vertex Pharmaceuticals Incorporated (VRTX) \u201cTerrific\u201d With \u201cRevolutionary Pain Drug\u201d",
             "time": "2025-04-10T14:15:24.944059"
         },
@@ -278,7 +278,7 @@
             "quantity": 2,
             "type": "SHORT",
             "buy_price": 534.41,
-            "current_price": 515.04,
+            "current_price": 521.55,
             "headline": "Trump's China tariffs send stocks tumbling as 'FOMO' rally fades, S&P 500 closes at lowest level in a year",
             "time": "2025-04-10T14:15:25.307837"
         },
@@ -286,7 +286,7 @@
             "quantity": 42,
             "type": "SHORT",
             "buy_price": 24.26,
-            "current_price": 23.85,
+            "current_price": 23.9606,
             "headline": "Buffer ETFs Add Nearly $400 Million in Assets as Stocks Drop",
             "time": "2025-04-10T14:15:25.376321"
         },
@@ -294,7 +294,7 @@
             "quantity": 18,
             "type": "BUY",
             "buy_price": 57.53,
-            "current_price": 56.97,
+            "current_price": 57.61,
             "headline": "Jim Cramer Praises Copart (CPRT)\u2019s \u2018Salvage Vehicle\u2019 Model as \u2018Very Solid\u2019",
             "time": "2025-04-10T14:15:25.648492"
         },
@@ -318,7 +318,7 @@
             "quantity": 3,
             "type": "SHORT",
             "buy_price": 335.44,
-            "current_price": 327.5,
+            "current_price": 332.05,
             "headline": "Charter price target lowered to $385 from $415 at Morgan Stanley",
             "time": "2025-04-10T14:42:20.090012"
         },
@@ -326,7 +326,7 @@
             "quantity": 10,
             "type": "SHORT",
             "buy_price": 107.22,
-            "current_price": 106.16,
+            "current_price": 105.989,
             "headline": "Will Booz Allen Hamilton Holding Corporation (BAH) Get Affected by Tariffs?",
             "time": "2025-04-10T15:16:30.877353"
         },
@@ -334,7 +334,7 @@
             "quantity": 18,
             "type": "SHORT",
             "buy_price": 56.155,
-            "current_price": 55.8,
+            "current_price": 56.38,
             "headline": "Here\u2019s Why Altria Group (MO) Surged in Q1",
             "time": "2025-04-10T15:41:17.561612"
         },
@@ -342,7 +342,7 @@
             "quantity": 12,
             "type": "SHORT",
             "buy_price": 88.23,
-            "current_price": 86.62,
+            "current_price": 87.405,
             "headline": "How A Put Ratio Backspread Can Limit Losses On AMD Stock",
             "time": "2025-04-10T15:41:17.601980"
         },
@@ -350,7 +350,7 @@
             "quantity": 5,
             "type": "SHORT",
             "buy_price": 225.55,
-            "current_price": 221.76,
+            "current_price": 225.475,
             "headline": "JPMorgan, Wells Fargo, BlackRock To Report; Analyst Warns On Banks",
             "time": "2025-04-10T15:41:17.718392"
         },
@@ -358,7 +358,7 @@
             "quantity": 69,
             "type": "SHORT",
             "buy_price": 14.7,
-            "current_price": 14.605,
+            "current_price": 14.75,
             "headline": "Prada tentative deal to acquire Versace from Capri at risk, WSJ reports",
             "time": "2025-04-10T15:41:17.790231"
         },
@@ -366,7 +366,7 @@
             "quantity": 14,
             "type": "SHORT",
             "buy_price": 75.755,
-            "current_price": 74.31,
+            "current_price": 76.725,
             "headline": "Transcat (TRNS) Fell on Disappointing Results",
             "time": "2025-04-10T16:18:40.120974"
         },
@@ -374,7 +374,7 @@
             "quantity": 28,
             "type": "SHORT",
             "buy_price": 36.19,
-            "current_price": 36.15,
+            "current_price": 36.62,
             "headline": "CubeSmart price target lowered to $40 from $46 at Scotiabank",
             "time": "2025-04-10T16:18:40.207445"
         },
@@ -382,7 +382,7 @@
             "quantity": 2,
             "type": "SHORT",
             "buy_price": 541.98,
-            "current_price": 540.91,
+            "current_price": 548.145,
             "headline": "Jim Cramer Thinks: \u201cMeta (META) Isn\u2019t Getting Enough Credit for AI\u201d",
             "time": "2025-04-10T16:47:01.811880"
         },
@@ -390,7 +390,7 @@
             "quantity": 3,
             "type": "SHORT",
             "buy_price": 371.215,
-            "current_price": 371.5675,
+            "current_price": 374.635,
             "headline": "Microsoft (MSFT) \u2013 Jim Cramer Conflicted: \u201cI\u2019m Calling It Somewhat of a Bus\u201d",
             "time": "2025-04-10T16:47:01.872453"
         },
@@ -398,7 +398,7 @@
             "quantity": 6,
             "type": "SHORT",
             "buy_price": 186.805,
-            "current_price": 185.5107,
+            "current_price": 189.25,
             "headline": "Apple, Nvidia, Meta, and more Magnificent 7 stocks slide as the Nasdaq rally kicks into reverse",
             "time": "2025-04-10T16:47:01.929748"
         },
@@ -406,7 +406,7 @@
             "quantity": 239,
             "type": "BUY",
             "buy_price": 4.1863,
-            "current_price": 4.1863,
+            "current_price": 4.24,
             "headline": "\u201cIt\u2019s a Nice Spec for a Kid\u2026 But This $4 Stock Is Actually Expensive\u201d \u2013 Jim Cramer on Krispy Kreme (DNUT)",
             "time": "2025-04-10T17:13:51.475190"
         },
@@ -414,7 +414,7 @@
             "quantity": 2,
             "type": "SHORT",
             "buy_price": 768.645,
-            "current_price": 768.645,
+            "current_price": 779.52,
             "headline": "\u201cVery Expensive Stock in a Market That Hates Expensive Stocks\u201d \u2013 Jim Cramer on ServiceNow (NOW)",
             "time": "2025-04-10T17:13:51.560434"
         },
@@ -422,9 +422,25 @@
             "quantity": 8,
             "type": "SHORT",
             "buy_price": 132.3625,
-            "current_price": 132.3625,
+            "current_price": 133.965,
             "headline": "\u201cDon\u2019t Be Bigger Than a Small Position\u201d \u2013 Jim Cramer Warns About J.B. Hunt (JBHT) in a Recession",
             "time": "2025-04-10T17:13:51.645656"
+        },
+        "OXY": {
+            "quantity": 28,
+            "type": "SHORT",
+            "buy_price": 36.53,
+            "current_price": 36.53,
+            "headline": "Why Occidental Petroleum Stock Plunged 10% Today",
+            "time": "2025-04-10T17:39:23.632656"
+        },
+        "QTWO": {
+            "quantity": 14,
+            "type": "BUY",
+            "buy_price": 72.75,
+            "current_price": 72.75,
+            "headline": "Signature Bank partners with Q2 to enhance digital banking capabilities",
+            "time": "2025-04-10T17:39:23.840749"
         }
     },
     "queued_trades": {},
@@ -16338,6 +16354,10 @@
         {
             "time": "2025-04-10T17:13:51.645671",
             "value": 100889.26096999994
+        },
+        {
+            "time": "2025-04-10T17:39:23.929156",
+            "value": 100649.26006999997
         }
     ]
 }
