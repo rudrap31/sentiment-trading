@@ -311,6 +311,10 @@
         "CVX": {
             "headline": "Why Chevron Stock Soared 15.5% in Q1 While the Nasdaq Plunged 10%",
             "type": "BUY"
+        },
+        "MRX": {
+            "headline": "Recent IPO Marex Doubles In No Time As Trump Tariffs Slam Stocks",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -15954,6 +15958,10 @@
         },
         {
             "time": "2025-04-10T03:35:49.720822",
+            "value": 100450.18487
+        },
+        {
+            "time": "2025-04-10T04:19:35.582290",
             "value": 100450.18487
         }
     ]
