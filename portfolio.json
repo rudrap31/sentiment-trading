@@ -379,6 +379,18 @@
         "PRDSF": {
             "headline": "Prada Strikes $1.4 Billion Deal for Versace",
             "type": "BUY"
+        },
+        "REVBW": {
+            "headline": "Why Revelation Biosciences Inc. (REVB) Went Down On Thursday?",
+            "type": "SHORT"
+        },
+        "ZVSA": {
+            "headline": "Why ZyVersa Therapeutics, Inc.\u00a0(ZVSA) Went Down On Thursday?",
+            "type": "SHORT"
+        },
+        "NEOG": {
+            "headline": "Why Neogen Corporation (NEOG) Went Down On Thursday?",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -16058,6 +16070,10 @@
         },
         {
             "time": "2025-04-10T12:31:17.249004",
+            "value": 100450.18487
+        },
+        {
+            "time": "2025-04-10T13:26:23.806972",
             "value": 100450.18487
         }
     ]
