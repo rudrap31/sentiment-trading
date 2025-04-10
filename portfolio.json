@@ -323,6 +323,10 @@
         "INTC": {
             "headline": "AMD Downgraded on Competition, China Worries",
             "type": "SHORT"
+        },
+        "COIN": {
+            "headline": "Cathie Wood\u2019s ARK Invest Boosts Coinbase Position With $26 Million Purchase, Offloads Bitcoin ETF",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -15904,6 +15908,10 @@
         },
         {
             "time": "2025-04-09T23:15:02.798498",
+            "value": 100778.70897
+        },
+        {
+            "time": "2025-04-10T01:10:35.165961",
             "value": 100778.70897
         }
     ]
