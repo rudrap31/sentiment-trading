@@ -507,6 +507,10 @@
         "HYFM": {
             "headline": "Is Hydrofarm Holdings Group, Inc. (HYFM) the Worst Vertical Farming and Hydroponic Stock to Buy?",
             "type": "SHORT"
+        },
+        "JPM": {
+            "headline": "JPMorgan's Dimon says US recession now a 'likely outcome'",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -16464,6 +16468,10 @@
         },
         {
             "time": "2025-04-10T21:37:07.450799",
+            "value": 100438.39747
+        },
+        {
+            "time": "2025-04-10T22:16:48.640447",
             "value": 100438.39747
         }
     ]
