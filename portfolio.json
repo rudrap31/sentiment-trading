@@ -1,6 +1,6 @@
 {
-    "cash": 65377.828569999954,
-    "value": 100778.70897,
+    "cash": 70179.85856999995,
+    "value": 100450.18487,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -14,7 +14,7 @@
             "quantity": 33,
             "type": "SHORT",
             "buy_price": 30.5,
-            "current_price": 30.5,
+            "current_price": 29.5,
             "headline": "Fed\u2019s Daly Sees Rates in \u2018Good Place\u2019 Amid Elevated Uncertainty",
             "time": "2025-03-10T14:14:47.817503"
         },
@@ -25,14 +25,6 @@
             "current_price": 3.2561,
             "headline": "World's top electronics maker Foxconn Q4 profit drops 13%",
             "time": "2025-03-14T14:13:54.469690"
-        },
-        "NRILY": {
-            "quantity": 31,
-            "type": "BUY",
-            "buy_price": 32.44,
-            "current_price": 33.23,
-            "headline": "Japan\u2019s Unions Win Largest Pay Hike in More Than Three Decades",
-            "time": "2025-03-14T14:13:54.498590"
         },
         "GLD": {
             "quantity": 4,
@@ -57,14 +49,6 @@
             "current_price": 2,
             "headline": "Cost of insuring electric vehicles could skyrocket amid Trump\u2019s trade war on China",
             "time": "2025-03-26T14:15:44.858727"
-        },
-        "NXGPF": {
-            "quantity": 8,
-            "type": "BUY",
-            "buy_price": 126.5,
-            "current_price": 126.5,
-            "headline": "Next\u2019s Shares Jump on Guidance Upgrade Against Tough Sector Backdrop",
-            "time": "2025-03-31T14:16:04.742429"
         },
         "GIB": {
             "quantity": 10,
@@ -130,14 +114,6 @@
             "headline": "British American Tobacco's Huge Yield Is Safe for Now, But Keep an Eye on This Troubled Division",
             "time": "2025-04-08T14:15:33.533258"
         },
-        "POAHF": {
-            "quantity": 29,
-            "type": "SHORT",
-            "buy_price": 35,
-            "current_price": 33.32,
-            "headline": "Porsche AG Deliveries Fall on China and Europe Headwinds",
-            "time": "2025-04-08T14:15:33.746834"
-        },
         "CRZBF": {
             "quantity": 46,
             "type": "BUY",
@@ -186,14 +162,6 @@
             "headline": "Sparkletts Parent, Stock Of The Day, Climbs To 32-Year High",
             "time": "2025-04-08T17:40:11.400351"
         },
-        "JDSPY": {
-            "quantity": 1283,
-            "type": "SHORT",
-            "buy_price": 0.78,
-            "current_price": 0.7573,
-            "headline": "Britain's JD Sports underperforms market rout on US exposure",
-            "time": "2025-04-08T19:13:16.848863"
-        },
         "ISMAF": {
             "quantity": 36,
             "type": "SHORT",
@@ -214,7 +182,7 @@
             "quantity": 9,
             "type": "SHORT",
             "buy_price": 115,
-            "current_price": 111.8,
+            "current_price": 114,
             "headline": "Singapore's DBS, BoC customer data at risk after ransomware attack on vendor",
             "time": "2025-04-09T14:16:14.474190"
         },
@@ -241,14 +209,6 @@
             "current_price": 6.64,
             "headline": "Many UK workers still face barriers to flexible work, finds research",
             "time": "2025-04-09T18:20:37.146603"
-        },
-        "DTGHF": {
-            "quantity": 29,
-            "type": "SHORT",
-            "buy_price": 34.76,
-            "current_price": 34.76,
-            "headline": "Daimler Truck\u2019s Vehicles Sales Fall Amid North America Weakness",
-            "time": "2025-04-09T18:20:37.238777"
         },
         "TSLA": {
             "quantity": 4,
@@ -327,6 +287,18 @@
         "COIN": {
             "headline": "Cathie Wood\u2019s ARK Invest Boosts Coinbase Position With $26 Million Purchase, Offloads Bitcoin ETF",
             "type": "BUY"
+        },
+        "CVS": {
+            "headline": "Humana and Other Health Insurance Stocks Surge on Higher-Than-Expected Medicare Payments",
+            "type": "SHORT"
+        },
+        "CAVA": {
+            "headline": "\u2018The Menu Keeps Changing\u2019: Cava CEO Says Tariffs Are Fueling Uncertainty",
+            "type": "SHORT"
+        },
+        "PLAY": {
+            "headline": "Dave & Buster\u2019s overhauls its remodel strategy as sales continue to fall",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -9339,6 +9311,56 @@
             "amount": 19,
             "time": "2025-04-09T19:36:34.187007",
             "profit": 52.63000000000006
+        },
+        {
+            "action": "BUY",
+            "ticker": "NRILY",
+            "headline": "Japan\u2019s Unions Win Largest Pay Hike in More Than Three Decades",
+            "buy_price": 32.44,
+            "sold_price": 35.56,
+            "amount": 31,
+            "time": "2025-04-10T02:59:31.885191",
+            "profit": 96.72000000000014
+        },
+        {
+            "action": "BUY",
+            "ticker": "NXGPF",
+            "headline": "Next\u2019s Shares Jump on Guidance Upgrade Against Tough Sector Backdrop",
+            "buy_price": 126.5,
+            "sold_price": 145.27,
+            "amount": 8,
+            "time": "2025-04-10T02:59:31.885205",
+            "profit": 150.16000000000008
+        },
+        {
+            "action": "SHORT",
+            "ticker": "POAHF",
+            "headline": "Porsche AG Deliveries Fall on China and Europe Headwinds",
+            "buy_price": 35,
+            "sold_price": 36.4,
+            "amount": 29,
+            "time": "2025-04-10T02:59:31.885210",
+            "profit": -40.59999999999996
+        },
+        {
+            "action": "SHORT",
+            "ticker": "JDSPY",
+            "headline": "Britain's JD Sports underperforms market rout on US exposure",
+            "buy_price": 0.78,
+            "sold_price": 1.02,
+            "amount": 1283,
+            "time": "2025-04-10T02:59:31.885213",
+            "profit": -307.92
+        },
+        {
+            "action": "SHORT",
+            "ticker": "DTGHF",
+            "headline": "Daimler Truck\u2019s Vehicles Sales Fall Amid North America Weakness",
+            "buy_price": 34.76,
+            "sold_price": 39.51,
+            "amount": 29,
+            "time": "2025-04-10T02:59:31.885217",
+            "profit": -137.75
         }
     ],
     "value_log": [
@@ -15913,6 +15935,10 @@
         {
             "time": "2025-04-10T01:10:35.165961",
             "value": 100778.70897
+        },
+        {
+            "time": "2025-04-10T02:59:32.883951",
+            "value": 100450.18487
         }
     ]
 }
