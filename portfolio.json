@@ -359,6 +359,14 @@
         "BUFD": {
             "headline": "Buffer ETFs Add Nearly $400 Million in Assets as Stocks Drop",
             "type": "SHORT"
+        },
+        "^N225": {
+            "headline": "Japan's Nikkei falls nearly 4% on slowdown fears as US tariffs take effect",
+            "type": "SHORT"
+        },
+        "^YH310": {
+            "headline": "Samsung SDI cuts share sale price, as shaky global markets hit Asian deals",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -16030,6 +16038,10 @@
         },
         {
             "time": "2025-04-10T10:19:20.281586",
+            "value": 100450.18487
+        },
+        {
+            "time": "2025-04-10T11:13:54.189699",
             "value": 100450.18487
         }
     ]
