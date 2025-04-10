@@ -347,6 +347,14 @@
         "COMP": {
             "headline": "Stock Losses Pick Up Steam Heading Into the Close",
             "type": "SHORT"
+        },
+        "AVGO": {
+            "headline": "Broadcom Stock Gets Boost From Share Buyback Plan",
+            "type": "BUY"
+        },
+        "SPY": {
+            "headline": "Trump's China tariffs send stocks tumbling as 'FOMO' rally fades, S&P 500 closes at lowest level in a year",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -16006,6 +16014,10 @@
         },
         {
             "time": "2025-04-10T07:16:04.854547",
+            "value": 100450.18487
+        },
+        {
+            "time": "2025-04-10T08:20:59.347446",
             "value": 100450.18487
         }
     ]
