@@ -479,6 +479,10 @@
         "JDSPY": {
             "headline": "Britain's JD Sports flags little profit growth even without tariff hit",
             "type": "SHORT"
+        },
+        "TW": {
+            "headline": "Is Tradeweb (TW) Poised for Continued Success?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -16424,6 +16428,10 @@
         },
         {
             "time": "2025-04-10T20:16:37.059012",
+            "value": 100438.39747
+        },
+        {
+            "time": "2025-04-10T20:39:53.867926",
             "value": 100438.39747
         }
     ]
