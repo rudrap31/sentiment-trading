@@ -367,6 +367,18 @@
         "^YH310": {
             "headline": "Samsung SDI cuts share sale price, as shaky global markets hit Asian deals",
             "type": "SHORT"
+        },
+        "MU": {
+            "headline": "Jim Cramer Says Micron (MU) Is \u2018On Fire\u2019 and Looks Inexpensive",
+            "type": "SHORT"
+        },
+        "CPRT": {
+            "headline": "Jim Cramer Praises Copart (CPRT)\u2019s \u2018Salvage Vehicle\u2019 Model as \u2018Very Solid\u2019",
+            "type": "BUY"
+        },
+        "PRDSF": {
+            "headline": "Prada Strikes $1.4 Billion Deal for Versace",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -16042,6 +16054,10 @@
         },
         {
             "time": "2025-04-10T11:13:54.189699",
+            "value": 100450.18487
+        },
+        {
+            "time": "2025-04-10T12:31:17.249004",
             "value": 100450.18487
         }
     ]
