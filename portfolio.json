@@ -315,6 +315,18 @@
         "MRX": {
             "headline": "Recent IPO Marex Doubles In No Time As Trump Tariffs Slam Stocks",
             "type": "SHORT"
+        },
+        "NVDA": {
+            "headline": "Why Nvidia Stock Is Jumping Today",
+            "type": "BUY"
+        },
+        "PRMB": {
+            "headline": "Sparkletts Parent, Stock Of The Day, Climbs To 32-Year High",
+            "type": "BUY"
+        },
+        "MDB": {
+            "headline": "Why MongoDB Stock Lost 34% in March",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -15962,6 +15974,10 @@
         },
         {
             "time": "2025-04-10T04:19:35.582290",
+            "value": 100450.18487
+        },
+        {
+            "time": "2025-04-10T05:16:13.206256",
             "value": 100450.18487
         }
     ]
