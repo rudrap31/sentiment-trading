@@ -327,6 +327,14 @@
         "MDB": {
             "headline": "Why MongoDB Stock Lost 34% in March",
             "type": "SHORT"
+        },
+        "WSM": {
+            "headline": "Jim Cramer Says Williams-Sonoma Inc. (WSM) Is \u201cGetting Killed\u201d",
+            "type": "SHORT"
+        },
+        "VRTX": {
+            "headline": "Jim Cramer Calls Vertex Pharmaceuticals Incorporated (VRTX) \u201cTerrific\u201d With \u201cRevolutionary Pain Drug\u201d",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -15978,6 +15986,10 @@
         },
         {
             "time": "2025-04-10T05:16:13.206256",
+            "value": 100450.18487
+        },
+        {
+            "time": "2025-04-10T06:22:45.963253",
             "value": 100450.18487
         }
     ]
