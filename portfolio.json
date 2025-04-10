@@ -335,6 +335,18 @@
         "VRTX": {
             "headline": "Jim Cramer Calls Vertex Pharmaceuticals Incorporated (VRTX) \u201cTerrific\u201d With \u201cRevolutionary Pain Drug\u201d",
             "type": "SHORT"
+        },
+        "NTDOY": {
+            "headline": "Why Nintendo Stock Is Jumping Today",
+            "type": "BUY"
+        },
+        "BA": {
+            "headline": "Boeing First-Quarter Deliveries, Orders Increase Annually; Shares Rise",
+            "type": "BUY"
+        },
+        "COMP": {
+            "headline": "Stock Losses Pick Up Steam Heading Into the Close",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -15990,6 +16002,10 @@
         },
         {
             "time": "2025-04-10T06:22:45.963253",
+            "value": 100450.18487
+        },
+        {
+            "time": "2025-04-10T07:16:04.854547",
             "value": 100450.18487
         }
     ]
