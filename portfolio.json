@@ -487,6 +487,26 @@
         "X": {
             "headline": "Activist Ancora drops U.S. Steel campaign after Trump orders review of Nippon Steel bid",
             "type": "SHORT"
+        },
+        "VFF": {
+            "headline": "Is Village Farms International, Inc. (VFF) the Worst Vertical Farming and Hydroponic Stock to Buy?",
+            "type": "SHORT"
+        },
+        "VIR": {
+            "headline": "Vir Biotechnology, Inc. (VIR): Among Stocks Under $10 that Will Triple",
+            "type": "SHORT"
+        },
+        "WMT": {
+            "headline": "Walmart Maintains Steady Growth Forecast Despite Tariffs",
+            "type": "BUY"
+        },
+        "AMZN": {
+            "headline": "Cathie Wood Doubled Down On This China Stock Prior To Trump Tariffs Taking Effect",
+            "type": "SHORT"
+        },
+        "HYFM": {
+            "headline": "Is Hydrofarm Holdings Group, Inc. (HYFM) the Worst Vertical Farming and Hydroponic Stock to Buy?",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -16440,6 +16460,10 @@
         },
         {
             "time": "2025-04-10T21:14:31.249794",
+            "value": 100438.39747
+        },
+        {
+            "time": "2025-04-10T21:37:07.450799",
             "value": 100438.39747
         }
     ]
