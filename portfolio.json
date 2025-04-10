@@ -355,6 +355,10 @@
         "SPY": {
             "headline": "Trump's China tariffs send stocks tumbling as 'FOMO' rally fades, S&P 500 closes at lowest level in a year",
             "type": "SHORT"
+        },
+        "BUFD": {
+            "headline": "Buffer ETFs Add Nearly $400 Million in Assets as Stocks Drop",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -16022,6 +16026,10 @@
         },
         {
             "time": "2025-04-10T09:17:22.600901",
+            "value": 100450.18487
+        },
+        {
+            "time": "2025-04-10T10:19:20.281586",
             "value": 100450.18487
         }
     ]
