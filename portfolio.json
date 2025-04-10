@@ -483,6 +483,10 @@
         "TW": {
             "headline": "Is Tradeweb (TW) Poised for Continued Success?",
             "type": "BUY"
+        },
+        "X": {
+            "headline": "Activist Ancora drops U.S. Steel campaign after Trump orders review of Nippon Steel bid",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -16432,6 +16436,10 @@
         },
         {
             "time": "2025-04-10T20:39:53.867926",
+            "value": 100438.39747
+        },
+        {
+            "time": "2025-04-10T21:14:31.249794",
             "value": 100438.39747
         }
     ]
