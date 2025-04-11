@@ -487,6 +487,10 @@
         "MSFT": {
             "headline": "Well-Known Analyst Cuts MSFT Price Target, Says Big Tech Will Undergo \u201cCovid Playbook\u201d",
             "type": "SHORT"
+        },
+        "DRPRF": {
+            "headline": "Porsche Rushed Cars to America to Beat Tariffs",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -16804,6 +16808,10 @@
         },
         {
             "time": "2025-04-11T21:14:05.831534",
+            "value": 100607.28046999998
+        },
+        {
+            "time": "2025-04-11T21:37:11.095790",
             "value": 100607.28046999998
         }
     ]
