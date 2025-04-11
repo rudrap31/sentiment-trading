@@ -503,6 +503,14 @@
         "MSFT": {
             "headline": "Short sellers mint $159 billion profit in 6 days as stocks sink",
             "type": "BUY"
+        },
+        "NVDA": {
+            "headline": "NVIDIA (NVDA) Still a Strong AI Bet Amid Market Volatility, Says Bernstein",
+            "type": "BUY"
+        },
+        "APP": {
+            "headline": "Jim Cramer Calls AppLovin Corporation (APP) a \u201cMonster\u201d but Now \u201cOver-Earning\u201d",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -16500,6 +16508,10 @@
         },
         {
             "time": "2025-04-11T03:36:43.072392",
+            "value": 100659.75246999999
+        },
+        {
+            "time": "2025-04-11T04:19:36.122995",
             "value": 100659.75246999999
         }
     ]
