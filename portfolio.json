@@ -471,6 +471,14 @@
         "TCEHY": {
             "headline": "Alibaba, Tencent Stocks Gain. Chinese Markets Ignore Trade War Risk for Now.",
             "type": "BUY"
+        },
+        "BAMXF": {
+            "headline": "BMW Deliveries Slip on China Weakness, Despite Strong Quarter in Europe and U.S.",
+            "type": "SHORT"
+        },
+        "ACN": {
+            "headline": "Accenture expands Google Cloud partnership",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -16780,6 +16788,10 @@
         },
         {
             "time": "2025-04-11T20:16:26.079610",
+            "value": 100607.28046999998
+        },
+        {
+            "time": "2025-04-11T20:39:33.096696",
             "value": 100607.28046999998
         }
     ]
