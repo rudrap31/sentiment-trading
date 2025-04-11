@@ -515,6 +515,14 @@
         "AXON": {
             "headline": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth",
             "type": "BUY"
+        },
+        "COMP": {
+            "headline": "Dow Pops 2,000 Points. Nasdaq Gains 10%.",
+            "type": "BUY"
+        },
+        "NBR": {
+            "headline": "Why Nabors Industries Ltd. (NBR) is Crashing This Week",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -16520,6 +16528,10 @@
         },
         {
             "time": "2025-04-11T05:17:21.216444",
+            "value": 100659.75246999999
+        },
+        {
+            "time": "2025-04-11T06:22:25.832943",
             "value": 100659.75246999999
         }
     ]
