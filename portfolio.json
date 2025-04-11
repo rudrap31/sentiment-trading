@@ -511,6 +511,10 @@
         "APP": {
             "headline": "Jim Cramer Calls AppLovin Corporation (APP) a \u201cMonster\u201d but Now \u201cOver-Earning\u201d",
             "type": "SHORT"
+        },
+        "AXON": {
+            "headline": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -16512,6 +16516,10 @@
         },
         {
             "time": "2025-04-11T04:19:36.122995",
+            "value": 100659.75246999999
+        },
+        {
+            "time": "2025-04-11T05:17:21.216444",
             "value": 100659.75246999999
         }
     ]
