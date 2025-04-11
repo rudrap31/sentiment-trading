@@ -479,6 +479,14 @@
         "ACN": {
             "headline": "Accenture expands Google Cloud partnership",
             "type": "BUY"
+        },
+        "TSM": {
+            "headline": "TSMC Sales Soar 42%. But a Threat Hangs Over the Stock.",
+            "type": "SHORT"
+        },
+        "MSFT": {
+            "headline": "Well-Known Analyst Cuts MSFT Price Target, Says Big Tech Will Undergo \u201cCovid Playbook\u201d",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -16792,6 +16800,10 @@
         },
         {
             "time": "2025-04-11T20:39:33.096696",
+            "value": 100607.28046999998
+        },
+        {
+            "time": "2025-04-11T21:14:05.831534",
             "value": 100607.28046999998
         }
     ]
