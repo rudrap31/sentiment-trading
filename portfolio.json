@@ -527,6 +527,10 @@
         "AAPL": {
             "headline": "iPhone prices \u2018risk doubling\u2019 if production moves to US",
             "type": "SHORT"
+        },
+        "SPTI": {
+            "headline": "QQQ Sees $4.2 Billion Exodus as Tech Stocks Whipsaw",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -16540,6 +16544,10 @@
         },
         {
             "time": "2025-04-11T07:16:01.365041",
+            "value": 100659.75246999999
+        },
+        {
+            "time": "2025-04-11T08:21:08.866800",
             "value": 100659.75246999999
         }
     ]
