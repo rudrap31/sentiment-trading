@@ -511,6 +511,14 @@
         "JPM": {
             "headline": "JPMorgan's Dimon says US recession now a 'likely outcome'",
             "type": "SHORT"
+        },
+        "VG": {
+            "headline": "Venture Global (VG) Slid on Reduced Valuation Expectations",
+            "type": "SHORT"
+        },
+        "MSFT": {
+            "headline": "Short sellers mint $159 billion profit in 6 days as stocks sink",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -16476,6 +16484,10 @@
         },
         {
             "time": "2025-04-10T23:15:28.498368",
+            "value": 100438.39747
+        },
+        {
+            "time": "2025-04-11T01:11:20.711766",
             "value": 100438.39747
         }
     ]
