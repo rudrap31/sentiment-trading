@@ -491,6 +491,18 @@
         "DRPRF": {
             "headline": "Porsche Rushed Cars to America to Beat Tariffs",
             "type": "BUY"
+        },
+        "CVNA": {
+            "headline": "Carmax Stock Heads for Worst Day Since 2022",
+            "type": "SHORT"
+        },
+        "ENGS": {
+            "headline": "Energys Group signs MOU to acquire 49% interest in Energys Spectrum",
+            "type": "BUY"
+        },
+        "TRNS": {
+            "headline": "Transcat (TRNS) Fell on Disappointing Results",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -16816,6 +16828,10 @@
         },
         {
             "time": "2025-04-11T22:15:09.103708",
+            "value": 100607.28046999998
+        },
+        {
+            "time": "2025-04-11T23:15:04.156675",
             "value": 100607.28046999998
         }
     ]
