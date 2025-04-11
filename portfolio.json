@@ -539,6 +539,10 @@
         "^DJI": {
             "headline": "Wild swings in Treasurys have investors worried something is about to 'blow up' in markets",
             "type": "SHORT"
+        },
+        "PSHZF": {
+            "headline": "Ackman's Pershing Square Holdings fund drops nearly 14% so far this year",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -16572,6 +16576,10 @@
         },
         {
             "time": "2025-04-11T12:30:32.585718",
+            "value": 100659.75246999999
+        },
+        {
+            "time": "2025-04-11T13:25:07.225586",
             "value": 100659.75246999999
         }
     ]
