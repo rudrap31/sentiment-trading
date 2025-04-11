@@ -523,6 +523,10 @@
         "NBR": {
             "headline": "Why Nabors Industries Ltd. (NBR) is Crashing This Week",
             "type": "SHORT"
+        },
+        "AAPL": {
+            "headline": "iPhone prices \u2018risk doubling\u2019 if production moves to US",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -16532,6 +16536,10 @@
         },
         {
             "time": "2025-04-11T06:22:25.832943",
+            "value": 100659.75246999999
+        },
+        {
+            "time": "2025-04-11T07:16:01.365041",
             "value": 100659.75246999999
         }
     ]
