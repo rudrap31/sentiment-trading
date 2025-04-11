@@ -531,6 +531,14 @@
         "SPTI": {
             "headline": "QQQ Sees $4.2 Billion Exodus as Tech Stocks Whipsaw",
             "type": "BUY"
+        },
+        "^IXIC": {
+            "headline": "Investors grapple with bond chaos as long-term yields soar in aftermath of President Trump's 'Liberation Day'",
+            "type": "SHORT"
+        },
+        "^DJI": {
+            "headline": "Wild swings in Treasurys have investors worried something is about to 'blow up' in markets",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -16548,6 +16556,10 @@
         },
         {
             "time": "2025-04-11T08:21:08.866800",
+            "value": 100659.75246999999
+        },
+        {
+            "time": "2025-04-11T09:17:08.163560",
             "value": 100659.75246999999
         }
     ]
