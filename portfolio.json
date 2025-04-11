@@ -1,6 +1,6 @@
 {
-    "cash": 38877.09556999997,
-    "value": 100438.39747,
+    "cash": 41136.420569999966,
+    "value": 100659.75246999999,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -182,7 +182,7 @@
             "quantity": 9,
             "type": "SHORT",
             "buy_price": 115,
-            "current_price": 114,
+            "current_price": 117.76,
             "headline": "Singapore's DBS, BoC customer data at risk after ransomware attack on vendor",
             "time": "2025-04-09T14:16:14.474190"
         },
@@ -193,14 +193,6 @@
             "current_price": 125.37,
             "headline": "Is Tradeweb (TW) Poised for Continued Success?",
             "time": "2025-04-09T14:16:14.919410"
-        },
-        "SVNDF": {
-            "quantity": 88,
-            "type": "BUY",
-            "buy_price": 11.41,
-            "current_price": 11.41,
-            "headline": "7-Eleven Owner Targets Profit Growth Despite Tariff Uncertainty",
-            "time": "2025-04-09T14:16:14.939391"
         },
         "PNXGF": {
             "quantity": 151,
@@ -289,14 +281,6 @@
             "current_price": 58.66,
             "headline": "Jim Cramer Praises Copart (CPRT)\u2019s \u2018Salvage Vehicle\u2019 Model as \u2018Very Solid\u2019",
             "time": "2025-04-10T14:15:25.648492"
-        },
-        "PRDSF": {
-            "quantity": 177,
-            "type": "BUY",
-            "buy_price": 5.65,
-            "current_price": 5.65,
-            "headline": "Prada Strikes $1.4 Billion Deal for Versace",
-            "time": "2025-04-10T14:15:25.719028"
         },
         "REVBW": {
             "quantity": 75188,
@@ -9791,6 +9775,26 @@
             "amount": 59,
             "time": "2025-04-10T18:45:01.318310",
             "profit": -43.66000000000012
+        },
+        {
+            "action": "BUY",
+            "ticker": "SVNDF",
+            "headline": "7-Eleven Owner Targets Profit Growth Despite Tariff Uncertainty",
+            "buy_price": 11.41,
+            "sold_price": 13.435,
+            "amount": 88,
+            "time": "2025-04-11T03:00:02.860627",
+            "profit": 178.20000000000005
+        },
+        {
+            "action": "BUY",
+            "ticker": "PRDSF",
+            "headline": "Prada Strikes $1.4 Billion Deal for Versace",
+            "buy_price": 5.65,
+            "sold_price": 6.085,
+            "amount": 177,
+            "time": "2025-04-11T03:00:02.860643",
+            "profit": 76.99499999999993
         }
     ],
     "value_log": [
@@ -16489,6 +16493,10 @@
         {
             "time": "2025-04-11T01:11:20.711766",
             "value": 100438.39747
+        },
+        {
+            "time": "2025-04-11T03:00:03.685353",
+            "value": 100659.75246999999
         }
     ]
 }
