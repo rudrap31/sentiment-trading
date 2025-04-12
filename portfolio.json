@@ -523,6 +523,14 @@
         "DAL": {
             "headline": "Delta Air Lines (DAL): Among the Best Economic Recovery Stocks to Buy",
             "type": "BUY"
+        },
+        "NOW": {
+            "headline": "Why AI Stock ServiceNow Sank by Almost 5% on Thursday",
+            "type": "SHORT"
+        },
+        "PTLC": {
+            "headline": "QQQ Pulls In $1.9 Billion of New Money During Historic Rally",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -16874,6 +16882,10 @@
         },
         {
             "time": "2025-04-12T04:14:35.651405",
+            "value": 100542.54447
+        },
+        {
+            "time": "2025-04-12T06:15:29.802779",
             "value": 100542.54447
         }
     ]
