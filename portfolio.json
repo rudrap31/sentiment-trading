@@ -1,6 +1,6 @@
 {
-    "cash": 39936.99626999997,
-    "value": 100607.28046999998,
+    "cash": 40890.41926999997,
+    "value": 100571.16446999999,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -150,7 +150,7 @@
             "quantity": 9,
             "type": "SHORT",
             "buy_price": 115,
-            "current_price": 117.76,
+            "current_price": 117.81,
             "headline": "Singapore's DBS, BoC customer data at risk after ransomware attack on vendor",
             "time": "2025-04-09T14:16:14.474190"
         },
@@ -322,14 +322,6 @@
             "headline": "IBM's AI Mainframe Will Boost Revenue This Year",
             "time": "2025-04-10T19:36:58.445132"
         },
-        "JDSPY": {
-            "quantity": 1090,
-            "type": "SHORT",
-            "buy_price": 0.9176,
-            "current_price": 0.9393,
-            "headline": "Britain's JD Sports flags little profit growth even without tariff hit",
-            "time": "2025-04-11T14:15:02.467373"
-        },
         "VFF": {
             "quantity": 1937,
             "type": "SHORT",
@@ -382,7 +374,7 @@
             "quantity": 23,
             "type": "SHORT",
             "buy_price": 43.7,
-            "current_price": 44.454,
+            "current_price": 45,
             "headline": "Ackman's Pershing Square Holdings fund drops nearly 14% so far this year",
             "time": "2025-04-11T14:15:04.166558"
         },
@@ -506,6 +498,10 @@
         },
         "TOST": {
             "headline": "Toast, Inc. (TOST): Among Stocks Insiders Sold in April After Trump\u2019s Tariff Rollout",
+            "type": "SHORT"
+        },
+        "F": {
+            "headline": "Study finds Trump's 25% auto tariffs could cost US automakers $108 billion",
             "type": "SHORT"
         }
     },
@@ -10019,6 +10015,16 @@
             "amount": 12,
             "time": "2025-04-11T20:16:25.136704",
             "profit": -38.28000000000014
+        },
+        {
+            "action": "SHORT",
+            "ticker": "JDSPY",
+            "headline": "Britain's JD Sports flags little profit growth even without tariff hit",
+            "buy_price": 0.9176,
+            "sold_price": 0.9605,
+            "amount": 1090,
+            "time": "2025-04-12T02:55:15.535435",
+            "profit": -46.76100000000005
         }
     ],
     "value_log": [
@@ -16841,6 +16847,10 @@
         {
             "time": "2025-04-12T00:54:35.382445",
             "value": 100607.28046999998
+        },
+        {
+            "time": "2025-04-12T02:55:16.542941",
+            "value": 100571.16446999999
         }
     ]
 }
