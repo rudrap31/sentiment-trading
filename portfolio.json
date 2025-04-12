@@ -575,6 +575,14 @@
         "BKNG": {
             "headline": "Is Booking Holdings Inc. (NASDAQ:BKNG) a NASDAQ Stock with the Highest Upside Potential?",
             "type": "BUY"
+        },
+        "AMZN": {
+            "headline": "Amazon.com, Inc. (AMZN): Amazon Maintains AI Focus Despite Tariff Pressure and Price Target Trim",
+            "type": "BUY"
+        },
+        "NVDA": {
+            "headline": "NVIDIA Corporation (NVDA): Cantor Calls Nvidia the Top AI Bet with Massive Upside Potential",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -16946,6 +16954,10 @@
         },
         {
             "time": "2025-04-12T14:10:18.372704",
+            "value": 100542.54447
+        },
+        {
+            "time": "2025-04-12T16:13:16.111000",
             "value": 100542.54447
         }
     ]
