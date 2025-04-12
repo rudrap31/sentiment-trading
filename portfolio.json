@@ -539,6 +539,14 @@
         "^TNX": {
             "headline": "US bond yields rise, dollar down as turbulent week comes to an end",
             "type": "SHORT"
+        },
+        "C": {
+            "headline": "Citi clients in Russia receiving some frozen funds, Russian lawyers say",
+            "type": "SHORT"
+        },
+        "PIRC.MI": {
+            "headline": "Pirelli says US investment plans on hold over Chinese shareholder",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -16898,6 +16906,10 @@
         },
         {
             "time": "2025-04-12T08:14:34.991144",
+            "value": 100542.54447
+        },
+        {
+            "time": "2025-04-12T10:11:34.095769",
             "value": 100542.54447
         }
     ]
