@@ -559,6 +559,22 @@
         "JPM": {
             "headline": "JPMorgan profit beats estimates on record stock trading, CEO sees economic turbulence",
             "type": "BUY"
+        },
+        "GOOG": {
+            "headline": "Is Alphabet Inc. (NASDAQ:GOOGL) a NASDAQ Stock with the Highest Upside Potential?",
+            "type": "BUY"
+        },
+        "PRMRF": {
+            "headline": "Paramount Resources price target lowered to C$29 from C$31 at Scotiabank",
+            "type": "SHORT"
+        },
+        "RRC": {
+            "headline": "Range Resources price target lowered to $40 from $45 at Scotiabank",
+            "type": "SHORT"
+        },
+        "BKNG": {
+            "headline": "Is Booking Holdings Inc. (NASDAQ:BKNG) a NASDAQ Stock with the Highest Upside Potential?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -16926,6 +16942,10 @@
         },
         {
             "time": "2025-04-12T12:19:46.378562",
+            "value": 100542.54447
+        },
+        {
+            "time": "2025-04-12T14:10:18.372704",
             "value": 100542.54447
         }
     ]
