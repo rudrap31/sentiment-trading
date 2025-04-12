@@ -503,6 +503,10 @@
         "TRNS": {
             "headline": "Transcat (TRNS) Fell on Disappointing Results",
             "type": "SHORT"
+        },
+        "TOST": {
+            "headline": "Toast, Inc. (TOST): Among Stocks Insiders Sold in April After Trump\u2019s Tariff Rollout",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -16832,6 +16836,10 @@
         },
         {
             "time": "2025-04-11T23:15:04.156675",
+            "value": 100607.28046999998
+        },
+        {
+            "time": "2025-04-12T00:54:35.382445",
             "value": 100607.28046999998
         }
     ]
