@@ -547,6 +547,18 @@
         "PIRC.MI": {
             "headline": "Pirelli says US investment plans on hold over Chinese shareholder",
             "type": "SHORT"
+        },
+        "LI": {
+            "headline": "Why Li Auto Inc. (LI) Went Down Up Thursday?",
+            "type": "SHORT"
+        },
+        "BTG": {
+            "headline": "Why B2Gold Corp. (BTG) Went Up On Thursday?",
+            "type": "BUY"
+        },
+        "JPM": {
+            "headline": "JPMorgan profit beats estimates on record stock trading, CEO sees economic turbulence",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -16910,6 +16922,10 @@
         },
         {
             "time": "2025-04-12T10:11:34.095769",
+            "value": 100542.54447
+        },
+        {
+            "time": "2025-04-12T12:19:46.378562",
             "value": 100542.54447
         }
     ]
