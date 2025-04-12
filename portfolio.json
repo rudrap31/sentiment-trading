@@ -1,6 +1,6 @@
 {
     "cash": 40890.41926999997,
-    "value": 100571.16446999999,
+    "value": 100542.54447,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -414,7 +414,7 @@
             "quantity": 106,
             "type": "SHORT",
             "buy_price": 9.51,
-            "current_price": 9.51,
+            "current_price": 9.78,
             "headline": "Volkswagen hit by EU carbon emissions penalties",
             "time": "2025-04-11T16:46:13.303937"
         },
@@ -503,6 +503,26 @@
         "F": {
             "headline": "Study finds Trump's 25% auto tariffs could cost US automakers $108 billion",
             "type": "SHORT"
+        },
+        "WCC-P-A": {
+            "headline": "WESCO International (WCC): Among the Best Economic Recovery Stocks to Buy",
+            "type": "BUY"
+        },
+        "IR": {
+            "headline": "Ingersoll Rand Inc. (IR): Among the Best Economic Recovery Stocks to Buy",
+            "type": "BUY"
+        },
+        "LOGI": {
+            "headline": "Logitech Withdraws FY26 Outlook Amid Tariff Uncertainty",
+            "type": "SHORT"
+        },
+        "SNX": {
+            "headline": "TD SYNNEX (SNX): One of the Best Economic Recovery Stocks to Buy",
+            "type": "BUY"
+        },
+        "DAL": {
+            "headline": "Delta Air Lines (DAL): Among the Best Economic Recovery Stocks to Buy",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -16851,6 +16871,10 @@
         {
             "time": "2025-04-12T02:55:16.542941",
             "value": 100571.16446999999
+        },
+        {
+            "time": "2025-04-12T04:14:35.651405",
+            "value": 100542.54447
         }
     ]
 }
