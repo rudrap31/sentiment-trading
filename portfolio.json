@@ -607,6 +607,22 @@
         "VFFSX": {
             "headline": "GLD Attracts a Strong $1.2 Billion Amid Market Pullback",
             "type": "BUY"
+        },
+        "GTLB": {
+            "headline": "Why GitLab Inc. (GTLB) Went Down On Friday?",
+            "type": "SHORT"
+        },
+        "RLX": {
+            "headline": "Why RLX Technology Inc. (RLX) Went Down On Friday?",
+            "type": "SHORT"
+        },
+        "RGTIW": {
+            "headline": "Why Rigetti Computing Inc. (RGTI) Went Down On Friday?",
+            "type": "SHORT"
+        },
+        "VFC": {
+            "headline": "Why VF Corporation (VFC) Went Down On Friday?",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -17006,6 +17022,10 @@
         },
         {
             "time": "2025-04-13T08:14:43.473017",
+            "value": 100542.54447
+        },
+        {
+            "time": "2025-04-13T10:13:10.948310",
             "value": 100542.54447
         }
     ]
