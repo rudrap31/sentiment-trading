@@ -643,6 +643,10 @@
         "NC": {
             "headline": "Why NACCO Industries, Inc. (NC) Stock is Gaining This Week",
             "type": "BUY"
+        },
+        "NFLX": {
+            "headline": "Dow Jones Futures Rise After Big Trump Tariff News For Apple, Techs",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17066,6 +17070,10 @@
         },
         {
             "time": "2025-04-13T20:12:25.456193",
+            "value": 100542.54447
+        },
+        {
+            "time": "2025-04-13T22:11:28.762363",
             "value": 100542.54447
         }
     ]
