@@ -675,6 +675,14 @@
         "BNPQF": {
             "headline": "BNP Paribas Downgrades Projections for AXA IM Deal After Regulatory Guidance",
             "type": "SHORT"
+        },
+        "APP": {
+            "headline": "AppLovin Corporation (APP): AI Ad Platform Upgraded as In-App Growth and E-Commerce Momentum Builds",
+            "type": "BUY"
+        },
+        "PLTR": {
+            "headline": "Palantir (PLTR) Forecasts 31% Growth, Wins $100M Army AI Contract",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17146,6 +17154,10 @@
         },
         {
             "time": "2025-04-14T12:30:52.537943",
+            "value": 100542.54447
+        },
+        {
+            "time": "2025-04-14T13:27:34.001042",
             "value": 100542.54447
         }
     ]
