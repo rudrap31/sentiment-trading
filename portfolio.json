@@ -659,6 +659,10 @@
         "HNHAF": {
             "headline": "Asian Shares Gain After Trump\u2019s Tech Exemptions",
             "type": "BUY"
+        },
+        "META": {
+            "headline": "Facebook owner Meta faces existential threat at trial over Instagram, WhatsApp",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -17118,6 +17122,10 @@
         },
         {
             "time": "2025-04-14T09:18:23.258158",
+            "value": 100542.54447
+        },
+        {
+            "time": "2025-04-14T10:18:28.225667",
             "value": 100542.54447
         }
     ]
