@@ -623,6 +623,10 @@
         "GM": {
             "headline": "1 Way Tariffs Could Cripple GM for Investors",
             "type": "SHORT"
+        },
+        "^IXIC": {
+            "headline": "Market chaos signals 'sell America' trade as Trump tariff whipsaw threatens to upend the US economy's soft landing",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -17194,6 +17198,10 @@
         },
         {
             "time": "2025-04-14T21:37:34.603422",
+            "value": 100491.41247
+        },
+        {
+            "time": "2025-04-14T22:15:18.006752",
             "value": 100491.41247
         }
     ]
