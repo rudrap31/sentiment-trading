@@ -667,6 +667,14 @@
         "MELI": {
             "headline": "Dow Jones Futures Rise After Big Trump Tariff News For Apple, Techs",
             "type": "BUY"
+        },
+        "GS": {
+            "headline": "Goldman Sachs Profit Surges, Powered by Trading Revenue",
+            "type": "BUY"
+        },
+        "BNPQF": {
+            "headline": "BNP Paribas Downgrades Projections for AXA IM Deal After Regulatory Guidance",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -17134,6 +17142,10 @@
         },
         {
             "time": "2025-04-14T11:13:52.189605",
+            "value": 100542.54447
+        },
+        {
+            "time": "2025-04-14T12:30:52.537943",
             "value": 100542.54447
         }
     ]
