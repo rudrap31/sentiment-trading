@@ -619,6 +619,10 @@
         "PLTR": {
             "headline": "Palantir (PLTR) Forecasts 31% Growth, Wins $100M Army AI Contract",
             "type": "BUY"
+        },
+        "GM": {
+            "headline": "1 Way Tariffs Could Cripple GM for Investors",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -17186,6 +17190,10 @@
         },
         {
             "time": "2025-04-14T21:14:25.285877",
+            "value": 100491.41247
+        },
+        {
+            "time": "2025-04-14T21:37:34.603422",
             "value": 100491.41247
         }
     ]
