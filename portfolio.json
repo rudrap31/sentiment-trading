@@ -663,6 +663,10 @@
         "META": {
             "headline": "Facebook owner Meta faces existential threat at trial over Instagram, WhatsApp",
             "type": "SHORT"
+        },
+        "MELI": {
+            "headline": "Dow Jones Futures Rise After Big Trump Tariff News For Apple, Techs",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17126,6 +17130,10 @@
         },
         {
             "time": "2025-04-14T10:18:28.225667",
+            "value": 100542.54447
+        },
+        {
+            "time": "2025-04-14T11:13:52.189605",
             "value": 100542.54447
         }
     ]
