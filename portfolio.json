@@ -647,6 +647,14 @@
         "NFLX": {
             "headline": "Dow Jones Futures Rise After Big Trump Tariff News For Apple, Techs",
             "type": "BUY"
+        },
+        "TEAM": {
+            "headline": "Atlassian price target lowered to $225 from $330 at Scotiabank",
+            "type": "SHORT"
+        },
+        "TBBB": {
+            "headline": "BBB Foods price target raised to $37 from $36 at Scotiabank",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17074,6 +17082,10 @@
         },
         {
             "time": "2025-04-13T22:11:28.762363",
+            "value": 100542.54447
+        },
+        {
+            "time": "2025-04-14T01:14:03.219360",
             "value": 100542.54447
         }
     ]
