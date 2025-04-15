@@ -631,6 +631,14 @@
         "SKYQ": {
             "headline": "Why Sky Quarry Inc. (SKYQ) Stock is Gaining This Week",
             "type": "BUY"
+        },
+        "LOW": {
+            "headline": "Lowe\u2019s signs definitive agreement to acquire ADG for $1.32bn",
+            "type": "BUY"
+        },
+        "TM": {
+            "headline": "Global Carmaker Stocks Rise After Trump Hints at Auto Tariff Pause",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17258,6 +17266,10 @@
         },
         {
             "time": "2025-04-15T08:22:03.703821",
+            "value": 100461.29346999999
+        },
+        {
+            "time": "2025-04-15T09:18:02.116362",
             "value": 100461.29346999999
         }
     ]
