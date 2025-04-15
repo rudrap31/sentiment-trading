@@ -1,6 +1,6 @@
 {
-    "cash": 49931.086169999966,
-    "value": 100491.41247,
+    "cash": 51885.586169999966,
+    "value": 100461.29346999999,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -137,14 +137,6 @@
             "current_price": 87.45,
             "headline": "MicroStrategy, Robinhood Stocks Drop After Bitcoin Plunge",
             "time": "2025-04-09T14:16:14.412455"
-        },
-        "DBSDY": {
-            "quantity": 9,
-            "type": "SHORT",
-            "buy_price": 115,
-            "current_price": 117.81,
-            "headline": "Singapore's DBS, BoC customer data at risk after ransomware attack on vendor",
-            "time": "2025-04-09T14:16:14.474190"
         },
         "TW": {
             "quantity": 8,
@@ -318,7 +310,7 @@
             "quantity": 23,
             "type": "SHORT",
             "buy_price": 43.7,
-            "current_price": 45,
+            "current_price": 44.803,
             "headline": "Ackman's Pershing Square Holdings fund drops nearly 14% so far this year",
             "time": "2025-04-11T14:15:04.166558"
         },
@@ -345,14 +337,6 @@
             "current_price": 278.56,
             "headline": "Progressive Stock Revisits A Buy Zone As Earnings Loom",
             "time": "2025-04-11T16:18:47.805920"
-        },
-        "VWAPY": {
-            "quantity": 106,
-            "type": "SHORT",
-            "buy_price": 9.51,
-            "current_price": 9.78,
-            "headline": "Volkswagen hit by EU carbon emissions penalties",
-            "time": "2025-04-11T16:46:13.303937"
         },
         "KAR": {
             "quantity": 55,
@@ -10229,6 +10213,26 @@
             "amount": 44,
             "time": "2025-04-14T20:16:58.903628",
             "profit": 143.4399999999999
+        },
+        {
+            "action": "SHORT",
+            "ticker": "DBSDY",
+            "headline": "Singapore's DBS, BoC customer data at risk after ransomware attack on vendor",
+            "buy_price": 115,
+            "sold_price": 118.48,
+            "amount": 9,
+            "time": "2025-04-15T03:03:34.299557",
+            "profit": -31.320000000000036
+        },
+        {
+            "action": "SHORT",
+            "ticker": "VWAPY",
+            "headline": "Volkswagen hit by EU carbon emissions penalties",
+            "buy_price": 9.51,
+            "sold_price": 10.05,
+            "amount": 106,
+            "time": "2025-04-15T03:03:34.299575",
+            "profit": -57.240000000000094
         }
     ],
     "value_log": [
@@ -17211,6 +17215,10 @@
         {
             "time": "2025-04-15T01:13:15.321097",
             "value": 100491.41247
+        },
+        {
+            "time": "2025-04-15T03:03:35.239411",
+            "value": 100461.29346999999
         }
     ]
 }
