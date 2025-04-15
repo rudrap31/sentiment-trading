@@ -651,6 +651,10 @@
         "GSC": {
             "headline": "Goldman Sachs reports 15% profit growth in Q1 2025",
             "type": "BUY"
+        },
+        "BA": {
+            "headline": "China orders airlines to suspend Boeing jet deliveries amid trade war, Bloomberg News reports",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -17290,6 +17294,10 @@
         },
         {
             "time": "2025-04-15T12:30:28.211686",
+            "value": 100461.29346999999
+        },
+        {
+            "time": "2025-04-15T13:26:37.037004",
             "value": 100461.29346999999
         }
     ]
