@@ -479,6 +479,10 @@
         "BNPQF": {
             "headline": "BNP Paribas Downgrades Projections for AXA IM Deal After Regulatory Guidance",
             "type": "SHORT"
+        },
+        "META": {
+            "headline": "Meta (META) Drops Llama 4 \u2013 But Bank of America Cools Target Over Ad Pressure & Tariff Fears",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -17278,6 +17282,10 @@
         },
         {
             "time": "2025-04-15T20:40:37.886575",
+            "value": 100665.34276999993
+        },
+        {
+            "time": "2025-04-15T21:14:28.488915",
             "value": 100665.34276999993
         }
     ]
