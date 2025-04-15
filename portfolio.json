@@ -611,6 +611,26 @@
         "^IXIC": {
             "headline": "Market chaos signals 'sell America' trade as Trump tariff whipsaw threatens to upend the US economy's soft landing",
             "type": "SHORT"
+        },
+        "HNRG": {
+            "headline": "Why Hallador Energy Company (HNRG) Stock is Gaining This Week",
+            "type": "BUY"
+        },
+        "LEU": {
+            "headline": "Why Centrus Energy Corp. (LEU) Stock is Gaining This Week",
+            "type": "BUY"
+        },
+        "AMTX": {
+            "headline": "Why Aemetis, Inc. (AMTX) Stock is Gaining This Week",
+            "type": "BUY"
+        },
+        "MVO": {
+            "headline": "Why MV Oil Trust (MVO) Stock is Gaining This Week",
+            "type": "BUY"
+        },
+        "SKYQ": {
+            "headline": "Why Sky Quarry Inc. (SKYQ) Stock is Gaining This Week",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17226,6 +17246,10 @@
         },
         {
             "time": "2025-04-15T05:16:16.211526",
+            "value": 100461.29346999999
+        },
+        {
+            "time": "2025-04-15T06:22:49.118794",
             "value": 100461.29346999999
         }
     ]
