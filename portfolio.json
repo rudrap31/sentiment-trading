@@ -503,6 +503,18 @@
         "ULTA": {
             "headline": "Ulta Beauty aims for long-term growth after data, ERP upgrades",
             "type": "BUY"
+        },
+        "AAPL": {
+            "headline": "Bullish trade in Apple options reaps gains as shares jump on tariff exemption",
+            "type": "BUY"
+        },
+        "COMP": {
+            "headline": "Nasdaq Jumps 1.8% as Market Stages Broad Rally",
+            "type": "SHORT"
+        },
+        "PFE": {
+            "headline": "Pfizer Halts Obesity-Drug Development. What It Means for Eli Lilly, Novo Nordisk.",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -17314,6 +17326,10 @@
         },
         {
             "time": "2025-04-15T22:15:51.267182",
+            "value": 100665.34276999993
+        },
+        {
+            "time": "2025-04-15T23:15:22.766045",
             "value": 100665.34276999993
         }
     ]
