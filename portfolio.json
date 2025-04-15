@@ -475,6 +475,10 @@
         "CME": {
             "headline": "CME Group, S&P Group Agree to Sell OSTTRA to KKR in $3.1 Billion Deal",
             "type": "BUY"
+        },
+        "BNPQF": {
+            "headline": "BNP Paribas Downgrades Projections for AXA IM Deal After Regulatory Guidance",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -17270,6 +17274,10 @@
         },
         {
             "time": "2025-04-15T20:16:45.197492",
+            "value": 100665.34276999993
+        },
+        {
+            "time": "2025-04-15T20:40:37.886575",
             "value": 100665.34276999993
         }
     ]
