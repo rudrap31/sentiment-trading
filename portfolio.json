@@ -483,6 +483,18 @@
         "META": {
             "headline": "Meta (META) Drops Llama 4 \u2013 But Bank of America Cools Target Over Ad Pressure & Tariff Fears",
             "type": "SHORT"
+        },
+        "NVDA": {
+            "headline": "Nvidia stock leaps after massive U.S. investment surprise",
+            "type": "BUY"
+        },
+        "AVGO": {
+            "headline": "Broadcom Inc. (AVGO): Analyst Cuts AI Stock Target Amid Intensifying Tariff Fears",
+            "type": "SHORT"
+        },
+        "KRAK.PVT": {
+            "headline": "Kraken expands beyond crypto with commission-free trading launch",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17286,6 +17298,10 @@
         },
         {
             "time": "2025-04-15T21:14:28.488915",
+            "value": 100665.34276999993
+        },
+        {
+            "time": "2025-04-15T21:37:43.635710",
             "value": 100665.34276999993
         }
     ]
