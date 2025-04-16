@@ -535,6 +535,18 @@
         "GM": {
             "headline": "Why Tesla, GM, and Rivian will be hurt most by China's critical minerals export ban",
             "type": "SHORT"
+        },
+        "GOOG": {
+            "headline": "New York Developer Related Looks To Raise $8 Billion For Data Center Investment",
+            "type": "BUY"
+        },
+        "BZ=F": {
+            "headline": "Oil prices may need to fall another 20% before a 'Trump put' stops this year's slide",
+            "type": "SHORT"
+        },
+        "STLAM.MI": {
+            "headline": "UBS Downgrades Stellantis Stock, Slashes Price Target on Tariff Headwinds",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -17362,6 +17374,10 @@
         },
         {
             "time": "2025-04-16T04:19:05.381037",
+            "value": 100658.74976999994
+        },
+        {
+            "time": "2025-04-16T05:16:23.440615",
             "value": 100658.74976999994
         }
     ]
