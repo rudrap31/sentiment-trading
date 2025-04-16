@@ -515,6 +515,14 @@
         "PFE": {
             "headline": "Pfizer Halts Obesity-Drug Development. What It Means for Eli Lilly, Novo Nordisk.",
             "type": "SHORT"
+        },
+        "APP": {
+            "headline": "AppLovin Corporation (APP): AI Ad Platform Upgraded as In-App Growth and E-Commerce Momentum Builds",
+            "type": "BUY"
+        },
+        "AMD": {
+            "headline": "Advanced Micro Devices (AMD): New AI Chips and GPU Momentum Fuel Optimism Despite Lower Target",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17330,6 +17338,10 @@
         },
         {
             "time": "2025-04-15T23:15:22.766045",
+            "value": 100665.34276999993
+        },
+        {
+            "time": "2025-04-16T01:12:37.490165",
             "value": 100665.34276999993
         }
     ]
