@@ -591,6 +591,10 @@
         "HPE": {
             "headline": "Why Hewlett Packard Enterprise Company (HPE) Skyrocketed On Tuesday?",
             "type": "BUY"
+        },
+        "ABT": {
+            "headline": "Abbott Laboratories Dips As Sales Come In Light Despite Profit Beat",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -17450,6 +17454,10 @@
         },
         {
             "time": "2025-04-16T12:31:12.864052",
+            "value": 100658.74976999994
+        },
+        {
+            "time": "2025-04-16T13:26:44.716484",
             "value": 100658.74976999994
         }
     ]
