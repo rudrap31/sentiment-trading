@@ -547,6 +547,10 @@
         "STLAM.MI": {
             "headline": "UBS Downgrades Stellantis Stock, Slashes Price Target on Tariff Headwinds",
             "type": "SHORT"
+        },
+        "F": {
+            "headline": "Why Ford and General Motors Stocks Popped on Monday",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -17378,6 +17382,10 @@
         },
         {
             "time": "2025-04-16T05:16:23.440615",
+            "value": 100658.74976999994
+        },
+        {
+            "time": "2025-04-16T06:22:38.845621",
             "value": 100658.74976999994
         }
     ]
