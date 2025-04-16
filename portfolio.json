@@ -491,6 +491,10 @@
         "C": {
             "headline": "Citigroup Reports Jump in Profit, Revenue",
             "type": "BUY"
+        },
+        "JNJ": {
+            "headline": "Johnson & Johnson Q1 Earnings: Strong Cancer Drug Sales, Boosts Quarterly Dividend, Anticipates Negative Currency Impact For 2025 Profit",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17600,6 +17604,10 @@
         },
         {
             "time": "2025-04-16T20:40:56.344121",
+            "value": 100505.16406999996
+        },
+        {
+            "time": "2025-04-16T21:14:18.894543",
             "value": 100505.16406999996
         }
     ]
