@@ -575,6 +575,22 @@
         "CFLT": {
             "headline": "Raymond James Sees Strong Growth Ahead for These 2 Software Stocks",
             "type": "BUY"
+        },
+        "ASML": {
+            "headline": "Chip Gear Giant ASML Tops Q1 Views, Guides Low On Q2 Sales",
+            "type": "SHORT"
+        },
+        "YMM": {
+            "headline": "Why Full Truck Alliance Co. Ltd (YMM) Skyrocketed On Tuesday?",
+            "type": "BUY"
+        },
+        "NFLX": {
+            "headline": "Why Netflix Inc. (NFLX) Skyrocketed On Tuesday?",
+            "type": "BUY"
+        },
+        "HPE": {
+            "headline": "Why Hewlett Packard Enterprise Company (HPE) Skyrocketed On Tuesday?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17426,6 +17442,10 @@
         },
         {
             "time": "2025-04-16T10:17:27.155286",
+            "value": 100658.74976999994
+        },
+        {
+            "time": "2025-04-16T11:14:04.861143",
             "value": 100658.74976999994
         }
     ]
