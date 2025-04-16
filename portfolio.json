@@ -487,6 +487,10 @@
         "MC.PA": {
             "headline": "LVMH could consider price hikes in wake of tariffs",
             "type": "SHORT"
+        },
+        "C": {
+            "headline": "Citigroup Reports Jump in Profit, Revenue",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17592,6 +17596,10 @@
         },
         {
             "time": "2025-04-16T20:16:58.732633",
+            "value": 100505.16406999996
+        },
+        {
+            "time": "2025-04-16T20:40:56.344121",
             "value": 100505.16406999996
         }
     ]
