@@ -495,6 +495,18 @@
         "JNJ": {
             "headline": "Johnson & Johnson Q1 Earnings: Strong Cancer Drug Sales, Boosts Quarterly Dividend, Anticipates Negative Currency Impact For 2025 Profit",
             "type": "BUY"
+        },
+        "BA": {
+            "headline": "Boeing Stock Falls On China Trade-War Retaliation",
+            "type": "SHORT"
+        },
+        "SPY": {
+            "headline": "Investors aggressively buy the dip as Trump's tariff turmoil continues to shake markets",
+            "type": "BUY"
+        },
+        "NVDA": {
+            "headline": "AI Crypto Tokens Nurse Losses as Nvidia Bearish Options Bets Cross the Tape",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -17608,6 +17620,10 @@
         },
         {
             "time": "2025-04-16T21:14:18.894543",
+            "value": 100505.16406999996
+        },
+        {
+            "time": "2025-04-16T21:39:23.288569",
             "value": 100505.16406999996
         }
     ]
