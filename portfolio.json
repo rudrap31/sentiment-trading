@@ -1,6 +1,6 @@
 {
     "cash": 38666.600669999956,
-    "value": 100665.34276999993,
+    "value": 100665.58176999995,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -230,7 +230,7 @@
             "quantity": 23,
             "type": "SHORT",
             "buy_price": 43.7,
-            "current_price": 44.803,
+            "current_price": 44.65,
             "headline": "Ackman's Pershing Square Holdings fund drops nearly 14% so far this year",
             "time": "2025-04-11T14:15:04.166558"
         },
@@ -302,7 +302,7 @@
             "quantity": 18,
             "type": "BUY",
             "buy_price": 58,
-            "current_price": 59.05,
+            "current_price": 58.79,
             "headline": "Alibaba, Tencent Stocks Gain. Chinese Markets Ignore Trade War Risk for Now.",
             "time": "2025-04-15T14:16:29.058301"
         },
@@ -310,7 +310,7 @@
             "quantity": 14,
             "type": "SHORT",
             "buy_price": 75.8764,
-            "current_price": 77.7,
+            "current_price": 77.6,
             "headline": "BMW Deliveries Slip on China Weakness, Despite Strong Quarter in Europe and U.S.",
             "time": "2025-04-15T14:16:29.139690"
         },
@@ -17343,6 +17343,10 @@
         {
             "time": "2025-04-16T01:12:37.490165",
             "value": 100665.34276999993
+        },
+        {
+            "time": "2025-04-16T03:03:13.012516",
+            "value": 100665.58176999995
         }
     ]
 }
