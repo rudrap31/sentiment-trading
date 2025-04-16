@@ -1,6 +1,6 @@
 {
     "cash": 38666.600669999956,
-    "value": 100665.58176999995,
+    "value": 100658.74976999994,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -342,7 +342,7 @@
             "quantity": 32,
             "type": "BUY",
             "buy_price": 31.67,
-            "current_price": 31.67,
+            "current_price": 31.4565,
             "headline": "Torex Gold Resources upgraded to Outperformer at CIBC with milestones being hit",
             "time": "2025-04-15T14:16:39.175042"
         },
@@ -523,6 +523,18 @@
         "AMD": {
             "headline": "Advanced Micro Devices (AMD): New AI Chips and GPU Momentum Fuel Optimism Despite Lower Target",
             "type": "BUY"
+        },
+        "MC.PA": {
+            "headline": "LVMH sales slip 3% as luxury shoppers come face-to-face with tariff uncertainty",
+            "type": "SHORT"
+        },
+        "BBY": {
+            "headline": "Best Buy Stock Rises on Tariff Exemption Hopes. It Isn\u2019t in the Clear Yet.",
+            "type": "BUY"
+        },
+        "GM": {
+            "headline": "Why Tesla, GM, and Rivian will be hurt most by China's critical minerals export ban",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -17347,6 +17359,10 @@
         {
             "time": "2025-04-16T03:03:13.012516",
             "value": 100665.58176999995
+        },
+        {
+            "time": "2025-04-16T04:19:05.381037",
+            "value": 100658.74976999994
         }
     ]
 }
