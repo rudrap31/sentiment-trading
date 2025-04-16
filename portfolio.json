@@ -551,6 +551,22 @@
         "F": {
             "headline": "Why Ford and General Motors Stocks Popped on Monday",
             "type": "SHORT"
+        },
+        "SPOT": {
+            "headline": "Spotify, IBD Stock Of The Day, Keeps On Rocking Amid Economic Uncertainty",
+            "type": "SHORT"
+        },
+        "PG": {
+            "headline": "Comcast and 5 Other Cheap Stocks That Should Bounce Back\u00a0Soon",
+            "type": "BUY"
+        },
+        "TSLA": {
+            "headline": "Tesla Stock Wobbles Despite Some Hope on Tariffs.",
+            "type": "SHORT"
+        },
+        "GS": {
+            "headline": "Dollar\u2019s Losing Run Shows Wall Street Angst Over Tariff U-Turns",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -17390,6 +17406,10 @@
         },
         {
             "time": "2025-04-16T07:16:03.818881",
+            "value": 100658.74976999994
+        },
+        {
+            "time": "2025-04-16T08:22:08.277926",
             "value": 100658.74976999994
         }
     ]
