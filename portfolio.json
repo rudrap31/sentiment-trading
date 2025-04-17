@@ -523,6 +523,18 @@
         "LVMHF": {
             "headline": "Louis Vuitton\u2019s Owner Looks Down-at-Heel Even Before Tariffs Hit: Heard on the Street",
             "type": "SHORT"
+        },
+        "AVGO": {
+            "headline": "Broadcom Inc. (AVGO): Custom Chips, but Tariff Clouds Ahead",
+            "type": "SHORT"
+        },
+        "AMZN": {
+            "headline": "Amazon.com, Inc. (AMZN): Hit by Macro Fears, Still a Top Buy",
+            "type": "SHORT"
+        },
+        "UNH": {
+            "headline": "Jim Cramer Calls UnitedHealth Group Incorporated (UNH) a Universal Buy \u2013 \u201cThe Only Gimme\u201d",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17686,6 +17698,10 @@
         },
         {
             "time": "2025-04-17T04:19:18.946175",
+            "value": 100704.69606999998
+        },
+        {
+            "time": "2025-04-17T05:16:29.420203",
             "value": 100704.69606999998
         }
     ]
