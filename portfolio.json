@@ -547,6 +547,14 @@
         "GS": {
             "headline": "Gold Edges Higher as Traders React to Expanding Trade War",
             "type": "BUY"
+        },
+        "MOG-B": {
+            "headline": "Is Moog Inc. (MOG-A) One of the Best Mid Cap Defense Stocks to Buy According to Analysts?",
+            "type": "BUY"
+        },
+        "AVAV": {
+            "headline": "Is AeroVironment, Inc. (AVAV) Among the Best Mid Cap Defense Stocks to Buy According to Analysts?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17742,6 +17750,10 @@
         },
         {
             "time": "2025-04-17T12:30:27.446783",
+            "value": 100704.69606999998
+        },
+        {
+            "time": "2025-04-17T13:26:04.576448",
             "value": 100704.69606999998
         }
     ]
