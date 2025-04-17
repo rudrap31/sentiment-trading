@@ -1,6 +1,6 @@
 {
-    "cash": 35985.652469999965,
-    "value": 100505.16406999996,
+    "cash": 38110.301669999964,
+    "value": 100594.18406999996,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -174,7 +174,7 @@
             "quantity": 23,
             "type": "SHORT",
             "buy_price": 43.7,
-            "current_price": 44.65,
+            "current_price": 43.7,
             "headline": "Ackman's Pershing Square Holdings fund drops nearly 14% so far this year",
             "time": "2025-04-11T14:15:04.166558"
         },
@@ -202,14 +202,6 @@
             "headline": "Jim Cramer on OPENLANE (KAR): \u201cReally, Really Good Company\u2026 And Carvana\u2019s Great Too.\u201d",
             "time": "2025-04-11T16:46:13.392493"
         },
-        "GNCGY": {
-            "quantity": 117,
-            "type": "BUY",
-            "buy_price": 8.56,
-            "current_price": 8.56,
-            "headline": "Greencore, Bakkavor secure extension to deal talks",
-            "time": "2025-04-11T17:14:53.787872"
-        },
         "FMC": {
             "quantity": 27,
             "type": "SHORT",
@@ -230,17 +222,9 @@
             "quantity": 18,
             "type": "BUY",
             "buy_price": 58,
-            "current_price": 58.79,
+            "current_price": 57.8,
             "headline": "Alibaba, Tencent Stocks Gain. Chinese Markets Ignore Trade War Risk for Now.",
             "time": "2025-04-15T14:16:29.058301"
-        },
-        "BAMXF": {
-            "quantity": 14,
-            "type": "SHORT",
-            "buy_price": 75.8764,
-            "current_price": 77.6,
-            "headline": "BMW Deliveries Slip on China Weakness, Despite Strong Quarter in Europe and U.S.",
-            "time": "2025-04-15T14:16:29.139690"
         },
         "ACN": {
             "quantity": 4,
@@ -534,6 +518,10 @@
         },
         "^DJI": {
             "headline": "Stocks Pick Up Steam. Dow Gains 200 Points.",
+            "type": "BUY"
+        },
+        "HYMTF": {
+            "headline": "Hyundai CEO Expects Prices to Stay Steady Despite Trade War",
             "type": "BUY"
         }
     },
@@ -10447,6 +10435,26 @@
             "amount": 10,
             "time": "2025-04-16T19:11:52.677626",
             "profit": -30.30000000000001
+        },
+        {
+            "action": "BUY",
+            "ticker": "GNCGY",
+            "headline": "Greencore, Bakkavor secure extension to deal talks",
+            "buy_price": 8.56,
+            "sold_price": 9.43,
+            "amount": 117,
+            "time": "2025-04-17T03:01:45.483473",
+            "profit": 101.7899999999999
+        },
+        {
+            "action": "SHORT",
+            "ticker": "BAMXF",
+            "headline": "BMW Deliveries Slip on China Weakness, Despite Strong Quarter in Europe and U.S.",
+            "buy_price": 75.8764,
+            "sold_price": 78.8,
+            "amount": 14,
+            "time": "2025-04-17T03:01:45.483490",
+            "profit": -40.930399999999906
         }
     ],
     "value_log": [
@@ -17661,6 +17669,10 @@
         {
             "time": "2025-04-17T01:11:44.011295",
             "value": 100505.16406999996
+        },
+        {
+            "time": "2025-04-17T03:01:46.502238",
+            "value": 100594.18406999996
         }
     ]
 }
