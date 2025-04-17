@@ -567,6 +567,18 @@
         "DX=F": {
             "headline": "After surge to record highs, gold overtakes 'Magnificent 7' as the most crowded trade on Wall Street",
             "type": "BUY"
+        },
+        "UAL": {
+            "headline": "United Airlines Stock Jumps After Best First Quarter in 5 Years. \u2018Resilient\u2019 2025 Ahead.",
+            "type": "BUY"
+        },
+        "AMZN": {
+            "headline": "What Makes Amazon.com (AMZN) a Fundamentally Strong Company?",
+            "type": "BUY"
+        },
+        "MSFT": {
+            "headline": "Should You be Confident in Microsoft Corporation\u2019s (MSFT) Ability to Retain Leadership Position in AI?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17904,6 +17916,10 @@
         },
         {
             "time": "2025-04-17T22:14:59.640911",
+            "value": 100746.15297000002
+        },
+        {
+            "time": "2025-04-17T23:15:03.490328",
             "value": 100746.15297000002
         }
     ]
