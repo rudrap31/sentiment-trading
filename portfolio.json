@@ -535,6 +535,10 @@
         "UNH": {
             "headline": "Jim Cramer Calls UnitedHealth Group Incorporated (UNH) a Universal Buy \u2013 \u201cThe Only Gimme\u201d",
             "type": "BUY"
+        },
+        "JNVR": {
+            "headline": "Janover Takes Page From Saylor Playbook, Doubling SOL Stack to $20M as Stock Soars 1700%",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17702,6 +17706,10 @@
         },
         {
             "time": "2025-04-17T05:16:29.420203",
+            "value": 100704.69606999998
+        },
+        {
+            "time": "2025-04-17T06:22:52.393383",
             "value": 100704.69606999998
         }
     ]
