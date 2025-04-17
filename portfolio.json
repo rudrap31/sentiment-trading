@@ -535,6 +535,22 @@
         "UNH": {
             "headline": "Jim Cramer: UnitedHealth (UNH) Is an \u201cAmazing Company\u201d and a \u201cJuggernaut Since Day One\u201d",
             "type": "BUY"
+        },
+        "ASML": {
+            "headline": "ASML Warns on Tariffs and Posts Weak Orders; Stock Slides",
+            "type": "SHORT"
+        },
+        "LYFT": {
+            "headline": "Lyft Stock Gains As FreeNow Deal Will Expand Ride-Hail Company To Europe",
+            "type": "BUY"
+        },
+        "ALB": {
+            "headline": "Albemarle price target lowered to $65 from $85 at Mizuho",
+            "type": "SHORT"
+        },
+        "WH": {
+            "headline": "Is Wyndham Hotels & Resorts Inc. (NYSE:WH) a Reddit Stock with High Potential?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17864,6 +17880,10 @@
         },
         {
             "time": "2025-04-17T21:14:37.963876",
+            "value": 100746.15297000002
+        },
+        {
+            "time": "2025-04-17T21:37:58.458783",
             "value": 100746.15297000002
         }
     ]
