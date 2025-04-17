@@ -539,6 +539,10 @@
         "JNVR": {
             "headline": "Janover Takes Page From Saylor Playbook, Doubling SOL Stack to $20M as Stock Soars 1700%",
             "type": "BUY"
+        },
+        "^TNX": {
+            "headline": "Bond strategists expect US yields to fall despite tariff turmoil",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -17710,6 +17714,10 @@
         },
         {
             "time": "2025-04-17T06:22:52.393383",
+            "value": 100704.69606999998
+        },
+        {
+            "time": "2025-04-17T07:16:40.190928",
             "value": 100704.69606999998
         }
     ]
