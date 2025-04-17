@@ -1,6 +1,6 @@
 {
-    "cash": 38110.301669999964,
-    "value": 100594.18406999996,
+    "cash": 39227.42166999997,
+    "value": 100704.69606999998,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -233,14 +233,6 @@
             "current_price": 285.24,
             "headline": "Accenture expands Google Cloud partnership",
             "time": "2025-04-15T14:16:29.211809"
-        },
-        "TORXF": {
-            "quantity": 32,
-            "type": "BUY",
-            "buy_price": 31.67,
-            "current_price": 31.4565,
-            "headline": "Torex Gold Resources upgraded to Outperformer at CIBC with milestones being hit",
-            "time": "2025-04-15T14:16:39.175042"
         },
         "WST": {
             "quantity": 5,
@@ -523,6 +515,14 @@
         "HYMTF": {
             "headline": "Hyundai CEO Expects Prices to Stay Steady Despite Trade War",
             "type": "BUY"
+        },
+        "TSLA": {
+            "headline": "Brand Issues Could Permanently Damage TSLA, Prominent Analyst Says",
+            "type": "SHORT"
+        },
+        "LVMHF": {
+            "headline": "Louis Vuitton\u2019s Owner Looks Down-at-Heel Even Before Tariffs Hit: Heard on the Street",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -10455,6 +10455,16 @@
             "amount": 14,
             "time": "2025-04-17T03:01:45.483490",
             "profit": -40.930399999999906
+        },
+        {
+            "action": "BUY",
+            "ticker": "TORXF",
+            "headline": "Torex Gold Resources upgraded to Outperformer at CIBC with milestones being hit",
+            "buy_price": 31.67,
+            "sold_price": 34.91,
+            "amount": 32,
+            "time": "2025-04-17T04:19:18.107767",
+            "profit": 103.67999999999984
         }
     ],
     "value_log": [
@@ -17673,6 +17683,10 @@
         {
             "time": "2025-04-17T03:01:46.502238",
             "value": 100594.18406999996
+        },
+        {
+            "time": "2025-04-17T04:19:18.946175",
+            "value": 100704.69606999998
         }
     ]
 }
