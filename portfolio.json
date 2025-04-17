@@ -523,6 +523,18 @@
         "ZS": {
             "headline": "CrowdStrike Leads Rebound In Cybersecurity Stocks Amid Trump Tariffs",
             "type": "SHORT"
+        },
+        "USB": {
+            "headline": "US Bancorp Affirms Full-Year Revenue Growth Outlook Following First-Quarter Beat",
+            "type": "BUY"
+        },
+        "NVDA": {
+            "headline": "Retail Sales Jump Most In Two Years In Rush To Buy Autos, iPhones Before Trump Tariffs; S&P 500 Falls",
+            "type": "BUY"
+        },
+        "UNH": {
+            "headline": "Jim Cramer: UnitedHealth (UNH) Is an \u201cAmazing Company\u201d and a \u201cJuggernaut Since Day One\u201d",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17848,6 +17860,10 @@
         },
         {
             "time": "2025-04-17T20:39:42.359657",
+            "value": 100746.15297000002
+        },
+        {
+            "time": "2025-04-17T21:14:37.963876",
             "value": 100746.15297000002
         }
     ]
