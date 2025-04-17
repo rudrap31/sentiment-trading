@@ -1,6 +1,6 @@
 {
     "cash": 30993.08166999998,
-    "value": 100727.79297000002,
+    "value": 100746.15297000002,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -478,7 +478,7 @@
             "quantity": 6,
             "type": "SHORT",
             "buy_price": 175.67,
-            "current_price": 175.67,
+            "current_price": 172.61,
             "headline": "Amazon.com, Inc. (AMZN): Hit by Macro Fears, Still a Top Buy",
             "time": "2025-04-17T14:14:52.336245"
         },
@@ -515,7 +515,16 @@
             "time": "2025-04-17T14:14:52.774745"
         }
     },
-    "queued_trades": {},
+    "queued_trades": {
+        "JBHT": {
+            "headline": "JB Hunt Stock Sinks as Logistics Firm's Executives Say Tariffs Could Hit Demand",
+            "type": "SHORT"
+        },
+        "ZS": {
+            "headline": "CrowdStrike Leads Rebound In Cybersecurity Stocks Amid Trump Tariffs",
+            "type": "SHORT"
+        }
+    },
     "trade_history": [
         {
             "action": "SHORT",
@@ -17836,6 +17845,10 @@
         {
             "time": "2025-04-17T20:16:42.325504",
             "value": 100727.79297000002
+        },
+        {
+            "time": "2025-04-17T20:39:42.359657",
+            "value": 100746.15297000002
         }
     ]
 }
