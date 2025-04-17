@@ -531,6 +531,10 @@
         "^GSPC": {
             "headline": "Bank Earnings Give Market a Lift",
             "type": "BUY"
+        },
+        "^DJI": {
+            "headline": "Stocks Pick Up Steam. Dow Gains 200 Points.",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17652,6 +17656,10 @@
         },
         {
             "time": "2025-04-16T23:15:01.604311",
+            "value": 100505.16406999996
+        },
+        {
+            "time": "2025-04-17T01:11:44.011295",
             "value": 100505.16406999996
         }
     ]
