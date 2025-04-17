@@ -551,6 +551,22 @@
         "WH": {
             "headline": "Is Wyndham Hotels & Resorts Inc. (NYSE:WH) a Reddit Stock with High Potential?",
             "type": "BUY"
+        },
+        "^GSPC": {
+            "headline": "S&P 500 Still Stuck In a \u2018Death Cross.\u2019 Is Worst Almost Over?",
+            "type": "SHORT"
+        },
+        "PTLO": {
+            "headline": "Portillo\u2019s Inc.\u2019s (PTLO) Momentum Turned in Q1",
+            "type": "BUY"
+        },
+        "TRIP": {
+            "headline": "Here\u2019s What is Hurting Tripadvisor\u2019s (TRIP) Overall Sales Growth",
+            "type": "BUY"
+        },
+        "DX=F": {
+            "headline": "After surge to record highs, gold overtakes 'Magnificent 7' as the most crowded trade on Wall Street",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17884,6 +17900,10 @@
         },
         {
             "time": "2025-04-17T21:37:58.458783",
+            "value": 100746.15297000002
+        },
+        {
+            "time": "2025-04-17T22:14:59.640911",
             "value": 100746.15297000002
         }
     ]
