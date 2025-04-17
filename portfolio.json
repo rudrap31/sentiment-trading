@@ -543,6 +543,10 @@
         "^TNX": {
             "headline": "Bond strategists expect US yields to fall despite tariff turmoil",
             "type": "SHORT"
+        },
+        "GS": {
+            "headline": "Gold Edges Higher as Traders React to Expanding Trade War",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17718,6 +17722,10 @@
         },
         {
             "time": "2025-04-17T07:16:40.190928",
+            "value": 100704.69606999998
+        },
+        {
+            "time": "2025-04-17T08:21:28.931955",
             "value": 100704.69606999998
         }
     ]
