@@ -727,6 +727,14 @@
         "DHI": {
             "headline": "America's largest homebuilder warns of slow spring selling season as affordability, confidence weigh on buyers",
             "type": "SHORT"
+        },
+        "F": {
+            "headline": "Ford Plans Price Hikes This Summer Without Tariff Relief",
+            "type": "BUY"
+        },
+        "OR.PA": {
+            "headline": "L'Oreal sales rise slightly, but US challenging",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18220,6 +18228,10 @@
         },
         {
             "time": "2025-04-18T22:15:07.783865",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-18T23:14:52.065275",
             "value": 100425.96297000004
         }
     ]
