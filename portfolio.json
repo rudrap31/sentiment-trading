@@ -607,6 +607,14 @@
         "META": {
             "headline": "Rare Bearish Meta Analyst Cuts Price Target, Says Tech Giant 'Starting To Look Vulnerable'",
             "type": "SHORT"
+        },
+        "AMPY": {
+            "headline": "Why Amplify Energy Corp. (AMPY) Is Losing This Week",
+            "type": "SHORT"
+        },
+        "SOUNW": {
+            "headline": "SoundHound AI (SOUN) Lands Major AIOps Recognition Amid Price Target Cut",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18020,6 +18028,10 @@
         },
         {
             "time": "2025-04-18T08:20:26.004906",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-18T09:16:42.025525",
             "value": 100425.96297000004
         }
     ]
