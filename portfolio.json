@@ -651,6 +651,10 @@
         "CAR": {
             "headline": "Is Avis Budget Group Inc. (NASDAQ:CAR) a Cheap Hot Stock to Buy Right Now?",
             "type": "BUY"
+        },
+        "AAPL": {
+            "headline": "Apple Stock Bruised, But This Partner Warms Up A Breakout \u2014 With Caveats",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18088,6 +18092,10 @@
         },
         {
             "time": "2025-04-18T14:40:36.714132",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-18T15:15:23.209594",
             "value": 100425.96297000004
         }
     ]
