@@ -1,6 +1,6 @@
 {
-    "cash": 32939.08166999998,
-    "value": 100699.34797000003,
+    "cash": 35041.66166999998,
+    "value": 100357.11797000004,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -465,22 +465,6 @@
             "current_price": 172.61,
             "headline": "Amazon.com, Inc. (AMZN): Hit by Macro Fears, Still a Top Buy",
             "time": "2025-04-17T14:14:52.336245"
-        },
-        "UNH": {
-            "quantity": 3,
-            "type": "BUY",
-            "buy_price": 471.75,
-            "current_price": 471.75,
-            "headline": "Jim Cramer Calls UnitedHealth Group Incorporated (UNH) a Universal Buy \u2013 \u201cThe Only Gimme\u201d",
-            "time": "2025-04-17T14:14:52.409734"
-        },
-        "JNVR": {
-            "quantity": 14,
-            "type": "BUY",
-            "buy_price": 73.54,
-            "current_price": 73.54,
-            "headline": "Janover Takes Page From Saylor Playbook, Doubling SOL Stack to $20M as Stock Soars 1700%",
-            "time": "2025-04-17T14:14:52.482604"
         },
         "MOG-B": {
             "quantity": 7,
@@ -10615,6 +10599,26 @@
             "amount": 13,
             "time": "2025-04-18T02:58:51.467257",
             "profit": -36.39999999999996
+        },
+        {
+            "action": "BUY",
+            "ticker": "UNH",
+            "headline": "Jim Cramer Calls UnitedHealth Group Incorporated (UNH) a Universal Buy \u2013 \u201cThe Only Gimme\u201d",
+            "buy_price": 471.75,
+            "sold_price": 454.11,
+            "amount": 3,
+            "time": "2025-04-18T03:34:24.738471",
+            "profit": -52.91999999999996
+        },
+        {
+            "action": "BUY",
+            "ticker": "JNVR",
+            "headline": "Janover Takes Page From Saylor Playbook, Doubling SOL Stack to $20M as Stock Soars 1700%",
+            "buy_price": 73.54,
+            "sold_price": 52.875,
+            "amount": 14,
+            "time": "2025-04-18T03:34:24.738488",
+            "profit": -289.31000000000006
         }
     ],
     "value_log": [
@@ -17953,6 +17957,10 @@
         {
             "time": "2025-04-18T02:58:52.748880",
             "value": 100699.34797000003
+        },
+        {
+            "time": "2025-04-18T03:34:25.641937",
+            "value": 100357.11797000004
         }
     ]
 }
