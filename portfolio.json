@@ -595,6 +595,14 @@
         "BA": {
             "headline": "Watch These Boeing Price Levels as Stock Faces US-China Trade War Turbulence",
             "type": "SHORT"
+        },
+        "PLD": {
+            "headline": "Prologis sticks with 2025 outlook, but customers grow more cautious",
+            "type": "BUY"
+        },
+        "NTNX": {
+            "headline": "Nutanix Stock Sees RS Rating Jump to To 84",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -17996,6 +18004,10 @@
         },
         {
             "time": "2025-04-18T05:16:39.077384",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-18T06:22:25.121181",
             "value": 100425.96297000004
         }
     ]
