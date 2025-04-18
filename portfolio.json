@@ -583,6 +583,18 @@
         "VZ": {
             "headline": "Jim Cramer: Verizon (VZ) Offers Stability \u2013 \u201cGood Yield\u201d and \u201cVery Little Cyclicality\u201d",
             "type": "BUY"
+        },
+        "BAC": {
+            "headline": "Bank Remains Bullish on BAC Despite Target Cut",
+            "type": "SHORT"
+        },
+        "ATGE": {
+            "headline": "Stock Of The Day Skirts Tariffs, Other Risks As It Aims For Record Highs",
+            "type": "SHORT"
+        },
+        "BA": {
+            "headline": "Watch These Boeing Price Levels as Stock Faces US-China Trade War Turbulence",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -17980,6 +17992,10 @@
         },
         {
             "time": "2025-04-18T04:18:50.361231",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-18T05:16:39.077384",
             "value": 100425.96297000004
         }
     ]
