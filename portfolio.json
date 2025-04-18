@@ -603,6 +603,10 @@
         "NTNX": {
             "headline": "Nutanix Stock Sees RS Rating Jump to To 84",
             "type": "BUY"
+        },
+        "META": {
+            "headline": "Rare Bearish Meta Analyst Cuts Price Target, Says Tech Giant 'Starting To Look Vulnerable'",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18012,6 +18016,10 @@
         },
         {
             "time": "2025-04-18T07:16:15.223572",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-18T08:20:26.004906",
             "value": 100425.96297000004
         }
     ]
