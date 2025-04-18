@@ -655,6 +655,14 @@
         "AAPL": {
             "headline": "Apple Stock Bruised, But This Partner Warms Up A Breakout \u2014 With Caveats",
             "type": "SHORT"
+        },
+        "BABA": {
+            "headline": "Why Alibaba Group Holding Limited (BABA) is Among the Best Internet Retail Stocks to Buy According to Analysts",
+            "type": "BUY"
+        },
+        "JMIA": {
+            "headline": "Why Jumia Technologies (JMIA) is Among the Best Internet Retail Stocks to Buy According to Analysts",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18096,6 +18104,10 @@
         },
         {
             "time": "2025-04-18T15:15:23.209594",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-18T15:39:40.775922",
             "value": 100425.96297000004
         }
     ]
