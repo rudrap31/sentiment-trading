@@ -1,6 +1,6 @@
 {
     "cash": 35041.66166999998,
-    "value": 100357.11797000004,
+    "value": 100425.96297000004,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -470,7 +470,7 @@
             "quantity": 7,
             "type": "BUY",
             "buy_price": 160.42,
-            "current_price": 160.42,
+            "current_price": 166.815,
             "headline": "Is Moog Inc. (MOG-A) One of the Best Mid Cap Defense Stocks to Buy According to Analysts?",
             "time": "2025-04-17T14:14:52.700344"
         },
@@ -478,7 +478,7 @@
             "quantity": 7,
             "type": "BUY",
             "buy_price": 144.17,
-            "current_price": 144.17,
+            "current_price": 147.61,
             "headline": "Is AeroVironment, Inc. (AVAV) Among the Best Mid Cap Defense Stocks to Buy According to Analysts?",
             "time": "2025-04-17T14:14:52.774745"
         }
@@ -566,6 +566,22 @@
         },
         "LUNMF": {
             "headline": "Lundin Mining upgraded to Buy from Hold at TD Securities",
+            "type": "BUY"
+        },
+        "ABT": {
+            "headline": "Abbott Labs Bracing for Tariffs as Profits Rise",
+            "type": "SHORT"
+        },
+        "JNJ": {
+            "headline": "J&J\u2019s electrophysiology sales dip amid slow Varipulse start",
+            "type": "SHORT"
+        },
+        "MONRF": {
+            "headline": "Moncler Beats Views but Signals Unstable Macroeconomic Environment",
+            "type": "SHORT"
+        },
+        "VZ": {
+            "headline": "Jim Cramer: Verizon (VZ) Offers Stability \u2013 \u201cGood Yield\u201d and \u201cVery Little Cyclicality\u201d",
             "type": "BUY"
         }
     },
@@ -17961,6 +17977,10 @@
         {
             "time": "2025-04-18T03:34:25.641937",
             "value": 100357.11797000004
+        },
+        {
+            "time": "2025-04-18T04:18:50.361231",
+            "value": 100425.96297000004
         }
     ]
 }
