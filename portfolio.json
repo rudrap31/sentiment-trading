@@ -719,6 +719,14 @@
         "C": {
             "headline": "Citi eyes AI productivity gains as it consolidates data systems",
             "type": "BUY"
+        },
+        "GLDAF": {
+            "headline": "LV= falls short in ESG ratings",
+            "type": "SHORT"
+        },
+        "DHI": {
+            "headline": "America's largest homebuilder warns of slow spring selling season as affordability, confidence weigh on buyers",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18208,6 +18216,10 @@
         },
         {
             "time": "2025-04-18T21:37:07.697197",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-18T22:15:07.783865",
             "value": 100425.96297000004
         }
     ]
