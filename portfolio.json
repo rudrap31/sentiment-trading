@@ -627,6 +627,18 @@
         "CAKE": {
             "headline": "\u201cDarn Cheap\u201d: Jim Cramer Thinks Cheesecake Factory (CAKE) Is a Surprising Buy Despite Industry Weakness",
             "type": "BUY"
+        },
+        "HGMCF": {
+            "headline": "Harmony Gold price target raised to ZAR 295 from ZAR 205 at HSBC",
+            "type": "BUY"
+        },
+        "AGYS": {
+            "headline": "Wasatch Small Cap Growth Strategy Expects Stronger Earnings Boost From Agilysys\u2019 (AGYS) Software Business",
+            "type": "BUY"
+        },
+        "GFI": {
+            "headline": "Gold Fields downgraded to Hold at HSBC as gold trade \u2018looks crowded\u2019",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18056,6 +18068,10 @@
         },
         {
             "time": "2025-04-18T13:23:44.543828",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-18T14:14:09.445020",
             "value": 100425.96297000004
         }
     ]
