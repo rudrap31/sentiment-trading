@@ -619,6 +619,14 @@
         "^DJI": {
             "headline": "Fed Chairman Powell notes trouble ahead, tanks stocks",
             "type": "SHORT"
+        },
+        "CSV": {
+            "headline": "\u201cVery Steady Stock\u201d: Jim Cramer Gives a Nod to Carriage Services (CSV) for Stability and Value",
+            "type": "BUY"
+        },
+        "CAKE": {
+            "headline": "\u201cDarn Cheap\u201d: Jim Cramer Thinks Cheesecake Factory (CAKE) Is a Surprising Buy Despite Industry Weakness",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18044,6 +18052,10 @@
         },
         {
             "time": "2025-04-18T12:29:44.882143",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-18T13:23:44.543828",
             "value": 100425.96297000004
         }
     ]
