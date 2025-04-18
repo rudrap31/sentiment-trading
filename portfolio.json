@@ -639,6 +639,18 @@
         "GFI": {
             "headline": "Gold Fields downgraded to Hold at HSBC as gold trade \u2018looks crowded\u2019",
             "type": "SHORT"
+        },
+        "RBC": {
+            "headline": "RBC Bearings (RBC) Surged on Strong Financial Results",
+            "type": "SHORT"
+        },
+        "NEM": {
+            "headline": "Is Newmont Corporation (NYSE:NEM) a Cheap Hot Stock to Buy Right Now?",
+            "type": "BUY"
+        },
+        "CAR": {
+            "headline": "Is Avis Budget Group Inc. (NASDAQ:CAR) a Cheap Hot Stock to Buy Right Now?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18072,6 +18084,10 @@
         },
         {
             "time": "2025-04-18T14:14:09.445020",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-18T14:40:36.714132",
             "value": 100425.96297000004
         }
     ]
