@@ -707,6 +707,18 @@
         "AXP": {
             "headline": "AmEx profit beats expectations as card spending holds up",
             "type": "BUY"
+        },
+        "FDX": {
+            "headline": "UPS white paper casts shade on e-commerce gig delivery providers",
+            "type": "SHORT"
+        },
+        "SCHW": {
+            "headline": "Taiwan Semi\u2019s (TSM) Guidance Was \u201cPretty Strong,\u201d Schwab Network Contributor Says",
+            "type": "BUY"
+        },
+        "C": {
+            "headline": "Citi eyes AI productivity gains as it consolidates data systems",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18192,6 +18204,10 @@
         },
         {
             "time": "2025-04-18T21:14:00.252341",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-18T21:37:07.697197",
             "value": 100425.96297000004
         }
     ]
