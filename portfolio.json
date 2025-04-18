@@ -679,6 +679,14 @@
         "COMP": {
             "headline": "U.S. Tech Futures Rising After TSMC Earnings Jump",
             "type": "BUY"
+        },
+        "^TNX": {
+            "headline": "Fed Chair Powell to deliver fresh economic view as tariffs inject uncertainty",
+            "type": "SHORT"
+        },
+        "GS": {
+            "headline": "Energy, Tech Touted as Best Bets Once Tariff-Fueled Swings Ease",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18144,6 +18152,10 @@
         },
         {
             "time": "2025-04-18T18:45:50.941147",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-18T19:12:35.821980",
             "value": 100425.96297000004
         }
     ]
