@@ -1,6 +1,6 @@
 {
-    "cash": 30993.08166999998,
-    "value": 100746.15297000002,
+    "cash": 32939.08166999998,
+    "value": 100699.34797000003,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -162,14 +162,6 @@
             "headline": "QQQ Sees $4.2 Billion Exodus as Tech Stocks Whipsaw",
             "time": "2025-04-11T14:15:03.877952"
         },
-        "PSHZF": {
-            "quantity": 23,
-            "type": "SHORT",
-            "buy_price": 43.7,
-            "current_price": 43.7,
-            "headline": "Ackman's Pershing Square Holdings fund drops nearly 14% so far this year",
-            "time": "2025-04-11T14:15:04.166558"
-        },
         "ORLY": {
             "quantity": 1,
             "type": "BUY",
@@ -214,7 +206,7 @@
             "quantity": 18,
             "type": "BUY",
             "buy_price": 58,
-            "current_price": 57.8,
+            "current_price": 58,
             "headline": "Alibaba, Tencent Stocks Gain. Chinese Markets Ignore Trade War Risk for Now.",
             "time": "2025-04-15T14:16:29.058301"
         },
@@ -313,14 +305,6 @@
             "current_price": 262.53,
             "headline": "CME Group, S&P Group Agree to Sell OSTTRA to KKR in $3.1 Billion Deal",
             "time": "2025-04-16T14:16:08.962797"
-        },
-        "BNPQF": {
-            "quantity": 13,
-            "type": "SHORT",
-            "buy_price": 78.45,
-            "current_price": 78.875,
-            "headline": "BNP Paribas Downgrades Projections for AXA IM Deal After Regulatory Guidance",
-            "time": "2025-04-16T14:16:08.996369"
         },
         "AVGO": {
             "quantity": 6,
@@ -438,7 +422,7 @@
             "quantity": 13,
             "type": "BUY",
             "buy_price": 80,
-            "current_price": 78.8,
+            "current_price": 79.84,
             "headline": "Global Auto Stocks Rise After Trump Hints at Tariff Pause",
             "time": "2025-04-17T14:14:51.507352"
         },
@@ -454,7 +438,7 @@
             "quantity": 22,
             "type": "BUY",
             "buy_price": 47.15,
-            "current_price": 47.15,
+            "current_price": 47.9,
             "headline": "Hyundai CEO Expects Prices to Stay Steady Despite Trade War",
             "time": "2025-04-17T14:14:52.027600"
         },
@@ -470,7 +454,7 @@
             "quantity": 2,
             "type": "SHORT",
             "buy_price": 546.72,
-            "current_price": 549.5,
+            "current_price": 553,
             "headline": "Louis Vuitton\u2019s Owner Looks Down-at-Heel Even Before Tariffs Hit: Heard on the Street",
             "time": "2025-04-17T14:14:52.184646"
         },
@@ -578,6 +562,26 @@
         },
         "MSFT": {
             "headline": "Should You be Confident in Microsoft Corporation\u2019s (MSFT) Ability to Retain Leadership Position in AI?",
+            "type": "BUY"
+        },
+        "PGR": {
+            "headline": "Middle Coast Investing Increased its Stake in Progressive (PGR). Here\u2019s Why",
+            "type": "BUY"
+        },
+        "RDDT": {
+            "headline": "Reddit initiated, Target downgraded: Wall Street's top analyst calls",
+            "type": "SHORT"
+        },
+        "TSLA": {
+            "headline": "Tesla registrations slump 15% in EV-loving California",
+            "type": "SHORT"
+        },
+        "GOOG": {
+            "headline": "What Makes Alphabet (GOOG) a Better Stock Compared to its Peers?",
+            "type": "BUY"
+        },
+        "LUNMF": {
+            "headline": "Lundin Mining upgraded to Buy from Hold at TD Securities",
             "type": "BUY"
         }
     },
@@ -10591,6 +10595,26 @@
             "amount": 48,
             "time": "2025-04-17T20:16:41.417589",
             "profit": -30.720000000000027
+        },
+        {
+            "action": "SHORT",
+            "ticker": "PSHZF",
+            "headline": "Ackman's Pershing Square Holdings fund drops nearly 14% so far this year",
+            "buy_price": 43.7,
+            "sold_price": 45.55,
+            "amount": 23,
+            "time": "2025-04-18T02:58:51.467239",
+            "profit": -42.54999999999987
+        },
+        {
+            "action": "SHORT",
+            "ticker": "BNPQF",
+            "headline": "BNP Paribas Downgrades Projections for AXA IM Deal After Regulatory Guidance",
+            "buy_price": 78.45,
+            "sold_price": 81.25,
+            "amount": 13,
+            "time": "2025-04-18T02:58:51.467257",
+            "profit": -36.39999999999996
         }
     ],
     "value_log": [
@@ -17925,6 +17949,10 @@
         {
             "time": "2025-04-18T01:11:03.648497",
             "value": 100746.15297000002
+        },
+        {
+            "time": "2025-04-18T02:58:52.748880",
+            "value": 100699.34797000003
         }
     ]
 }
