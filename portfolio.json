@@ -615,6 +615,10 @@
         "SOUNW": {
             "headline": "SoundHound AI (SOUN) Lands Major AIOps Recognition Amid Price Target Cut",
             "type": "SHORT"
+        },
+        "^DJI": {
+            "headline": "Fed Chairman Powell notes trouble ahead, tanks stocks",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18036,6 +18040,10 @@
         },
         {
             "time": "2025-04-18T11:13:31.727129",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-18T12:29:44.882143",
             "value": 100425.96297000004
         }
     ]
