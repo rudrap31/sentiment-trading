@@ -671,6 +671,14 @@
         "TSM": {
             "headline": "TSMC Maintains Solid 2025 Outlook Despite Tariff Worries",
             "type": "BUY"
+        },
+        "BHP": {
+            "headline": "The World's Biggest Miner Warns About Trade-War Risks",
+            "type": "SHORT"
+        },
+        "COMP": {
+            "headline": "U.S. Tech Futures Rising After TSMC Earnings Jump",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18132,6 +18140,10 @@
         },
         {
             "time": "2025-04-18T18:19:45.289718",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-18T18:45:50.941147",
             "value": 100425.96297000004
         }
     ]
