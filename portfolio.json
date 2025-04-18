@@ -663,6 +663,14 @@
         "JMIA": {
             "headline": "Why Jumia Technologies (JMIA) is Among the Best Internet Retail Stocks to Buy According to Analysts",
             "type": "BUY"
+        },
+        "GBPUSD=X": {
+            "headline": "Sterling Mostly Holds Strength Despite Lower Inflation",
+            "type": "BUY"
+        },
+        "TSM": {
+            "headline": "TSMC Maintains Solid 2025 Outlook Despite Tariff Worries",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18120,6 +18128,10 @@
         },
         {
             "time": "2025-04-18T17:38:58.835317",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-18T18:19:45.289718",
             "value": 100425.96297000004
         }
     ]
