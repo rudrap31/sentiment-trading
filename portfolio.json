@@ -687,6 +687,14 @@
         "GS": {
             "headline": "Energy, Tech Touted as Best Bets Once Tariff-Fueled Swings Ease",
             "type": "BUY"
+        },
+        "TFC": {
+            "headline": "Truist Q1 profit falls on weakness in investment banking and trading business",
+            "type": "SHORT"
+        },
+        "FIS": {
+            "headline": "Global Payments agrees $24.25 billion Worldpay deal as industry heavyweights shift focus",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18160,6 +18168,10 @@
         },
         {
             "time": "2025-04-18T19:37:03.763166",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-18T20:15:58.111979",
             "value": 100425.96297000004
         }
     ]
