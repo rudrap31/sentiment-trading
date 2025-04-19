@@ -759,6 +759,14 @@
         "SPOT": {
             "headline": "Why Were We Happy To Take A Loss In Spotify Stock?",
             "type": "SHORT"
+        },
+        "GLD": {
+            "headline": "GLD Attracts $416 Million Amid Broad Market Selloff",
+            "type": "SHORT"
+        },
+        "BEN": {
+            "headline": "Is Franklin Resources (BEN) a Dividend Trap to Avoid in 2025?",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18268,6 +18276,10 @@
         },
         {
             "time": "2025-04-19T04:14:21.546430",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-19T06:16:20.849981",
             "value": 100425.96297000004
         }
     ]
