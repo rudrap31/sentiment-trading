@@ -747,6 +747,18 @@
         "LRLCF": {
             "headline": "L\u2019Oreal Sales Rise as Europe Growth Offsets U.S. Weakness",
             "type": "BUY"
+        },
+        "NFLX": {
+            "headline": "Netflix's first quarter builds on recent momentum as trade war drags down other tech companies",
+            "type": "BUY"
+        },
+        "MCO": {
+            "headline": "Moody\u2019s Boosts Default Forecasts as Global Trade War Heats Up",
+            "type": "BUY"
+        },
+        "SPOT": {
+            "headline": "Why Were We Happy To Take A Loss In Spotify Stock?",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18248,6 +18260,10 @@
         },
         {
             "time": "2025-04-19T00:53:30.369883",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-19T02:53:41.586968",
             "value": 100425.96297000004
         }
     ]
