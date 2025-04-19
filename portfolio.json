@@ -735,6 +735,18 @@
         "OR.PA": {
             "headline": "L'Oreal sales rise slightly, but US challenging",
             "type": "BUY"
+        },
+        "PLTR": {
+            "headline": "Palantir Stock Tries To Break Out As NATO Win Dispels Tariff Jitters; Earnings Next",
+            "type": "SHORT"
+        },
+        "BNO": {
+            "headline": "Sovereign Credit: US Policy Shifts Point to Tariff-light, Trade-war, Economic-crisis Scenarios",
+            "type": "SHORT"
+        },
+        "LRLCF": {
+            "headline": "L\u2019Oreal Sales Rise as Europe Growth Offsets U.S. Weakness",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18232,6 +18244,10 @@
         },
         {
             "time": "2025-04-18T23:14:52.065275",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-19T00:53:30.369883",
             "value": 100425.96297000004
         }
     ]
