@@ -791,6 +791,10 @@
         "IOVA": {
             "headline": "This Biotech Stock Could Be the Best Investment of the Decade",
             "type": "BUY"
+        },
+        "NU": {
+            "headline": "Nu Holdings Ltd. (NYSE:NU): Will Slow and Steady Win the Race?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18320,6 +18324,10 @@
         },
         {
             "time": "2025-04-19T14:10:52.792614",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-19T16:13:42.588603",
             "value": 100425.96297000004
         }
     ]
