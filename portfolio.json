@@ -767,6 +767,18 @@
         "BEN": {
             "headline": "Is Franklin Resources (BEN) a Dividend Trap to Avoid in 2025?",
             "type": "SHORT"
+        },
+        "RIG": {
+            "headline": "Why Transocean Ltd. (RIG) is Skyrocketing?",
+            "type": "SHORT"
+        },
+        "HAL": {
+            "headline": "Why Halliburton Company (HAL) is Skyrocketing?",
+            "type": "BUY"
+        },
+        "DLTR": {
+            "headline": "Why Dollar Tree Inc. (DLTR) is Skyrocketing?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18284,6 +18296,10 @@
         },
         {
             "time": "2025-04-19T08:14:24.461734",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-19T10:12:08.988333",
             "value": 100425.96297000004
         }
     ]
