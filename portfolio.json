@@ -807,6 +807,14 @@
         "LLY": {
             "headline": "Is Eli Lilly Stock a Buy Right Now?",
             "type": "BUY"
+        },
+        "BE": {
+            "headline": "Bloom Energy (BE) Battles AI Headwinds Amid Tariff Turmoil",
+            "type": "SHORT"
+        },
+        "MRVL": {
+            "headline": "Marvell Technology, Inc. (MRVL) Sees AI Chip Outlook Dim as Tariff Fears Grow",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18348,6 +18356,10 @@
         },
         {
             "time": "2025-04-19T20:12:34.931450",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-19T22:11:27.433238",
             "value": 100425.96297000004
         }
     ]
