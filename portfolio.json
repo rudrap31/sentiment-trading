@@ -795,6 +795,14 @@
         "NU": {
             "headline": "Nu Holdings Ltd. (NYSE:NU): Will Slow and Steady Win the Race?",
             "type": "BUY"
+        },
+        "ISRG": {
+            "headline": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth",
+            "type": "BUY"
+        },
+        "TWLO": {
+            "headline": "Down 40%, This Incredibly Cheap Artificial Intelligence (AI) Stock Could Start Soaring After May 1",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18328,6 +18336,10 @@
         },
         {
             "time": "2025-04-19T16:13:42.588603",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-19T18:14:51.186601",
             "value": 100425.96297000004
         }
     ]
