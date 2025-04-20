@@ -819,6 +819,18 @@
         "CRM": {
             "headline": "Salesforce, Inc. (CRM): AI-Powered Agentforce Debuts Amid Economic Uncertainty",
             "type": "SHORT"
+        },
+        "DVA": {
+            "headline": "Why DaVita Stock Got Rocked This Week",
+            "type": "SHORT"
+        },
+        "HTZWW": {
+            "headline": "Hertz CEO says he is humbled by Bill Ackman's endorsement",
+            "type": "BUY"
+        },
+        "VERV": {
+            "headline": "Why Verve Therapeutics Zoomed 40% Higher This Week",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18376,6 +18388,10 @@
         },
         {
             "time": "2025-04-20T04:14:06.313441",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-20T06:16:14.495592",
             "value": 100425.96297000004
         }
     ]
