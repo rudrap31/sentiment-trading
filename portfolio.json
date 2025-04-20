@@ -831,6 +831,10 @@
         "VERV": {
             "headline": "Why Verve Therapeutics Zoomed 40% Higher This Week",
             "type": "BUY"
+        },
+        "AMD": {
+            "headline": "Prediction AMD Will Soar Over the Next 5 Years. Here's 1 Reason Why.",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18404,6 +18408,10 @@
         },
         {
             "time": "2025-04-20T12:20:18.414322",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-20T14:11:07.195525",
             "value": 100425.96297000004
         }
     ]
