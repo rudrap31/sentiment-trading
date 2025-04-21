@@ -875,6 +875,10 @@
         "CNX": {
             "headline": "Here\u2019s Why CNX Resources Corporation (CNX) Traded Lower in Q1",
             "type": "SHORT"
+        },
+        "MAT": {
+            "headline": "Mattel (MAT) Surged on Robust Results",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18512,6 +18516,10 @@
         },
         {
             "time": "2025-04-21T12:30:00.670538",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-21T13:25:09.099299",
             "value": 100425.96297000004
         }
     ]
