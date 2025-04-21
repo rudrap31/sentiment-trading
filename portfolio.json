@@ -843,6 +843,14 @@
         "ZTS": {
             "headline": "A Once-in-a-Decade Opportunity: 3 Magnificent Stocks Down Between 40% and 73% to Buy Right Now",
             "type": "SHORT"
+        },
+        "TGT": {
+            "headline": "Jim Cramer Warns on Target Corporation (TGT): \u201cBe Careful Here \u2013 Numbers Have to Come Down\u201d",
+            "type": "SHORT"
+        },
+        "TMUS": {
+            "headline": "Jim Cramer Praises T-Mobile US (TMUS): \u201cNo Price Hikes Yet \u2013 Still the Best Deal in Town\u201d",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18444,6 +18452,10 @@
         },
         {
             "time": "2025-04-21T03:08:28.720423",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-21T04:19:57.722563",
             "value": 100425.96297000004
         }
     ]
