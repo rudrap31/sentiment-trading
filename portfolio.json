@@ -867,6 +867,14 @@
         "HLF": {
             "headline": "Is Herbalife Ltd. (HLF) the Ridiculously Cheap Stock to Invest in?",
             "type": "BUY"
+        },
+        "PYPL": {
+            "headline": "Longleaf Partners Fund Believes PayPal Holdings (PYPL) Has a Compelling Path Forward",
+            "type": "BUY"
+        },
+        "CNX": {
+            "headline": "Here\u2019s Why CNX Resources Corporation (CNX) Traded Lower in Q1",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18500,6 +18508,10 @@
         },
         {
             "time": "2025-04-21T11:13:45.088853",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-21T12:30:00.670538",
             "value": 100425.96297000004
         }
     ]
