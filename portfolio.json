@@ -835,6 +835,14 @@
         "AMD": {
             "headline": "Prediction AMD Will Soar Over the Next 5 Years. Here's 1 Reason Why.",
             "type": "BUY"
+        },
+        "ABBV": {
+            "headline": "Is AbbVie Inc. (ABBV) the Best Pharma Stock to Buy for Long Term Growth?",
+            "type": "BUY"
+        },
+        "ZTS": {
+            "headline": "A Once-in-a-Decade Opportunity: 3 Magnificent Stocks Down Between 40% and 73% to Buy Right Now",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18428,6 +18436,10 @@
         },
         {
             "time": "2025-04-20T22:11:21.413480",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-21T01:15:12.816379",
             "value": 100425.96297000004
         }
     ]
