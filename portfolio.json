@@ -499,6 +499,14 @@
         "DHLGY": {
             "headline": "DHL to suspend global shipments of over $800 to US consumers",
             "type": "SHORT"
+        },
+        "^DJI": {
+            "headline": "Why the latest stock market pullback feels right",
+            "type": "SHORT"
+        },
+        "EADSF": {
+            "headline": "Airbus Promised a Green Aircraft. That Bet Is Now Unraveling.",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18366,6 +18374,10 @@
         },
         {
             "time": "2025-04-21T20:39:42.353785",
+            "value": 100178.39976999999
+        },
+        {
+            "time": "2025-04-21T21:14:50.526003",
             "value": 100178.39976999999
         }
     ]
