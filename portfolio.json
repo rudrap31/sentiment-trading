@@ -491,6 +491,14 @@
         "MSFT": {
             "headline": "Microsoft (MSFT) Powers Ahead in AI Race with Azure and Copilot",
             "type": "BUY"
+        },
+        "AMZN": {
+            "headline": "Amazon Stock Sell-Off: Should You Buy the Dip?",
+            "type": "SHORT"
+        },
+        "DHLGY": {
+            "headline": "DHL to suspend global shipments of over $800 to US consumers",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18354,6 +18362,10 @@
         },
         {
             "time": "2025-04-21T20:16:45.006194",
+            "value": 100178.39976999999
+        },
+        {
+            "time": "2025-04-21T20:39:42.353785",
             "value": 100178.39976999999
         }
     ]
