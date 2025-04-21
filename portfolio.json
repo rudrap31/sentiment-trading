@@ -511,6 +511,10 @@
         "NVDA": {
             "headline": "NVIDIA Corporation (NVDA) Faces AI Export Hit but Demand Stays Strong",
             "type": "SHORT"
+        },
+        "TGT": {
+            "headline": "Stock Market Sell-Off: 2 Stocks That Could Double in 2 Years",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18390,6 +18394,10 @@
         },
         {
             "time": "2025-04-21T22:15:53.193162",
+            "value": 100178.39976999999
+        },
+        {
+            "time": "2025-04-21T23:15:05.695848",
             "value": 100178.39976999999
         }
     ]
