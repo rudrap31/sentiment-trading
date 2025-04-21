@@ -1,5 +1,5 @@
 {
-    "cash": 35041.66166999998,
+    "cash": 24300.571669999987,
     "value": 100425.96297000004,
     "stocks": {
         "RBCPF": {
@@ -481,406 +481,89 @@
             "current_price": 147.61,
             "headline": "Is AeroVironment, Inc. (AVAV) Among the Best Mid Cap Defense Stocks to Buy According to Analysts?",
             "time": "2025-04-17T14:14:52.774745"
-        }
-    },
-    "queued_trades": {
+        },
         "JBHT": {
+            "quantity": 8,
+            "type": "SHORT",
+            "buy_price": 126.69,
+            "current_price": 126.69,
             "headline": "JB Hunt Stock Sinks as Logistics Firm's Executives Say Tariffs Could Hit Demand",
-            "type": "SHORT"
+            "time": "2025-04-21T14:15:14.307348"
         },
         "ZS": {
+            "quantity": 6,
+            "type": "SHORT",
+            "buy_price": 198.28,
+            "current_price": 198.28,
             "headline": "CrowdStrike Leads Rebound In Cybersecurity Stocks Amid Trump Tariffs",
-            "type": "SHORT"
+            "time": "2025-04-21T14:15:14.332288"
         },
         "USB": {
+            "quantity": 27,
+            "type": "BUY",
+            "buy_price": 37.92,
+            "current_price": 37.92,
             "headline": "US Bancorp Affirms Full-Year Revenue Growth Outlook Following First-Quarter Beat",
-            "type": "BUY"
-        },
-        "NVDA": {
-            "headline": "Retail Sales Jump Most In Two Years In Rush To Buy Autos, iPhones Before Trump Tariffs; S&P 500 Falls",
-            "type": "BUY"
+            "time": "2025-04-21T14:15:14.357072"
         },
         "UNH": {
+            "quantity": 3,
+            "type": "BUY",
+            "buy_price": 453.07,
+            "current_price": 453.07,
             "headline": "Jim Cramer: UnitedHealth (UNH) Is an \u201cAmazing Company\u201d and a \u201cJuggernaut Since Day One\u201d",
-            "type": "BUY"
-        },
-        "ASML": {
-            "headline": "ASML Warns on Tariffs and Posts Weak Orders; Stock Slides",
-            "type": "SHORT"
+            "time": "2025-04-21T14:15:14.407494"
         },
         "LYFT": {
+            "quantity": 91,
+            "type": "BUY",
+            "buy_price": 11.07,
+            "current_price": 11.07,
             "headline": "Lyft Stock Gains As FreeNow Deal Will Expand Ride-Hail Company To Europe",
-            "type": "BUY"
+            "time": "2025-04-21T14:15:14.456671"
         },
         "ALB": {
+            "quantity": 20,
+            "type": "SHORT",
+            "buy_price": 52.25,
+            "current_price": 52.25,
             "headline": "Albemarle price target lowered to $65 from $85 at Mizuho",
-            "type": "SHORT"
+            "time": "2025-04-21T14:15:14.481299"
         },
         "WH": {
+            "quantity": 13,
+            "type": "BUY",
+            "buy_price": 80.53,
+            "current_price": 80.53,
             "headline": "Is Wyndham Hotels & Resorts Inc. (NYSE:WH) a Reddit Stock with High Potential?",
-            "type": "BUY"
-        },
-        "^GSPC": {
-            "headline": "S&P 500 Still Stuck In a \u2018Death Cross.\u2019 Is Worst Almost Over?",
-            "type": "SHORT"
+            "time": "2025-04-21T14:15:14.508710"
         },
         "PTLO": {
+            "quantity": 88,
+            "type": "BUY",
+            "buy_price": 11.38,
+            "current_price": 11.38,
             "headline": "Portillo\u2019s Inc.\u2019s (PTLO) Momentum Turned in Q1",
-            "type": "BUY"
+            "time": "2025-04-21T14:15:14.558584"
         },
         "TRIP": {
+            "quantity": 87,
+            "type": "BUY",
+            "buy_price": 11.62,
+            "current_price": 11.62,
             "headline": "Here\u2019s What is Hurting Tripadvisor\u2019s (TRIP) Overall Sales Growth",
-            "type": "BUY"
-        },
-        "DX=F": {
-            "headline": "After surge to record highs, gold overtakes 'Magnificent 7' as the most crowded trade on Wall Street",
-            "type": "BUY"
+            "time": "2025-04-21T14:15:14.586509"
         },
         "UAL": {
+            "quantity": 16,
+            "type": "BUY",
+            "buy_price": 65.2,
+            "current_price": 65.2,
             "headline": "United Airlines Stock Jumps After Best First Quarter in 5 Years. \u2018Resilient\u2019 2025 Ahead.",
-            "type": "BUY"
-        },
-        "AMZN": {
-            "headline": "What Makes Amazon.com (AMZN) a Fundamentally Strong Company?",
-            "type": "BUY"
-        },
-        "MSFT": {
-            "headline": "Should You be Confident in Microsoft Corporation\u2019s (MSFT) Ability to Retain Leadership Position in AI?",
-            "type": "BUY"
-        },
-        "PGR": {
-            "headline": "Middle Coast Investing Increased its Stake in Progressive (PGR). Here\u2019s Why",
-            "type": "BUY"
-        },
-        "RDDT": {
-            "headline": "Reddit initiated, Target downgraded: Wall Street's top analyst calls",
-            "type": "SHORT"
-        },
-        "TSLA": {
-            "headline": "Tesla registrations slump 15% in EV-loving California",
-            "type": "SHORT"
-        },
-        "GOOG": {
-            "headline": "What Makes Alphabet (GOOG) a Better Stock Compared to its Peers?",
-            "type": "BUY"
-        },
-        "LUNMF": {
-            "headline": "Lundin Mining upgraded to Buy from Hold at TD Securities",
-            "type": "BUY"
-        },
-        "ABT": {
-            "headline": "Abbott Labs Bracing for Tariffs as Profits Rise",
-            "type": "SHORT"
-        },
-        "JNJ": {
-            "headline": "J&J\u2019s electrophysiology sales dip amid slow Varipulse start",
-            "type": "SHORT"
-        },
-        "MONRF": {
-            "headline": "Moncler Beats Views but Signals Unstable Macroeconomic Environment",
-            "type": "SHORT"
-        },
-        "VZ": {
-            "headline": "Jim Cramer: Verizon (VZ) Offers Stability \u2013 \u201cGood Yield\u201d and \u201cVery Little Cyclicality\u201d",
-            "type": "BUY"
-        },
-        "BAC": {
-            "headline": "Bank Remains Bullish on BAC Despite Target Cut",
-            "type": "SHORT"
-        },
-        "ATGE": {
-            "headline": "Stock Of The Day Skirts Tariffs, Other Risks As It Aims For Record Highs",
-            "type": "SHORT"
-        },
-        "BA": {
-            "headline": "Watch These Boeing Price Levels as Stock Faces US-China Trade War Turbulence",
-            "type": "SHORT"
-        },
-        "PLD": {
-            "headline": "Prologis sticks with 2025 outlook, but customers grow more cautious",
-            "type": "BUY"
-        },
-        "NTNX": {
-            "headline": "Nutanix Stock Sees RS Rating Jump to To 84",
-            "type": "BUY"
-        },
-        "META": {
-            "headline": "Rare Bearish Meta Analyst Cuts Price Target, Says Tech Giant 'Starting To Look Vulnerable'",
-            "type": "SHORT"
-        },
-        "AMPY": {
-            "headline": "Why Amplify Energy Corp. (AMPY) Is Losing This Week",
-            "type": "SHORT"
-        },
-        "SOUNW": {
-            "headline": "SoundHound AI (SOUN) Lands Major AIOps Recognition Amid Price Target Cut",
-            "type": "SHORT"
-        },
-        "^DJI": {
-            "headline": "Fed Chairman Powell notes trouble ahead, tanks stocks",
-            "type": "SHORT"
-        },
-        "CSV": {
-            "headline": "\u201cVery Steady Stock\u201d: Jim Cramer Gives a Nod to Carriage Services (CSV) for Stability and Value",
-            "type": "BUY"
-        },
-        "CAKE": {
-            "headline": "\u201cDarn Cheap\u201d: Jim Cramer Thinks Cheesecake Factory (CAKE) Is a Surprising Buy Despite Industry Weakness",
-            "type": "BUY"
-        },
-        "HGMCF": {
-            "headline": "Harmony Gold price target raised to ZAR 295 from ZAR 205 at HSBC",
-            "type": "BUY"
-        },
-        "AGYS": {
-            "headline": "Wasatch Small Cap Growth Strategy Expects Stronger Earnings Boost From Agilysys\u2019 (AGYS) Software Business",
-            "type": "BUY"
-        },
-        "GFI": {
-            "headline": "Gold Fields downgraded to Hold at HSBC as gold trade \u2018looks crowded\u2019",
-            "type": "SHORT"
-        },
-        "RBC": {
-            "headline": "RBC Bearings (RBC) Surged on Strong Financial Results",
-            "type": "SHORT"
-        },
-        "NEM": {
-            "headline": "Is Newmont Corporation (NYSE:NEM) a Cheap Hot Stock to Buy Right Now?",
-            "type": "BUY"
-        },
-        "CAR": {
-            "headline": "Is Avis Budget Group Inc. (NASDAQ:CAR) a Cheap Hot Stock to Buy Right Now?",
-            "type": "BUY"
-        },
-        "AAPL": {
-            "headline": "Apple Stock Bruised, But This Partner Warms Up A Breakout \u2014 With Caveats",
-            "type": "SHORT"
-        },
-        "BABA": {
-            "headline": "Why Alibaba Group Holding Limited (BABA) is Among the Best Internet Retail Stocks to Buy According to Analysts",
-            "type": "BUY"
-        },
-        "JMIA": {
-            "headline": "Why Jumia Technologies (JMIA) is Among the Best Internet Retail Stocks to Buy According to Analysts",
-            "type": "BUY"
-        },
-        "GBPUSD=X": {
-            "headline": "Sterling Mostly Holds Strength Despite Lower Inflation",
-            "type": "BUY"
-        },
-        "TSM": {
-            "headline": "TSMC Maintains Solid 2025 Outlook Despite Tariff Worries",
-            "type": "BUY"
-        },
-        "BHP": {
-            "headline": "The World's Biggest Miner Warns About Trade-War Risks",
-            "type": "SHORT"
-        },
-        "COMP": {
-            "headline": "U.S. Tech Futures Rising After TSMC Earnings Jump",
-            "type": "BUY"
-        },
-        "^TNX": {
-            "headline": "Fed Chair Powell to deliver fresh economic view as tariffs inject uncertainty",
-            "type": "SHORT"
-        },
-        "GS": {
-            "headline": "Energy, Tech Touted as Best Bets Once Tariff-Fueled Swings Ease",
-            "type": "BUY"
-        },
-        "TFC": {
-            "headline": "Truist Q1 profit falls on weakness in investment banking and trading business",
-            "type": "SHORT"
-        },
-        "FIS": {
-            "headline": "Global Payments agrees $24.25 billion Worldpay deal as industry heavyweights shift focus",
-            "type": "BUY"
-        },
-        "BX": {
-            "headline": "Blackstone beats first-quarter profit estimate, but CEO warns of tariff disruption",
-            "type": "SHORT"
-        },
-        "INFY": {
-            "headline": "Infosys forecasts weak fiscal 2026, stoking growth concerns for Indian IT sector",
-            "type": "SHORT"
-        },
-        "AXP": {
-            "headline": "AmEx profit beats expectations as card spending holds up",
-            "type": "BUY"
-        },
-        "FDX": {
-            "headline": "UPS white paper casts shade on e-commerce gig delivery providers",
-            "type": "SHORT"
-        },
-        "SCHW": {
-            "headline": "Taiwan Semi\u2019s (TSM) Guidance Was \u201cPretty Strong,\u201d Schwab Network Contributor Says",
-            "type": "BUY"
-        },
-        "C": {
-            "headline": "Citi eyes AI productivity gains as it consolidates data systems",
-            "type": "BUY"
-        },
-        "GLDAF": {
-            "headline": "LV= falls short in ESG ratings",
-            "type": "SHORT"
-        },
-        "DHI": {
-            "headline": "America's largest homebuilder warns of slow spring selling season as affordability, confidence weigh on buyers",
-            "type": "SHORT"
-        },
-        "F": {
-            "headline": "Ford Plans Price Hikes This Summer Without Tariff Relief",
-            "type": "BUY"
-        },
-        "OR.PA": {
-            "headline": "L'Oreal sales rise slightly, but US challenging",
-            "type": "BUY"
-        },
-        "PLTR": {
-            "headline": "Palantir Stock Tries To Break Out As NATO Win Dispels Tariff Jitters; Earnings Next",
-            "type": "SHORT"
-        },
-        "BNO": {
-            "headline": "Sovereign Credit: US Policy Shifts Point to Tariff-light, Trade-war, Economic-crisis Scenarios",
-            "type": "SHORT"
-        },
-        "LRLCF": {
-            "headline": "L\u2019Oreal Sales Rise as Europe Growth Offsets U.S. Weakness",
-            "type": "BUY"
-        },
-        "NFLX": {
-            "headline": "Netflix's first quarter builds on recent momentum as trade war drags down other tech companies",
-            "type": "BUY"
-        },
-        "MCO": {
-            "headline": "Moody\u2019s Boosts Default Forecasts as Global Trade War Heats Up",
-            "type": "BUY"
-        },
-        "SPOT": {
-            "headline": "Why Were We Happy To Take A Loss In Spotify Stock?",
-            "type": "SHORT"
-        },
-        "GLD": {
-            "headline": "GLD Attracts $416 Million Amid Broad Market Selloff",
-            "type": "SHORT"
-        },
-        "BEN": {
-            "headline": "Is Franklin Resources (BEN) a Dividend Trap to Avoid in 2025?",
-            "type": "SHORT"
-        },
-        "RIG": {
-            "headline": "Why Transocean Ltd. (RIG) is Skyrocketing?",
-            "type": "SHORT"
-        },
-        "HAL": {
-            "headline": "Why Halliburton Company (HAL) is Skyrocketing?",
-            "type": "BUY"
-        },
-        "DLTR": {
-            "headline": "Why Dollar Tree Inc. (DLTR) is Skyrocketing?",
-            "type": "BUY"
-        },
-        "RIVN": {
-            "headline": "Rivian Scored Big in the First Quarter. Is There More Good News To Come?",
-            "type": "BUY"
-        },
-        "COIN": {
-            "headline": "Coinbase Institutional Says Several Signs Point To 'Crypto Winter' But Remains Optimistic About H2 2025",
-            "type": "BUY"
-        },
-        "IOVA": {
-            "headline": "This Biotech Stock Could Be the Best Investment of the Decade",
-            "type": "BUY"
-        },
-        "NU": {
-            "headline": "Nu Holdings Ltd. (NYSE:NU): Will Slow and Steady Win the Race?",
-            "type": "BUY"
-        },
-        "ISRG": {
-            "headline": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth",
-            "type": "BUY"
-        },
-        "TWLO": {
-            "headline": "Down 40%, This Incredibly Cheap Artificial Intelligence (AI) Stock Could Start Soaring After May 1",
-            "type": "SHORT"
-        },
-        "LLY": {
-            "headline": "Is Eli Lilly Stock a Buy Right Now?",
-            "type": "BUY"
-        },
-        "BE": {
-            "headline": "Bloom Energy (BE) Battles AI Headwinds Amid Tariff Turmoil",
-            "type": "SHORT"
-        },
-        "MRVL": {
-            "headline": "Marvell Technology, Inc. (MRVL) Sees AI Chip Outlook Dim as Tariff Fears Grow",
-            "type": "SHORT"
-        },
-        "CRM": {
-            "headline": "Salesforce, Inc. (CRM): AI-Powered Agentforce Debuts Amid Economic Uncertainty",
-            "type": "SHORT"
-        },
-        "DVA": {
-            "headline": "Why DaVita Stock Got Rocked This Week",
-            "type": "SHORT"
-        },
-        "HTZWW": {
-            "headline": "Hertz CEO says he is humbled by Bill Ackman's endorsement",
-            "type": "BUY"
-        },
-        "VERV": {
-            "headline": "Why Verve Therapeutics Zoomed 40% Higher This Week",
-            "type": "BUY"
-        },
-        "AMD": {
-            "headline": "Prediction AMD Will Soar Over the Next 5 Years. Here's 1 Reason Why.",
-            "type": "BUY"
-        },
-        "ABBV": {
-            "headline": "Is AbbVie Inc. (ABBV) the Best Pharma Stock to Buy for Long Term Growth?",
-            "type": "BUY"
-        },
-        "ZTS": {
-            "headline": "A Once-in-a-Decade Opportunity: 3 Magnificent Stocks Down Between 40% and 73% to Buy Right Now",
-            "type": "SHORT"
-        },
-        "TGT": {
-            "headline": "Jim Cramer Warns on Target Corporation (TGT): \u201cBe Careful Here \u2013 Numbers Have to Come Down\u201d",
-            "type": "SHORT"
-        },
-        "TMUS": {
-            "headline": "Jim Cramer Praises T-Mobile US (TMUS): \u201cNo Price Hikes Yet \u2013 Still the Best Deal in Town\u201d",
-            "type": "BUY"
-        },
-        "BHC": {
-            "headline": "Is Bausch Health Companies (BHC) the Ridiculously Cheap Stock to Invest in?",
-            "type": "BUY"
-        },
-        "UPLD": {
-            "headline": "Is Upland Software (UPLD) the Ridiculously Cheap Stock to Invest in?",
-            "type": "BUY"
-        },
-        "ACCO": {
-            "headline": "Is ACCO Brands (ACCO) the Ridiculously Cheap Stock to Invest in?",
-            "type": "BUY"
-        },
-        "HLF": {
-            "headline": "Is Herbalife Ltd. (HLF) the Ridiculously Cheap Stock to Invest in?",
-            "type": "BUY"
-        },
-        "PYPL": {
-            "headline": "Longleaf Partners Fund Believes PayPal Holdings (PYPL) Has a Compelling Path Forward",
-            "type": "BUY"
-        },
-        "CNX": {
-            "headline": "Here\u2019s Why CNX Resources Corporation (CNX) Traded Lower in Q1",
-            "type": "SHORT"
-        },
-        "MAT": {
-            "headline": "Mattel (MAT) Surged on Robust Results",
-            "type": "BUY"
+            "time": "2025-04-21T14:15:14.642964"
         }
     },
+    "queued_trades": {},
     "trade_history": [
         {
             "action": "SHORT",
@@ -18520,6 +18203,10 @@
         },
         {
             "time": "2025-04-21T13:25:09.099299",
+            "value": 100425.96297000004
+        },
+        {
+            "time": "2025-04-21T14:15:20.371302",
             "value": 100425.96297000004
         }
     ]
