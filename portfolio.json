@@ -1,6 +1,6 @@
 {
     "cash": 37177.443369999986,
-    "value": 100040.88167,
+    "value": 100022.18167,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -478,7 +478,7 @@
             "quantity": 22,
             "type": "SHORT",
             "buy_price": 45.63,
-            "current_price": 45.63,
+            "current_price": 46.48,
             "headline": "Daily Spotlight: Debt a High Level of GDP",
             "time": "2025-04-22T14:15:12.113346"
         }
@@ -18599,6 +18599,10 @@
         {
             "time": "2025-04-22T20:17:13.856529",
             "value": 100040.88167
+        },
+        {
+            "time": "2025-04-22T20:40:56.709254",
+            "value": 100022.18167
         }
     ]
 }
