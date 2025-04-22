@@ -551,6 +551,14 @@
         "KN": {
             "headline": "Knowles Corporation (KN) Fell Following a Quarterly Earnings Miss",
             "type": "SHORT"
+        },
+        "GOOG": {
+            "headline": "Alphabet Inc. (GOOGL) Price Target Trimmed to $178 Amid AI-Led Strategy Shift",
+            "type": "SHORT"
+        },
+        "IP": {
+            "headline": "Daily Spotlight: Debt a High Level of GDP",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18478,6 +18486,10 @@
         },
         {
             "time": "2025-04-22T12:30:47.528309",
+            "value": 100182.86677
+        },
+        {
+            "time": "2025-04-22T13:26:45.639557",
             "value": 100182.86677
         }
     ]
