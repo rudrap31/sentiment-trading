@@ -527,6 +527,10 @@
         "^HSI": {
             "headline": "Asian Stock Markets Show Resilience Amid Tariff Uncertainty",
             "type": "SHORT"
+        },
+        "COMP": {
+            "headline": "US stock futures rebound after selloff; corporate earnings in focus",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18442,6 +18446,10 @@
         },
         {
             "time": "2025-04-22T09:17:39.352113",
+            "value": 100182.86677
+        },
+        {
+            "time": "2025-04-22T10:17:08.880292",
             "value": 100182.86677
         }
     ]
