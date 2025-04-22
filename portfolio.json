@@ -511,6 +511,18 @@
         "NVDA": {
             "headline": "Nvidia slips, Netflix rallies, and Big Tech gets ready for earnings: Stocks to watch today",
             "type": "SHORT"
+        },
+        "AMZN": {
+            "headline": "Investment Bank Downgrades AMZN on Earnings Pressures",
+            "type": "SHORT"
+        },
+        "NOW": {
+            "headline": "Jim Cramer Is Counting on ServiceNow, Inc. (NOW) to Beat Expectations",
+            "type": "BUY"
+        },
+        "CMG": {
+            "headline": "Jim Cramer Says Chipotle Mexican Grill, Inc. (CMG) Could Ignite on Honey Chicken",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18626,6 +18638,10 @@
         },
         {
             "time": "2025-04-22T21:38:33.350130",
+            "value": 100022.18167
+        },
+        {
+            "time": "2025-04-22T22:15:26.794534",
             "value": 100022.18167
         }
     ]
