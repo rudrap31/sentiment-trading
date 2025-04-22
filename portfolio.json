@@ -519,6 +519,10 @@
         "^TNX": {
             "headline": "US stocks, dollar slide; Trump's attacks on Fed chair fuel anxiety",
             "type": "SHORT"
+        },
+        "^GSPC": {
+            "headline": "The Stock Market Just Had 2 of Its Worst Back-to-Back Days in 75 Years. Here's What History Says Happens Next.",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18418,6 +18422,10 @@
         },
         {
             "time": "2025-04-22T05:16:58.379791",
+            "value": 100182.86677
+        },
+        {
+            "time": "2025-04-22T06:24:08.656944",
             "value": 100182.86677
         }
     ]
