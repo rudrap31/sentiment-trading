@@ -523,6 +523,10 @@
         "^GSPC": {
             "headline": "The Stock Market Just Had 2 of Its Worst Back-to-Back Days in 75 Years. Here's What History Says Happens Next.",
             "type": "SHORT"
+        },
+        "^HSI": {
+            "headline": "Asian Stock Markets Show Resilience Amid Tariff Uncertainty",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18434,6 +18438,10 @@
         },
         {
             "time": "2025-04-22T08:21:16.998538",
+            "value": 100182.86677
+        },
+        {
+            "time": "2025-04-22T09:17:39.352113",
             "value": 100182.86677
         }
     ]
