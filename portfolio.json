@@ -531,6 +531,26 @@
         "COMP": {
             "headline": "US stock futures rebound after selloff; corporate earnings in focus",
             "type": "BUY"
+        },
+        "OSW": {
+            "headline": "OneSpaWorld Holdings Ltd. (OSW) Traded Lower in Q1",
+            "type": "SHORT"
+        },
+        "BA": {
+            "headline": "GE Stock Rises. Earnings Provided Everything They Needed To.",
+            "type": "BUY"
+        },
+        "NCLH": {
+            "headline": "Norwegian Cruise Line Holdings Ltd. (NCLH) Declined on Investor Concerns Over New Cruise Tax",
+            "type": "SHORT"
+        },
+        "VZ": {
+            "headline": "Verizon Earnings Beat Expectations. Why the Stock Is Dropping.",
+            "type": "BUY"
+        },
+        "KN": {
+            "headline": "Knowles Corporation (KN) Fell Following a Quarterly Earnings Miss",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18454,6 +18474,10 @@
         },
         {
             "time": "2025-04-22T11:14:22.550155",
+            "value": 100182.86677
+        },
+        {
+            "time": "2025-04-22T12:30:47.528309",
             "value": 100182.86677
         }
     ]
