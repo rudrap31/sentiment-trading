@@ -499,6 +499,18 @@
         "MAT": {
             "headline": "Mattel (MAT) Surged on Robust Results",
             "type": "BUY"
+        },
+        "TFC": {
+            "headline": "O'Reilly Automotive Likely to Benefit From Tariffs as Customers Focus on Repairing Existing Vehicles, Truist Says",
+            "type": "BUY"
+        },
+        "COF": {
+            "headline": "Capital One, Discover Stocks Jump. Why the Merger Is Great News for Bank Stocks.",
+            "type": "BUY"
+        },
+        "NVDA": {
+            "headline": "Nvidia slips, Netflix rallies, and Big Tech gets ready for earnings: Stocks to watch today",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18610,6 +18622,10 @@
         },
         {
             "time": "2025-04-22T21:14:17.154971",
+            "value": 100022.18167
+        },
+        {
+            "time": "2025-04-22T21:38:33.350130",
             "value": 100022.18167
         }
     ]
