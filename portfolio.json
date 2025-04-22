@@ -523,6 +523,14 @@
         "CMG": {
             "headline": "Jim Cramer Says Chipotle Mexican Grill, Inc. (CMG) Could Ignite on Honey Chicken",
             "type": "SHORT"
+        },
+        "COIN": {
+            "headline": "Cryptocurrency Prices And News: Bitcoin Price Jumps Above $88K",
+            "type": "SHORT"
+        },
+        "MSTR": {
+            "headline": "Dollar And S&P 500 Tumble, Gold And Bitcoin Rise As Cash Exits U.S. In Threat To Trump Agenda",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18642,6 +18650,10 @@
         },
         {
             "time": "2025-04-22T22:15:26.794534",
+            "value": 100022.18167
+        },
+        {
+            "time": "2025-04-22T23:15:11.999554",
             "value": 100022.18167
         }
     ]
