@@ -1,6 +1,6 @@
 {
     "cash": 37524.69846999998,
-    "value": 100178.39976999999,
+    "value": 100182.86677,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -182,7 +182,7 @@
             "quantity": 18,
             "type": "BUY",
             "buy_price": 58,
-            "current_price": 58,
+            "current_price": 58.02,
             "headline": "Alibaba, Tencent Stocks Gain. Chinese Markets Ignore Trade War Risk for Now.",
             "time": "2025-04-15T14:16:29.058301"
         },
@@ -326,7 +326,7 @@
             "quantity": 13,
             "type": "BUY",
             "buy_price": 80,
-            "current_price": 79.84,
+            "current_price": 79.929,
             "headline": "Global Auto Stocks Rise After Trump Hints at Tariff Pause",
             "time": "2025-04-17T14:14:51.507352"
         },
@@ -342,7 +342,7 @@
             "quantity": 22,
             "type": "BUY",
             "buy_price": 47.15,
-            "current_price": 47.9,
+            "current_price": 47,
             "headline": "Hyundai CEO Expects Prices to Stay Steady Despite Trade War",
             "time": "2025-04-17T14:14:52.027600"
         },
@@ -350,7 +350,7 @@
             "quantity": 2,
             "type": "SHORT",
             "buy_price": 546.72,
-            "current_price": 553,
+            "current_price": 544.375,
             "headline": "Louis Vuitton\u2019s Owner Looks Down-at-Heel Even Before Tariffs Hit: Heard on the Street",
             "time": "2025-04-17T14:14:52.184646"
         },
@@ -454,7 +454,7 @@
             "quantity": 25,
             "type": "SHORT",
             "buy_price": 40.68,
-            "current_price": 40.68,
+            "current_price": 40.46,
             "headline": "DHL to suspend global shipments of over $800 to US consumers",
             "time": "2025-04-21T18:20:25.401402"
         },
@@ -18403,6 +18403,10 @@
         {
             "time": "2025-04-22T01:11:59.042304",
             "value": 100178.39976999999
+        },
+        {
+            "time": "2025-04-22T03:02:32.023860",
+            "value": 100182.86677
         }
     ]
 }
