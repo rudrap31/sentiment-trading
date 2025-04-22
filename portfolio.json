@@ -515,6 +515,10 @@
         "TGT": {
             "headline": "Stock Market Sell-Off: 2 Stocks That Could Double in 2 Years",
             "type": "BUY"
+        },
+        "^TNX": {
+            "headline": "US stocks, dollar slide; Trump's attacks on Fed chair fuel anxiety",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18410,6 +18414,10 @@
         },
         {
             "time": "2025-04-22T04:19:03.277867",
+            "value": 100182.86677
+        },
+        {
+            "time": "2025-04-22T05:16:58.379791",
             "value": 100182.86677
         }
     ]
