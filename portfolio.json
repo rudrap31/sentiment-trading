@@ -531,6 +531,14 @@
         "UPXI": {
             "headline": "Solana Pushes Higher As Staking Milestone And Institutional Bets Fuel Rally",
             "type": "BUY"
+        },
+        "UNH": {
+            "headline": "UnitedHealth Stock Heads for Worst Two-Day Stretch in 27 Years",
+            "type": "SHORT"
+        },
+        "AAPL": {
+            "headline": "AAPL May Have More Problems Ahead, Expert Warns",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18676,6 +18684,10 @@
         },
         {
             "time": "2025-04-23T04:19:34.855818",
+            "value": 100078.69167
+        },
+        {
+            "time": "2025-04-23T05:16:50.054206",
             "value": 100078.69167
         }
     ]
