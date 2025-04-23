@@ -547,6 +547,14 @@
         "GOOG": {
             "headline": "Justice Department Urges Tough Action to Break Google\u2019s Search Dominance",
             "type": "SHORT"
+        },
+        "^DJI": {
+            "headline": "Stocks End Sharply Lower. The Dow Is on Pace for Worst April Since 1932.",
+            "type": "SHORT"
+        },
+        "^GSPC": {
+            "headline": "Fresh Trump markets turmoil as Reeves heads to Washington",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18700,6 +18708,10 @@
         },
         {
             "time": "2025-04-23T06:22:37.632399",
+            "value": 100078.69167
+        },
+        {
+            "time": "2025-04-23T07:20:35.796419",
             "value": 100078.69167
         }
     ]
