@@ -567,6 +567,10 @@
         "STLD": {
             "headline": "Jim Cramer Says Steel Dynamics (STLD) a \u2018Winner\u2019 of Trump Tariffs Against China",
             "type": "BUY"
+        },
+        "SIRI": {
+            "headline": "1 Warren Buffett Stock That Could Go Parabolic in 2025 and Beyond",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18732,6 +18736,10 @@
         },
         {
             "time": "2025-04-23T09:17:44.031070",
+            "value": 100078.69167
+        },
+        {
+            "time": "2025-04-23T10:17:50.734894",
             "value": 100078.69167
         }
     ]
