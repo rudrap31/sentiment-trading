@@ -571,6 +571,14 @@
         "SIRI": {
             "headline": "1 Warren Buffett Stock That Could Go Parabolic in 2025 and Beyond",
             "type": "SHORT"
+        },
+        "VRT": {
+            "headline": "Vertiv Stock Soars on Better-than-Expected Earnings. AI Demand Is Strong.",
+            "type": "BUY"
+        },
+        "T": {
+            "headline": "AT&T Stock Rises After Earnings. Why It May Be Winning Customers From Verizon.",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18740,6 +18748,10 @@
         },
         {
             "time": "2025-04-23T10:17:50.734894",
+            "value": 100078.69167
+        },
+        {
+            "time": "2025-04-23T11:14:33.068233",
             "value": 100078.69167
         }
     ]
