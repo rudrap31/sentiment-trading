@@ -539,6 +539,14 @@
         "AAPL": {
             "headline": "AAPL May Have More Problems Ahead, Expert Warns",
             "type": "SHORT"
+        },
+        "TGT": {
+            "headline": "Fund Manager Explains Why She\u2019s Buying Target (TGT) Despite Struggles, Sees \u2018Hints of Improvement\u2019",
+            "type": "BUY"
+        },
+        "GOOG": {
+            "headline": "Justice Department Urges Tough Action to Break Google\u2019s Search Dominance",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -18688,6 +18696,10 @@
         },
         {
             "time": "2025-04-23T05:16:50.054206",
+            "value": 100078.69167
+        },
+        {
+            "time": "2025-04-23T06:22:37.632399",
             "value": 100078.69167
         }
     ]
