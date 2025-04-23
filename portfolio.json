@@ -531,6 +531,10 @@
         "VFC": {
             "headline": "Upslope Capital Management Divested VF Corp (VFC) Due to Market Correction",
             "type": "SHORT"
+        },
+        "NOW": {
+            "headline": "ServiceNow (NOW) Declined as Guidance Fell Short of Expectations",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -19086,6 +19090,10 @@
         },
         {
             "time": "2025-04-23T21:38:14.979793",
+            "value": 100402.76846999994
+        },
+        {
+            "time": "2025-04-23T22:15:46.360652",
             "value": 100402.76846999994
         }
     ]
