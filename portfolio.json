@@ -499,6 +499,14 @@
         "MCO": {
             "headline": "Moody's cuts profit forecast on market volatility after solid first quarter",
             "type": "SHORT"
+        },
+        "NCLH": {
+            "headline": "Norwegian Cruise Line Holdings Ltd. (NCLH) Declined on Investor Concerns Over New Cruise Tax",
+            "type": "SHORT"
+        },
+        "OSW": {
+            "headline": "OneSpaWorld Holdings Ltd. (OSW) Traded Lower in Q1",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -19042,6 +19050,10 @@
         },
         {
             "time": "2025-04-23T20:17:06.611866",
+            "value": 100402.76846999994
+        },
+        {
+            "time": "2025-04-23T20:40:57.809951",
             "value": 100402.76846999994
         }
     ]
