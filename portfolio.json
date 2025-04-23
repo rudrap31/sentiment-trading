@@ -579,6 +579,18 @@
         "T": {
             "headline": "AT&T Stock Rises After Earnings. Why It May Be Winning Customers From Verizon.",
             "type": "BUY"
+        },
+        "GTN-A": {
+            "headline": "Gray Media (GTN) Rose 37% in Q1",
+            "type": "BUY"
+        },
+        "BA": {
+            "headline": "Boeing Stock Surges On Q1 Results, Plus $10.6 Billion Deal",
+            "type": "BUY"
+        },
+        "SAP": {
+            "headline": "SAP Stock Soars on Earnings Beat. What That Means for IBM, Oracle, and Microsoft.",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18752,6 +18764,10 @@
         },
         {
             "time": "2025-04-23T11:14:33.068233",
+            "value": 100078.69167
+        },
+        {
+            "time": "2025-04-23T12:31:01.439678",
             "value": 100078.69167
         }
     ]
