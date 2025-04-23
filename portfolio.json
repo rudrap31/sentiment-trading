@@ -507,6 +507,26 @@
         "OSW": {
             "headline": "OneSpaWorld Holdings Ltd. (OSW) Traded Lower in Q1",
             "type": "SHORT"
+        },
+        "META": {
+            "headline": "Meta Platforms, Inc. (META) Price Target Cut to $624 Amid Macro Uncertainty and Cautious Q1 Outlook",
+            "type": "SHORT"
+        },
+        "AMZN": {
+            "headline": "Amazon.com, Inc. (AMZN) Price Target Cut to $235 on Cloud Demand Uncertainty, Long-Term AWS Potential Remains",
+            "type": "SHORT"
+        },
+        "MSFT": {
+            "headline": "Microsoft Corporation (MSFT) Price Target Lowered to $472 Amid Demand Concerns, AI Outlook Remains Strong",
+            "type": "SHORT"
+        },
+        "BA": {
+            "headline": "Nomura Bets Big on US Market Rebound With $1.8 Billion Deal",
+            "type": "BUY"
+        },
+        "VZ": {
+            "headline": "Verizon Loses More Quarterly Postpaid Subscribers Than Expected Amid Price Hikes",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -19054,6 +19074,10 @@
         },
         {
             "time": "2025-04-23T20:40:57.809951",
+            "value": 100402.76846999994
+        },
+        {
+            "time": "2025-04-23T21:14:31.923713",
             "value": 100402.76846999994
         }
     ]
