@@ -1,6 +1,6 @@
 {
-    "cash": 37177.443369999986,
-    "value": 100022.18167,
+    "cash": 38277.443369999986,
+    "value": 100078.69167,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -166,7 +166,7 @@
             "quantity": 18,
             "type": "BUY",
             "buy_price": 58,
-            "current_price": 58.02,
+            "current_price": 60.1,
             "headline": "Alibaba, Tencent Stocks Gain. Chinese Markets Ignore Trade War Risk for Now.",
             "time": "2025-04-15T14:16:29.058301"
         },
@@ -298,19 +298,11 @@
             "headline": "AAPL \u201cLooks Pretty Good Overall,\u201d LikeFolio Co-Founder Says",
             "time": "2025-04-17T14:14:51.725032"
         },
-        "HYMTF": {
-            "quantity": 22,
-            "type": "BUY",
-            "buy_price": 47.15,
-            "current_price": 47,
-            "headline": "Hyundai CEO Expects Prices to Stay Steady Despite Trade War",
-            "time": "2025-04-17T14:14:52.027600"
-        },
         "LVMHF": {
             "quantity": 2,
             "type": "SHORT",
             "buy_price": 546.72,
-            "current_price": 544.375,
+            "current_price": 556.59,
             "headline": "Louis Vuitton\u2019s Owner Looks Down-at-Heel Even Before Tariffs Hit: Heard on the Street",
             "time": "2025-04-17T14:14:52.184646"
         },
@@ -382,7 +374,7 @@
             "quantity": 25,
             "type": "SHORT",
             "buy_price": 40.68,
-            "current_price": 40.46,
+            "current_price": 41.36,
             "headline": "DHL to suspend global shipments of over $800 to US consumers",
             "time": "2025-04-21T18:20:25.401402"
         },
@@ -530,6 +522,14 @@
         },
         "MSTR": {
             "headline": "Dollar And S&P 500 Tumble, Gold And Bitcoin Rise As Cash Exits U.S. In Threat To Trump Agenda",
+            "type": "BUY"
+        },
+        "STRF": {
+            "headline": "MicroStrategy Stock Rises. Why Its Bitcoin Purchases Have Little Effect on the Crypto\u2019s Price.",
+            "type": "BUY"
+        },
+        "UPXI": {
+            "headline": "Solana Pushes Higher As Staking Milestone And Institutional Bets Fuel Rally",
             "type": "BUY"
         }
     },
@@ -10873,6 +10873,16 @@
             "amount": 360,
             "time": "2025-04-22T20:17:12.573116",
             "profit": 52.2
+        },
+        {
+            "action": "BUY",
+            "ticker": "HYMTF",
+            "headline": "Hyundai CEO Expects Prices to Stay Steady Despite Trade War",
+            "buy_price": 47.15,
+            "sold_price": 50,
+            "amount": 22,
+            "time": "2025-04-23T03:02:31.644542",
+            "profit": 62.70000000000003
         }
     ],
     "value_log": [
@@ -18659,6 +18669,10 @@
         {
             "time": "2025-04-23T01:12:29.452074",
             "value": 100022.18167
+        },
+        {
+            "time": "2025-04-23T03:02:32.646586",
+            "value": 100078.69167
         }
     ]
 }
