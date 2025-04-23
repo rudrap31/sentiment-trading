@@ -527,6 +527,10 @@
         "VZ": {
             "headline": "Verizon Loses More Quarterly Postpaid Subscribers Than Expected Amid Price Hikes",
             "type": "SHORT"
+        },
+        "VFC": {
+            "headline": "Upslope Capital Management Divested VF Corp (VFC) Due to Market Correction",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -19078,6 +19082,10 @@
         },
         {
             "time": "2025-04-23T21:14:31.923713",
+            "value": 100402.76846999994
+        },
+        {
+            "time": "2025-04-23T21:38:14.979793",
             "value": 100402.76846999994
         }
     ]
