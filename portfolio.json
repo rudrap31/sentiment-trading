@@ -591,6 +591,10 @@
         "SAP": {
             "headline": "SAP Stock Soars on Earnings Beat. What That Means for IBM, Oracle, and Microsoft.",
             "type": "BUY"
+        },
+        "ACGL": {
+            "headline": "Arch Capital Group Ltd. (ACGL) Rose on Solid Premium Growth",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18768,6 +18772,10 @@
         },
         {
             "time": "2025-04-23T12:31:01.439678",
+            "value": 100078.69167
+        },
+        {
+            "time": "2025-04-23T13:27:29.388463",
             "value": 100078.69167
         }
     ]
