@@ -535,6 +535,14 @@
         "NOW": {
             "headline": "ServiceNow (NOW) Declined as Guidance Fell Short of Expectations",
             "type": "SHORT"
+        },
+        "ALGN": {
+            "headline": "Align Technology price target lowered to $185 from $200 at BofA",
+            "type": "SHORT"
+        },
+        "^GSPC": {
+            "headline": "Wall Street keeps warning of a 'sell America' trade. Here's why.",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -19094,6 +19102,10 @@
         },
         {
             "time": "2025-04-23T22:15:46.360652",
+            "value": 100402.76846999994
+        },
+        {
+            "time": "2025-04-23T23:15:50.462174",
             "value": 100402.76846999994
         }
     ]
