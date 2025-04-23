@@ -555,6 +555,18 @@
         "^GSPC": {
             "headline": "Fresh Trump markets turmoil as Reeves heads to Washington",
             "type": "SHORT"
+        },
+        "UBER": {
+            "headline": "Jim Cramer Says Uber Technologies (UBER) Is A Buy",
+            "type": "BUY"
+        },
+        "KO": {
+            "headline": "Coca-Cola Should 'Continue to Outperform' Amid Tariff Uncertainty, JPM Says",
+            "type": "SHORT"
+        },
+        "STLD": {
+            "headline": "Jim Cramer Says Steel Dynamics (STLD) a \u2018Winner\u2019 of Trump Tariffs Against China",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -18712,6 +18724,10 @@
         },
         {
             "time": "2025-04-23T07:20:35.796419",
+            "value": 100078.69167
+        },
+        {
+            "time": "2025-04-23T08:21:34.332528",
             "value": 100078.69167
         }
     ]
