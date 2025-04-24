@@ -635,6 +635,22 @@
         "FANG": {
             "headline": "Weak oil prices, limited shale acreage to hit energy M&A in 2025, Enverus says",
             "type": "SHORT"
+        },
+        "^TNX": {
+            "headline": "US new home sales jump in March; supply still rising",
+            "type": "BUY"
+        },
+        "BA": {
+            "headline": "Boeing doesn't expect the US trade war with China to slow its recovery",
+            "type": "SHORT"
+        },
+        "INTC": {
+            "headline": "Intel Plans to Slash More Than 20% of Workforce: Report. The Stock Is Rising.",
+            "type": "BUY"
+        },
+        "FDX": {
+            "headline": "FedEx Corporation (FDX): Among Top Stocks in Bill Gates\u2019 Portfolio with Huge Upside Potential",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -19480,6 +19496,10 @@
         },
         {
             "time": "2025-04-24T21:39:02.357784",
+            "value": 100793.27966999997
+        },
+        {
+            "time": "2025-04-24T22:15:46.048091",
             "value": 100793.27966999997
         }
     ]
