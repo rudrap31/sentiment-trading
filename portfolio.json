@@ -567,6 +567,10 @@
         "GOOG": {
             "headline": "Alphabet (GOOGL) Reiterated at Buy Ahead of Earnings Despite Macro Haze and Ad Headwinds",
             "type": "BUY"
+        },
+        "NIU": {
+            "headline": "Niu Technologies (NIU): Among EV Penny Stocks From $10 to Under $1",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -19166,6 +19170,10 @@
         },
         {
             "time": "2025-04-24T05:16:49.381383",
+            "value": 100437.19146999995
+        },
+        {
+            "time": "2025-04-24T06:23:00.054552",
             "value": 100437.19146999995
         }
     ]
