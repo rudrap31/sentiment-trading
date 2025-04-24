@@ -1,6 +1,6 @@
 {
     "cash": 22516.520169999993,
-    "value": 100808.28966999998,
+    "value": 100793.27966999997,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -478,7 +478,7 @@
             "quantity": 19,
             "type": "BUY",
             "buy_price": 53.52,
-            "current_price": 53.52,
+            "current_price": 52.73,
             "headline": "Chefs' Warehouse Stock Sees Composite Rating Climb To 96",
             "time": "2025-04-24T14:14:12.925292"
         },
@@ -598,6 +598,18 @@
     "queued_trades": {
         "ATGE": {
             "headline": "Quarterly Earnings Beat Lifted Adtalem Global Education (ATGE) in Q1",
+            "type": "BUY"
+        },
+        "ENPH": {
+            "headline": "Enphase Energy Stock Sinks on Weaker-Than-Expected Results, Expected Tariffs Hit",
+            "type": "SHORT"
+        },
+        "GTN-A": {
+            "headline": "Gray Media (GTN) Rose 37% in Q1",
+            "type": "BUY"
+        },
+        "TSLA": {
+            "headline": "Tesla Stock Extends Gains in Premarket Trading",
             "type": "BUY"
         }
     },
@@ -19433,6 +19445,10 @@
         {
             "time": "2025-04-24T20:17:27.545275",
             "value": 100808.28966999998
+        },
+        {
+            "time": "2025-04-24T20:40:32.855138",
+            "value": 100793.27966999997
         }
     ]
 }
