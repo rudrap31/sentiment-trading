@@ -627,6 +627,14 @@
         "NICE": {
             "headline": "NICE Ltd. (NICE): Among Billionaire George Soros\u2019 Small-Cap Stocks with Huge Upside Potential",
             "type": "BUY"
+        },
+        "V": {
+            "headline": "Visa (V) Surged Due to Steady Trends in Electronic Payments",
+            "type": "SHORT"
+        },
+        "MVO": {
+            "headline": "Why MV Oil Trust (MVO) is Losing This Week",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -19254,6 +19262,10 @@
         },
         {
             "time": "2025-04-24T12:32:00.588473",
+            "value": 100437.19146999995
+        },
+        {
+            "time": "2025-04-24T13:27:28.942410",
             "value": 100437.19146999995
         }
     ]
