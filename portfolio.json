@@ -611,6 +611,22 @@
         "ENPH": {
             "headline": "Enphase Energy, Inc. (ENPH): One of the Best Solar Energy Stocks to Buy According to Hedge Funds",
             "type": "BUY"
+        },
+        "PLAY": {
+            "headline": "Here\u2019s Why Dave & Buster\u2019s Entertainment (PLAY) Traded Lower in Q1",
+            "type": "SHORT"
+        },
+        "LRHC": {
+            "headline": "EXCLUSIVE: La Rosa Board Approves $500 Thousand Stock Buyback Plan",
+            "type": "BUY"
+        },
+        "ONB": {
+            "headline": "Old National Bancorp (ONB): Among Billionaire George Soros\u2019 Small-Cap Stocks with Huge Upside Potential",
+            "type": "BUY"
+        },
+        "NICE": {
+            "headline": "NICE Ltd. (NICE): Among Billionaire George Soros\u2019 Small-Cap Stocks with Huge Upside Potential",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -19234,6 +19250,10 @@
         },
         {
             "time": "2025-04-24T11:14:00.849284",
+            "value": 100437.19146999995
+        },
+        {
+            "time": "2025-04-24T12:32:00.588473",
             "value": 100437.19146999995
         }
     ]
