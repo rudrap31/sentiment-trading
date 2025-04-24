@@ -623,6 +623,18 @@
         "META": {
             "headline": "Meta: EU is trying to 'handicap successful American businesses' with new fines",
             "type": "BUY"
+        },
+        "^GSPC": {
+            "headline": "The buying opportunity of a lifetime is coming. But not before a 40% drop for the S&P 500, says this strategist.",
+            "type": "SHORT"
+        },
+        "MSTR": {
+            "headline": "Bitcoin Price Rises Above $94,000",
+            "type": "BUY"
+        },
+        "FANG": {
+            "headline": "Weak oil prices, limited shale acreage to hit energy M&A in 2025, Enverus says",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -19464,6 +19476,10 @@
         },
         {
             "time": "2025-04-24T21:14:52.095148",
+            "value": 100793.27966999997
+        },
+        {
+            "time": "2025-04-24T21:39:02.357784",
             "value": 100793.27966999997
         }
     ]
