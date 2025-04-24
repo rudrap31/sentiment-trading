@@ -543,6 +543,18 @@
         "^GSPC": {
             "headline": "Wall Street keeps warning of a 'sell America' trade. Here's why.",
             "type": "SHORT"
+        },
+        "AAPL": {
+            "headline": "Apple (AAPL) Target Slashed to $141: \u2018No Easy Answers\u2019 as Trade Tensions and AI Lag Take Toll",
+            "type": "SHORT"
+        },
+        "EXPE": {
+            "headline": "Is Expedia Group (EXPE) a Cheap NASDAQ Stock to Buy According to Hedge Funds?",
+            "type": "BUY"
+        },
+        "NFLX": {
+            "headline": "Netflix, Inc. (NFLX): Among Stocks That Could 10X Over the Next 2 Years",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -19106,6 +19118,10 @@
         },
         {
             "time": "2025-04-23T23:15:50.462174",
+            "value": 100402.76846999994
+        },
+        {
+            "time": "2025-04-24T01:12:42.155588",
             "value": 100402.76846999994
         }
     ]
