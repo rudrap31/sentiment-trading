@@ -1,6 +1,6 @@
 {
-    "cash": 36556.12016999999,
-    "value": 100402.76846999994,
+    "cash": 38709.34016999999,
+    "value": 100437.19146999995,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -154,14 +154,6 @@
             "headline": "Constellation Brands Issues Weak Full-Year Earnings Outlook Despite Fourth-Quarter Beat",
             "time": "2025-04-15T14:16:28.976252"
         },
-        "TCEHY": {
-            "quantity": 18,
-            "type": "BUY",
-            "buy_price": 58,
-            "current_price": 60.1,
-            "headline": "Alibaba, Tencent Stocks Gain. Chinese Markets Ignore Trade War Risk for Now.",
-            "time": "2025-04-15T14:16:29.058301"
-        },
         "BVN": {
             "quantity": 68,
             "type": "BUY",
@@ -198,17 +190,9 @@
             "quantity": 13,
             "type": "BUY",
             "buy_price": 80,
-            "current_price": 79.929,
+            "current_price": 83.56,
             "headline": "Global Auto Stocks Rise After Trump Hints at Tariff Pause",
             "time": "2025-04-17T14:14:51.507352"
-        },
-        "LVMHF": {
-            "quantity": 2,
-            "type": "SHORT",
-            "buy_price": 546.72,
-            "current_price": 556.59,
-            "headline": "Louis Vuitton\u2019s Owner Looks Down-at-Heel Even Before Tariffs Hit: Heard on the Street",
-            "time": "2025-04-17T14:14:52.184646"
         },
         "MOG-B": {
             "quantity": 7,
@@ -222,7 +206,7 @@
             "quantity": 25,
             "type": "SHORT",
             "buy_price": 40.68,
-            "current_price": 41.36,
+            "current_price": 41.78,
             "headline": "DHL to suspend global shipments of over $800 to US consumers",
             "time": "2025-04-21T18:20:25.401402"
         },
@@ -554,6 +538,10 @@
         },
         "NFLX": {
             "headline": "Netflix, Inc. (NFLX): Among Stocks That Could 10X Over the Next 2 Years",
+            "type": "SHORT"
+        },
+        "TFC": {
+            "headline": "Truist Financial price target lowered to $43 from $52 at Argus",
             "type": "SHORT"
         }
     },
@@ -11217,6 +11205,26 @@
             "amount": 14,
             "time": "2025-04-23T16:19:10.127031",
             "profit": -34.720000000000056
+        },
+        {
+            "action": "BUY",
+            "ticker": "TCEHY",
+            "headline": "Alibaba, Tencent Stocks Gain. Chinese Markets Ignore Trade War Risk for Now.",
+            "buy_price": 58,
+            "sold_price": 61.43,
+            "amount": 18,
+            "time": "2025-04-24T03:04:21.661853",
+            "profit": 61.739999999999995
+        },
+        {
+            "action": "SHORT",
+            "ticker": "LVMHF",
+            "headline": "Louis Vuitton\u2019s Owner Looks Down-at-Heel Even Before Tariffs Hit: Heard on the Street",
+            "buy_price": 546.72,
+            "sold_price": 569.7,
+            "amount": 2,
+            "time": "2025-04-24T03:04:21.661872",
+            "profit": -45.960000000000036
         }
     ],
     "value_log": [
@@ -19123,6 +19131,10 @@
         {
             "time": "2025-04-24T01:12:42.155588",
             "value": 100402.76846999994
+        },
+        {
+            "time": "2025-04-24T03:04:22.528243",
+            "value": 100437.19146999995
         }
     ]
 }
