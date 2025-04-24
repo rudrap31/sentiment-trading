@@ -543,6 +543,22 @@
         "TFC": {
             "headline": "Truist Financial price target lowered to $43 from $52 at Argus",
             "type": "SHORT"
+        },
+        "COMP": {
+            "headline": "Dow Rises More Than 1,000 Points, Reversing Yesterday's Selloff",
+            "type": "BUY"
+        },
+        "NOC": {
+            "headline": "Northrop Grumman Lowers Earnings View After Quarterly Miss; Lockheed Martin's Profit Unexpectedly Rises",
+            "type": "SHORT"
+        },
+        "BP": {
+            "headline": "Elliott wants BP to boost free cash flow to $20 billion by 2027, source says",
+            "type": "BUY"
+        },
+        "TSLA": {
+            "headline": "Tesla Stock Rises Ahead of Earnings",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -19134,6 +19150,10 @@
         },
         {
             "time": "2025-04-24T03:04:22.528243",
+            "value": 100437.19146999995
+        },
+        {
+            "time": "2025-04-24T04:19:18.868989",
             "value": 100437.19146999995
         }
     ]
