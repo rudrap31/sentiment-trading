@@ -559,6 +559,14 @@
         "TSLA": {
             "headline": "Tesla Stock Rises Ahead of Earnings",
             "type": "BUY"
+        },
+        "NVDA": {
+            "headline": "NVIDIA (NVDA) Maintains Positive Momentum Despite China Export Restrictions, Says Susquehanna",
+            "type": "BUY"
+        },
+        "GOOG": {
+            "headline": "Alphabet (GOOGL) Reiterated at Buy Ahead of Earnings Despite Macro Haze and Ad Headwinds",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -19154,6 +19162,10 @@
         },
         {
             "time": "2025-04-24T04:19:18.868989",
+            "value": 100437.19146999995
+        },
+        {
+            "time": "2025-04-24T05:16:49.381383",
             "value": 100437.19146999995
         }
     ]
