@@ -571,6 +571,18 @@
         "NIU": {
             "headline": "Niu Technologies (NIU): Among EV Penny Stocks From $10 to Under $1",
             "type": "SHORT"
+        },
+        "FDP": {
+            "headline": "Fresh Del Monte's Near-Perfect Rating Reflects Projected Profit Surge",
+            "type": "BUY"
+        },
+        "CHEF": {
+            "headline": "Chefs' Warehouse Stock Sees Composite Rating Climb To 96",
+            "type": "BUY"
+        },
+        "SOUNW": {
+            "headline": "Why AI Stock SoundHound AI Was Skyrocketing Today",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -19174,6 +19186,10 @@
         },
         {
             "time": "2025-04-24T06:23:00.054552",
+            "value": 100437.19146999995
+        },
+        {
+            "time": "2025-04-24T07:16:43.708778",
             "value": 100437.19146999995
         }
     ]
