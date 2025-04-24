@@ -591,6 +591,14 @@
         "GE": {
             "headline": "GE Aerospace Clears Q1 Views, Maintains Guidance With Tariff Efforts",
             "type": "BUY"
+        },
+        "BKR": {
+            "headline": "Baker Hughes flags tariff impact on full-year core profit",
+            "type": "SHORT"
+        },
+        "AI": {
+            "headline": "C3.ai Reverses Higher But Watch For This Resistance Level; Is AI Stock A Buy Now?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -19202,6 +19210,10 @@
         },
         {
             "time": "2025-04-24T08:21:30.493813",
+            "value": 100437.19146999995
+        },
+        {
+            "time": "2025-04-24T09:17:55.820351",
             "value": 100437.19146999995
         }
     ]
