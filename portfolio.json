@@ -651,6 +651,22 @@
         "FDX": {
             "headline": "FedEx Corporation (FDX): Among Top Stocks in Bill Gates\u2019 Portfolio with Huge Upside Potential",
             "type": "BUY"
+        },
+        "ORCL": {
+            "headline": "Oracle Stock Gets Downgraded. Cloud Computing Is Still a Winner.",
+            "type": "BUY"
+        },
+        "PPRUY": {
+            "headline": "Kering sales drop more than expected in first quarter as Gucci crisis deepens",
+            "type": "SHORT"
+        },
+        "BKR": {
+            "headline": "Baker Hughes forecasts drop in producer spending as tariffs pinch demand",
+            "type": "SHORT"
+        },
+        "NGD": {
+            "headline": "Why New Gold Inc. (NGD) Crashed on Tuesday",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -19500,6 +19516,10 @@
         },
         {
             "time": "2025-04-24T22:15:46.048091",
+            "value": 100793.27966999997
+        },
+        {
+            "time": "2025-04-24T23:15:15.229928",
             "value": 100793.27966999997
         }
     ]
