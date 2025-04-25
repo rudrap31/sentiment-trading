@@ -723,6 +723,14 @@
         "NTNX": {
             "headline": "Nutanix, Inc. (NTNX): Among Louis Navellier\u2019s Stock Picks with Huge Upside Potential",
             "type": "BUY"
+        },
+        "ML.PA": {
+            "headline": "Michelin's sales drop less than expected despite volume slump",
+            "type": "SHORT"
+        },
+        "ADI": {
+            "headline": "Texas Instruments Gains After Forecast Shows Recovery From Slump",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -19862,6 +19870,10 @@
         },
         {
             "time": "2025-04-25T22:15:31.292275",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-25T23:15:18.364020",
             "value": 101068.06326999997
         }
     ]
