@@ -1,6 +1,6 @@
 {
     "cash": 26592.338069999994,
-    "value": 100844.27756999999,
+    "value": 100834.19756999999,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -478,7 +478,7 @@
             "quantity": 28,
             "type": "SHORT",
             "buy_price": 36.02,
-            "current_price": 36.02,
+            "current_price": 36.38,
             "headline": "Baker Hughes flags tariff impact on full-year core profit",
             "time": "2025-04-24T14:14:12.962338"
         },
@@ -642,6 +642,14 @@
         },
         "IBM": {
             "headline": "IBM Is \u201cWell-Positioned to Benefit From AI,\u201d Expert Says",
+            "type": "BUY"
+        },
+        "JNVR": {
+            "headline": "EXCLUSIVE: DeFi Development Adds $9.9 Million In Solana Tokens Underscoring Its Commitment Towards Digital Asset Treasury Strategy",
+            "type": "BUY"
+        },
+        "STLD": {
+            "headline": "Steel Dynamics Embracing Tariffs, Ready to Capture New Demand, CEO Says",
             "type": "BUY"
         }
     },
@@ -19549,6 +19557,10 @@
         {
             "time": "2025-04-25T04:20:27.031660",
             "value": 100844.27756999999
+        },
+        {
+            "time": "2025-04-25T05:16:32.142669",
+            "value": 100834.19756999999
         }
     ]
 }
