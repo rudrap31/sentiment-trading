@@ -679,6 +679,10 @@
         "000660.KS": {
             "headline": "SK Hynix Posts Strong First Quarter Earnings on AI Chip Demand",
             "type": "BUY"
+        },
+        "KNX": {
+            "headline": "Knight-Swift grappling with tariff-spooked customers in bid season",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -19612,6 +19616,10 @@
         },
         {
             "time": "2025-04-25T11:13:46.250467",
+            "value": 100834.19756999999
+        },
+        {
+            "time": "2025-04-25T12:31:06.467277",
             "value": 100834.19756999999
         }
     ]
