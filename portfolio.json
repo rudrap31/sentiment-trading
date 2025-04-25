@@ -1,6 +1,6 @@
 {
-    "cash": 22516.520169999993,
-    "value": 100793.27966999997,
+    "cash": 25454.165169999993,
+    "value": 100652.50466999998,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -90,14 +90,6 @@
             "headline": "European Aerospace, Defense Stocks Plunge Amid Global Recession Woes",
             "time": "2025-04-08T19:36:31.682036"
         },
-        "PNXGF": {
-            "quantity": 151,
-            "type": "SHORT",
-            "buy_price": 6.64,
-            "current_price": 6.64,
-            "headline": "Many UK workers still face barriers to flexible work, finds research",
-            "time": "2025-04-09T18:20:37.146603"
-        },
         "WBA": {
             "quantity": 94,
             "type": "BUY",
@@ -185,22 +177,6 @@
             "current_price": 154.93,
             "headline": "Johnson & Johnson Tops Q1 Estimates, Lifts Full-Year Sales Outlook",
             "time": "2025-04-16T19:37:05.884475"
-        },
-        "BAMXF": {
-            "quantity": 13,
-            "type": "BUY",
-            "buy_price": 80,
-            "current_price": 83.56,
-            "headline": "Global Auto Stocks Rise After Trump Hints at Tariff Pause",
-            "time": "2025-04-17T14:14:51.507352"
-        },
-        "DHLGY": {
-            "quantity": 25,
-            "type": "SHORT",
-            "buy_price": 40.68,
-            "current_price": 41.78,
-            "headline": "DHL to suspend global shipments of over $800 to US consumers",
-            "time": "2025-04-21T18:20:25.401402"
         },
         "TGT": {
             "quantity": 11,
@@ -667,6 +643,10 @@
         "NGD": {
             "headline": "Why New Gold Inc. (NGD) Crashed on Tuesday",
             "type": "SHORT"
+        },
+        "T": {
+            "headline": "AT&T Adds More Subscribers, Sees Tariffs Spurring Phone Upgrades",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -11499,6 +11479,36 @@
             "amount": 326,
             "time": "2025-04-24T20:17:26.295409",
             "profit": -37.489999999999924
+        },
+        {
+            "action": "SHORT",
+            "ticker": "PNXGF",
+            "headline": "Many UK workers still face barriers to flexible work, finds research",
+            "buy_price": 6.64,
+            "sold_price": 7.795,
+            "amount": 151,
+            "time": "2025-04-25T03:04:30.822828",
+            "profit": -174.40500000000003
+        },
+        {
+            "action": "BUY",
+            "ticker": "BAMXF",
+            "headline": "Global Auto Stocks Rise After Trump Hints at Tariff Pause",
+            "buy_price": 80,
+            "sold_price": 87.32,
+            "amount": 13,
+            "time": "2025-04-25T03:04:30.822844",
+            "profit": 95.15999999999991
+        },
+        {
+            "action": "SHORT",
+            "ticker": "DHLGY",
+            "headline": "DHL to suspend global shipments of over $800 to US consumers",
+            "buy_price": 40.68,
+            "sold_price": 42.39,
+            "amount": 25,
+            "time": "2025-04-25T03:04:30.822848",
+            "profit": -42.75000000000002
         }
     ],
     "value_log": [
@@ -19525,6 +19535,10 @@
         {
             "time": "2025-04-25T01:12:49.036558",
             "value": 100793.27966999997
+        },
+        {
+            "time": "2025-04-25T03:04:31.738398",
+            "value": 100652.50466999998
         }
     ]
 }
