@@ -687,6 +687,26 @@
         "WOR": {
             "headline": "Why Worthington Enterprises, Inc. (WOR) Is Up the Most So Far in 2025",
             "type": "BUY"
+        },
+        "COMP": {
+            "headline": "Tech Stocks Are Leading a Stock Market Rally",
+            "type": "BUY"
+        },
+        "TXN": {
+            "headline": "Texas Instruments Stock Jumps After Earnings. Why Tariffs Are Still a Risk for the Chip Maker.",
+            "type": "SHORT"
+        },
+        "GOOG": {
+            "headline": "Palantir, Google Expand Cloud Computing Partnership To Target Federal Agencies",
+            "type": "BUY"
+        },
+        "NVDA": {
+            "headline": "A16z Unleashes $20 Billion AI Fund Fueled By 20,000 Nvidia GPUs As Marc Andreessen Bets Big On The Next Tech Superstars",
+            "type": "BUY"
+        },
+        "^GSPC": {
+            "headline": "Median US CEO pay hits record $16.8 million on soaring stock awards",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -19818,6 +19838,10 @@
         },
         {
             "time": "2025-04-25T21:15:11.281637",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-25T21:38:06.513766",
             "value": 101068.06326999997
         }
     ]
