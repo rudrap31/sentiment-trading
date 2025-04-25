@@ -659,6 +659,26 @@
         "T": {
             "headline": "AT&T\u2019s response to a growing threat spells trouble for customers",
             "type": "SHORT"
+        },
+        "NOW": {
+            "headline": "ServiceNow Raises 2025 Subscription Revenue Growth Outlook Following First-Quarter Beat",
+            "type": "BUY"
+        },
+        "AMZN": {
+            "headline": "Jim Cramer on Amazon.com, Inc. (AMZN): \u2018Still Spending, But Tariff Impact Remains Unclear\u2019",
+            "type": "SHORT"
+        },
+        "PLTR": {
+            "headline": "Why Palantir Technologies (PLTR) Went Up on Wednesday",
+            "type": "BUY"
+        },
+        "LUV": {
+            "headline": "Southwest Airlines drops forecast as US trade war shakes industry",
+            "type": "SHORT"
+        },
+        "PKX": {
+            "headline": "Posco\u2019s Profit Slumps as Trump Tariffs Take Effect",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -19782,6 +19802,10 @@
         },
         {
             "time": "2025-04-25T20:16:33.427525",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-25T20:41:45.185121",
             "value": 101068.06326999997
         }
     ]
