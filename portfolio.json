@@ -663,6 +663,14 @@
         "DUOL": {
             "headline": "Duolingo Stock Has a New Top Wall Street Bull. The Shares Are Rising Today",
             "type": "BUY"
+        },
+        "CHKP": {
+            "headline": "Why Is Cybersecurity Stock Check Point Software Sliding On Wednesday?",
+            "type": "SHORT"
+        },
+        "MSI": {
+            "headline": "Motorola Solutions Stock Gets RS Rating Lift",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -19576,6 +19584,10 @@
         },
         {
             "time": "2025-04-25T06:22:28.226425",
+            "value": 100834.19756999999
+        },
+        {
+            "time": "2025-04-25T07:16:02.017996",
             "value": 100834.19756999999
         }
     ]
