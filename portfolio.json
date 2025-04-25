@@ -671,6 +671,14 @@
         "MSI": {
             "headline": "Motorola Solutions Stock Gets RS Rating Lift",
             "type": "BUY"
+        },
+        "GLD": {
+            "headline": "$1.2 Billion Pulled From Top Gold ETF as Markets Rally",
+            "type": "SHORT"
+        },
+        "000660.KS": {
+            "headline": "SK Hynix Posts Strong First Quarter Earnings on AI Chip Demand",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -19600,6 +19608,10 @@
         },
         {
             "time": "2025-04-25T10:17:23.476277",
+            "value": 100834.19756999999
+        },
+        {
+            "time": "2025-04-25T11:13:46.250467",
             "value": 100834.19756999999
         }
     ]
