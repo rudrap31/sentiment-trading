@@ -651,6 +651,18 @@
         "STLD": {
             "headline": "Steel Dynamics Embracing Tariffs, Ready to Capture New Demand, CEO Says",
             "type": "BUY"
+        },
+        "PLTR": {
+            "headline": "Palantir Stock Jumps to Highest Level Since February. What\u2019s Behind Its Rise.",
+            "type": "BUY"
+        },
+        "AMZN": {
+            "headline": "AMZN Poised to Benefit from Market Share Gains, New Businesses, Analyst Says",
+            "type": "BUY"
+        },
+        "DUOL": {
+            "headline": "Duolingo Stock Has a New Top Wall Street Bull. The Shares Are Rising Today",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -19560,6 +19572,10 @@
         },
         {
             "time": "2025-04-25T05:16:32.142669",
+            "value": 100834.19756999999
+        },
+        {
+            "time": "2025-04-25T06:22:28.226425",
             "value": 100834.19756999999
         }
     ]
