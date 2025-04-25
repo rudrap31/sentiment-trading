@@ -679,6 +679,14 @@
         "PKX": {
             "headline": "Posco\u2019s Profit Slumps as Trump Tariffs Take Effect",
             "type": "SHORT"
+        },
+        "RELX": {
+            "headline": "Why RELX PLC (RELX) Is Up the Most So Far in 2025",
+            "type": "BUY"
+        },
+        "WOR": {
+            "headline": "Why Worthington Enterprises, Inc. (WOR) Is Up the Most So Far in 2025",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -19806,6 +19814,10 @@
         },
         {
             "time": "2025-04-25T20:41:45.185121",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-25T21:15:11.281637",
             "value": 101068.06326999997
         }
     ]
