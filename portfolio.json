@@ -683,6 +683,26 @@
         "KNX": {
             "headline": "Knight-Swift grappling with tariff-spooked customers in bid season",
             "type": "SHORT"
+        },
+        "IAG": {
+            "headline": "Why IAMGOLD Corporation (IAG) Lagged Performance on Wednesday",
+            "type": "SHORT"
+        },
+        "HMY": {
+            "headline": "Why Harmony Gold Mining Company Limited (HMY) Lagged Performance on Wednesday",
+            "type": "SHORT"
+        },
+        "STLAM.MI": {
+            "headline": "Why Stellantis N.V. (STLA) Lagged Performance on Wednesday",
+            "type": "SHORT"
+        },
+        "AU": {
+            "headline": "Why AngloGold Ashanti plc (AU) Lagged Performance on Wednesday",
+            "type": "SHORT"
+        },
+        "TSM": {
+            "headline": "Taiwan Semiconductor's Arizona Factory Faces $441 Million Loss Amid Supply Chain, Labor Cost Challenges",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -19620,6 +19640,10 @@
         },
         {
             "time": "2025-04-25T12:31:06.467277",
+            "value": 100834.19756999999
+        },
+        {
+            "time": "2025-04-25T13:25:40.040623",
             "value": 100834.19756999999
         }
     ]
