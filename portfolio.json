@@ -1,6 +1,6 @@
 {
-    "cash": 25454.165169999993,
-    "value": 100652.50466999998,
+    "cash": 26592.338069999994,
+    "value": 100844.27756999999,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -458,19 +458,11 @@
             "headline": "Chefs' Warehouse Stock Sees Composite Rating Climb To 96",
             "time": "2025-04-24T14:14:12.925292"
         },
-        "SOUNW": {
-            "quantity": 271,
-            "type": "BUY",
-            "buy_price": 3.7,
-            "current_price": 3.7,
-            "headline": "Why AI Stock SoundHound AI Was Skyrocketing Today",
-            "time": "2025-04-24T14:14:12.933947"
-        },
         "JEF": {
             "quantity": 23,
             "type": "BUY",
             "buy_price": 45.24,
-            "current_price": 45.24,
+            "current_price": 46.72,
             "headline": "Gold Slides From $3,500 on Profit Booking After Rally to Record",
             "time": "2025-04-24T14:14:12.945312"
         },
@@ -478,7 +470,7 @@
             "quantity": 6,
             "type": "BUY",
             "buy_price": 193.7,
-            "current_price": 193.7,
+            "current_price": 197.41,
             "headline": "GE Aerospace Clears Q1 Views, Maintains Guidance With Tariff Efforts",
             "time": "2025-04-24T14:14:12.953906"
         },
@@ -646,6 +638,10 @@
         },
         "T": {
             "headline": "AT&T Adds More Subscribers, Sees Tariffs Spurring Phone Upgrades",
+            "type": "BUY"
+        },
+        "IBM": {
+            "headline": "IBM Is \u201cWell-Positioned to Benefit From AI,\u201d Expert Says",
             "type": "BUY"
         }
     },
@@ -11509,6 +11505,16 @@
             "amount": 25,
             "time": "2025-04-25T03:04:30.822848",
             "profit": -42.75000000000002
+        },
+        {
+            "action": "BUY",
+            "ticker": "SOUNW",
+            "headline": "Why AI Stock SoundHound AI Was Skyrocketing Today",
+            "buy_price": 3.7,
+            "sold_price": 4.1999,
+            "amount": 271,
+            "time": "2025-04-25T04:20:25.828781",
+            "profit": 135.47290000000007
         }
     ],
     "value_log": [
@@ -19539,6 +19545,10 @@
         {
             "time": "2025-04-25T03:04:31.738398",
             "value": 100652.50466999998
+        },
+        {
+            "time": "2025-04-25T04:20:27.031660",
+            "value": 100844.27756999999
         }
     ]
 }
