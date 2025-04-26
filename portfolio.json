@@ -783,6 +783,26 @@
         "HIG": {
             "headline": "Hartford profit falls as California wildfire losses climb",
             "type": "SHORT"
+        },
+        "PDD": {
+            "headline": "Is PDD Holdings Inc. (PDD) The Best Aggressive Growth Stock To Buy Now?",
+            "type": "BUY"
+        },
+        "KKR-PD": {
+            "headline": "Is KKR & Co. Inc. (KKR) The Best Aggressive Growth Stock To Buy Now?",
+            "type": "BUY"
+        },
+        "VIST": {
+            "headline": "Why Vista Energy, S.A.B. de C.V. (VIST) Stock is Gaining This Week",
+            "type": "BUY"
+        },
+        "VIVK": {
+            "headline": "Why Vivakor, Inc. (VIVK) Stock is Gaining This Week",
+            "type": "BUY"
+        },
+        "NNN": {
+            "headline": "NNN REIT, Inc. (NNN): Among the Growing Dividend Stocks with Low PE Ratios",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -19942,6 +19962,10 @@
         },
         {
             "time": "2025-04-26T06:16:06.399454",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-26T08:14:52.751525",
             "value": 101068.06326999997
         }
     ]
