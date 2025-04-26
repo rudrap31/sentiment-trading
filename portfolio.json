@@ -815,6 +815,18 @@
         "CODGF": {
             "headline": "Saint-Gobain Shares Rise After Company Posts Higher Sales, Reassures on Tariffs",
             "type": "BUY"
+        },
+        "^FTSE": {
+            "headline": "European Stocks Rise Despite Trade Uncertainty",
+            "type": "BUY"
+        },
+        "GM": {
+            "headline": "Jim Cramer Says General Motors (GM) Could Be \u2018Ridiculous\u2019 Value Trap",
+            "type": "SHORT"
+        },
+        "AEM": {
+            "headline": "Agnico Eagle\u2019s Strong Gold Production Attracts Big Money",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -19982,6 +19994,10 @@
         },
         {
             "time": "2025-04-26T10:12:10.096479",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-26T12:20:35.591153",
             "value": 101068.06326999997
         }
     ]
