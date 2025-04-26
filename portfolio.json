@@ -779,6 +779,10 @@
         "COIN": {
             "headline": "Coinbase Global, Inc. (COIN): Among the Best Aggressive Growth Stocks to Buy Now",
             "type": "BUY"
+        },
+        "HIG": {
+            "headline": "Hartford profit falls as California wildfire losses climb",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -19934,6 +19938,10 @@
         },
         {
             "time": "2025-04-26T04:14:27.800266",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-26T06:16:06.399454",
             "value": 101068.06326999997
         }
     ]
