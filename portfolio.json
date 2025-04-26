@@ -731,6 +731,18 @@
         "ADI": {
             "headline": "Texas Instruments Gains After Forecast Shows Recovery From Slump",
             "type": "BUY"
+        },
+        "AC.PA": {
+            "headline": "Accor Says April Bookings Have Rebounded: No \u2018Cracks in Demand\u2019",
+            "type": "BUY"
+        },
+        "MC.PA": {
+            "headline": "LVMH Gets a Downgrade From HSBC. \u2018Macro Stars Are Misaligned.\u2019",
+            "type": "SHORT"
+        },
+        "CAKE": {
+            "headline": "Dow Jones Fast Food Giant McDonald's Leads Restaurant Group Higher",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -19874,6 +19886,10 @@
         },
         {
             "time": "2025-04-25T23:15:18.364020",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-26T00:54:49.397160",
             "value": 101068.06326999997
         }
     ]
