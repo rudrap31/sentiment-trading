@@ -755,6 +755,30 @@
         "WDC": {
             "headline": "Western Digital Corporation (WDC): Among the Best Aggressive Growth Stocks to Buy Now",
             "type": "BUY"
+        },
+        "AVGO": {
+            "headline": "Is Broadcom Inc. (AVGO) the Best Aggressive Growth Stock to Buy Now?",
+            "type": "BUY"
+        },
+        "NTRA": {
+            "headline": "Natera, Inc. (NTRA): One of the Best Aggressive Growth Stocks to Buy Now",
+            "type": "BUY"
+        },
+        "NU": {
+            "headline": "Nu Holdings Ltd. (NU): Among the Best Aggressive Growth Stocks to Buy Now",
+            "type": "BUY"
+        },
+        "RNG": {
+            "headline": "RingCentral A Stock for Patient Investors, AI Tools And New Products Show Early Promise: Analyst",
+            "type": "BUY"
+        },
+        "CELG-RT": {
+            "headline": "Bristol Myers Reports Better-Than-Expected Earnings. The Future Is Cloudy.",
+            "type": "BUY"
+        },
+        "COIN": {
+            "headline": "Coinbase Global, Inc. (COIN): Among the Best Aggressive Growth Stocks to Buy Now",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -19906,6 +19930,10 @@
         },
         {
             "time": "2025-04-26T02:56:36.606657",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-26T04:14:27.800266",
             "value": 101068.06326999997
         }
     ]
