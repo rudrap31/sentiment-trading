@@ -847,6 +847,14 @@
         "BHVN": {
             "headline": "Biohaven share price undervaluing pipeline potential, says RBC Capital",
             "type": "BUY"
+        },
+        "TSLA": {
+            "headline": "Why Tesla Inc. (TSLA) Soared Last Week",
+            "type": "SHORT"
+        },
+        "SOUNW": {
+            "headline": "Why SoundHound AI Inc. (SOUN) Soared Last Week",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -20026,6 +20034,10 @@
         },
         {
             "time": "2025-04-26T16:13:32.110375",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-26T18:15:03.386385",
             "value": 101068.06326999997
         }
     ]
