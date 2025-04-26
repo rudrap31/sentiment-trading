@@ -839,6 +839,14 @@
         "SNV": {
             "headline": "Synovus Financial Corp. (SNV): Among Billionaire Ken Fisher\u2019s Finance Stock Picks with Huge Upside Potential",
             "type": "BUY"
+        },
+        "AAPL": {
+            "headline": "Apple Inc. (AAPL) Backed by Strong Survey Results Amid Tough Market Conditions",
+            "type": "BUY"
+        },
+        "BHVN": {
+            "headline": "Biohaven share price undervaluing pipeline potential, says RBC Capital",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -20014,6 +20022,10 @@
         },
         {
             "time": "2025-04-26T14:10:58.583612",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-26T16:13:32.110375",
             "value": 101068.06326999997
         }
     ]
