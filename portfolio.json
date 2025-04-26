@@ -827,6 +827,18 @@
         "AEM": {
             "headline": "Agnico Eagle\u2019s Strong Gold Production Attracts Big Money",
             "type": "BUY"
+        },
+        "WT": {
+            "headline": "WisdomTree, Inc. (WT): Among Billionaire Ken Fisher\u2019s Finance Stock Picks with Huge Upside Potential",
+            "type": "BUY"
+        },
+        "TGT": {
+            "headline": "Jim Cramer Says Tariff Are Going to \u2018Hurt\u2019 Target (TGT)",
+            "type": "SHORT"
+        },
+        "SNV": {
+            "headline": "Synovus Financial Corp. (SNV): Among Billionaire Ken Fisher\u2019s Finance Stock Picks with Huge Upside Potential",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -19998,6 +20010,10 @@
         },
         {
             "time": "2025-04-26T12:20:35.591153",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-26T14:10:58.583612",
             "value": 101068.06326999997
         }
     ]
