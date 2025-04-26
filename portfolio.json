@@ -743,6 +743,18 @@
         "CAKE": {
             "headline": "Dow Jones Fast Food Giant McDonald's Leads Restaurant Group Higher",
             "type": "BUY"
+        },
+        "INTC": {
+            "headline": "Intel Stock Drops On Disappointing Second-Quarter Outlook",
+            "type": "SHORT"
+        },
+        "SKX": {
+            "headline": "Skechers Stock Falls After Shoe Company Withdraws Guidance",
+            "type": "SHORT"
+        },
+        "WDC": {
+            "headline": "Western Digital Corporation (WDC): Among the Best Aggressive Growth Stocks to Buy Now",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -19890,6 +19902,10 @@
         },
         {
             "time": "2025-04-26T00:54:49.397160",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-26T02:56:36.606657",
             "value": 101068.06326999997
         }
     ]
