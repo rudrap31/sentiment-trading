@@ -903,6 +903,14 @@
         "MSFT": {
             "headline": "Microsoft Corporation (MSFT): Among Billionaire Steve Cohen\u2019s Large-Cap Stock Picks With Huge Upside Potential",
             "type": "BUY"
+        },
+        "SOFI": {
+            "headline": "Why SoFi Technologies Inc. (SOFI) Went Up On Friday",
+            "type": "BUY"
+        },
+        "F": {
+            "headline": "A Little Good News for Ford Investors",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -20114,6 +20122,10 @@
         },
         {
             "time": "2025-04-27T08:14:43.446187",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-27T10:12:21.046587",
             "value": 101068.06326999997
         }
     ]
