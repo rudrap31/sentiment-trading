@@ -895,6 +895,14 @@
         "ORCL": {
             "headline": "Jim Cramer Sees Oracle (ORCL) as Inexpensive: \u201cStock\u2019s Been Hurt but Has Value\u201d",
             "type": "SHORT"
+        },
+        "CRM": {
+            "headline": "Salesforce, Inc. (CRM) Price Target Cut to $315 Amid AI Adoption Challenges and Slowing Growth",
+            "type": "SHORT"
+        },
+        "MSFT": {
+            "headline": "Microsoft Corporation (MSFT): Among Billionaire Steve Cohen\u2019s Large-Cap Stock Picks With Huge Upside Potential",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -20102,6 +20110,10 @@
         },
         {
             "time": "2025-04-27T06:16:09.189430",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-27T08:14:43.446187",
             "value": 101068.06326999997
         }
     ]
