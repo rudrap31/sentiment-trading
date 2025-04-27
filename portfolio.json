@@ -931,6 +931,10 @@
         "CMG": {
             "headline": "Chipotle Turns Cautious on Consumer Sentiment. Is the Stock Still a Long-term Buy?",
             "type": "BUY"
+        },
+        "JNJ": {
+            "headline": "Jim Cramer Says You Should Buy Johnson & Johnson (JNJ), Thinks Talc Problems \u2018Behind It\u2019",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -20158,6 +20162,10 @@
         },
         {
             "time": "2025-04-27T18:15:33.897882",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-27T20:13:25.062470",
             "value": 101068.06326999997
         }
     ]
