@@ -883,6 +883,14 @@
         "ABBV": {
             "headline": "AbbVie Hikes Its Outlook On The Back Of Two Powerhouse Drugs",
             "type": "BUY"
+        },
+        "SLB": {
+            "headline": "Why Schlumberger Stock Slumped on Friday",
+            "type": "SHORT"
+        },
+        "GOLD": {
+            "headline": "Exclusive-Barrick Gold contractors in Mali lay off staff amid government dispute -documents, sources",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -20082,6 +20090,10 @@
         },
         {
             "time": "2025-04-27T03:05:20.908728",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-27T04:15:03.170561",
             "value": 101068.06326999997
         }
     ]
