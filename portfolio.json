@@ -911,6 +911,10 @@
         "F": {
             "headline": "A Little Good News for Ford Investors",
             "type": "BUY"
+        },
+        "LMT": {
+            "headline": "It's 2 Steps Forward, 1 Step Back for Lockheed Martin as Weak Guidance Deletes an Earnings Beat",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -20126,6 +20130,10 @@
         },
         {
             "time": "2025-04-27T10:12:21.046587",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-27T12:20:28.516616",
             "value": 101068.06326999997
         }
     ]
