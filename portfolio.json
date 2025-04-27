@@ -935,6 +935,26 @@
         "JNJ": {
             "headline": "Jim Cramer Says You Should Buy Johnson & Johnson (JNJ), Thinks Talc Problems \u2018Behind It\u2019",
             "type": "SHORT"
+        },
+        "VTSI": {
+            "headline": "Why VirTra, Inc. (VTSI) Is Among the Best Prison and Law Enforcement Stocks to Buy According to Analysts",
+            "type": "BUY"
+        },
+        "INVE": {
+            "headline": "Is Identiv, Inc. (INVE) the Best Prison and Law Enforcement Stock to Buy According to Analysts?",
+            "type": "BUY"
+        },
+        "KMB": {
+            "headline": "Tariff Troubles Are No Match for This Dividend King's Rock-Solid High-Yield Payout",
+            "type": "SHORT"
+        },
+        "SPCB": {
+            "headline": "Why SuperCom Ltd. (SPCB) Is Among the Best Prison and Law Enforcement Stocks to Buy According to Analysts",
+            "type": "BUY"
+        },
+        "GEO": {
+            "headline": "Is The GEO Group, Inc. (GEO) One of the Best Prison and Law Enforcement Stocks to Buy According to Analysts?",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -20166,6 +20186,10 @@
         },
         {
             "time": "2025-04-27T20:13:25.062470",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-27T22:11:19.901465",
             "value": 101068.06326999997
         }
     ]
