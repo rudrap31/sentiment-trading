@@ -875,6 +875,14 @@
         "CSCO": {
             "headline": "Cisco Systems, Inc. (CSCO): One of the Growing Dividend Stocks with Low PE Ratios",
             "type": "SHORT"
+        },
+        "GILD": {
+            "headline": "Gilead Dives As Its Biggest Moneymaker Misses. Here's Why It Could Still Be A 'Safe Haven' Stock.",
+            "type": "BUY"
+        },
+        "ABBV": {
+            "headline": "AbbVie Hikes Its Outlook On The Back Of Two Powerhouse Drugs",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -20070,6 +20078,10 @@
         },
         {
             "time": "2025-04-27T01:00:16.313952",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-27T03:05:20.908728",
             "value": 101068.06326999997
         }
     ]
