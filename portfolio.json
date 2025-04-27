@@ -855,6 +855,26 @@
         "SOUNW": {
             "headline": "Why SoundHound AI Inc. (SOUN) Soared Last Week",
             "type": "BUY"
+        },
+        "SCHW": {
+            "headline": "Goldman Sachs Upgrades Schwab Stock. Here\u2019s Why.",
+            "type": "BUY"
+        },
+        "MRX": {
+            "headline": "Breakout IPO Stocks To Watch: Loar, Marex Rally Above Buy Points",
+            "type": "BUY"
+        },
+        "SNOW": {
+            "headline": "Snowflake Inc. (SNOW): Among Billionaire Steve Cohen\u2019s Large-Cap Stock Picks With Huge Upside Potential",
+            "type": "BUY"
+        },
+        "PANW": {
+            "headline": "Palo Alto Networks Stock Scores Relative Strength Rating Upgrade",
+            "type": "BUY"
+        },
+        "CSCO": {
+            "headline": "Cisco Systems, Inc. (CSCO): One of the Growing Dividend Stocks with Low PE Ratios",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -20046,6 +20066,10 @@
         },
         {
             "time": "2025-04-26T22:11:18.884505",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-27T01:00:16.313952",
             "value": 101068.06326999997
         }
     ]
