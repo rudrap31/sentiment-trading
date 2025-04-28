@@ -979,6 +979,10 @@
         "KNOP": {
             "headline": "Why KNOT Offshore Partners (KNOP) Is Up the Most So Far in 2025",
             "type": "BUY"
+        },
+        "RVTY": {
+            "headline": "Revvity beats quarterly estimates on steady demand for medical equipment",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -20246,6 +20250,10 @@
         },
         {
             "time": "2025-04-28T10:49:55.716774",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-28T11:35:12.505880",
             "value": 101068.06326999997
         }
     ]
