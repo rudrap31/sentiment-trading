@@ -967,6 +967,10 @@
         "WMT": {
             "headline": "Analyst Explains Why Walmart (WMT) Can Absorb Tariff Shock Better Than Others",
             "type": "BUY"
+        },
+        "EPSN": {
+            "headline": "Why Epsilon Energy Ltd (EPSN) Is Up the Most So Far in 2025",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -20222,6 +20226,10 @@
         },
         {
             "time": "2025-04-28T06:30:03.101449",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-28T07:41:50.649529",
             "value": 101068.06326999997
         }
     ]
