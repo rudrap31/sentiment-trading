@@ -955,6 +955,18 @@
         "GEO": {
             "headline": "Is The GEO Group, Inc. (GEO) One of the Best Prison and Law Enforcement Stocks to Buy According to Analysts?",
             "type": "BUY"
+        },
+        "UGP": {
+            "headline": "Why Ultrapar Participa\u00e7\u00f5es S.A. (UGP) Is Up the Most So Far in 2025",
+            "type": "BUY"
+        },
+        "MS": {
+            "headline": "Private Credit\u2019s Cracks Widened Before Turmoil",
+            "type": "BUY"
+        },
+        "WMT": {
+            "headline": "Analyst Explains Why Walmart (WMT) Can Absorb Tariff Shock Better Than Others",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -20206,6 +20218,10 @@
         },
         {
             "time": "2025-04-28T05:22:09.855740",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-28T06:30:03.101449",
             "value": 101068.06326999997
         }
     ]
