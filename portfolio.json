@@ -1,6 +1,6 @@
 {
     "cash": 19479.906969999985,
-    "value": 101074.33646999995,
+    "value": 101093.61646999995,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -478,7 +478,7 @@
             "quantity": 8,
             "type": "BUY",
             "buy_price": 137.73,
-            "current_price": 137.73,
+            "current_price": 140.14,
             "headline": "Oracle Stock Gets Downgraded. Cloud Computing Is Still a Winner.",
             "time": "2025-04-25T14:14:43.105576"
         },
@@ -979,6 +979,10 @@
         "ROKU": {
             "headline": "2 Cathie Wood Stocks Down 20% or More to Buy on The Dip",
             "type": "SHORT"
+        },
+        "BNPQF": {
+            "headline": "Investors Turn Focus to Global Growth After EM\u2019s Roaring Start",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -20303,6 +20307,10 @@
         {
             "time": "2025-04-28T20:38:49.085896",
             "value": 101074.33646999995
+        },
+        {
+            "time": "2025-04-28T21:13:35.841944",
+            "value": 101093.61646999995
         }
     ]
 }
