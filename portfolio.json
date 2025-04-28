@@ -983,6 +983,26 @@
         "RVTY": {
             "headline": "Revvity beats quarterly estimates on steady demand for medical equipment",
             "type": "BUY"
+        },
+        "NKE": {
+            "headline": "Nike (NKE) Traded Lower Due to Several Headwinds",
+            "type": "SHORT"
+        },
+        "AGNC": {
+            "headline": "AGNC Investment Remains Comfortable With its 16%-Yielding Dividend Amid the Recent Market Shift",
+            "type": "BUY"
+        },
+        "XPO": {
+            "headline": "Trump Trade War Update: Firm Predicts 'Empty Shelves' And Recession By June",
+            "type": "SHORT"
+        },
+        "DHR": {
+            "headline": "Danaher Corporation (DHR): Among Billionaire Ken Fisher\u2019s Healthcare Stock Picks with Massive Upside Potential",
+            "type": "BUY"
+        },
+        "NFG": {
+            "headline": "Why National Fuel Gas Company (NFG) Is Surging",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -20254,6 +20274,10 @@
         },
         {
             "time": "2025-04-28T11:35:12.505880",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-28T12:30:58.674424",
             "value": 101068.06326999997
         }
     ]
