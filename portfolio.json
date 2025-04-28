@@ -983,6 +983,14 @@
         "BNPQF": {
             "headline": "Investors Turn Focus to Global Growth After EM\u2019s Roaring Start",
             "type": "BUY"
+        },
+        "DIS": {
+            "headline": "Prediction: Disney Will Beat the Market. Here's Why",
+            "type": "BUY"
+        },
+        "SMCI": {
+            "headline": "Jim Cramer on Super Micro Computer, Inc. (SMCI): \u2018Interest Rates Are Unable To Find Their Footing\u2019",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -20314,6 +20322,10 @@
         },
         {
             "time": "2025-04-28T21:37:27.843443",
+            "value": 101093.61646999995
+        },
+        {
+            "time": "2025-04-28T22:15:52.526730",
             "value": 101093.61646999995
         }
     ]
