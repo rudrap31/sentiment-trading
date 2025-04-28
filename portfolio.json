@@ -971,6 +971,14 @@
         "EPSN": {
             "headline": "Why Epsilon Energy Ltd (EPSN) Is Up the Most So Far in 2025",
             "type": "BUY"
+        },
+        "TPL": {
+            "headline": "Why Texas Pacific Land Corporation (TPL) Is Up the Most So Far in 2025",
+            "type": "BUY"
+        },
+        "KNOP": {
+            "headline": "Why KNOT Offshore Partners (KNOP) Is Up the Most So Far in 2025",
+            "type": "BUY"
         }
     },
     "trade_history": [
@@ -20230,6 +20238,10 @@
         },
         {
             "time": "2025-04-28T07:41:50.649529",
+            "value": 101068.06326999997
+        },
+        {
+            "time": "2025-04-28T08:55:06.133715",
             "value": 101068.06326999997
         }
     ]
