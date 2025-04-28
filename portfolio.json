@@ -1,6 +1,6 @@
 {
-    "cash": 18467.106969999986,
-    "value": 101099.38646999997,
+    "cash": 19479.906969999985,
+    "value": 101074.33646999995,
     "stocks": {
         "RBCPF": {
             "quantity": 58,
@@ -458,19 +458,11 @@
             "headline": "Weak oil prices, limited shale acreage to hit energy M&A in 2025, Enverus says",
             "time": "2025-04-25T14:14:42.706396"
         },
-        "BA": {
-            "quantity": 6,
-            "type": "SHORT",
-            "buy_price": 175.55,
-            "current_price": 175.55,
-            "headline": "Boeing doesn't expect the US trade war with China to slow its recovery",
-            "time": "2025-04-25T14:14:42.855080"
-        },
         "INTC": {
             "quantity": 51,
             "type": "BUY",
             "buy_price": 19.91,
-            "current_price": 19.91,
+            "current_price": 20.51,
             "headline": "Intel Plans to Slash More Than 20% of Workforce: Report. The Stock Is Rising.",
             "time": "2025-04-25T14:14:42.951891"
         },
@@ -478,7 +470,7 @@
             "quantity": 5,
             "type": "BUY",
             "buy_price": 214.53,
-            "current_price": 214.53,
+            "current_price": 211.5,
             "headline": "FedEx Corporation (FDX): Among Top Stocks in Bill Gates\u2019 Portfolio with Huge Upside Potential",
             "time": "2025-04-25T14:14:43.031077"
         },
@@ -983,6 +975,10 @@
         "LCID": {
             "headline": "Lucid Group's Stock Is as Cheap as It's Been Since 2021. 1 Thing to Know Before You Buy.",
             "type": "BUY"
+        },
+        "ROKU": {
+            "headline": "2 Cathie Wood Stocks Down 20% or More to Buy on The Dip",
+            "type": "SHORT"
         }
     },
     "trade_history": [
@@ -12015,6 +12011,16 @@
             "amount": 166,
             "time": "2025-04-28T20:16:26.600734",
             "profit": 93.78999999999992
+        },
+        {
+            "action": "SHORT",
+            "ticker": "BA",
+            "headline": "Boeing doesn't expect the US trade war with China to slow its recovery",
+            "buy_price": 175.55,
+            "sold_price": 182.3,
+            "amount": 6,
+            "time": "2025-04-28T20:38:47.968709",
+            "profit": -40.5
         }
     ],
     "value_log": [
@@ -20293,6 +20299,10 @@
         {
             "time": "2025-04-28T20:16:27.415293",
             "value": 101099.38646999997
+        },
+        {
+            "time": "2025-04-28T20:38:49.085896",
+            "value": 101074.33646999995
         }
     ]
 }
